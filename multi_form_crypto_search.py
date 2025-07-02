@@ -121,3 +121,27 @@ if __name__ == "__main__":
     else:
         print_matches("🆕 RECENT FILINGS (last 2 hours)", recent)
         print_matches("📁 ALL OTHER FILINGS", older)
+
+def save_to_markdown(recent, older, filename="latest_results.md"):
+    with open(filename, "w", encoding="utf-8") as f:
+        if recent:
+            f.write("## 🆕 Recent Filings (last 2 hours)\n\n")
+            for m in recent:
+                f.write(f"- **{m['form']}** | {m['entity']}  \n")
+                f.write(f"  [View Filing]({m['url']})\n\n")
+
+        if older:
+            f.write("## 📁 Other Filings\n\n")
+            for m in older:
+                f.write(f"- **{m['form']}** | {m['entity']}  \n")
+                f.write(f"  [View Filing]({m['url']})\n\n")
+
+if __name__ == "__main__":
+    recent, older = fetch_and_match_all(start_date, today)
+
+    if not recent and not older:
+        print("\n❌ No matches found.")
+    else:
+        print_matches("🆕 RECENT FILINGS (last 2 hours)", recent)
+        print_matches("📁 ALL OTHER FILINGS", older)
+        save_to_markdown(recent, older)

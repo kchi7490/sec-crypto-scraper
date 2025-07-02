@@ -2,15 +2,15 @@ name: Run SEC Crypto Scraper
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:        # Allow manual triggering
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out code
+      - name: Check out repo
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -19,9 +19,15 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run scraper
+        run: python multi_form_crypto_search.py
+
+      - name: Commit updated results
         run: |
-          python multi_form_crypto_search.py
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add latest_results.md
+          git commit -m "Update results" || echo "No changes to commit"
+          git push
