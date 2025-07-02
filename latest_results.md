@@ -21,6 +21,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225017278/0001641172-25-017278-index.htm)
 
+- **1-A/A** | Metavesco, Inc.  (MVCO)  (CIK 0000924095)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/924095/000164117225017499/0001641172-25-017499-index.htm)
+
 - **S-1/A** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225017215/0001641172-25-017215-index.htm)
 
