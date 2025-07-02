@@ -138,6 +138,9 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000164117225017270/0001641172-25-017270-index.htm)
 
+- **N-CSRS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000113322825006997/0001133228-25-006997-index.htm)
+
 - **6-K/A** | EZGO Technologies Ltd.  (EZGO)  (CIK 0001806904)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806904/000121390025060448/0001213900-25-060448-index.htm)
 
