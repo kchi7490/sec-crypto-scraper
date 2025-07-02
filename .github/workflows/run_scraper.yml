@@ -2,15 +2,14 @@ name: Run SEC Crypto Scraper
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
-  workflow_dispatch:        # Manual run support
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: .
+    permissions:
+      contents: write  # 👈 Allow write access to repo
 
     steps:
       - name: 📥 Check out repo
@@ -29,8 +28,10 @@ jobs:
 
       - name: 📤 Commit updated results
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add latest_results.md
           git commit -m "Update results" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 👈 Allow push with Actions token
