@@ -186,6 +186,9 @@
 - **487** | FT 12248  (CIK 0002056380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056380/000144554625004445/0001445546-25-004445-index.htm)
 
+- **485APOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312525154649/0001193125-25-154649-index.htm)
+
 - **S-1** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/0001628280-25-033742-index.htm)
 
