@@ -36,6 +36,9 @@
 - **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025059937/0001213900-25-059937-index.htm)
 
+- **S-1/A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525000718/0001185185-25-000718-index.htm)
+
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525154081/0001193125-25-154081-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **DEF 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036125024202/0001140361-25-024202-index.htm)
+
+- **S-1/A** | FG Merger III Corp.  (CIK 0001997389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465925064945/0001104659-25-064945-index.htm)
 
 - **10-K** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390025059675/0001213900-25-059675-index.htm)
@@ -143,6 +149,12 @@
 
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025059219/0001213900-25-059219-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025060681/0001213900-25-060681-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025060626/0001213900-25-060626-index.htm)
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225017182/0001641172-25-017182-index.htm)
