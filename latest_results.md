@@ -195,6 +195,9 @@
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425011916/0001888524-25-011916-index.htm)
 
+- **497** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001718/0001592900-25-001718-index.htm)
+
 - **497** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025059535/0001213900-25-059535-index.htm)
 
