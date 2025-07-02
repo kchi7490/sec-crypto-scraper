@@ -207,6 +207,9 @@
 - **485APOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041325002105/0000930413-25-002105-index.htm)
 
+- **N-CSR** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312525154775/0001193125-25-154775-index.htm)
+
 - **485BPOS** | WASHINGTON MUTUAL INVESTORS FUND  (CIK 0000104865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/104865/000005193125000649/0000051931-25-000649-index.htm)
 
