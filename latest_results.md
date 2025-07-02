@@ -21,6 +21,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225017278/0001641172-25-017278-index.htm)
 
+- **PRE 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525154946/0001193125-25-154946-index.htm)
+
 - **1-A/A** | Metavesco, Inc.  (MVCO)  (CIK 0000924095)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924095/000164117225017499/0001641172-25-017499-index.htm)
 
@@ -54,6 +57,9 @@
 - **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225017481/0001641172-25-017481-index.htm)
 
+- **S-8** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025061020/0001213900-25-061020-index.htm)
+
 - **DEF 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036125024202/0001140361-25-024202-index.htm)
 
@@ -65,6 +71,9 @@
 
 - **20-F** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025059716/0001213900-25-059716-index.htm)
+
+- **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125024660/0001140361-25-024660-index.htm)
 
 - **PRE 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025059727/0001213900-25-059727-index.htm)
@@ -95,6 +104,9 @@
 
 - **DEF 14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425007533/0001654954-25-007533-index.htm)
+
+- **N-CSRS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000113322825007033/0001133228-25-007033-index.htm)
 
 - **PRE 14A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025059780/0001213900-25-059780-index.htm)
@@ -182,6 +194,9 @@
 
 - **N-14** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125008562/0001999371-25-008562-index.htm)
+
+- **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000168316825004889/0001683168-25-004889-index.htm)
 
 - **487** | FT 12248  (CIK 0002056380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056380/000144554625004445/0001445546-25-004445-index.htm)
