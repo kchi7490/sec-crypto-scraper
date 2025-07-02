@@ -42,6 +42,9 @@
 - **424B3** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025059728/0001213900-25-059728-index.htm)
 
+- **POS AM** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774925022009/0001437749-25-022009-index.htm)
+
 - **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025059937/0001213900-25-059937-index.htm)
 
