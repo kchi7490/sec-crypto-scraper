@@ -69,6 +69,9 @@
 - **S-1/A** | FG Merger III Corp.  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465925064945/0001104659-25-064945-index.htm)
 
+- **10-K** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000164117225017604/0001641172-25-017604-index.htm)
+
 - **10-K** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390025059675/0001213900-25-059675-index.htm)
 
@@ -86,6 +89,15 @@
 
 - **6-K** | CYBIN INC.  (CYBN)  (CIK 0001833141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1833141/000162828025033665/0001628280-25-033665-index.htm)
+
+- **S-1/A** | Permuto Capital AVGO Trust I  (CIK 0002055490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055490/000121390025061094/0001213900-25-061094-index.htm)
+
+- **S-1/A** | Permuto Capital MSFT Trust I  (CIK 0002051974)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051974/000121390025061091/0001213900-25-061091-index.htm)
+
+- **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025061097/0001213900-25-061097-index.htm)
 
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000155837025009004/0001558370-25-009004-index.htm)
@@ -117,11 +129,17 @@
 - **424B4** | Cohen Circle Acquisition Corp. II  (CCII)  (CIK 0002064683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064683/000121390025060463/0001213900-25-060463-index.htm)
 
+- **20-F** | Virax Biolabs Group Ltd  (VRAX)  (CIK 0001885827)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885827/000095017025093260/0000950170-25-093260-index.htm)
+
 - **8-K** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225017158/0001641172-25-017158-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925064098/0001104659-25-064098-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390025061073/0001213900-25-061073-index.htm)
 
 - **6-K** | WEBUY GLOBAL LTD  (WBUY)  (CIK 0001946703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946703/000121390025059259/0001213900-25-059259-index.htm)
@@ -197,6 +215,9 @@
 
 - **N-14** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125008562/0001999371-25-008562-index.htm)
+
+- **485APOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525155018/0001193125-25-155018-index.htm)
 
 - **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000168316825004889/0001683168-25-004889-index.htm)
