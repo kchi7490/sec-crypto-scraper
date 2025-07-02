@@ -1,0 +1,2 @@
+cd /c/Users/kchi7/Documents/Investing/sec_crypto_scraper
+python monitor_edgar.py
