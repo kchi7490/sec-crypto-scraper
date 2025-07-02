@@ -15,6 +15,9 @@
 - **S-1/A** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825004825/0001683168-25-004825-index.htm)
 
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225017484/0001641172-25-017484-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225017278/0001641172-25-017278-index.htm)
 
@@ -45,6 +48,9 @@
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525154064/0001193125-25-154064-index.htm)
 
+- **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225017481/0001641172-25-017481-index.htm)
+
 - **DEF 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036125024202/0001140361-25-024202-index.htm)
 
@@ -71,6 +77,9 @@
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025091211/0000950170-25-091211-index.htm)
+
+- **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225017482/0001641172-25-017482-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024305/0001140361-25-024305-index.htm)
@@ -117,6 +126,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025059972/0001213900-25-059972-index.htm)
 
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025060709/0001213900-25-060709-index.htm)
+
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425007622/0001654954-25-007622-index.htm)
 
@@ -140,6 +152,9 @@
 
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025060447/0001213900-25-060447-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017468/0001641172-25-017468-index.htm)
 
 - **6-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000047/0001878848-25-000047-index.htm)
