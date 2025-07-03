@@ -72,11 +72,11 @@
 - **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025061097/0001213900-25-061097-index.htm)
 
-- **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225017482/0001641172-25-017482-index.htm)
-
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024305/0001140361-25-024305-index.htm)
+
+- **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225017482/0001641172-25-017482-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024747/0001140361-25-024747-index.htm)
