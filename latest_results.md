@@ -48,6 +48,9 @@
 - **10-K** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000164117225017604/0001641172-25-017604-index.htm)
 
+- **DEF 14A** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225017811/0001641172-25-017811-index.htm)
+
 - **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125024660/0001140361-25-024660-index.htm)
 
@@ -66,17 +69,23 @@
 - **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025061097/0001213900-25-061097-index.htm)
 
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024305/0001140361-25-024305-index.htm)
+
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225017482/0001641172-25-017482-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024305/0001140361-25-024305-index.htm)
-
-- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024747/0001140361-25-024747-index.htm)
+
+- **8-K** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025061470/0001213900-25-061470-index.htm)
 
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025061162/0001213900-25-061162-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025061474/0001213900-25-061474-index.htm)
 
 - **N-CSRS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000113322825007033/0001133228-25-007033-index.htm)
@@ -149,6 +158,9 @@
 
 - **N-CSRS** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000114554925045665/0001145549-25-045665-index.htm)
+
+- **POS AM** | Figure Certificate Co  (CIK 0001974395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000094787125000641/0000947871-25-000641-index.htm)
 
 - **485APOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312525154649/0001193125-25-154649-index.htm)
