@@ -27,6 +27,9 @@
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525154081/0001193125-25-154081-index.htm)
 
+- **8-K/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025061160/0001213900-25-061160-index.htm)
+
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525154064/0001193125-25-154064-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125024305/0001140361-25-024305-index.htm)
+
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025061162/0001213900-25-061162-index.htm)
 
 - **N-CSRS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000113322825007033/0001133228-25-007033-index.htm)
@@ -111,6 +117,9 @@
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017468/0001641172-25-017468-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000684/0001279569-25-000684-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025060681/0001213900-25-060681-index.htm)
 
@@ -126,6 +135,9 @@
 - **485APOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312525154649/0001193125-25-154649-index.htm)
 
+- **EFFECT** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/999999999525002150/9999999995-25-002150-index.htm)
+
 - **S-1** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/0001628280-25-033742-index.htm)
 
@@ -138,6 +150,15 @@
 - **N-CSR** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312525154775/0001193125-25-154775-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025061177/0001213900-25-061177-index.htm)
+
+- **425** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025061186/0001213900-25-061186-index.htm)
+
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025060445/0001213900-25-060445-index.htm)
+
+- **485APOS** | ARK ETF Trust  (CIK 0001579982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579982/000121390025061181/0001213900-25-061181-index.htm)
 
