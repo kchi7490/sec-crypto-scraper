@@ -3,6 +3,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225017239/0001641172-25-017239-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225017853/0001641172-25-017853-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225017484/0001641172-25-017484-index.htm)
 
@@ -87,6 +90,9 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025061474/0001213900-25-061474-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000168316825004929/0001683168-25-004929-index.htm)
+
 - **N-CSRS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000113322825007033/0001133228-25-007033-index.htm)
 
@@ -95,6 +101,12 @@
 
 - **20-F** | Virax Biolabs Group Ltd  (VRAX)  (CIK 0001885827)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885827/000095017025093260/0000950170-25-093260-index.htm)
+
+- **S-1** | Chenghe Acquisition III Co.  (CIK 0002047177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025061543/0001213900-25-061543-index.htm)
+
+- **S-1/A** | Iron Horse Acquisitions Corp. II  (CIK 0002051985)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025061561/0001213900-25-061561-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925065816/0001104659-25-065816-index.htm)
@@ -174,11 +186,17 @@
 - **S-1** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025033742/0001628280-25-033742-index.htm)
 
+- **N-2** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000139834425012720/0001398344-25-012720-index.htm)
+
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425011916/0001888524-25-011916-index.htm)
 
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001718/0001592900-25-001718-index.htm)
+
+- **497** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425012719/0001398344-25-012719-index.htm)
 
 - **N-CSR** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312525154775/0001193125-25-154775-index.htm)
