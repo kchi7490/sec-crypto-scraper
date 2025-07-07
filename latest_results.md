@@ -12,11 +12,20 @@
 - **425** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008496/0000950103-25-008496-index.htm)
 
+- **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825004953/0001683168-25-004953-index.htm)
+
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018006/0001641172-25-018006-index.htm)
+
 - **FWP** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155882/0001193125-25-155882-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025094137/0000950170-25-094137-index.htm)
+
+- **10-Q** | Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000121390025061782/0001213900-25-061782-index.htm)
 
 - **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225017936/0001641172-25-017936-index.htm)
@@ -41,6 +50,9 @@
 
 - **S-1/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025061593/0001213900-25-061593-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025061793/0001213900-25-061793-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925065971/0001104659-25-065971-index.htm)
@@ -69,6 +81,9 @@
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025061657/0001213900-25-061657-index.htm)
 
+- **6-K/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025061746/0001213900-25-061746-index.htm)
+
 - **6-K** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000164117225017907/0001641172-25-017907-index.htm)
 
@@ -86,4 +101,10 @@
 
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925045898/0001145549-25-045898-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325008504/0000950103-25-008504-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325008505/0000950103-25-008505-index.htm)
 
