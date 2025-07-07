@@ -81,3 +81,6 @@
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
 
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925045898/0001145549-25-045898-index.htm)
+
