@@ -21,11 +21,11 @@
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008525/0000950103-25-008525-index.htm)
 
-- **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825004953/0001683168-25-004953-index.htm)
-
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008522/0000950103-25-008522-index.htm)
+
+- **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825004953/0001683168-25-004953-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008527/0000950103-25-008527-index.htm)
