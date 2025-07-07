@@ -57,6 +57,9 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925065998/0001104659-25-065998-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000696/0001279569-25-000696-index.htm)
+
 - **F-3** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017932/0001641172-25-017932-index.htm)
 
@@ -71,6 +74,9 @@
 
 - **424B5** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017930/0001641172-25-017930-index.htm)
+
+- **CB** | Mediobanca - Banca di Credito Finanziario SpA  (CIK 0001379481)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1379481/000110465925066019/0001104659-25-066019-index.htm)
 
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
