@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **S-3/A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525156281/0001193125-25-156281-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008523/0000950103-25-008523-index.htm)
+
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525155928/0001193125-25-155928-index.htm)
 
@@ -12,11 +18,35 @@
 - **425** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008496/0000950103-25-008496-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008525/0000950103-25-008525-index.htm)
+
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825004953/0001683168-25-004953-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008522/0000950103-25-008522-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008527/0000950103-25-008527-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156270/0001193125-25-156270-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156272/0001193125-25-156272-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156271/0001193125-25-156271-index.htm)
+
+- **8-K/A** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008526/0000950103-25-008526-index.htm)
+
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018006/0001641172-25-018006-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156266/0001193125-25-156266-index.htm)
 
 - **FWP** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155882/0001193125-25-155882-index.htm)
@@ -30,8 +60,14 @@
 - **DEF 14A** | TAO Synergies Inc.  (SNPX, TAOX)  (CIK 0001571934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465925066148/0001104659-25-066148-index.htm)
 
+- **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225018031/0001641172-25-018031-index.htm)
+
 - **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225017936/0001641172-25-017936-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156269/0001193125-25-156269-index.htm)
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000038/0001554859-25-000038-index.htm)
@@ -101,6 +137,9 @@
 
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
+
+- **1-A POS** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225018041/0001641172-25-018041-index.htm)
 
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925045898/0001145549-25-045898-index.htm)
