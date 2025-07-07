@@ -27,6 +27,9 @@
 - **10-Q** | Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000121390025061782/0001213900-25-061782-index.htm)
 
+- **DEF 14A** | TAO Synergies Inc.  (SNPX, TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465925066148/0001104659-25-066148-index.htm)
+
 - **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225017936/0001641172-25-017936-index.htm)
 
