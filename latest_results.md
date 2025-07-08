@@ -222,6 +222,9 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061929/0001213900-25-061929-index.htm)
 
+- **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125025220/0001140361-25-025220-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061927/0001213900-25-061927-index.htm)
 
