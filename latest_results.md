@@ -105,6 +105,9 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000038/0001554859-25-000038-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025094464/0000950170-25-094464-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155918/0001193125-25-155918-index.htm)
 
@@ -147,6 +150,9 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925065998/0001104659-25-065998-index.htm)
 
+- **6-K** | Greenbriar Sustainable Living Inc.  (GEBRF)  (CIK 0001570843)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1570843/000106299325012615/0001062993-25-012615-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000696/0001279569-25-000696-index.htm)
 
@@ -186,6 +192,9 @@
 - **CB** | Mediobanca - Banca di Credito Finanziario SpA  (CIK 0001379481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1379481/000110465925066019/0001104659-25-066019-index.htm)
 
+- **N-CSR** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041325002126/0000930413-25-002126-index.htm)
+
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
 
@@ -197,6 +206,9 @@
 
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925045898/0001145549-25-045898-index.htm)
+
+- **N-CEN/A** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000175272425164957/0001752724-25-164957-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061925/0001213900-25-061925-index.htm)
