@@ -186,6 +186,9 @@
 - **424B5** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017930/0001641172-25-017930-index.htm)
 
+- **10-Q** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025061989/0001213900-25-061989-index.htm)
+
 - **487** | FT 12314  (CIK 0002064113)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064113/000144554625004504/0001445546-25-004504-index.htm)
 
