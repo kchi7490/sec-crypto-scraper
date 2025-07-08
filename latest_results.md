@@ -216,6 +216,9 @@
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000175272425164957/0001752724-25-164957-index.htm)
 
+- **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000114554925046191/0001145549-25-046191-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061925/0001213900-25-061925-index.htm)
 
@@ -224,6 +227,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061929/0001213900-25-061929-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062043/0001213900-25-062043-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062041/0001213900-25-062041-index.htm)
