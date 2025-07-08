@@ -1,7 +1,13 @@
 ## 📁 Other Filings
 
+- **424B5** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225018219/0001641172-25-018219-index.htm)
+
 - **S-3/A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525156281/0001193125-25-156281-index.htm)
+
+- **8-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225018173/0001641172-25-018173-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008523/0000950103-25-008523-index.htm)
@@ -201,6 +207,9 @@
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
 
+- **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225004945/0001477932-25-004945-index.htm)
+
 - **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001025000005/0001690010-25-000005-index.htm)
 
@@ -245,6 +254,18 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325008504/0000950103-25-008504-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062071/0001213900-25-062071-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062072/0001213900-25-062072-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062070/0001213900-25-062070-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062073/0001213900-25-062073-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325008505/0000950103-25-008505-index.htm)
