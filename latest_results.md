@@ -15,11 +15,17 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525155925/0001193125-25-155925-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008540/0000950103-25-008540-index.htm)
+
 - **425** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008496/0000950103-25-008496-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008525/0000950103-25-008525-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008534/0000950103-25-008534-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008522/0000950103-25-008522-index.htm)
@@ -31,16 +37,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008527/0000950103-25-008527-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008530/0000950103-25-008530-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156270/0001193125-25-156270-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156272/0001193125-25-156272-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008531/0000950103-25-008531-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156271/0001193125-25-156271-index.htm)
 
 - **8-K/A** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008526/0000950103-25-008526-index.htm)
+
+- **425** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008533/0000950103-25-008533-index.htm)
 
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018006/0001641172-25-018006-index.htm)
@@ -65,6 +80,9 @@
 
 - **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225017936/0001641172-25-017936-index.htm)
+
+- **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625004923/0001829126-25-004923-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156269/0001193125-25-156269-index.htm)
@@ -117,14 +135,23 @@
 - **20-F** | MITSUBISHI UFJ FINANCIAL GROUP INC  (MUFG, MBFJF)  (CIK 0000067088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67088/000006708825000011/0000067088-25-000011-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000057/0001383395-25-000057-index.htm)
+
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025061657/0001213900-25-061657-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025061898/0001213900-25-061898-index.htm)
 
 - **6-K/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025061746/0001213900-25-061746-index.htm)
 
 - **6-K** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000164117225017907/0001641172-25-017907-index.htm)
+
+- **F-3** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025061902/0001213900-25-061902-index.htm)
 
 - **424B5** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017930/0001641172-25-017930-index.htm)
@@ -137,6 +164,9 @@
 
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125024973/0001140361-25-024973-index.htm)
+
+- **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001025000005/0001690010-25-000005-index.htm)
 
 - **1-A POS** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225018041/0001641172-25-018041-index.htm)
