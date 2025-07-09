@@ -153,6 +153,9 @@
 - **S-3** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018266/0001641172-25-018266-index.htm)
 
+- **N-CSRS** | Tidal Trust III  (CIK 0001722388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722388/000199937125008848/0001999371-25-008848-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125024988/0001140361-25-024988-index.htm)
 
