@@ -174,6 +174,9 @@
 - **F-3** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017932/0001641172-25-017932-index.htm)
 
+- **F-3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025062186/0001213900-25-062186-index.htm)
+
 - **20-F** | MITSUBISHI UFJ FINANCIAL GROUP INC  (MUFG, MBFJF)  (CIK 0000067088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67088/000006708825000011/0000067088-25-000011-index.htm)
 
