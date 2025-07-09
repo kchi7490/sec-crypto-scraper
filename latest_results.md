@@ -150,6 +150,9 @@
 - **424B5** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155880/0001193125-25-155880-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000182/0001099910-25-000182-index.htm)
+
 - **S-3** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018266/0001641172-25-018266-index.htm)
 
@@ -167,6 +170,9 @@
 
 - **S-1/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025061593/0001213900-25-061593-index.htm)
+
+- **N-CSR** | Cambria ETF Trust  (CIK 0001529390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937125008871/0001999371-25-008871-index.htm)
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225004952/0001477932-25-004952-index.htm)
