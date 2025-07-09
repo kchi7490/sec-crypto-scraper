@@ -84,8 +84,14 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156266/0001193125-25-156266-index.htm)
 
+- **S-1** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425007870/0001654954-25-007870-index.htm)
+
 - **FWP** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155882/0001193125-25-155882-index.htm)
+
+- **8-K** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225018318/0001641172-25-018318-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025094137/0000950170-25-094137-index.htm)
@@ -99,6 +105,9 @@
 - **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225018031/0001641172-25-018031-index.htm)
 
+- **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225018315/0001641172-25-018315-index.htm)
+
 - **S-1** | Truth Social Crypto Blue Chip ETF, B.T.  (CIK 0002075457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075457/000110465925066296/0001104659-25-066296-index.htm)
 
@@ -107,6 +116,9 @@
 
 - **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625004923/0001829126-25-004923-index.htm)
+
+- **S-3ASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018322/0001641172-25-018322-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156269/0001193125-25-156269-index.htm)
@@ -119,6 +131,9 @@
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525155918/0001193125-25-155918-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925066590/0001104659-25-066590-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925066291/0001104659-25-066291-index.htm)
@@ -143,6 +158,9 @@
 
 - **S-1/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025061593/0001213900-25-061593-index.htm)
+
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225004952/0001477932-25-004952-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025061793/0001213900-25-061793-index.htm)
@@ -192,6 +210,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025061898/0001213900-25-061898-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325012640/0001062993-25-012640-index.htm)
+
 - **6-K/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025061746/0001213900-25-061746-index.htm)
 
@@ -200,6 +221,9 @@
 
 - **F-3** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025061902/0001213900-25-061902-index.htm)
+
+- **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025062203/0001213900-25-062203-index.htm)
 
 - **424B5** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225017930/0001641172-25-017930-index.htm)
@@ -257,6 +281,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062151/0001213900-25-062151-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125008833/0001999371-25-008833-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062150/0001213900-25-062150-index.htm)
