@@ -45,6 +45,9 @@
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008525/0000950103-25-008525-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225004960/0001477932-25-004960-index.htm)
+
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008534/0000950103-25-008534-index.htm)
 
@@ -70,6 +73,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225018094/0001641172-25-018094-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008620/0000950103-25-008620-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000119312525156270/0001193125-25-156270-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
@@ -86,6 +92,9 @@
 
 - **425** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000095010325008533/0000950103-25-008533-index.htm)
+
+- **8-K** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690625001116/0001096906-25-001116-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025061917/0001213900-25-061917-index.htm)
