@@ -85,6 +85,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925066291/0001104659-25-066291-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018517/0001641172-25-018517-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018089/0001641172-25-018089-index.htm)
 
 - **SCHEDULE 13D/A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
@@ -128,6 +131,9 @@
 
 - **6-K** | Greenbriar Sustainable Living Inc.  (GEBRF)  (CIK 0001570843)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1570843/000106299325012615/0001062993-25-012615-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025062520/0001213900-25-062520-index.htm)
 
 - **F-3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025062186/0001213900-25-062186-index.htm)
