@@ -195,6 +195,9 @@
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000175272425164957/0001752724-25-164957-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001777/0001592900-25-001777-index.htm)
+
 - **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000114554925046191/0001145549-25-046191-index.htm)
 
