@@ -24,6 +24,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018421/0001641172-25-018421-index.htm)
 
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025062807/0001213900-25-062807-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225004960/0001477932-25-004960-index.htm)
 
@@ -62,6 +65,9 @@
 
 - **8-K** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225018318/0001641172-25-018318-index.htm)
+
+- **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025062793/0001213900-25-062793-index.htm)
 
 - **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225018315/0001641172-25-018315-index.htm)
