@@ -192,6 +192,9 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925046142/0001145549-25-046142-index.htm)
 
+- **497** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001782/0001592900-25-001782-index.htm)
+
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000175272425164957/0001752724-25-164957-index.htm)
 
