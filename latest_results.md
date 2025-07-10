@@ -75,6 +75,12 @@
 - **S-3ASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018322/0001641172-25-018322-index.htm)
 
+- **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025062544/0001213900-25-062544-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925066854/0001104659-25-066854-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025094464/0000950170-25-094464-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018089/0001641172-25-018089-index.htm)
+
+- **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825005005/0001683168-25-005005-index.htm)
 
 - **SCHEDULE 13D/A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000131586325000512/0001315863-25-000512-index.htm)
@@ -149,6 +158,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325012640/0001062993-25-012640-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225018522/0001641172-25-018522-index.htm)
 
 - **F-3** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025061902/0001213900-25-061902-index.htm)
@@ -232,13 +244,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062072/0001213900-25-062072-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
-
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062137/0001213900-25-062137-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062459/0001213900-25-062459-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062070/0001213900-25-062070-index.htm)
