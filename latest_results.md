@@ -123,6 +123,9 @@
 - **S-1/A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025062353/0001213900-25-062353-index.htm)
 
+- **DEF 14A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025062569/0001213900-25-062569-index.htm)
+
 - **N-CSR** | Cambria ETF Trust  (CIK 0001529390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937125008871/0001999371-25-008871-index.htm)
 
