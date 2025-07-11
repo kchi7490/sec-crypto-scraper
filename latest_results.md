@@ -63,6 +63,9 @@
 - **S-1/A** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000754/0001185185-25-000754-index.htm)
 
+- **424B3** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125025668/0001140361-25-025668-index.htm)
+
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925066854/0001104659-25-066854-index.htm)
 
@@ -99,6 +102,9 @@
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125008865/0001999371-25-008865-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025063293/0001213900-25-063293-index.htm)
+
 - **S-1/A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025062353/0001213900-25-062353-index.htm)
 
@@ -120,8 +126,17 @@
 - **8-K** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000095017025094707/0000950170-25-094707-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001184/0001640334-25-001184-index.htm)
+
+- **N-2ASR** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025063269/0001213900-25-063269-index.htm)
+
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925066817/0001104659-25-066817-index.htm)
+
+- **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025063244/0001213900-25-063244-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025062520/0001213900-25-062520-index.htm)
@@ -159,6 +174,9 @@
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001777/0001592900-25-001777-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001793/0001592900-25-001793-index.htm)
+
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000008/0001479844-25-000008-index.htm)
 
@@ -190,16 +208,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062460/0001213900-25-062460-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062137/0001213900-25-062137-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062882/0001213900-25-062882-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062459/0001213900-25-062459-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062882/0001213900-25-062882-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062137/0001213900-25-062137-index.htm)
 
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025062943/0001213900-25-062943-index.htm)
