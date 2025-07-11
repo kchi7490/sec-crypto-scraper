@@ -48,6 +48,9 @@
 - **S-3ASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018322/0001641172-25-018322-index.htm)
 
+- **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025063221/0001213900-25-063221-index.htm)
+
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125008964/0001999371-25-008964-index.htm)
 
@@ -144,6 +147,9 @@
 - **487** | FT 12315  (CIK 0002064114)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064114/000144554625004670/0001445546-25-004670-index.htm)
 
+- **DEF 14A** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554625004723/0001445546-25-004723-index.htm)
+
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001782/0001592900-25-001782-index.htm)
 
@@ -187,13 +193,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062137/0001213900-25-062137-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062882/0001213900-25-062882-index.htm)
-
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062459/0001213900-25-062459-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062882/0001213900-25-062882-index.htm)
 
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025062943/0001213900-25-062943-index.htm)
