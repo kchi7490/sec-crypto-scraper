@@ -51,6 +51,9 @@
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125008964/0001999371-25-008964-index.htm)
 
+- **PRER14C** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025063035/0001213900-25-063035-index.htm)
+
 - **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025062544/0001213900-25-062544-index.htm)
 
@@ -101,6 +104,9 @@
 
 - **N-CSR** | Cambria ETF Trust  (CIK 0001529390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937125008871/0001999371-25-008871-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000404/0001137360-25-000404-index.htm)
 
 - **PRER14A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025062356/0001213900-25-062356-index.htm)
