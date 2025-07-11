@@ -144,6 +144,9 @@
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001782/0001592900-25-001782-index.htm)
 
+- **DEF 14A** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625004691/0001445546-25-004691-index.htm)
+
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001777/0001592900-25-001777-index.htm)
 
