@@ -39,6 +39,9 @@
 - **10-Q** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025062850/0001213900-25-062850-index.htm)
 
+- **POS AM** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774925022593/0001437749-25-022593-index.htm)
+
 - **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025062793/0001213900-25-062793-index.htm)
 
@@ -102,6 +105,9 @@
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125008865/0001999371-25-008865-index.htm)
 
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925022594/0001437749-25-022594-index.htm)
+
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025063293/0001213900-25-063293-index.htm)
 
@@ -131,6 +137,9 @@
 
 - **N-2ASR** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025063269/0001213900-25-063269-index.htm)
+
+- **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025063323/0001213900-25-063323-index.htm)
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925066817/0001104659-25-066817-index.htm)
@@ -173,6 +182,9 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001777/0001592900-25-001777-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001795/0001592900-25-001795-index.htm)
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001793/0001592900-25-001793-index.htm)
