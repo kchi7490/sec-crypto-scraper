@@ -21,6 +21,9 @@
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008620/0000950103-25-008620-index.htm)
 
+- **S-1** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025062935/0001213900-25-062935-index.htm)
+
 - **8-K** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690625001116/0001096906-25-001116-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **S-3/A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000164117225018349/0001641172-25-018349-index.htm)
+
+- **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025062941/0001213900-25-062941-index.htm)
 
 - **N-CSRS** | Tidal Trust III  (CIK 0001722388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722388/000199937125008848/0001999371-25-008848-index.htm)
@@ -148,6 +154,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062150/0001213900-25-062150-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062927/0001213900-25-062927-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025062473/0001213900-25-062473-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
@@ -160,8 +169,14 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062137/0001213900-25-062137-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062882/0001213900-25-062882-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062459/0001213900-25-062459-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025062176/0001213900-25-062176-index.htm)
+
+- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025062943/0001213900-25-062943-index.htm)
 
