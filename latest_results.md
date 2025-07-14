@@ -15,6 +15,9 @@
 - **425** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000164117225018878/0001641172-25-018878-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018905/0001641172-25-018905-index.htm)
+
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005000/0001477932-25-005000-index.htm)
 
