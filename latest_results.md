@@ -15,6 +15,12 @@
 - **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025063443/0001213900-25-063443-index.htm)
 
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925067564/0001104659-25-067564-index.htm)
+
+- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000164117225018889/0001641172-25-018889-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063434/0001213900-25-063434-index.htm)
 
