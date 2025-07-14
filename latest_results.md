@@ -18,6 +18,9 @@
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005000/0001477932-25-005000-index.htm)
 
+- **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025063507/0001213900-25-063507-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025095461/0000950170-25-095461-index.htm)
 
