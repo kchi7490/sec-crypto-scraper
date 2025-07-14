@@ -36,6 +36,9 @@
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063777/0001213900-25-063777-index.htm)
 
+- **10-K** | Verses AI Inc.  (VRSSD, VRSSF)  (CIK 0001879001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000164117225019545/0001641172-25-019545-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025095461/0000950170-25-095461-index.htm)
 
