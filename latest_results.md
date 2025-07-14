@@ -18,20 +18,35 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018905/0001641172-25-018905-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008770/0000950103-25-008770-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008769/0000950103-25-008769-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008771/0000950103-25-008771-index.htm)
+
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005000/0001477932-25-005000-index.htm)
 
 - **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025063507/0001213900-25-063507-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018890/0001641172-25-018890-index.htm)
+- **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063777/0001213900-25-063777-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025095461/0000950170-25-095461-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018890/0001641172-25-018890-index.htm)
+
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925022635/0001437749-25-022635-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005026/0001477932-25-005026-index.htm)
 
 - **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025063443/0001213900-25-063443-index.htm)
@@ -74,4 +89,7 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025063457/0001213900-25-063457-index.htm)
+
+- **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000095017025095617/0000950170-25-095617-index.htm)
 
