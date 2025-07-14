@@ -12,6 +12,9 @@
 - **425** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000164117225018878/0001641172-25-018878-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018890/0001641172-25-018890-index.htm)
+
 - **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025063443/0001213900-25-063443-index.htm)
 
