@@ -42,11 +42,17 @@
 - **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025063507/0001213900-25-063507-index.htm)
 
+- **424B5** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064322/0001213900-25-064322-index.htm)
+
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063777/0001213900-25-063777-index.htm)
 
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063950/0001213900-25-063950-index.htm)
+
+- **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025064324/0001213900-25-064324-index.htm)
 
 - **10-K** | OneSolution Technology Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825005108/0001683168-25-005108-index.htm)
@@ -81,6 +87,9 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011227/0001493152-25-011227-index.htm)
 
+- **SCHEDULE 13D** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225019744/0001641172-25-019744-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005026/0001477932-25-005026-index.htm)
 
@@ -104,6 +113,9 @@
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225018893/0001641172-25-018893-index.htm)
+
+- **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064325/0001213900-25-064325-index.htm)
 
 - **424B5** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925067627/0001104659-25-067627-index.htm)
@@ -134,6 +146,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063883/0001213900-25-063883-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025064321/0001213900-25-064321-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063434/0001213900-25-063434-index.htm)
