@@ -111,6 +111,9 @@
 - **10-K** | ADM TRONICS UNLIMITED, INC.  (ADMT)  (CIK 0000849401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774925022670/0001437749-25-022670-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001806/0001592900-25-001806-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063884/0001213900-25-063884-index.htm)
 
