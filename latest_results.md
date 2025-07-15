@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | AMAZE HOLDINGS, INC.  (AMZE)  (CIK 0001880343)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880343/000155479525000176/0001554795-25-000176-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025063476/0001213900-25-063476-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008769/0000950103-25-008769-index.htm)
+
+- **8-K** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025064261/0001213900-25-064261-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008771/0000950103-25-008771-index.htm)
@@ -78,11 +84,11 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005026/0001477932-25-005026-index.htm)
 
-- **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025063443/0001213900-25-063443-index.htm)
-
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025063684/0001213900-25-063684-index.htm)
+
+- **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025063443/0001213900-25-063443-index.htm)
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925067564/0001104659-25-067564-index.htm)
