@@ -42,6 +42,9 @@
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063950/0001213900-25-063950-index.htm)
 
+- **10-K** | OneSolution Technology Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825005108/0001683168-25-005108-index.htm)
+
 - **S-4/A** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925067875/0001104659-25-067875-index.htm)
 
@@ -101,6 +104,9 @@
 
 - **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000164117225018889/0001641172-25-018889-index.htm)
+
+- **497** | Figure Certificate Co  (CIK 0001974395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000094787125000665/0000947871-25-000665-index.htm)
 
 - **10-K** | ADM TRONICS UNLIMITED, INC.  (ADMT)  (CIK 0000849401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774925022670/0001437749-25-022670-index.htm)
