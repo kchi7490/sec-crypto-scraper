@@ -36,8 +36,23 @@
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025063777/0001213900-25-063777-index.htm)
 
+- **S-4/A** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925067875/0001104659-25-067875-index.htm)
+
+- **S-1/A** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000771/0001185185-25-000771-index.htm)
+
+- **S-1** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225019581/0001641172-25-019581-index.htm)
+
 - **10-K** | Verses AI Inc.  (VRSSD, VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000164117225019545/0001641172-25-019545-index.htm)
+
+- **S-1/A** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000164117225019572/0001641172-25-019572-index.htm)
+
+- **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025063846/0001213900-25-063846-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025095461/0000950170-25-095461-index.htm)
@@ -47,6 +62,9 @@
 
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925022635/0001437749-25-022635-index.htm)
+
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011227/0001493152-25-011227-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005026/0001477932-25-005026-index.htm)
@@ -66,6 +84,9 @@
 - **20-F** | HDFC BANK LTD  (HDB)  (CIK 0001144967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144967/000119312525158722/0001193125-25-158722-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325004463/0001171843-25-004463-index.htm)
+
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225018893/0001641172-25-018893-index.htm)
 
@@ -79,10 +100,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774925022670/0001437749-25-022670-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063884/0001213900-25-063884-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063881/0001213900-25-063881-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063417/0001213900-25-063417-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063883/0001213900-25-063883-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063434/0001213900-25-063434-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063885/0001213900-25-063885-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063431/0001213900-25-063431-index.htm)
