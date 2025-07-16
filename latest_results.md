@@ -87,6 +87,12 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225018890/0001641172-25-018890-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125025979/0001140361-25-025979-index.htm)
+
+- **8-K** | SRM Entertainment, Inc.  (SRM)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019830/0001641172-25-019830-index.htm)
+
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925022635/0001437749-25-022635-index.htm)
 
@@ -101,6 +107,9 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005026/0001477932-25-005026-index.htm)
+
+- **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000063/0001487918-25-000063-index.htm)
 
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025063684/0001213900-25-063684-index.htm)
