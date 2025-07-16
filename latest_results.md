@@ -162,6 +162,9 @@
 - **497** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000094787125000665/0000947871-25-000665-index.htm)
 
+- **487** | FT 12317  (CIK 0002064116)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064116/000144554625004779/0001445546-25-004779-index.htm)
+
 - **10-K** | ADM TRONICS UNLIMITED, INC.  (ADMT)  (CIK 0000849401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774925022670/0001437749-25-022670-index.htm)
 
