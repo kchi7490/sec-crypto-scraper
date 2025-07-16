@@ -75,6 +75,9 @@
 - **S-1** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225019581/0001641172-25-019581-index.htm)
 
+- **424B4** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000791/0001185185-25-000791-index.htm)
+
 - **10-K** | Verses AI Inc.  (VRSSD, VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000164117225019545/0001641172-25-019545-index.htm)
 
@@ -99,6 +102,9 @@
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925022635/0001437749-25-022635-index.htm)
 
+- **S-1** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025064413/0001213900-25-064413-index.htm)
+
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025064340/0001213900-25-064340-index.htm)
 
@@ -122,6 +128,9 @@
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925067564/0001104659-25-067564-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000749/0001279569-25-000749-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000739/0001279569-25-000739-index.htm)
