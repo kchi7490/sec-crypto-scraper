@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000164117225019908/0001641172-25-019908-index.htm)
+
 - **8-K** | AMAZE HOLDINGS, INC.  (AMZE)  (CIK 0001880343)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880343/000155479525000176/0001554795-25-000176-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025063507/0001213900-25-063507-index.htm)
+
+- **424B5** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064705/0001213900-25-064705-index.htm)
 
 - **424B1** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525000789/0001185185-25-000789-index.htm)
@@ -134,6 +140,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000739/0001279569-25-000739-index.htm)
+
+- **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225019901/0001641172-25-019901-index.htm)
 
 - **424B4** | Mega Fortune Co Ltd  (MGRT)  (CIK 0002033377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033377/000121390025064701/0001213900-25-064701-index.htm)
