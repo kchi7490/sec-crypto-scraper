@@ -135,6 +135,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000739/0001279569-25-000739-index.htm)
 
+- **424B4** | Mega Fortune Co Ltd  (MGRT)  (CIK 0002033377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033377/000121390025064701/0001213900-25-064701-index.htm)
+
 - **20-F** | HDFC BANK LTD  (HDB)  (CIK 0001144967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144967/000119312525158722/0001193125-25-158722-index.htm)
 
@@ -149,6 +152,9 @@
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225018893/0001641172-25-018893-index.htm)
+
+- **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064699/0001213900-25-064699-index.htm)
 
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064325/0001213900-25-064325-index.htm)
