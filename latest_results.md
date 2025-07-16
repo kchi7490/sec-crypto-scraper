@@ -21,11 +21,11 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225018905/0001641172-25-018905-index.htm)
 
-- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225019635/0001641172-25-019635-index.htm)
-
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008770/0000950103-25-008770-index.htm)
+
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225019635/0001641172-25-019635-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325008769/0000950103-25-008769-index.htm)
