@@ -57,6 +57,9 @@
 - **424B5** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025064342/0001213900-25-064342-index.htm)
 
+- **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225019931/0001641172-25-019931-index.htm)
+
 - **424B5** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025063507/0001213900-25-063507-index.htm)
 
@@ -92,6 +95,9 @@
 
 - **S-4/A** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925067875/0001104659-25-067875-index.htm)
+
+- **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000164117225019925/0001641172-25-019925-index.htm)
 
 - **S-1/A** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000771/0001185185-25-000771-index.htm)
