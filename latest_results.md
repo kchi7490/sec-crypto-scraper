@@ -162,6 +162,9 @@
 - **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000063/0001487918-25-000063-index.htm)
 
+- **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000072/0001487918-25-000072-index.htm)
+
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025064915/0001213900-25-064915-index.htm)
 
