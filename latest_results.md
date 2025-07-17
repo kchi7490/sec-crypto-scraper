@@ -72,6 +72,12 @@
 - **424B4** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000791/0001185185-25-000791-index.htm)
 
+- **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225019939/0001641172-25-019939-index.htm)
+
+- **F-4** | Voyager Acquisition Corp./Cayman Islands  (VACH, VACHU, VACHW)  (CIK 0002006815)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2006815/000182912625005099/0001829126-25-005099-index.htm)
+
 - **S-1/A** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000164117225019572/0001641172-25-019572-index.htm)
 
@@ -83,6 +89,9 @@
 
 - **8-K** | SRM Entertainment, Inc.  (SRM)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019830/0001641172-25-019830-index.htm)
+
+- **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025064845/0001213900-25-064845-index.htm)
 
 - **S-1** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025064413/0001213900-25-064413-index.htm)
@@ -98,6 +107,9 @@
 
 - **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000063/0001487918-25-000063-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000060/0001383395-25-000060-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000749/0001279569-25-000749-index.htm)
