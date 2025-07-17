@@ -54,6 +54,9 @@
 - **425** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025064746/0001213900-25-064746-index.htm)
 
+- **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225020052/0001641172-25-020052-index.htm)
+
 - **424B5** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025064342/0001213900-25-064342-index.htm)
 
@@ -237,6 +240,9 @@
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000005193125000681/0000051931-25-000681-index.htm)
 
+- **485APOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465925068649/0001104659-25-068649-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063884/0001213900-25-063884-index.htm)
 
@@ -263,4 +269,7 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025064761/0001213900-25-064761-index.htm)
+
+- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925010531/0001214659-25-010531-index.htm)
 
