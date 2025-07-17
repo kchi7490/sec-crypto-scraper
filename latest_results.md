@@ -84,6 +84,9 @@
 - **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025063846/0001213900-25-063846-index.htm)
 
+- **424B4** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225019981/0001641172-25-019981-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125025979/0001140361-25-025979-index.htm)
 
