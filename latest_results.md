@@ -195,6 +195,9 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325004463/0001171843-25-004463-index.htm)
 
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225020005/0001641172-25-020005-index.htm)
+
 - **485APOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525159680/0001193125-25-159680-index.htm)
 
