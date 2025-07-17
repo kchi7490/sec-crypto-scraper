@@ -15,6 +15,9 @@
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005160/0001683168-25-005160-index.htm)
 
+- **8-K** | Sky Quarry Inc.  (SKYQ)  (CIK 0001812447)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812447/000109690625001153/0001096906-25-001153-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225019635/0001641172-25-019635-index.htm)
 
@@ -182,6 +185,9 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035132/0001628280-25-035132-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000755/0001279569-25-000755-index.htm)
 
 - **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225019901/0001641172-25-019901-index.htm)
