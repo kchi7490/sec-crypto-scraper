@@ -225,6 +225,9 @@
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525159287/0001193125-25-159287-index.htm)
 
+- **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000005193125000681/0000051931-25-000681-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025063884/0001213900-25-063884-index.htm)
 
