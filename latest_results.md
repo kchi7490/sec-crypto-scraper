@@ -9,6 +9,12 @@
 - **8-K** | AMAZE HOLDINGS, INC.  (AMZE)  (CIK 0001880343)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880343/000155479525000176/0001554795-25-000176-index.htm)
 
+- **8-K** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925022890/0001437749-25-022890-index.htm)
+
+- **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005160/0001683168-25-005160-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225019635/0001641172-25-019635-index.htm)
 
@@ -18,11 +24,23 @@
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025064887/0001213900-25-064887-index.htm)
 
+- **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025064922/0001213900-25-064922-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025064927/0001213900-25-064927-index.htm)
+
 - **DEF 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525159866/0001193125-25-159866-index.htm)
 
+- **8-K** | TAO Synergies Inc.  (SNPX, TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465925068559/0001104659-25-068559-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011270/0001493152-25-011270-index.htm)
+
+- **S-1** | Canary Staked INJ ETF  (CIK 0002073616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937125009309/0001999371-25-009309-index.htm)
 
 - **S-1/A** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425008117/0001654954-25-008117-index.htm)
@@ -54,6 +72,9 @@
 - **424B1** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525000789/0001185185-25-000789-index.htm)
 
+- **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225019996/0001641172-25-019996-index.htm)
+
 - **424B5** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064322/0001213900-25-064322-index.htm)
 
@@ -63,6 +84,9 @@
 - **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025064324/0001213900-25-064324-index.htm)
 
+- **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465925068558/0001104659-25-068558-index.htm)
+
 - **10-K** | OneSolution Technology Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825005108/0001683168-25-005108-index.htm)
 
@@ -71,6 +95,9 @@
 
 - **S-4/A** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925067875/0001104659-25-067875-index.htm)
+
+- **424B5** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025064921/0001213900-25-064921-index.htm)
 
 - **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000164117225019925/0001641172-25-019925-index.htm)
@@ -108,6 +135,9 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125025979/0001140361-25-025979-index.htm)
 
+- **8-K** | Tron Inc.  (SRM)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019987/0001641172-25-019987-index.htm)
+
 - **8-K** | SRM Entertainment, Inc.  (SRM)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019830/0001641172-25-019830-index.htm)
 
@@ -129,6 +159,9 @@
 - **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000063/0001487918-25-000063-index.htm)
 
+- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025064915/0001213900-25-064915-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025064881/0001213900-25-064881-index.htm)
 
@@ -140,6 +173,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000749/0001279569-25-000749-index.htm)
+
+- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025064917/0001213900-25-064917-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925068517/0001104659-25-068517-index.htm)
@@ -209,7 +245,4 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025064761/0001213900-25-064761-index.htm)
-
-- **8-K** | Tron Inc.  (SRM)  (CIK 0001956744)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019987/0001641172-25-019987-index.htm)
 
