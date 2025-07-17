@@ -213,6 +213,9 @@
 - **487** | FT 12317  (CIK 0002064116)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064116/000144554625004779/0001445546-25-004779-index.htm)
 
+- **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225020002/0001641172-25-020002-index.htm)
+
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001806/0001592900-25-001806-index.htm)
 
