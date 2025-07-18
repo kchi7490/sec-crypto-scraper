@@ -84,6 +84,9 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005090/0001477932-25-005090-index.htm)
 
+- **10-K** | FREQUENCY ELECTRONICS INC  (FEIM)  (CIK 0000039020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/39020/000118518525000806/0001185185-25-000806-index.htm)
+
 - **424B5** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025064921/0001213900-25-064921-index.htm)
 
@@ -92,6 +95,9 @@
 
 - **424B4** | Solarius Capital Acquisition Corp.  (SOCA)  (CIK 0002065948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065948/000118518525000791/0001185185-25-000791-index.htm)
+
+- **S-4/A** | Goldenstone Acquisition Ltd.  (GDST, GDSTR, GDSTU, GDSTW)  (CIK 0001858007)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858007/000121390025065671/0001213900-25-065671-index.htm)
 
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225019939/0001641172-25-019939-index.htm)
@@ -126,6 +132,9 @@
 - **SCHEDULE 13D/A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000094787125000670/0000947871-25-000670-index.htm)
 
+- **S-3/A** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925023005/0001437749-25-023005-index.htm)
+
 - **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025064845/0001213900-25-064845-index.htm)
 
@@ -134,6 +143,15 @@
 
 - **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025065175/0001213900-25-065175-index.htm)
+
+- **S-1** | Cantor Equity Partners IV, Inc.  (CIK 0002034267)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034267/000121390025065675/0001213900-25-065675-index.htm)
+
+- **8-K** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025096921/0000950170-25-096921-index.htm)
+
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005148/0001477932-25-005148-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005126/0001477932-25-005126-index.htm)
@@ -204,6 +222,9 @@
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025064699/0001213900-25-064699-index.htm)
 
+- **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025035343/0001628280-25-035343-index.htm)
+
 - **487** | FT 12317  (CIK 0002064116)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064116/000144554625004779/0001445546-25-004779-index.htm)
 
@@ -254,4 +275,7 @@
 
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925010531/0001214659-25-010531-index.htm)
+
+- **485APOS** | ARK ETF Trust  (CIK 0001579982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579982/000121390025065682/0001213900-25-065682-index.htm)
 
