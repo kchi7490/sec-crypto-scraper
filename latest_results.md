@@ -54,6 +54,9 @@
 - **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225019931/0001641172-25-019931-index.htm)
 
+- **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225020129/0001641172-25-020129-index.htm)
+
 - **F-3** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000162828025035102/0001628280-25-035102-index.htm)
 
@@ -92,6 +95,39 @@
 
 - **F-4** | Voyager Acquisition Corp./Cayman Islands  (VACH, VACHU, VACHW)  (CIK 0002006815)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2006815/000182912625005099/0001829126-25-005099-index.htm)
+
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925068547/0001104659-25-068547-index.htm)
+
+- **424B4** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225019981/0001641172-25-019981-index.htm)
+
+- **DEF 14A** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925068553/0001104659-25-068553-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225020082/0001641172-25-020082-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125025979/0001140361-25-025979-index.htm)
+
+- **8-K** | Tron Inc.  (SRM)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019987/0001641172-25-019987-index.htm)
+
+- **8-K** | SRM Entertainment, Inc.  (SRM)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019830/0001641172-25-019830-index.htm)
+
+- **SCHEDULE 13D/A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000094787125000670/0000947871-25-000670-index.htm)
+
+- **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025064845/0001213900-25-064845-index.htm)
+
+- **S-1** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025064413/0001213900-25-064413-index.htm)
+
+- **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025065175/0001213900-25-065175-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005126/0001477932-25-005126-index.htm)
@@ -168,21 +204,6 @@
 - **1-A/A** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025065224/0001213900-25-065224-index.htm)
 
-- **424B4** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225019981/0001641172-25-019981-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225020082/0001641172-25-020082-index.htm)
-
-- **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025064845/0001213900-25-064845-index.htm)
-
-- **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025065175/0001213900-25-065175-index.htm)
-
-- **S-1** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025064413/0001213900-25-064413-index.htm)
-
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225020002/0001641172-25-020002-index.htm)
 
@@ -201,20 +222,11 @@
 - **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125026253/0001140361-25-026253-index.htm)
 
-- **DEF 14A** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925068553/0001104659-25-068553-index.htm)
-
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025065223/0001213900-25-065223-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025064761/0001213900-25-064761-index.htm)
-
-- **8-K** | Tron Inc.  (SRM)  (CIK 0001956744)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019987/0001641172-25-019987-index.htm)
-
-- **8-K** | SRM Entertainment, Inc.  (SRM)  (CIK 0001956744)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019830/0001641172-25-019830-index.htm)
 
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925010531/0001214659-25-010531-index.htm)
