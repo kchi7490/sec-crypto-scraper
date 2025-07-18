@@ -6,8 +6,14 @@
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025064904/0001213900-25-064904-index.htm)
 
+- **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025065752/0001213900-25-065752-index.htm)
+
 - **8-K** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925022890/0001437749-25-022890-index.htm)
+
+- **S-3** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025065733/0001213900-25-065733-index.htm)
 
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005160/0001683168-25-005160-index.htm)
@@ -15,8 +21,14 @@
 - **8-K** | Sky Quarry Inc.  (SKYQ)  (CIK 0001812447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812447/000109690625001153/0001096906-25-001153-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005150/0001477932-25-005150-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025064887/0001213900-25-064887-index.htm)
+
+- **S-3** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925010617/0001214659-25-010617-index.htm)
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025064922/0001213900-25-064922-index.htm)
@@ -38,6 +50,9 @@
 
 - **S-1/A** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425008117/0001654954-25-008117-index.htm)
+
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225020268/0001641172-25-020268-index.htm)
 
 - **8-K** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025064742/0001213900-25-064742-index.htm)
@@ -83,6 +98,9 @@
 
 - **PRER14C** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025065337/0001213900-25-065337-index.htm)
+
+- **F-1** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025065767/0001213900-25-065767-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005090/0001477932-25-005090-index.htm)
@@ -143,6 +161,9 @@
 
 - **S-1** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025064413/0001213900-25-064413-index.htm)
+
+- **S-3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925069063/0001104659-25-069063-index.htm)
 
 - **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025065175/0001213900-25-065175-index.htm)
@@ -243,14 +264,26 @@
 - **1-A/A** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025065224/0001213900-25-065224-index.htm)
 
+- **F-1** | Bullish  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925069070/0001104659-25-069070-index.htm)
+
 - **485BPOS** | MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C  (CIK 0000906564)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906564/000090656425000091/0000906564-25-000091-index.htm)
 
 - **485BPOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051925000059/0002040519-25-000059-index.htm)
 
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025065738/0001213900-25-065738-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025065741/0001213900-25-065741-index.htm)
+
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225020002/0001641172-25-020002-index.htm)
+
+- **497** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425013342/0001398344-25-013342-index.htm)
 
 - **486BPOS** | Jackson Credit Opportunities Fund  (CIK 0001982467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982467/000199937125009372/0001999371-25-009372-index.htm)
@@ -274,10 +307,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025064363/0001213900-25-064363-index.htm)
 
 - **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125026426/0001140361-25-026426-index.htm)
+
+- **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125026253/0001140361-25-026253-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025065223/0001213900-25-065223-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025065766/0001213900-25-065766-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025064761/0001213900-25-064761-index.htm)
