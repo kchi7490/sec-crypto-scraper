@@ -219,6 +219,9 @@
 - **486BPOS** | Jackson Real Assets Fund  (CIK 0002003497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003497/000199937125009373/0001999371-25-009373-index.htm)
 
+- **485APOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064225004328/0001580642-25-004328-index.htm)
+
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000005193125000681/0000051931-25-000681-index.htm)
 
