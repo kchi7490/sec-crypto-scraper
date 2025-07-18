@@ -213,6 +213,12 @@
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225020002/0001641172-25-020002-index.htm)
 
+- **486BPOS** | Jackson Credit Opportunities Fund  (CIK 0001982467)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1982467/000199937125009372/0001999371-25-009372-index.htm)
+
+- **486BPOS** | Jackson Real Assets Fund  (CIK 0002003497)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2003497/000199937125009373/0001999371-25-009373-index.htm)
+
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000005193125000681/0000051931-25-000681-index.htm)
 
