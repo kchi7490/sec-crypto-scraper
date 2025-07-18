@@ -156,9 +156,6 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925068517/0001104659-25-068517-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925068798/0001104659-25-068798-index.htm)
-
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035132/0001628280-25-035132-index.htm)
 
@@ -168,17 +165,23 @@
 - **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225019901/0001641172-25-019901-index.htm)
 
-- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525160801/0001193125-25-160801-index.htm)
-
 - **424B4** | Mega Fortune Co Ltd  (MGRT)  (CIK 0002033377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033377/000121390025064701/0001213900-25-064701-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925068798/0001104659-25-068798-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025064892/0001213900-25-064892-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225020005/0001641172-25-020005-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035277/0001628280-25-035277-index.htm)
+
+- **6-K** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000164117225020123/0001641172-25-020123-index.htm)
 
 - **485APOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525159680/0001193125-25-159680-index.htm)
