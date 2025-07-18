@@ -72,6 +72,9 @@
 - **424B5** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225019996/0001641172-25-019996-index.htm)
 
+- **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001239/0001640334-25-001239-index.htm)
+
 - **S-1/A** | FG Merger III Corp.  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465925068739/0001104659-25-068739-index.htm)
 
@@ -155,6 +158,9 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005126/0001477932-25-005126-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001240/0001640334-25-001240-index.htm)
 
 - **424B2** | OFS Capital Corp  (OFS, OFSSH)  (CIK 0001487918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791825000063/0001487918-25-000063-index.htm)
