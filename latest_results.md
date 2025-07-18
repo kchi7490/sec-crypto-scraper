@@ -213,6 +213,9 @@
 - **1-A/A** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025065224/0001213900-25-065224-index.htm)
 
+- **485BPOS** | MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C  (CIK 0000906564)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906564/000090656425000091/0000906564-25-000091-index.htm)
+
 - **485BPOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051925000059/0002040519-25-000059-index.htm)
 
