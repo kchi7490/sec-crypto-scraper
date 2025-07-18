@@ -78,6 +78,9 @@
 - **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465925068558/0001104659-25-068558-index.htm)
 
+- **PRER14C** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025065337/0001213900-25-065337-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005090/0001477932-25-005090-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125025979/0001140361-25-025979-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026301/0001140361-25-026301-index.htm)
 
 - **8-K** | Tron Inc.  (SRM)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225019987/0001641172-25-019987-index.htm)
