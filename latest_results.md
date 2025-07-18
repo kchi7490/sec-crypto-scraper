@@ -69,6 +69,9 @@
 - **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225019931/0001641172-25-019931-index.htm)
 
+- **S-1** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000164117225020289/0001641172-25-020289-index.htm)
+
 - **424B5** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225020129/0001641172-25-020129-index.htm)
 
@@ -125,6 +128,9 @@
 
 - **F-4** | Voyager Acquisition Corp./Cayman Islands  (VACH, VACHU, VACHW)  (CIK 0002006815)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2006815/000182912625005099/0001829126-25-005099-index.htm)
+
+- **F-4/A** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025065783/0001213900-25-065783-index.htm)
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925068547/0001104659-25-068547-index.htm)
