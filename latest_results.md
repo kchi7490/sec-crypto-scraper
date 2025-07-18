@@ -207,8 +207,14 @@
 - **487** | FT 12317  (CIK 0002064116)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064116/000144554625004779/0001445546-25-004779-index.htm)
 
+- **487** | FT 12318  (CIK 0002064222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064222/000144554625004958/0001445546-25-004958-index.htm)
+
 - **1-A/A** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025065224/0001213900-25-065224-index.htm)
+
+- **485BPOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051925000059/0002040519-25-000059-index.htm)
 
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225020002/0001641172-25-020002-index.htm)
