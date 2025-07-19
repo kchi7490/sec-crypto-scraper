@@ -252,6 +252,3 @@
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925010531/0001214659-25-010531-index.htm)
 
-- **485APOS** | ARK ETF Trust  (CIK 0001579982)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1579982/000121390025065682/0001213900-25-065682-index.htm)
-
