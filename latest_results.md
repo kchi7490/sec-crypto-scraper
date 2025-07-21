@@ -6,6 +6,9 @@
 - **S-1/A** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000164117225020349/0001641172-25-020349-index.htm)
 
+- **ARS** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225020352/0001641172-25-020352-index.htm)
+
 - **8-K/A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225020308/0001641172-25-020308-index.htm)
 
