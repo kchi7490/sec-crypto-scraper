@@ -49,6 +49,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025065886/0001213900-25-065886-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000766/0001279569-25-000766-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000763/0001279569-25-000763-index.htm)
 
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
