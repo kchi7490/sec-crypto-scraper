@@ -18,6 +18,9 @@
 - **6-K** | Baiya International Group Inc.  (BIYA)  (CIK 0001944712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944712/000121390025065814/0001213900-25-065814-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000763/0001279569-25-000763-index.htm)
+
 - **S-1/A** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025035381/0001628280-25-035381-index.htm)
 
