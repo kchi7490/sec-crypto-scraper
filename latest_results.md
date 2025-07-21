@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011311/0001493152-25-011311-index.htm)
+
+- **S-1/A** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000164117225020349/0001641172-25-020349-index.htm)
+
 - **8-K/A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225020308/0001641172-25-020308-index.htm)
 
