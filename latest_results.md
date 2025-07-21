@@ -54,8 +54,14 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000763/0001279569-25-000763-index.htm)
 
+- **6-K** | Osisko Development Corp.  (ODV, ODVWZ)  (CIK 0001431852)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465925069306/0001104659-25-069306-index.htm)
+
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025065982/0001213900-25-065982-index.htm)
+
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225020395/0001641172-25-020395-index.htm)
 
 - **S-1/A** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025035381/0001628280-25-035381-index.htm)
