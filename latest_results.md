@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225020562/0001641172-25-020562-index.htm)
+
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000164117225020518/0001641172-25-020518-index.htm)
 
@@ -113,6 +116,12 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005178/0001477932-25-005178-index.htm)
+
+- **N-2** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465925069609/0001104659-25-069609-index.htm)
+
+- **6-K** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225020568/0001641172-25-020568-index.htm)
 
 - **6-K** | Baiya International Group Inc.  (BIYA)  (CIK 0001944712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944712/000121390025065814/0001213900-25-065814-index.htm)
