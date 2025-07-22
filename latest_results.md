@@ -9,6 +9,9 @@
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005256/0001683168-25-005256-index.htm)
 
+- **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125026750/0001140361-25-026750-index.htm)
+
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005186/0001477932-25-005186-index.htm)
 
@@ -84,6 +87,12 @@
 - **DEF 14C** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025066333/0001213900-25-066333-index.htm)
 
+- **POS AM** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225020582/0001641172-25-020582-index.htm)
+
+- **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312525162603/0001193125-25-162603-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025097081/0000950170-25-097081-index.htm)
 
@@ -92,6 +101,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225020517/0001641172-25-020517-index.htm)
+
+- **DEFA14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008295/0001654954-25-008295-index.htm)
 
 - **424B5** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525161908/0001193125-25-161908-index.htm)
@@ -137,6 +149,9 @@
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325004581/0001171843-25-004581-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000777/0001279569-25-000777-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000766/0001279569-25-000766-index.htm)
@@ -209,4 +224,7 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066230/0001213900-25-066230-index.htm)
+
+- **425** | Veritex Holdings, Inc.  (VBTX)  (CIK 0001501570)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1501570/000114036125026752/0001140361-25-026752-index.htm)
 
