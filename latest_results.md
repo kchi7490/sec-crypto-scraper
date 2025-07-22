@@ -6,6 +6,9 @@
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005256/0001683168-25-005256-index.htm)
 
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005186/0001477932-25-005186-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225020521/0001641172-25-020521-index.htm)
 
@@ -21,11 +24,11 @@
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025065921/0001213900-25-065921-index.htm)
 
-- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025066137/0001213900-25-066137-index.htm)
