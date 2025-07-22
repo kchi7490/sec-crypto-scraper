@@ -147,6 +147,9 @@
 - **487** | FT 12319  (CIK 0002064117)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064117/000144554625005041/0001445546-25-005041-index.htm)
 
+- **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249925000068/0000072499-25-000068-index.htm)
+
 - **N-4** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249925000066/0000072499-25-000066-index.htm)
 
