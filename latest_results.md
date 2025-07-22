@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005256/0001683168-25-005256-index.htm)
+
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225020357/0001641172-25-020357-index.htm)
 
@@ -42,6 +45,9 @@
 - **FWP** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525161953/0001193125-25-161953-index.htm)
 
+- **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025066299/0001213900-25-066299-index.htm)
+
 - **ARS** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225020352/0001641172-25-020352-index.htm)
 
@@ -56,6 +62,9 @@
 
 - **424B5** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525161908/0001193125-25-161908-index.htm)
+
+- **F-3** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035497/0001628280-25-035497-index.htm)
 
 - **S-1** | NEW ERA HELIUM INC.  (NEHC, NEHCW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000141057825001467/0001410578-25-001467-index.htm)
@@ -74,6 +83,9 @@
 
 - **6-K** | Baiya International Group Inc.  (BIYA)  (CIK 0001944712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944712/000121390025065814/0001213900-25-065814-index.htm)
+
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625005246/0001829126-25-005246-index.htm)
 
 - **6-K** | Click Holdings Ltd.  (CLIK)  (CIK 0002020027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020027/000121390025065886/0001213900-25-065886-index.htm)
@@ -102,6 +114,12 @@
 - **S-1** | Collab Z Inc.  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025066182/0001213900-25-066182-index.htm)
 
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125009510/0001999371-25-009510-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025066279/0001213900-25-066279-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025066209/0001213900-25-066209-index.htm)
 
@@ -116,4 +134,10 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025066224/0001213900-25-066224-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066238/0001213900-25-066238-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066230/0001213900-25-066230-index.htm)
 
