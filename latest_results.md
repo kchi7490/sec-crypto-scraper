@@ -144,6 +144,9 @@
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225020395/0001641172-25-020395-index.htm)
 
+- **487** | FT 12319  (CIK 0002064117)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064117/000144554625005041/0001445546-25-005041-index.htm)
+
 - **S-1/A** | Figma, Inc.  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025035381/0001628280-25-035381-index.htm)
 
