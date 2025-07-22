@@ -147,6 +147,9 @@
 - **S-1** | Collab Z Inc.  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025066182/0001213900-25-066182-index.htm)
 
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025066475/0001213900-25-066475-index.htm)
+
 - **10-K** | WidFit Inc.  (CIK 0001912954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000113902025000234/0001139020-25-000234-index.htm)
 
