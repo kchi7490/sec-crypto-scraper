@@ -30,6 +30,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225020521/0001641172-25-020521-index.htm)
 
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000162828025035754/0001628280-25-035754-index.htm)
+
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225020357/0001641172-25-020357-index.htm)
 
@@ -45,11 +48,11 @@
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025065921/0001213900-25-065921-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
-
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
 
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026773/0001140361-25-026773-index.htm)
@@ -65,6 +68,9 @@
 
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025066132/0001213900-25-066132-index.htm)
+
+- **424B5** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026950/0001140361-25-026950-index.htm)
 
 - **POS AM** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312525161974/0001193125-25-161974-index.htm)
