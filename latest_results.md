@@ -39,11 +39,11 @@
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025065921/0001213900-25-065921-index.htm)
 
-- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
 
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026773/0001140361-25-026773-index.htm)
@@ -128,6 +128,9 @@
 
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312525162603/0001193125-25-162603-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225001988/0000950142-25-001988-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025097081/0000950170-25-097081-index.htm)
