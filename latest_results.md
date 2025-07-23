@@ -42,11 +42,11 @@
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025065921/0001213900-25-065921-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
-
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125026510/0001140361-25-026510-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011329/0001493152-25-011329-index.htm)
 
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026773/0001140361-25-026773-index.htm)
@@ -131,6 +131,9 @@
 
 - **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225020662/0001641172-25-020662-index.htm)
+
+- **424B4** | Cre8 Enterprise Ltd  (CRE)  (CIK 0002003977)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2003977/000121390025066853/0001213900-25-066853-index.htm)
 
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312525162603/0001193125-25-162603-index.htm)
