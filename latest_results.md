@@ -129,8 +129,14 @@
 - **POS AM** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225020582/0001641172-25-020582-index.htm)
 
+- **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225020662/0001641172-25-020662-index.htm)
+
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312525162603/0001193125-25-162603-index.htm)
+
+- **S-1/A** | WhiteFiber, Inc.  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025066839/0001213900-25-066839-index.htm)
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225001988/0000950142-25-001988-index.htm)
