@@ -144,6 +144,9 @@
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225001988/0000950142-25-001988-index.htm)
 
+- **8-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000095017025097862/0000950170-25-097862-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025097081/0000950170-25-097081-index.htm)
 
@@ -167,6 +170,9 @@
 
 - **S-1** | NEW ERA HELIUM INC.  (NEHC, NEHCW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000141057825001467/0001410578-25-001467-index.htm)
+
+- **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000095017025097861/0000950170-25-097861-index.htm)
 
 - **10-K** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000016/0001765048-25-000016-index.htm)
