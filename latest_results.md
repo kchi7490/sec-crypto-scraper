@@ -111,6 +111,9 @@
 - **DEF 14C** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025066333/0001213900-25-066333-index.htm)
 
+- **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025067409/0001213900-25-067409-index.htm)
+
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025066798/0001213900-25-066798-index.htm)
 
@@ -322,10 +325,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066238/0001213900-25-066238-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066728/0001213900-25-066728-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066728/0001213900-25-066728-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066238/0001213900-25-066238-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066758/0001213900-25-066758-index.htm)
@@ -335,6 +338,9 @@
 
 - **425** | Veritex Holdings, Inc.  (VBTX)  (CIK 0001501570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1501570/000114036125026752/0001140361-25-026752-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325009254/0000950103-25-009254-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325009145/0000950103-25-009145-index.htm)
