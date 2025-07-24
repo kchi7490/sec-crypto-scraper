@@ -219,6 +219,9 @@
 - **497** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322825007385/0001133228-25-007385-index.htm)
 
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001825/0001592900-25-001825-index.htm)
+
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425013496/0001398344-25-013496-index.htm)
 
