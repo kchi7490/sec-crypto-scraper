@@ -198,6 +198,9 @@
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025066475/0001213900-25-066475-index.htm)
 
+- **N-CEN/A** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000175272425175989/0001752724-25-175989-index.htm)
+
 - **10-K** | WidFit Inc.  (CIK 0001912954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000113902025000234/0001139020-25-000234-index.htm)
 
