@@ -153,6 +153,9 @@
 - **F-3** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035497/0001628280-25-035497-index.htm)
 
+- **SCHEDULE 13D** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000090266425003146/0000902664-25-003146-index.htm)
+
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000095017025097861/0000950170-25-097861-index.htm)
 
