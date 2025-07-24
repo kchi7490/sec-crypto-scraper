@@ -48,6 +48,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011364/0001493152-25-011364-index.htm)
 
+- **8-K** | Sky Quarry Inc.  (SKYQ)  (CIK 0001812447)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812447/000109690625001183/0001096906-25-001183-index.htm)
+
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026773/0001140361-25-026773-index.htm)
 
@@ -57,8 +60,14 @@
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025066319/0001213900-25-066319-index.htm)
 
+- **8-K** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067332/0001213900-25-067332-index.htm)
+
 - **424B5** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125026950/0001140361-25-026950-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067337/0001213900-25-067337-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025066731/0001213900-25-066731-index.htm)
@@ -104,6 +113,9 @@
 
 - **S-4** | Cyclacel Pharmaceuticals, Inc.  (CYCC, CYCCP)  (CIK 0001130166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1130166/000164117225020763/0001641172-25-020763-index.htm)
+
+- **PREM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225020836/0001641172-25-020836-index.htm)
 
 - **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225020662/0001641172-25-020662-index.htm)
