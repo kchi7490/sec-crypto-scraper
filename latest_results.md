@@ -81,6 +81,9 @@
 - **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625005283/0001829126-25-005283-index.htm)
 
+- **424B5** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011368/0001493152-25-011368-index.htm)
+
 - **F-3** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025066342/0001213900-25-066342-index.htm)
 
@@ -111,6 +114,9 @@
 - **S-1/A** | WhiteFiber, Inc.  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025066839/0001213900-25-066839-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925070236/0001104659-25-070236-index.htm)
+
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225001988/0000950142-25-001988-index.htm)
 
@@ -125,6 +131,9 @@
 
 - **8-K** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425008318/0001654954-25-008318-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225001993/0000950142-25-001993-index.htm)
 
 - **F-3** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025035497/0001628280-25-035497-index.htm)
@@ -146,6 +155,9 @@
 
 - **6-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225020568/0001641172-25-020568-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025067134/0001213900-25-067134-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925070203/0001104659-25-070203-index.htm)
