@@ -3,6 +3,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225020562/0001641172-25-020562-index.htm)
 
+- **424B3** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525164474/0001193125-25-164474-index.htm)
+
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000164117225020518/0001641172-25-020518-index.htm)
 
@@ -111,6 +114,9 @@
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025066798/0001213900-25-066798-index.htm)
 
+- **S-1** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000164117225020862/0001641172-25-020862-index.htm)
+
 - **POS AM** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225020582/0001641172-25-020582-index.htm)
 
@@ -123,6 +129,9 @@
 - **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225020662/0001641172-25-020662-index.htm)
 
+- **PRE 14A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225020863/0001641172-25-020863-index.htm)
+
 - **424B4** | Cre8 Enterprise Ltd  (CRE)  (CIK 0002003977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003977/000121390025066853/0001213900-25-066853-index.htm)
 
@@ -131,6 +140,9 @@
 
 - **S-1/A** | WhiteFiber, Inc.  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025066839/0001213900-25-066839-index.htm)
+
+- **S-1/A** | Lionsgate Studios Corp.  (LION)  (CIK 0002052959)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052959/000119312525164472/0001193125-25-164472-index.htm)
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925070236/0001104659-25-070236-index.htm)
@@ -146,6 +158,9 @@
 
 - **DEFA14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008295/0001654954-25-008295-index.htm)
+
+- **DEFA14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008462/0001654954-25-008462-index.htm)
 
 - **8-K** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425008318/0001654954-25-008318-index.htm)
@@ -204,11 +219,17 @@
 - **SUPPL** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025066807/0001213900-25-066807-index.htm)
 
+- **6-K** | Hold Me Ltd  (HMELF)  (CIK 0001853630)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853630/000121390025067405/0001213900-25-067405-index.htm)
+
 - **487** | FT 12319  (CIK 0002064117)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064117/000144554625005041/0001445546-25-005041-index.htm)
 
 - **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249925000068/0000072499-25-000068-index.htm)
+
+- **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322825007435/0001133228-25-007435-index.htm)
 
 - **N-4** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249925000066/0000072499-25-000066-index.htm)
@@ -224,6 +245,9 @@
 
 - **10-K** | WidFit Inc.  (CIK 0001912954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000113902025000234/0001139020-25-000234-index.htm)
+
+- **20-F** | Waton Financial Ltd  (WTF)  (CIK 0001987363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1987363/000114036125027147/0001140361-25-027147-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125009510/0001999371-25-009510-index.htm)
@@ -252,6 +276,9 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025066279/0001213900-25-066279-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067402/0001213900-25-067402-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067022/0001213900-25-067022-index.htm)
 
@@ -274,6 +301,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025066742/0001213900-25-066742-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067403/0001213900-25-067403-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025066688/0001213900-25-066688-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
@@ -289,13 +319,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066230/0001213900-25-066230-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066238/0001213900-25-066238-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066728/0001213900-25-066728-index.htm)
-
-- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066758/0001213900-25-066758-index.htm)
@@ -311,6 +341,9 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325009193/0000950103-25-009193-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067404/0001213900-25-067404-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325009138/0000950103-25-009138-index.htm)
