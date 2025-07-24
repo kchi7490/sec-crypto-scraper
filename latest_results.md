@@ -87,6 +87,9 @@
 - **S-1** | 21Shares Ondo Trust  (CIK 0002061627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061627/000121390025066691/0001213900-25-066691-index.htm)
 
+- **1-A/A** | Angel Studios, Inc.  (CIK 0001671941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925070405/0001104659-25-070405-index.htm)
+
 - **8-K** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000164117225020627/0001641172-25-020627-index.htm)
 
