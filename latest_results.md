@@ -24,6 +24,12 @@
 - **8-K** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687525000116/0001836875-25-000116-index.htm)
 
+- **S-1/A** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425008477/0001654954-25-008477-index.htm)
+
+- **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005371/0001683168-25-005371-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011364/0001493152-25-011364-index.htm)
 
