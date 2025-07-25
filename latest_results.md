@@ -72,6 +72,9 @@
 - **PRE 14A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225020863/0001641172-25-020863-index.htm)
 
+- **8-K** | AMC ENTERTAINMENT HOLDINGS, INC.  (AMC)  (CIK 0001411579)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1411579/000110465925070547/0001104659-25-070547-index.htm)
+
 - **424B4** | Cre8 Enterprise Ltd  (CRE)  (CIK 0002003977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003977/000121390025066853/0001213900-25-066853-index.htm)
 
