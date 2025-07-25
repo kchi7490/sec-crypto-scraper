@@ -177,6 +177,9 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001825/0001592900-25-001825-index.htm)
 
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001830/0001592900-25-001830-index.htm)
+
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425013605/0001398344-25-013605-index.htm)
 
