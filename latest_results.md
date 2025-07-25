@@ -196,19 +196,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178294/0001752724-25-178294-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178346/0001752724-25-178346-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178322/0001752724-25-178322-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178321/0001752724-25-178321-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178346/0001752724-25-178346-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178340/0001752724-25-178340-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178339/0001752724-25-178339-index.htm)
+
+- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178321/0001752724-25-178321-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178327/0001752724-25-178327-index.htm)
@@ -280,10 +280,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025066790/0001213900-25-066790-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067449/0001213900-25-067449-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067449/0001213900-25-067449-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067445/0001213900-25-067445-index.htm)
