@@ -15,6 +15,9 @@
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025035738/0001628280-25-035738-index.htm)
 
+- **424B3** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000164117225020892/0001641172-25-020892-index.htm)
+
 - **8-K** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687525000116/0001836875-25-000116-index.htm)
 
@@ -63,6 +66,9 @@
 - **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164117225020662/0001641172-25-020662-index.htm)
 
+- **F-4/A** | Alps Global Holding Pubco  (CIK 0002025774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025774/000164117225020932/0001641172-25-020932-index.htm)
+
 - **PRE 14A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225020863/0001641172-25-020863-index.htm)
 
@@ -96,6 +102,9 @@
 - **SCHEDULE 13D** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000090266425003146/0000902664-25-003146-index.htm)
 
+- **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637525000182/0001156375-25-000182-index.htm)
+
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000095017025097861/0000950170-25-097861-index.htm)
 
@@ -117,11 +126,17 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025066816/0001213900-25-066816-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325013148/0001062993-25-013148-index.htm)
+
 - **SUPPL** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025066807/0001213900-25-066807-index.htm)
 
 - **6-K** | Hold Me Ltd  (HMELF)  (CIK 0001853630)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853630/000121390025067405/0001213900-25-067405-index.htm)
+
+- **253G1** | Metavesco, Inc.  (MVCO)  (CIK 0000924095)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/924095/000164117225020923/0001641172-25-020923-index.htm)
 
 - **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322825007435/0001133228-25-007435-index.htm)
@@ -153,6 +168,9 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067022/0001213900-25-067022-index.htm)
 
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025067430/0001213900-25-067430-index.htm)
+
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806-index.htm)
 
@@ -176,6 +194,12 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067449/0001213900-25-067449-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067445/0001213900-25-067445-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025066758/0001213900-25-066758-index.htm)
