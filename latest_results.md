@@ -205,13 +205,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178346/0001752724-25-178346-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178321/0001752724-25-178321-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178340/0001752724-25-178340-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178339/0001752724-25-178339-index.htm)
+
+- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178321/0001752724-25-178321-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178327/0001752724-25-178327-index.htm)
@@ -264,6 +264,9 @@
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/0001628280-25-035806-index.htm)
 
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025067732/0001213900-25-067732-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067051/0001213900-25-067051-index.htm)
 
@@ -275,6 +278,9 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067403/0001213900-25-067403-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067749/0001213900-25-067749-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025067057/0001213900-25-067057-index.htm)
@@ -308,6 +314,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067404/0001213900-25-067404-index.htm)
+
+- **PRE 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025067734/0001213900-25-067734-index.htm)
 
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000104/0001726978-25-000104-index.htm)
