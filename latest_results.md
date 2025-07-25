@@ -159,6 +159,9 @@
 - **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322825007435/0001133228-25-007435-index.htm)
 
+- **8-A12B/A** | CoinShares Valkyrie Bitcoin Fund  (BRRR)  (CIK 0001841175)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937125009865/0001999371-25-009865-index.htm)
+
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000175272425178343/0001752724-25-178343-index.htm)
 
@@ -280,10 +283,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025066790/0001213900-25-066790-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067449/0001213900-25-067449-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067449/0001213900-25-067449-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067110/0001213900-25-067110-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025067445/0001213900-25-067445-index.htm)
