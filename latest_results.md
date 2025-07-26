@@ -178,10 +178,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178294/0001752724-25-178294-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178346/0001752724-25-178346-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178322/0001752724-25-178322-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178322/0001752724-25-178322-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178346/0001752724-25-178346-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000175272425178321/0001752724-25-178321-index.htm)
