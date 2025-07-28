@@ -27,6 +27,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025067898/0001213900-25-067898-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068163/0001213900-25-068163-index.htm)
+
 - **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
 
