@@ -3,11 +3,17 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011438/0001493152-25-011438-index.htm)
 
+- **8-K** | CEA Industries Inc.  (VAPE, VAPEW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225021130/0001641172-25-021130-index.htm)
+
 - **S-3** | Tron Inc.  (SRM, TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225021114/0001641172-25-021114-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
+
+- **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025067855/0001213900-25-067855-index.htm)
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225002027/0000950142-25-002027-index.htm)
@@ -23,6 +29,12 @@
 
 - **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
+
+- **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001835/0001592900-25-001835-index.htm)
 
 - **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957425004245/0000919574-25-004245-index.htm)
