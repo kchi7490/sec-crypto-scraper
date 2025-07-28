@@ -24,8 +24,14 @@
 - **8-K** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068239/0001213900-25-068239-index.htm)
 
+- **F-1/A** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225021201/0001641172-25-021201-index.htm)
+
 - **S-3** | Tron Inc.  (SRM, TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225021114/0001641172-25-021114-index.htm)
+
+- **S-3ASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225021194/0001641172-25-021194-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
