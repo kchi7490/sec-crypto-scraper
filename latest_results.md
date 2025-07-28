@@ -21,6 +21,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025067898/0001213900-25-067898-index.htm)
 
+- **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
+
 - **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957425004245/0000919574-25-004245-index.htm)
 
