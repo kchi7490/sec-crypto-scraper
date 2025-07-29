@@ -30,11 +30,17 @@
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005458/0001683168-25-005458-index.htm)
 
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225021355/0001641172-25-021355-index.htm)
+
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000158/0001633917-25-000158-index.htm)
 
 - **PRE 14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225021187/0001641172-25-021187-index.htm)
+
+- **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525167987/0001193125-25-167987-index.htm)
 
 - **8-K** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025068458/0001213900-25-068458-index.htm)
@@ -53,6 +59,18 @@
 
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000148/0001818874-25-000148-index.htm)
+
+- **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000040/0000008818-25-000040-index.htm)
+
+- **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025068715/0001213900-25-068715-index.htm)
+
+- **10-Q** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000018/0001507605-25-000018-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000016/0001507605-25-000016-index.htm)
 
 - **S-3** | Tron Inc.  (SRM, TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225021114/0001641172-25-021114-index.htm)
@@ -75,11 +93,20 @@
 - **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312525167379/0001193125-25-167379-index.htm)
 
+- **S-4** | IWAC Holding Co Inc.  (CIK 0002033522)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000141057825001524/0001410578-25-001524-index.htm)
+
+- **424B3** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000164117225021352/0001641172-25-021352-index.htm)
+
 - **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
 
 - **485BPOS** | Krane Shares Trust  (CIK 0001547576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000182912625005510/0001829126-25-005510-index.htm)
+
+- **S-8** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825005488/0001683168-25-005488-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
@@ -89,6 +116,9 @@
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225002027/0000950142-25-002027-index.htm)
+
+- **S-3/A** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925023781/0001437749-25-023781-index.htm)
 
 - **10-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774925023703/0001437749-25-023703-index.htm)
@@ -107,6 +137,9 @@
 
 - **PRE 14A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001329/0001640334-25-001329-index.htm)
+
+- **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000054/0001500217-25-000054-index.htm)
 
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525167088/0001193125-25-167088-index.htm)
@@ -150,6 +183,12 @@
 - **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
 
+- **POS AMI** | All Terrain Fund  (CIK 0001638600)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1638600/000139834425014042/0001398344-25-014042-index.htm)
+
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425013118/0001888524-25-013118-index.htm)
+
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000175272425182528/0001752724-25-182528-index.htm)
 
@@ -188,6 +227,9 @@
 
 - **485BPOS** | NORTHERN FUNDS  (CIK 0000916620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916620/000119312525167922/0001193125-25-167922-index.htm)
+
+- **10-K/A** | Lionsgate Studios Corp.  (LION)  (CIK 0002052959)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052959/000119312525167991/0001193125-25-167991-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067843/0001213900-25-067843-index.htm)
