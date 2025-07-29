@@ -141,11 +141,17 @@
 - **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
 
+- **485BPOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312525167896/0001193125-25-167896-index.htm)
+
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041325002260/0000930413-25-002260-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001835/0001592900-25-001835-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
 
 - **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957425004245/0000919574-25-004245-index.htm)
