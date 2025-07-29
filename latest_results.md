@@ -99,6 +99,9 @@
 - **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025067839/0001213900-25-067839-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025068632/0001213900-25-068632-index.htm)
+
 - **PRE 14A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001329/0001640334-25-001329-index.htm)
 
@@ -152,6 +155,9 @@
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001903/0001592900-25-001903-index.htm)
 
 - **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957425004245/0000919574-25-004245-index.htm)
