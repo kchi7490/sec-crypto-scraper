@@ -57,6 +57,9 @@
 - **F-1/A** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225021201/0001641172-25-021201-index.htm)
 
+- **8-K** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025068740/0001213900-25-068740-index.htm)
+
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000148/0001818874-25-000148-index.htm)
 
