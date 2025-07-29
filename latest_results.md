@@ -36,6 +36,12 @@
 - **PRE 14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225021187/0001641172-25-021187-index.htm)
 
+- **8-K** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025068458/0001213900-25-068458-index.htm)
+
+- **425** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025068460/0001213900-25-068460-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068245/0001213900-25-068245-index.htm)
 
@@ -59,6 +65,12 @@
 
 - **ARS** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480525000027/0000924805-25-000027-index.htm)
+
+- **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312525167350/0001193125-25-167350-index.htm)
+
+- **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312525167303/0001193125-25-167303-index.htm)
 
 - **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
@@ -92,6 +104,9 @@
 
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225021267/0001641172-25-021267-index.htm)
+
+- **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225021279/0001641172-25-021279-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925071419/0001104659-25-071419-index.htm)
