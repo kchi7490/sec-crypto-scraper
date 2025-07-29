@@ -9,11 +9,20 @@
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525166553/0001193125-25-166553-index.htm)
 
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825005474/0001683168-25-005474-index.htm)
+
+- **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225021262/0001641172-25-021262-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011466/0001493152-25-011466-index.htm)
 
 - **8-K** | CEA Industries Inc.  (VAPE, VAPEW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225021130/0001641172-25-021130-index.htm)
+
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225021266/0001641172-25-021266-index.htm)
 
 - **S-1/A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025068264/0001213900-25-068264-index.htm)
@@ -51,6 +60,9 @@
 - **ARS** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480525000027/0000924805-25-000027-index.htm)
 
+- **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
 
@@ -78,11 +90,20 @@
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525167088/0001193125-25-167088-index.htm)
 
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225021267/0001641172-25-021267-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925071419/0001104659-25-071419-index.htm)
 
+- **424B5** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225021270/0001641172-25-021270-index.htm)
+
 - **F-1** | Diginex Ltd  (DGNX)  (CIK 0002010499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2010499/000164117225021080/0001641172-25-021080-index.htm)
+
+- **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011467/0001493152-25-011467-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025067898/0001213900-25-067898-index.htm)
