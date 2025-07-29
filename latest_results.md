@@ -81,8 +81,14 @@
 - **10-Q** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000018/0001507605-25-000018-index.htm)
 
+- **S-3** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225021447/0001641172-25-021447-index.htm)
+
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000016/0001507605-25-000016-index.htm)
+
+- **S-3** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225021449/0001641172-25-021449-index.htm)
 
 - **S-3** | Tron Inc.  (SRM, TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225021114/0001641172-25-021114-index.htm)
@@ -141,6 +147,12 @@
 - **S-3/A** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925023781/0001437749-25-023781-index.htm)
 
+- **S-1** | GSR IV Acquisition Corp.  (CIK 0002072404)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390025068819/0001213900-25-068819-index.htm)
+
+- **S-1/A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025068817/0001213900-25-068817-index.htm)
+
 - **10-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774925023703/0001437749-25-023703-index.htm)
 
@@ -170,6 +182,9 @@
 
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525167088/0001193125-25-167088-index.htm)
+
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225021431/0001641172-25-021431-index.htm)
 
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225021267/0001641172-25-021267-index.htm)
