@@ -78,6 +78,9 @@
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525167088/0001193125-25-167088-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925071419/0001104659-25-071419-index.htm)
+
 - **F-1** | Diginex Ltd  (DGNX)  (CIK 0002010499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2010499/000164117225021080/0001641172-25-021080-index.htm)
 
