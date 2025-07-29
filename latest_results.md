@@ -9,6 +9,9 @@
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525166553/0001193125-25-166553-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011466/0001493152-25-011466-index.htm)
+
 - **8-K** | CEA Industries Inc.  (VAPE, VAPEW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225021130/0001641172-25-021130-index.htm)
 
@@ -17,6 +20,9 @@
 
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005458/0001683168-25-005458-index.htm)
+
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000158/0001633917-25-000158-index.htm)
 
 - **PRE 14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225021187/0001641172-25-021187-index.htm)
@@ -30,6 +36,9 @@
 - **F-1/A** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225021201/0001641172-25-021201-index.htm)
 
+- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000148/0001818874-25-000148-index.htm)
+
 - **S-3** | Tron Inc.  (SRM, TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225021114/0001641172-25-021114-index.htm)
 
@@ -38,6 +47,9 @@
 
 - **S-3ASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000164117225021194/0001641172-25-021194-index.htm)
+
+- **ARS** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480525000027/0000924805-25-000027-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
