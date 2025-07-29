@@ -78,6 +78,9 @@
 - **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
 
+- **485BPOS** | Krane Shares Trust  (CIK 0001547576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000182912625005510/0001829126-25-005510-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
 
@@ -144,6 +147,9 @@
 - **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
 
+- **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000175272425182528/0001752724-25-182528-index.htm)
+
 - **485BPOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312525167896/0001193125-25-167896-index.htm)
 
@@ -176,6 +182,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068356/0001213900-25-068356-index.htm)
+
+- **485BPOS** | NORTHERN FUNDS  (CIK 0000916620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916620/000119312525167922/0001193125-25-167922-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025067843/0001213900-25-067843-index.htm)
