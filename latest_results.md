@@ -3,6 +3,9 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025036239/0001628280-25-036239-index.htm)
 
+- **10-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225021488/0001641172-25-021488-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011438/0001493152-25-011438-index.htm)
 
@@ -24,6 +27,9 @@
 - **8-K** | CEA Industries Inc.  (VAPE, VAPEW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225021130/0001641172-25-021130-index.htm)
 
+- **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021498/0001641172-25-021498-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225021266/0001641172-25-021266-index.htm)
 
@@ -32,6 +38,9 @@
 
 - **S-1/A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025068264/0001213900-25-068264-index.htm)
+
+- **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025068962/0001213900-25-068962-index.htm)
 
 - **8-K** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005458/0001683168-25-005458-index.htm)
@@ -141,6 +150,9 @@
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
 
+- **424B5** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005502/0001683168-25-005502-index.htm)
+
 - **DEFA14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008614/0001654954-25-008614-index.htm)
 
@@ -149,6 +161,9 @@
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014225002027/0000950142-25-002027-index.htm)
+
+- **S-3ASR** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005500/0001683168-25-005500-index.htm)
 
 - **S-3/A** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925023781/0001437749-25-023781-index.htm)
@@ -173,6 +188,9 @@
 
 - **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025067839/0001213900-25-067839-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000054/0001815776-25-000054-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025068632/0001213900-25-068632-index.htm)
