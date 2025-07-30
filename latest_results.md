@@ -372,3 +372,6 @@
 - **485BPOS** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025068124/0001213900-25-068124-index.htm)
 
+- **N-PX** | CITY NATIONAL ROCHDALE FUNDS  (CIK 0001026977)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1026977/000143893425000406/0001438934-25-000406-index.htm)
+
