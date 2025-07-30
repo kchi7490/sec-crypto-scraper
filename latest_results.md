@@ -6,6 +6,9 @@
 - **10-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225021488/0001641172-25-021488-index.htm)
 
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525169353/0001193125-25-169353-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011438/0001493152-25-011438-index.htm)
 
@@ -138,6 +141,9 @@
 - **ARS** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480525000027/0000924805-25-000027-index.htm)
 
+- **S-1/A** | 21Shares Core Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/0001213900-25-069346-index.htm)
+
 - **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312525167350/0001193125-25-167350-index.htm)
 
@@ -165,11 +171,11 @@
 - **F-4/A** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025068765/0001213900-25-068765-index.htm)
 
-- **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008656/0001654954-25-008656-index.htm)
-
 - **S-8** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825005488/0001683168-25-005488-index.htm)
+
+- **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008656/0001654954-25-008656-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025098938/0000950170-25-098938-index.htm)
@@ -276,6 +282,9 @@
 - **F-1** | Diginex Ltd  (DGNX)  (CIK 0002010499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2010499/000164117225021080/0001641172-25-021080-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325013298/0001062993-25-013298-index.htm)
+
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011467/0001493152-25-011467-index.htm)
 
@@ -291,62 +300,17 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025068395/0001213900-25-068395-index.htm)
 
-- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068163/0001213900-25-068163-index.htm)
-
-- **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
-
-- **424B3** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025069319/0001213900-25-069319-index.htm)
-
-- **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025069316/0001213900-25-069316-index.htm)
-
-- **487** | FT 12321  (CIK 0002064910)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2064910/000144554625005125/0001445546-25-005125-index.htm)
-
-- **N-2** | AMG Pantheon Fund, LLC  (CIK 0001609211)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1609211/000119312525167956/0001193125-25-167956-index.htm)
-
-- **485BPOS** | GPS Funds I  (CIK 0001131042)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000089418925005307/0000894189-25-005307-index.htm)
-
-- **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
-
-- **POS AMI** | All Terrain Fund  (CIK 0001638600)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1638600/000139834425014042/0001398344-25-014042-index.htm)
-
-- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425013118/0001888524-25-013118-index.htm)
-
-- **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000175272425182528/0001752724-25-182528-index.htm)
-
-- **485BPOS** | SEI ASSET ALLOCATION TRUST  (CIK 0001003632)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1003632/000110465925071805/0001104659-25-071805-index.htm)
-
-- **485BPOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312525167896/0001193125-25-167896-index.htm)
-
-- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041325002260/0000930413-25-002260-index.htm)
-
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001835/0001592900-25-001835-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
-
-- **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001903/0001592900-25-001903-index.htm)
 
-- **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957425004245/0000919574-25-004245-index.htm)
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
 
-- **N-2** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
+- **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
@@ -372,14 +336,23 @@
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183097/0001752724-25-183097-index.htm)
 
+- **485BPOS** | SEI ASSET ALLOCATION TRUST  (CIK 0001003632)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1003632/000110465925071805/0001104659-25-071805-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068284/0001213900-25-068284-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068163/0001213900-25-068163-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025068206/0001213900-25-068206-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068355/0001213900-25-068355-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069359/0001213900-25-069359-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068782/0001213900-25-068782-index.htm)
@@ -395,6 +368,12 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068828/0001213900-25-068828-index.htm)
+
+- **10-Q** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312425000235/0000073124-25-000235-index.htm)
+
+- **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125028061/0001140361-25-028061-index.htm)
 
 - **486BPOS** | AB Multi-Manager Alternative Fund  (CIK 0001543188)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1543188/000091957425004267/0000919574-25-004267-index.htm)
@@ -416,6 +395,12 @@
 
 - **485BPOS** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025068124/0001213900-25-068124-index.htm)
+
+- **S-1/A** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025036090/0001628280-25-036090-index.htm)
+
+- **N-2** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
 - **N-PX** | CITY NATIONAL ROCHDALE FUNDS  (CIK 0001026977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1026977/000143893425000406/0001438934-25-000406-index.htm)
