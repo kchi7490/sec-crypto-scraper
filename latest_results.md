@@ -306,6 +306,30 @@
 - **N-2** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183093/0001752724-25-183093-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183094/0001752724-25-183094-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183100/0001752724-25-183100-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183098/0001752724-25-183098-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183097/0001752724-25-183097-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068284/0001213900-25-068284-index.htm)
 
