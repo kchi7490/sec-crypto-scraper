@@ -9,6 +9,9 @@
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525166553/0001193125-25-166553-index.htm)
 
+- **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525168405/0001193125-25-168405-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825005474/0001683168-25-005474-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225021266/0001641172-25-021266-index.htm)
+
+- **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025068930/0001213900-25-068930-index.htm)
 
 - **S-1/A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025068264/0001213900-25-068264-index.htm)
@@ -198,6 +204,9 @@
 - **424B5** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225021270/0001641172-25-021270-index.htm)
 
+- **6-K** | Nova Minerals Ltd  (NVA, NVAAF, NVAWW)  (CIK 0001852551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852551/000149315225011483/0001493152-25-011483-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025068776/0001213900-25-068776-index.htm)
 
@@ -209,6 +218,9 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025067898/0001213900-25-067898-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025068917/0001213900-25-068917-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025068395/0001213900-25-068395-index.htm)
@@ -282,6 +294,9 @@
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068356/0001213900-25-068356-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068828/0001213900-25-068828-index.htm)
+
 - **486BPOS** | AB Multi-Manager Alternative Fund  (CIK 0001543188)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1543188/000091957425004267/0000919574-25-004267-index.htm)
 
@@ -296,6 +311,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025068392/0001213900-25-068392-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025068916/0001213900-25-068916-index.htm)
 
 - **485BPOS** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025068124/0001213900-25-068124-index.htm)
