@@ -24,6 +24,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011466/0001493152-25-011466-index.htm)
 
+- **8-K** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000110465925071963/0001104659-25-071963-index.htm)
+
 - **8-K** | CEA Industries Inc.  (VAPE, VAPEW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225021130/0001641172-25-021130-index.htm)
 
@@ -177,6 +180,9 @@
 - **10-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774925023703/0001437749-25-023703-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000415/0001137360-25-000415-index.htm)
+
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225004530/0001580642-25-004530-index.htm)
 
@@ -185,6 +191,9 @@
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011437/0001493152-25-011437-index.htm)
+
+- **PRE 14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021510/0001641172-25-021510-index.htm)
 
 - **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025067839/0001213900-25-067839-index.htm)
@@ -233,6 +242,9 @@
 
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011467/0001493152-25-011467-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225021504/0001641172-25-021504-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025067898/0001213900-25-067898-index.htm)
