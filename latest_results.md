@@ -189,6 +189,9 @@
 - **S-3ASR** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005500/0001683168-25-005500-index.htm)
 
+- **424B5** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000088/0001381197-25-000088-index.htm)
+
 - **S-3/A** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925023781/0001437749-25-023781-index.htm)
 
@@ -294,6 +297,12 @@
 - **N-2/A** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925070933/0001104659-25-070933-index.htm)
 
+- **424B3** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025069319/0001213900-25-069319-index.htm)
+
+- **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025069316/0001213900-25-069316-index.htm)
+
 - **487** | FT 12321  (CIK 0002064910)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064910/000144554625005125/0001445546-25-005125-index.htm)
 
@@ -340,10 +349,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
@@ -377,6 +386,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068357/0001213900-25-068357-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069324/0001213900-25-069324-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068356/0001213900-25-068356-index.htm)
