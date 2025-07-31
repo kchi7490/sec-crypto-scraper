@@ -51,6 +51,9 @@
 - **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225021355/0001641172-25-021355-index.htm)
 
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000251/0001783879-25-000251-index.htm)
+
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000158/0001633917-25-000158-index.htm)
 
@@ -105,6 +108,9 @@
 - **S-3** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225021449/0001641172-25-021449-index.htm)
 
+- **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625005627/0001829126-25-005627-index.htm)
+
 - **POSASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011460/0001493152-25-011460-index.htm)
 
@@ -131,6 +137,9 @@
 
 - **424B3** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000164117225021352/0001641172-25-021352-index.htm)
+
+- **F-4** | Veraxa Biotech Holding AG  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625005620/0001829126-25-005620-index.htm)
 
 - **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
@@ -240,6 +249,9 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011467/0001493152-25-011467-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000080/0001383395-25-000080-index.htm)
+
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225021504/0001641172-25-021504-index.htm)
 
@@ -257,6 +269,9 @@
 
 - **N-2** | AMG Pantheon Fund, LLC  (CIK 0001609211)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1609211/000119312525167956/0001193125-25-167956-index.htm)
+
+- **1-A/A** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025069411/0001213900-25-069411-index.htm)
 
 - **485BPOS** | GPS Funds I  (CIK 0001131042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000089418925005307/0000894189-25-005307-index.htm)
@@ -309,6 +324,9 @@
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183097/0001752724-25-183097-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069425/0001213900-25-069425-index.htm)
+
 - **425** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025069400/0001213900-25-069400-index.htm)
 
@@ -317,6 +335,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068355/0001213900-25-068355-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025069508/0001213900-25-069508-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069359/0001213900-25-069359-index.htm)
@@ -327,8 +348,14 @@
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068357/0001213900-25-068357-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025069454/0001213900-25-069454-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069324/0001213900-25-069324-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025069458/0001213900-25-069458-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068356/0001213900-25-068356-index.htm)
