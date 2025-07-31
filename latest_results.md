@@ -307,10 +307,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
