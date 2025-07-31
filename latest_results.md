@@ -69,6 +69,9 @@
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525167987/0001193125-25-167987-index.htm)
 
+- **424B3** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312525170577/0001193125-25-170577-index.htm)
+
 - **8-K** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025068458/0001213900-25-068458-index.htm)
 
@@ -80,6 +83,12 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025069272/0001213900-25-069272-index.htm)
+
+- **424B3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312525170576/0001193125-25-170576-index.htm)
+
+- **S-1/A** | Franklin Solana Trust  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000206159025000143/0002061590-25-000143-index.htm)
 
 - **8-K** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025068740/0001213900-25-068740-index.htm)
@@ -191,6 +200,9 @@
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170550/0001193125-25-170550-index.htm)
+
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000155837025009894/0001558370-25-009894-index.htm)
 
 - **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008656/0001654954-25-008656-index.htm)
@@ -372,6 +384,9 @@
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001988/0001592900-25-001988-index.htm)
 
+- **20-F** | Fuxing China Group Ltd  (FFFZ)  (CIK 0001954705)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1954705/000192998025000575/0001929980-25-000575-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
 
@@ -385,10 +400,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
@@ -476,6 +491,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025068916/0001213900-25-068916-index.htm)
+
+- **N-PX** | STEWARD FUNDS, INC.  (CIK 0000092500)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/92500/000139834425014254/0001398344-25-014254-index.htm)
 
 - **N-PX** | CITY NATIONAL ROCHDALE FUNDS  (CIK 0001026977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1026977/000143893425000406/0001438934-25-000406-index.htm)
