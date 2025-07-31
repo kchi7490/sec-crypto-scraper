@@ -3,6 +3,9 @@
 - **10-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225021488/0001641172-25-021488-index.htm)
 
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000153/0001679788-25-000153-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525169353/0001193125-25-169353-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **8-K** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000110465925071963/0001104659-25-071963-index.htm)
+
+- **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000154/0001679788-25-000154-index.htm)
 
 - **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021498/0001641172-25-021498-index.htm)
@@ -90,11 +96,20 @@
 - **S-3/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025068806/0001213900-25-068806-index.htm)
 
+- **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025036988/0001628280-25-036988-index.htm)
+
+- **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/0001065088-25-000077-index.htm)
+
 - **POS AM** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025069762/0001213900-25-069762-index.htm)
 
 - **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025068715/0001213900-25-068715-index.htm)
+
+- **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025100916/0000950170-25-100916-index.htm)
 
 - **POS AM** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025068800/0001213900-25-068800-index.htm)
@@ -108,6 +123,9 @@
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000019/0001144879-25-000019-index.htm)
 
+- **424B3** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025069998/0001213900-25-069998-index.htm)
+
 - **S-3** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225021447/0001641172-25-021447-index.htm)
 
@@ -117,11 +135,17 @@
 - **S-3** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225021449/0001641172-25-021449-index.htm)
 
+- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000095017025100875/0000950170-25-100875-index.htm)
+
 - **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625005627/0001829126-25-005627-index.htm)
 
 - **POSASR** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011460/0001493152-25-011460-index.htm)
+
+- **20-F** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225021732/0001641172-25-021732-index.htm)
 
 - **ARS** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480525000027/0000924805-25-000027-index.htm)
@@ -165,6 +189,9 @@
 - **F-4/A** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025068765/0001213900-25-068765-index.htm)
 
+- **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170550/0001193125-25-170550-index.htm)
+
 - **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008656/0001654954-25-008656-index.htm)
 
@@ -176,6 +203,9 @@
 
 - **DEFA14A** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008614/0001654954-25-008614-index.htm)
+
+- **424B5** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170517/0001193125-25-170517-index.htm)
 
 - **S-3ASR** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005500/0001683168-25-005500-index.htm)
@@ -318,6 +348,9 @@
 - **485BPOS** | GPS Funds I  (CIK 0001131042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000089418925005307/0000894189-25-005307-index.htm)
 
+- **424B4** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025037014/0001628280-25-037014-index.htm)
+
 - **POS AMI** | All Terrain Fund  (CIK 0001638600)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1638600/000139834425014042/0001398344-25-014042-index.htm)
 
@@ -419,6 +452,9 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068828/0001213900-25-068828-index.htm)
+
+- **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238625000123/0001592386-25-000123-index.htm)
 
 - **10-Q** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312425000235/0000073124-25-000235-index.htm)
