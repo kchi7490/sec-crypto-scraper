@@ -85,6 +85,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000040/0000008818-25-000040-index.htm)
 
 - **S-3/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025069756/0001213900-25-069756-index.htm)
+
+- **S-3/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025068806/0001213900-25-068806-index.htm)
 
 - **S-4/A** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
@@ -203,6 +206,9 @@
 
 - **PRER14A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025068805/0001213900-25-068805-index.htm)
+
+- **POS AM** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025069762/0001213900-25-069762-index.htm)
 
 - **PRE 14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021510/0001641172-25-021510-index.htm)
