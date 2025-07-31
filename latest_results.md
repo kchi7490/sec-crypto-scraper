@@ -300,6 +300,9 @@
 - **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025069316/0001213900-25-069316-index.htm)
 
+- **487** | FT 12323  (CIK 0002064912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064912/000144554625005170/0001445546-25-005170-index.htm)
+
 - **N-2** | AMG Pantheon Fund, LLC  (CIK 0001609211)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1609211/000119312525167956/0001193125-25-167956-index.htm)
 
@@ -337,10 +340,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000005193125000766/0000051931-25-000766-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
