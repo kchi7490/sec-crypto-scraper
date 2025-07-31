@@ -18,6 +18,9 @@
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525168405/0001193125-25-168405-index.htm)
 
+- **8-K** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495425008758/0001654954-25-008758-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825005474/0001683168-25-005474-index.htm)
 
@@ -87,6 +90,9 @@
 - **424B3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312525170576/0001193125-25-170576-index.htm)
 
+- **S-1/A** | Fidelity Solana Fund  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525170603/0001193125-25-170603-index.htm)
+
 - **S-1/A** | Franklin Solana Trust  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000206159025000143/0002061590-25-000143-index.htm)
 
@@ -96,8 +102,17 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000148/0001818874-25-000148-index.htm)
 
+- **S-1/A** | CoinShares Solana Staking ETF  (CIK 0002073298)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073298/000199937125010393/0001999371-25-010393-index.htm)
+
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000040/0000008818-25-000040-index.htm)
+
+- **424B3** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774925024228/0001437749-25-024228-index.htm)
+
+- **S-1/A** | Bitwise Solana ETF  (CIK 0002045872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025070066/0001213900-25-070066-index.htm)
 
 - **S-3/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025069756/0001213900-25-069756-index.htm)
@@ -123,6 +138,9 @@
 - **POS AM** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025068800/0001213900-25-068800-index.htm)
 
+- **424B3** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774925024229/0001437749-25-024229-index.htm)
+
 - **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000161/0001633917-25-000161-index.htm)
 
@@ -146,6 +164,12 @@
 
 - **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000095017025100875/0000950170-25-100875-index.htm)
+
+- **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000155837025009896/0001558370-25-009896-index.htm)
+
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925011230/0001214659-25-011230-index.htm)
 
 - **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625005627/0001829126-25-005627-index.htm)
@@ -255,8 +279,14 @@
 - **PRE 14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021510/0001641172-25-021510-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025070067/0001213900-25-070067-index.htm)
+
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000054/0001815776-25-000054-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000059/0001815776-25-000059-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025068632/0001213900-25-068632-index.htm)
@@ -332,6 +362,9 @@
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000164117225021504/0001641172-25-021504-index.htm)
+
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225021775/0001641172-25-021775-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025068917/0001213900-25-068917-index.htm)
@@ -452,6 +485,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025068357/0001213900-25-068357-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070072/0001213900-25-070072-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025069454/0001213900-25-069454-index.htm)
