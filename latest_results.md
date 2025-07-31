@@ -153,11 +153,11 @@
 - **F-4/A** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025068765/0001213900-25-068765-index.htm)
 
-- **S-8** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825005488/0001683168-25-005488-index.htm)
-
 - **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425008656/0001654954-25-008656-index.htm)
+
+- **S-8** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825005488/0001683168-25-005488-index.htm)
 
 - **424B5** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005502/0001683168-25-005502-index.htm)
@@ -222,11 +222,17 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925072147/0001104659-25-072147-index.htm)
 
+- **SCHEDULE 13D** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925072459/0001104659-25-072459-index.htm)
+
 - **20-F** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025069404/0001213900-25-069404-index.htm)
 
 - **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225021279/0001641172-25-021279-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925072453/0001104659-25-072453-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925071419/0001104659-25-071419-index.htm)
