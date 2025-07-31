@@ -141,6 +141,9 @@
 - **F-4** | Veraxa Biotech Holding AG  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625005620/0001829126-25-005620-index.htm)
 
+- **F-4/A** | Veraxa Biotech Holding AG  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625005637/0001829126-25-005637-index.htm)
+
 - **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025068434/0001213900-25-068434-index.htm)
 
@@ -168,6 +171,9 @@
 - **S-3ASR** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005500/0001683168-25-005500-index.htm)
 
+- **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925072486/0001104659-25-072486-index.htm)
+
 - **424B5** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000088/0001381197-25-000088-index.htm)
 
@@ -176,6 +182,9 @@
 
 - **S-1** | GSR IV Acquisition Corp.  (CIK 0002072404)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390025068819/0001213900-25-068819-index.htm)
+
+- **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000164117225021670/0001641172-25-021670-index.htm)
 
 - **S-1/A** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025068817/0001213900-25-068817-index.htm)
@@ -255,6 +264,9 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011467/0001493152-25-011467-index.htm)
 
+- **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225011507/0001493152-25-011507-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000080/0001383395-25-000080-index.htm)
 
@@ -296,6 +308,9 @@
 
 - **485BPOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312525167896/0001193125-25-167896-index.htm)
+
+- **497** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001988/0001592900-25-001988-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001900/0001592900-25-001900-index.htm)
