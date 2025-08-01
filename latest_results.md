@@ -387,3 +387,6 @@
 - **N-PX** | CITY NATIONAL ROCHDALE FUNDS  (CIK 0001026977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1026977/000143893425000406/0001438934-25-000406-index.htm)
 
+- **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000058/0001500217-25-000058-index.htm)
+
