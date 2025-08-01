@@ -36,6 +36,9 @@
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000250/0001783879-25-000250-index.htm)
 
+- **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225021926/0001641172-25-021926-index.htm)
+
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025068962/0001213900-25-068962-index.htm)
 
@@ -57,6 +60,9 @@
 - **10-Q** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325013438/0001062993-25-013438-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125028427/0001140361-25-028427-index.htm)
+
 - **424B3** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312525170577/0001193125-25-170577-index.htm)
 
@@ -71,6 +77,9 @@
 
 - **S-1/A** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525170603/0001193125-25-170603-index.htm)
+
+- **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125028418/0001140361-25-028418-index.htm)
 
 - **S-1/A** | Franklin Solana Trust  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000206159025000143/0002061590-25-000143-index.htm)
@@ -144,6 +153,12 @@
 - **S-1/A** | 21Shares Core Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/0001213900-25-069346-index.htm)
 
+- **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005402/0001477932-25-005402-index.htm)
+
+- **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465925073156/0001104659-25-073156-index.htm)
+
 - **10-12G** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312525171681/0001193125-25-171681-index.htm)
 
@@ -158,6 +173,9 @@
 
 - **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025070223/0001213900-25-070223-index.htm)
+
+- **S-1/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025070709/0001213900-25-070709-index.htm)
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170550/0001193125-25-170550-index.htm)
@@ -192,6 +210,9 @@
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000164117225021670/0001641172-25-021670-index.htm)
 
+- **N-PX** | UNIFIED SERIES TRUST  (CIK 0001199046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1199046/000158064225004759/0001580642-25-004759-index.htm)
+
 - **10-Q** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077725000118/0001390777-25-000118-index.htm)
 
@@ -206,6 +227,9 @@
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025070067/0001213900-25-070067-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005401/0001477932-25-005401-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000054/0001815776-25-000054-index.htm)
@@ -309,6 +333,9 @@
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425013626/0001888524-25-013626-index.htm)
 
+- **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025070688/0001213900-25-070688-index.htm)
+
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025001988/0001592900-25-001988-index.htm)
 
@@ -350,6 +377,9 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069425/0001213900-25-069425-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070672/0001213900-25-070672-index.htm)
 
 - **10-Q** | FEDERATED HERMES, INC.  (FHI)  (CIK 0001056288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1056288/000105628825000021/0001056288-25-000021-index.htm)
