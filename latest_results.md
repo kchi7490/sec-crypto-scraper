@@ -48,6 +48,9 @@
 - **8-K** | Empery Digital, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005537/0001683168-25-005537-index.htm)
 
+- **F-1/A** | BGIN BLOCKCHAIN Ltd  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025070253/0001213900-25-070253-index.htm)
+
 - **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125010396/0001999371-25-010396-index.htm)
 
@@ -81,11 +84,17 @@
 - **S-3/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025069756/0001213900-25-069756-index.htm)
 
+- **424B3** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025070105/0001213900-25-070105-index.htm)
+
 - **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025036988/0001628280-25-036988-index.htm)
 
 - **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/0001065088-25-000077-index.htm)
+
+- **424B3** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025070110/0001213900-25-070110-index.htm)
 
 - **POS AM** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000121390025069762/0001213900-25-069762-index.htm)
@@ -129,6 +138,9 @@
 - **F-4/A** | Veraxa Biotech Holding AG  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625005637/0001829126-25-005637-index.htm)
 
+- **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025070223/0001213900-25-070223-index.htm)
+
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170550/0001193125-25-170550-index.htm)
 
@@ -140,6 +152,9 @@
 
 - **424B5** | Volcon, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005502/0001683168-25-005502-index.htm)
+
+- **424B7** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525170657/0001193125-25-170657-index.htm)
 
 - **424B5** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525170517/0001193125-25-170517-index.htm)
@@ -285,6 +300,9 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069948/0001213900-25-069948-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070181/0001213900-25-070181-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069425/0001213900-25-069425-index.htm)
 
@@ -303,6 +321,9 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069359/0001213900-25-069359-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025070224/0001213900-25-070224-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070072/0001213900-25-070072-index.htm)
 
@@ -315,8 +336,14 @@
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025069458/0001213900-25-069458-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025070227/0001213900-25-070227-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025068828/0001213900-25-068828-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025070226/0001213900-25-070226-index.htm)
 
 - **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238625000123/0001592386-25-000123-index.htm)
