@@ -171,6 +171,9 @@
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000164117225021670/0001641172-25-021670-index.htm)
 
+- **10-Q** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077725000118/0001390777-25-000118-index.htm)
+
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000415/0001137360-25-000415-index.htm)
 
@@ -240,8 +243,14 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025068917/0001213900-25-068917-index.htm)
 
+- **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925072897/0001104659-25-072897-index.htm)
+
 - **N-14** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525170636/0001193125-25-170636-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025037132/0001628280-25-037132-index.htm)
 
 - **424B5** | SOS Ltd  (SOS)  (CIK 0001346610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390025069766/0001213900-25-069766-index.htm)
