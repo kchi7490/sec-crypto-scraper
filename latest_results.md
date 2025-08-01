@@ -264,6 +264,9 @@
 - **424B5** | SOS Ltd  (SOS)  (CIK 0001346610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390025069766/0001213900-25-069766-index.htm)
 
+- **497K** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312525171516/0001193125-25-171516-index.htm)
+
 - **424B3** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025069319/0001213900-25-069319-index.htm)
 
