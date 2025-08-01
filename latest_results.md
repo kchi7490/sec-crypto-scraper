@@ -54,6 +54,9 @@
 - **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125010396/0001999371-25-010396-index.htm)
 
+- **10-Q** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325013438/0001062993-25-013438-index.htm)
+
 - **424B3** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312525170577/0001193125-25-170577-index.htm)
 
@@ -92,6 +95,9 @@
 
 - **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025036988/0001628280-25-036988-index.htm)
+
+- **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000121254525000214/0001212545-25-000214-index.htm)
 
 - **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000077/0001065088-25-000077-index.htm)
@@ -174,6 +180,9 @@
 - **424B5** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000088/0001381197-25-000088-index.htm)
 
+- **485APOS** | BlackRock ETF Trust  (CIK 0001761055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312525171648/0001193125-25-171648-index.htm)
+
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000164117225021670/0001641172-25-021670-index.htm)
 
@@ -231,6 +240,9 @@
 - **F-3ASR** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525170429/0001193125-25-170429-index.htm)
 
+- **6-K** | ATA Creativity Global  (AACG)  (CIK 0001420529)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1420529/000110465925073110/0001104659-25-073110-index.htm)
+
 - **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125028120/0001140361-25-028120-index.htm)
 
@@ -273,6 +285,12 @@
 - **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025069316/0001213900-25-069316-index.htm)
 
+- **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000095017025101399/0000950170-25-101399-index.htm)
+
+- **10-Q** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101409/0000950170-25-101409-index.htm)
+
 - **487** | FT 12323  (CIK 0002064912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064912/000144554625005170/0001445546-25-005170-index.htm)
 
@@ -295,10 +313,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1553195/000005193125000781/0000051931-25-000781-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
@@ -327,6 +345,9 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069425/0001213900-25-069425-index.htm)
 
+- **10-Q** | FEDERATED HERMES, INC.  (FHI)  (CIK 0001056288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1056288/000105628825000021/0001056288-25-000021-index.htm)
+
 - **425** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025069400/0001213900-25-069400-index.htm)
 
@@ -338,6 +359,12 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025069508/0001213900-25-069508-index.htm)
+
+- **10-Q** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000095017025101415/0000950170-25-101415-index.htm)
+
+- **10-Q** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025101413/0000950170-25-101413-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025069359/0001213900-25-069359-index.htm)
@@ -375,6 +402,18 @@
 - **10-Q** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312425000235/0000073124-25-000235-index.htm)
 
+- **10-Q** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000095017025101416/0000950170-25-101416-index.htm)
+
+- **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101403/0000950170-25-101403-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000095017025101410/0000950170-25-101410-index.htm)
+
+- **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000095017025101400/0000950170-25-101400-index.htm)
+
 - **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125028061/0001140361-25-028061-index.htm)
 
@@ -392,4 +431,7 @@
 
 - **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000058/0001500217-25-000058-index.htm)
+
+- **10-12G** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312525171681/0001193125-25-171681-index.htm)
 
