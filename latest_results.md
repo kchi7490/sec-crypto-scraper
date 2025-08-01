@@ -129,6 +129,9 @@
 - **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925011230/0001214659-25-011230-index.htm)
 
+- **424B5** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011541/0001493152-25-011541-index.htm)
+
 - **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828025037149/0001628280-25-037149-index.htm)
 
@@ -140,6 +143,9 @@
 
 - **S-1/A** | 21Shares Core Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/0001213900-25-069346-index.htm)
+
+- **10-12G** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312525171681/0001193125-25-171681-index.htm)
 
 - **F-1** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000095017025100411/0000950170-25-100411-index.htm)
@@ -313,10 +319,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1553195/000005193125000781/0000051931-25-000781-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183099/0001752724-25-183099-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183096/0001752724-25-183096-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000175272425183095/0001752724-25-183095-index.htm)
@@ -431,7 +437,4 @@
 
 - **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000058/0001500217-25-000058-index.htm)
-
-- **10-12G** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312525171681/0001193125-25-171681-index.htm)
 
