@@ -84,6 +84,9 @@
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774925024506/0001437749-25-024506-index.htm)
 
+- **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022054/0001641172-25-022054-index.htm)
+
 - **424B2** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312525172158/0001193125-25-172158-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **8-K** | Empery Digital, Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005590/0001683168-25-005590-index.htm)
+
+- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000164117225022052/0001641172-25-022052-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025071124/0001213900-25-071124-index.htm)
@@ -167,4 +173,7 @@
 
 - **N-PX** | apricus wealth, LLC  (CIK 0001913842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913842/000191384225000007/0001913842-25-000007-index.htm)
+
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189525002077/0000921895-25-002077-index.htm)
 
