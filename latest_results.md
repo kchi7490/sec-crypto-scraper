@@ -105,6 +105,12 @@
 - **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000164117225022052/0001641172-25-022052-index.htm)
 
+- **424B5** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000164117225022067/0001641172-25-022067-index.htm)
+
+- **S-1** | M3-Brigade Acquisition VI Corp.  (CIK 0002073928)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025071471/0001213900-25-071471-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025071124/0001213900-25-071124-index.htm)
 
