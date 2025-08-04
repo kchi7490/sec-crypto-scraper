@@ -15,11 +15,11 @@
 - **8-K** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655-index.htm)
 
-- **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
+
+- **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
 
 - **8-K** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025101660/0000950170-25-101660-index.htm)
