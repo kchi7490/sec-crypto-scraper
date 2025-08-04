@@ -60,6 +60,9 @@
 - **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225022006/0001641172-25-022006-index.htm)
 
+- **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000189/0001649749-25-000189-index.htm)
+
 - **10-Q** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625005713/0001829126-25-005713-index.htm)
 
