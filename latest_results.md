@@ -102,6 +102,9 @@
 - **10-Q** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/0000950170-25-102209-index.htm)
 
+- **10-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025037656/0001628280-25-037656-index.htm)
+
 - **8-K/A** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466925000025/0001794669-25-000025-index.htm)
 
