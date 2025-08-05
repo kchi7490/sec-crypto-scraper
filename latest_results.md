@@ -51,6 +51,9 @@
 - **8-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312525172207/0001193125-25-172207-index.htm)
 
+- **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000164117225022128/0001641172-25-022128-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070906/0001213900-25-070906-index.htm)
 
@@ -60,6 +63,9 @@
 - **10-Q** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000044/0001554859-25-000044-index.htm)
 
+- **S-1/A** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225005436/0001477932-25-005436-index.htm)
+
 - **S-1** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495425008886/0001654954-25-008886-index.htm)
 
@@ -68,6 +74,9 @@
 
 - **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000164117225022006/0001641172-25-022006-index.htm)
+
+- **10-Q** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/0000950170-25-102209-index.htm)
 
 - **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000189/0001649749-25-000189-index.htm)
@@ -165,6 +174,15 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025071251/0001213900-25-071251-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071699/0001213900-25-071699-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071697/0001213900-25-071697-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071698/0001213900-25-071698-index.htm)
+
 - **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000166/0000060086-25-000166-index.htm)
 
@@ -177,11 +195,17 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070825/0001213900-25-070825-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
+
 - **N-PX** | SPIRIT OF AMERICA INVESTMENT FUND INC  (CIK 0001039667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039667/000158064225004787/0001580642-25-004787-index.htm)
 
 - **N-PX** | apricus wealth, LLC  (CIK 0001913842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913842/000191384225000007/0001913842-25-000007-index.htm)
+
+- **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025071508/0001213900-25-071508-index.htm)
 
 - **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189525002077/0000921895-25-002077-index.htm)
