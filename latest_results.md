@@ -42,6 +42,9 @@
 - **8-K** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011558/0001493152-25-011558-index.htm)
 
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000163/0001679788-25-000163-index.htm)
+
 - **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225021995/0001641172-25-021995-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **8-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312525172207/0001193125-25-172207-index.htm)
+
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000032/0001859392-25-000032-index.htm)
 
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000164117225022128/0001641172-25-022128-index.htm)
@@ -69,6 +75,12 @@
 - **S-1** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495425008886/0001654954-25-008886-index.htm)
 
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000031/0001859392-25-000031-index.htm)
+
+- **10-Q** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000030/0001859392-25-000030-index.htm)
+
 - **8-K** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793225005416/0001477932-25-005416-index.htm)
 
@@ -77,6 +89,9 @@
 
 - **10-Q** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/0000950170-25-102209-index.htm)
+
+- **8-K/A** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466925000025/0001794669-25-000025-index.htm)
 
 - **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000189/0001649749-25-000189-index.htm)
@@ -92,6 +107,9 @@
 
 - **S-1** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525000894/0001185185-25-000894-index.htm)
+
+- **S-4/A** | Goldenstone Acquisition Ltd.  (GDST, GDSTR, GDSTU, GDSTW)  (CIK 0001858007)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858007/000121390025071731/0001213900-25-071731-index.htm)
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774925024506/0001437749-25-024506-index.htm)
@@ -152,6 +170,9 @@
 
 - **6-K/A** | ATA Creativity Global  (AACG)  (CIK 0001420529)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1420529/000110465925073268/0001104659-25-073268-index.htm)
+
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125028737/0001140361-25-028737-index.htm)
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925073891/0001104659-25-073891-index.htm)
