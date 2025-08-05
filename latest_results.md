@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | AYRO, Inc.  (AYRO)  (CIK 0001086745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000164117225022163/0001641172-25-022163-index.htm)
+
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000095017025101661/0000950170-25-101661-index.htm)
 
@@ -15,11 +18,11 @@
 - **8-K** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
-
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
 
 - **8-K** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025101660/0000950170-25-101660-index.htm)
@@ -163,10 +166,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000095017025102035/0000950170-25-102035-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828025037615/0001628280-25-037615-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828025037433/0001628280-25-037433-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025070880/0001213900-25-070880-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025071768/0001213900-25-071768-index.htm)
 
 - **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390025071338/0001213900-25-071338-index.htm)
