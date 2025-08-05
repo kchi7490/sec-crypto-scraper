@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025072062/0001213900-25-072062-index.htm)
+
 - **8-K** | AYRO, Inc.  (AYRO)  (CIK 0001086745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000164117225022163/0001641172-25-022163-index.htm)
 
@@ -54,6 +57,9 @@
 - **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225021995/0001641172-25-021995-index.htm)
 
+- **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025072065/0001213900-25-072065-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022149/0001641172-25-022149-index.htm)
 
@@ -93,6 +99,9 @@
 - **10-Q** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000030/0001859392-25-000030-index.htm)
 
+- **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025072060/0001213900-25-072060-index.htm)
+
 - **8-K** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793225005416/0001477932-25-005416-index.htm)
 
@@ -111,8 +120,14 @@
 - **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000189/0001649749-25-000189-index.htm)
 
+- **S-1/A** | 21Shares Polkadot Trust  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390025072082/0001213900-25-072082-index.htm)
+
 - **10-Q** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625005713/0001829126-25-005713-index.htm)
+
+- **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072059/0001213900-25-072059-index.htm)
 
 - **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000095017025102424/0000950170-25-102424-index.htm)
@@ -123,8 +138,14 @@
 - **424B3** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925073723/0001104659-25-073723-index.htm)
 
+- **10-Q** | Upstart Holdings, Inc.  (UPST)  (CIK 0001647639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1647639/000164763925000092/0001647639-25-000092-index.htm)
+
 - **S-1** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525000894/0001185185-25-000894-index.htm)
+
+- **10-Q** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000044/0001099590-25-000044-index.htm)
 
 - **S-4/A** | Goldenstone Acquisition Ltd.  (GDST, GDSTR, GDSTU, GDSTW)  (CIK 0001858007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858007/000121390025071731/0001213900-25-071731-index.htm)
@@ -141,6 +162,18 @@
 - **DEF 14A** | BioSig Technologies, Inc.  (BSGM)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000164117225022036/0001641172-25-022036-index.htm)
 
+- **S-1/A** | Permuto Capital AVGO Trust I  (CIK 0002055490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055490/000121390025072083/0001213900-25-072083-index.htm)
+
+- **S-1/A** | Permuto Capital MSFT Trust I  (CIK 0002051974)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051974/000121390025072073/0001213900-25-072073-index.htm)
+
+- **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025072094/0001213900-25-072094-index.htm)
+
+- **10-Q** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195625000009/0001591956-25-000009-index.htm)
+
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000042/0001554859-25-000042-index.htm)
 
@@ -155,6 +188,9 @@
 
 - **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000164117225022052/0001641172-25-022052-index.htm)
+
+- **10-Q** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009047/0001654954-25-009047-index.htm)
 
 - **424B5** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000164117225022067/0001641172-25-022067-index.htm)
@@ -222,11 +258,17 @@
 - **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000014/0001885076-25-000014-index.htm)
 
+- **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000044/0001475841-25-000044-index.htm)
+
 - **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925073371/0001104659-25-073371-index.htm)
 
 - **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125028503/0001140361-25-028503-index.htm)
+
+- **13F-HR** | NewSquare Capital LLC  (CIK 0001546989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1546989/000154698925000005/0001546989-25-000005-index.htm)
 
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000022/0001765048-25-000022-index.htm)
