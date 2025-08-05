@@ -210,6 +210,9 @@
 - **487** | FT 12349  (CIK 0002066130)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066130/000144554625005228/0001445546-25-005228-index.htm)
 
+- **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000011/0001885076-25-000011-index.htm)
+
 - **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925073371/0001104659-25-073371-index.htm)
 
