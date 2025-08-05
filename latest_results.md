@@ -87,6 +87,12 @@
 - **10-Q** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000044/0001554859-25-000044-index.htm)
 
+- **10-Q** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774925024884/0001437749-25-024884-index.htm)
+
+- **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774925024883/0001437749-25-024883-index.htm)
+
 - **S-1/A** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225005436/0001477932-25-005436-index.htm)
 
@@ -125,6 +131,9 @@
 
 - **10-Q** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625005713/0001829126-25-005713-index.htm)
+
+- **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072148/0001213900-25-072148-index.htm)
 
 - **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072059/0001213900-25-072059-index.htm)
@@ -171,6 +180,9 @@
 - **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025072094/0001213900-25-072094-index.htm)
 
+- **424B3** | Lionsgate Studios Corp.  (LION)  (CIK 0002052959)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/0001193125-25-173603-index.htm)
+
 - **10-Q** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195625000009/0001591956-25-000009-index.htm)
 
@@ -213,6 +225,9 @@
 - **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000095017025102035/0000950170-25-102035-index.htm)
 
+- **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025072187/0001213900-25-072187-index.htm)
+
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828025037615/0001628280-25-037615-index.htm)
 
@@ -233,6 +248,9 @@
 
 - **F-3/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025071316/0001213900-25-071316-index.htm)
+
+- **20-F/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225022290/0001641172-25-022290-index.htm)
 
 - **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125028501/0001140361-25-028501-index.htm)
@@ -282,8 +300,14 @@
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000024/0001765048-25-000024-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072143/0001213900-25-072143-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070869/0001213900-25-070869-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025072186/0001213900-25-072186-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025071251/0001213900-25-071251-index.htm)
@@ -311,6 +335,12 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
+
+- **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
 
 - **N-PX** | SPIRIT OF AMERICA INVESTMENT FUND INC  (CIK 0001039667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039667/000158064225004787/0001580642-25-004787-index.htm)
