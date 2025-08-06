@@ -234,6 +234,9 @@
 - **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000164117225022052/0001641172-25-022052-index.htm)
 
+- **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000039/0000934549-25-000039-index.htm)
+
 - **10-Q** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009047/0001654954-25-009047-index.htm)
 
@@ -278,7 +281,4 @@
 
 - **F-3/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025071316/0001213900-25-071316-index.htm)
-
-- **20-F/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225022290/0001641172-25-022290-index.htm)
 
