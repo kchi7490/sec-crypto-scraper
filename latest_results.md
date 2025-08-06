@@ -63,6 +63,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022149/0001641172-25-022149-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225022350/0001641172-25-022350-index.htm)
+
 - **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000167/0001679788-25-000167-index.htm)
 
@@ -281,4 +284,115 @@
 
 - **F-3/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025071316/0001213900-25-071316-index.htm)
+
+- **20-F/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225022290/0001641172-25-022290-index.htm)
+
+- **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125028501/0001140361-25-028501-index.htm)
+
+- **6-K/A** | ATA Creativity Global  (AACG)  (CIK 0001420529)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1420529/000110465925073268/0001104659-25-073268-index.htm)
+
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125028737/0001140361-25-028737-index.htm)
+
+- **6-K** | Mogo Inc.  (MOGO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000147793225005461/0001477932-25-005461-index.htm)
+
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925073891/0001104659-25-073891-index.htm)
+
+- **S-1/A** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025037294/0001628280-25-037294-index.htm)
+
+- **487** | FT 12349  (CIK 0002066130)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066130/000144554625005228/0001445546-25-005228-index.htm)
+
+- **N-CSRS/A** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000015/0001885076-25-000015-index.htm)
+
+- **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000011/0001885076-25-000011-index.htm)
+
+- **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000014/0001885076-25-000014-index.htm)
+
+- **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000044/0001475841-25-000044-index.htm)
+
+- **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925073371/0001104659-25-073371-index.htm)
+
+- **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125028503/0001140361-25-028503-index.htm)
+
+- **13F-HR** | NewSquare Capital LLC  (CIK 0001546989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1546989/000154698925000005/0001546989-25-000005-index.htm)
+
+- **10-Q** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000022/0001765048-25-000022-index.htm)
+
+- **10-Q** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000024/0001765048-25-000024-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072143/0001213900-25-072143-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070869/0001213900-25-070869-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025072186/0001213900-25-072186-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072253/0001213900-25-072253-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025071251/0001213900-25-071251-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071699/0001213900-25-071699-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071697/0001213900-25-071697-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025072250/0001213900-25-072250-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071698/0001213900-25-071698-index.htm)
+
+- **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000166/0000060086-25-000166-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125010519/0001999371-25-010519-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325006453/0001683863-25-006453-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070825/0001213900-25-070825-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
+
+- **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
+
+- **N-PX** | SPIRIT OF AMERICA INVESTMENT FUND INC  (CIK 0001039667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1039667/000158064225004787/0001580642-25-004787-index.htm)
+
+- **N-PX** | apricus wealth, LLC  (CIK 0001913842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913842/000191384225000007/0001913842-25-000007-index.htm)
+
+- **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025071508/0001213900-25-071508-index.htm)
+
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189525002077/0000921895-25-002077-index.htm)
 
