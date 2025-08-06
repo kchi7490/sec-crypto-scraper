@@ -9,11 +9,11 @@
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000095017025101661/0000950170-25-101661-index.htm)
 
-- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000095017025101658/0000950170-25-101658-index.htm)
-
 - **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000095017025101663/0000950170-25-101663-index.htm)
+
+- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000095017025101658/0000950170-25-101658-index.htm)
 
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000095017025101657/0000950170-25-101657-index.htm)
@@ -176,6 +176,9 @@
 
 - **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025070894/0001213900-25-070894-index.htm)
+
+- **10-Q** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925011582/0001214659-25-011582-index.htm)
 
 - **424B3** | Southport Acquisition Corp  (PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925073723/0001104659-25-073723-index.htm)
