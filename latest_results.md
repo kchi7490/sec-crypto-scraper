@@ -408,6 +408,9 @@
 - **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
 
+- **N-PX** | ARCHER INVESTMENT SERIES TRUST  (CIK 0001477491)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1477491/000116204425000796/0001162044-25-000796-index.htm)
+
 - **N-PX** | SPIRIT OF AMERICA INVESTMENT FUND INC  (CIK 0001039667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039667/000158064225004787/0001580642-25-004787-index.htm)
 
