@@ -21,11 +21,11 @@
 - **8-K** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
-
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
 
 - **8-K** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025101660/0000950170-25-101660-index.htm)
@@ -102,6 +102,9 @@
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000164117225022128/0001641172-25-022128-index.htm)
 
+- **PRE 14A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125029139/0001140361-25-029139-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070906/0001213900-25-070906-index.htm)
 
@@ -119,6 +122,9 @@
 
 - **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774925024883/0001437749-25-024883-index.htm)
+
+- **S-3** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125029159/0001140361-25-029159-index.htm)
 
 - **S-1/A** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225005436/0001477932-25-005436-index.htm)
@@ -419,6 +425,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325006453/0001683863-25-006453-index.htm)
+
+- **10-Q** | Flywire Corp  (FLYW)  (CIK 0001580560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000095017025104179/0000950170-25-104179-index.htm)
 
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072550/0001213900-25-072550-index.htm)
