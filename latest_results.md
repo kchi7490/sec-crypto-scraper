@@ -21,11 +21,11 @@
 - **8-K** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000095017025101655/0000950170-25-101655-index.htm)
 
-- **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025101664/0000950170-25-101664-index.htm)
+
+- **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000095017025101667/0000950170-25-101667-index.htm)
 
 - **8-K** | Grayscale Horizen Trust (ZEN)  (HZEN)  (CIK 0001748945)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748945/000095017025101660/0000950170-25-101660-index.htm)
@@ -83,6 +83,9 @@
 
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005501/0001477932-25-005501-index.htm)
+
+- **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000095017025103990/0000950170-25-103990-index.htm)
 
 - **8-K** | Empery Digital Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005684/0001683168-25-005684-index.htm)
@@ -162,6 +165,9 @@
 - **S-1/A** | 21Shares Polkadot Trust  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390025072082/0001213900-25-072082-index.htm)
 
+- **S-1** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925074713/0001104659-25-074713-index.htm)
+
 - **10-Q** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625005713/0001829126-25-005713-index.htm)
 
@@ -170,6 +176,9 @@
 
 - **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072059/0001213900-25-072059-index.htm)
+
+- **S-1/A** | FG Merger III Corp.  (CIK 0001997389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465925074714/0001104659-25-074714-index.htm)
 
 - **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000095017025102424/0000950170-25-102424-index.htm)
@@ -200,6 +209,9 @@
 
 - **10-Q** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000044/0001099590-25-000044-index.htm)
+
+- **10-Q** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000103/0001381197-25-000103-index.htm)
 
 - **S-4/A** | Goldenstone Acquisition Ltd.  (GDST, GDSTR, GDSTU, GDSTW)  (CIK 0001858007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858007/000121390025071731/0001213900-25-071731-index.htm)
@@ -263,6 +275,9 @@
 
 - **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000039/0000934549-25-000039-index.htm)
+
+- **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413825000035/0001974138-25-000035-index.htm)
 
 - **10-Q** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009047/0001654954-25-009047-index.htm)
@@ -404,6 +419,15 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325006453/0001683863-25-006453-index.htm)
+
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072550/0001213900-25-072550-index.htm)
+
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000155837025010529/0001558370-25-010529-index.htm)
+
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072556/0001213900-25-072556-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070825/0001213900-25-070825-index.htm)
