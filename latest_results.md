@@ -177,6 +177,9 @@
 - **10-Q/A** | Upstart Holdings, Inc.  (UPST)  (CIK 0001647639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1647639/000164763925000100/0001647639-25-000100-index.htm)
 
+- **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225022358/0001641172-25-022358-index.htm)
+
 - **10-Q** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000044/0001099590-25-000044-index.htm)
 
@@ -276,6 +279,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025071768/0001213900-25-071768-index.htm)
 
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225022356/0001641172-25-022356-index.htm)
+
 - **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390025071338/0001213900-25-071338-index.htm)
 
@@ -287,6 +293,9 @@
 
 - **20-F/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000164117225022290/0001641172-25-022290-index.htm)
+
+- **6-K/A** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225022353/0001641172-25-022353-index.htm)
 
 - **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125028501/0001140361-25-028501-index.htm)
@@ -376,10 +385,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070825/0001213900-25-070825-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
 
 - **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
