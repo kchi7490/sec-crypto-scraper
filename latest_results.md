@@ -9,11 +9,11 @@
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000095017025101661/0000950170-25-101661-index.htm)
 
-- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000095017025101663/0000950170-25-101663-index.htm)
-
 - **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000095017025101658/0000950170-25-101658-index.htm)
+
+- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000095017025101663/0000950170-25-101663-index.htm)
 
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000095017025101657/0000950170-25-101657-index.htm)
@@ -80,6 +80,9 @@
 
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000032/0001859392-25-000032-index.htm)
+
+- **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005501/0001477932-25-005501-index.htm)
 
 - **8-K** | Empery Digital Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005684/0001683168-25-005684-index.htm)
