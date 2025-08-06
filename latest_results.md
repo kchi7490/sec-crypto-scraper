@@ -411,6 +411,9 @@
 - **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
 
+- **N-PX** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000102140825001011/0001021408-25-001011-index.htm)
+
 - **N-PX** | ARCHER INVESTMENT SERIES TRUST  (CIK 0001477491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1477491/000116204425000796/0001162044-25-000796-index.htm)
 
