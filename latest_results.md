@@ -75,8 +75,17 @@
 - **8-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312525172207/0001193125-25-172207-index.htm)
 
+- **8-K** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465925074544/0001104659-25-074544-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000032/0001859392-25-000032-index.htm)
+
+- **8-K** | Empery Digital Inc.  (VLCN)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005684/0001683168-25-005684-index.htm)
+
+- **8-K** | Enertopia Corp.  (ENRT)  (CIK 0001346022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1346022/000106299325013680/0001062993-25-013680-index.htm)
 
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000095017025102419/0000950170-25-102419-index.htm)
@@ -92,6 +101,9 @@
 
 - **8-K** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025070903/0001213900-25-070903-index.htm)
+
+- **10-Q** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011636/0001493152-25-011636-index.htm)
 
 - **10-Q** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000044/0001554859-25-000044-index.htm)
@@ -236,6 +248,9 @@
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000202/0001099910-25-000202-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125029058/0001140361-25-029058-index.htm)
 
 - **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000164117225022052/0001641172-25-022052-index.htm)
@@ -385,10 +400,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025070825/0001213900-25-070825-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072171/0001213900-25-072171-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025071569/0001213900-25-071569-index.htm)
 
 - **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
