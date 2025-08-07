@@ -126,6 +126,9 @@
 - **10-Q** | MICROSTRATEGY Inc  (MSTR, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/0000950170-25-102209-index.htm)
 
+- **10-Q** | Customers Bancorp, Inc.  (CUBB, CUBI, CUBI-PF)  (CIK 0001488813)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1488813/000148881325000071/0001488813-25-000071-index.htm)
+
 - **10-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025037656/0001628280-25-037656-index.htm)
 
@@ -158,6 +161,9 @@
 
 - **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000031/0000714395-25-000031-index.htm)
+
+- **S-3** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225022593/0001641172-25-022593-index.htm)
 
 - **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072148/0001213900-25-072148-index.htm)
@@ -363,6 +369,12 @@
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925073891/0001104659-25-073891-index.htm)
 
+- **10-Q** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312525175490/0001193125-25-175490-index.htm)
+
+- **10-Q** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000095017025105121/0000950170-25-105121-index.htm)
+
 - **487** | FT 12350  (CIK 0002066132)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066132/000144554625005265/0001445546-25-005265-index.htm)
 
@@ -387,17 +399,32 @@
 - **10-Q** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162828025038626/0001628280-25-038626-index.htm)
 
+- **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000095017025105149/0000950170-25-105149-index.htm)
+
+- **424B1** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925075228/0001104659-25-075228-index.htm)
+
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
 
 - **13F-HR** | NewSquare Capital LLC  (CIK 0001546989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546989/000154698925000005/0001546989-25-000005-index.htm)
 
+- **10-Q** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312525175509/0001193125-25-175509-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072143/0001213900-25-072143-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025072773/0001213900-25-072773-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000134100425000059/0001341004-25-000059-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000134100425000061/0001341004-25-000061-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072599/0001213900-25-072599-index.htm)
@@ -407,6 +434,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025072186/0001213900-25-072186-index.htm)
+
+- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000095017025105150/0000950170-25-105150-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072253/0001213900-25-072253-index.htm)
@@ -467,6 +497,9 @@
 
 - **N-PX** | ARCHER INVESTMENT SERIES TRUST  (CIK 0001477491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1477491/000116204425000796/0001162044-25-000796-index.htm)
+
+- **N-PX** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000102140825001123/0001021408-25-001123-index.htm)
 
 - **N-PX** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014670/0001398344-25-014670-index.htm)
