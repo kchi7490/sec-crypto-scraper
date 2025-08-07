@@ -321,6 +321,9 @@
 - **10-Q** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162828025038626/0001628280-25-038626-index.htm)
 
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
+
 - **13F-HR** | NewSquare Capital LLC  (CIK 0001546989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546989/000154698925000005/0001546989-25-000005-index.htm)
 
