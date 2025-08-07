@@ -384,6 +384,9 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010022/0000950103-25-010022-index.htm)
 
+- **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000164117225022556/0001641172-25-022556-index.htm)
+
 - **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225004867/0001580642-25-004867-index.htm)
 
