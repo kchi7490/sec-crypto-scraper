@@ -183,6 +183,9 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000155837025010632/0001558370-25-010632-index.htm)
 
+- **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000079/0001819989-25-000079-index.htm)
+
 - **S-3** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072233/0001213900-25-072233-index.htm)
 
@@ -240,8 +243,14 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025071768/0001213900-25-071768-index.htm)
 
+- **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000117184325005150/0001171843-25-005150-index.htm)
+
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225022356/0001641172-25-022356-index.htm)
+
+- **6-K** | Mogo Inc.  (MOGO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000095017025104538/0000950170-25-104538-index.htm)
 
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518525000906/0001185185-25-000906-index.htm)
