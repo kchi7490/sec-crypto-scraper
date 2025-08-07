@@ -129,6 +129,9 @@
 - **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000095017025102424/0000950170-25-102424-index.htm)
 
+- **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000155837025010631/0001558370-25-010631-index.htm)
+
 - **10-Q** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036125029315/0001140361-25-029315-index.htm)
 
@@ -176,6 +179,9 @@
 
 - **8-K** | Grayscale Digital Large Cap Fund LLC  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000095017025103088/0000950170-25-103088-index.htm)
+
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000155837025010632/0001558370-25-010632-index.htm)
 
 - **S-3** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072233/0001213900-25-072233-index.htm)
@@ -227,6 +233,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000830/0001279569-25-000830-index.htm)
+
+- **6-K/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025038549/0001628280-25-038549-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025071768/0001213900-25-071768-index.htm)
