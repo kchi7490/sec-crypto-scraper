@@ -81,6 +81,9 @@
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000129/0001335258-25-000129-index.htm)
 
+- **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000082787625000005/0000827876-25-000005-index.htm)
+
 - **8-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000164117225022528/0001641172-25-022528-index.htm)
 
@@ -99,8 +102,14 @@
 - **S-3** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125029159/0001140361-25-029159-index.htm)
 
+- **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025073158/0001213900-25-073158-index.htm)
+
 - **S-1/A** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225005436/0001477932-25-005436-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025073162/0001213900-25-073162-index.htm)
 
 - **8-K** | MODIV INDUSTRIAL, INC.  (MDV, MDV-PA)  (CIK 0001645873)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1645873/000164587325000144/0001645873-25-000144-index.htm)
@@ -132,6 +141,12 @@
 - **10-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025037656/0001628280-25-037656-index.htm)
 
+- **8-K/A** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925075273/0001104659-25-075273-index.htm)
+
+- **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925075274/0001104659-25-075274-index.htm)
+
 - **F-1** | China Tobacco & Alcohol Group Ltd  (CIK 0002025180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025180/000202518025000005/0002025180-25-000005-index.htm)
 
@@ -146,6 +161,9 @@
 
 - **253G2** | Angel Studios, Inc.  (CIK 0001671941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925075122/0001104659-25-075122-index.htm)
+
+- **10-Q** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000155837025010804/0001558370-25-010804-index.htm)
 
 - **S-4** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025072246/0001213900-25-072246-index.htm)
@@ -300,6 +318,9 @@
 - **10-Q** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009047/0001654954-25-009047-index.htm)
 
+- **10-Q** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225022608/0001641172-25-022608-index.htm)
+
 - **10-Q** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025071724/0001213900-25-071724-index.htm)
 
@@ -314,6 +335,9 @@
 
 - **S-1/A** | Iron Horse Acquisitions Corp. II  (IRHO)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025072745/0001213900-25-072745-index.htm)
+
+- **10-Q** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774925025490/0001437749-25-025490-index.htm)
 
 - **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025072187/0001213900-25-072187-index.htm)
@@ -377,6 +401,9 @@
 
 - **487** | FT 12350  (CIK 0002066132)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066132/000144554625005265/0001445546-25-005265-index.htm)
+
+- **10-Q** | ContextLogic Holdings Inc.  (CIK 0002064307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064307/000206430725000009/0002064307-25-000009-index.htm)
 
 - **N-CSRS/A** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000188507625000015/0001885076-25-000015-index.htm)
@@ -501,9 +528,9 @@
 - **N-PX** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000102140825001123/0001021408-25-001123-index.htm)
 
-- **N-PX** | Horizon Funds  (CIK 0001643174)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014670/0001398344-25-014670-index.htm)
-
 - **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025071508/0001213900-25-071508-index.htm)
+
+- **10-Q** | BioAtla, Inc.  (BCAB)  (CIK 0001826892)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826892/000095017025105220/0000950170-25-105220-index.htm)
 
