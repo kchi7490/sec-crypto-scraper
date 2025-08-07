@@ -45,6 +45,9 @@
 - **8-K** | Empery Digital Inc.  (VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005684/0001683168-25-005684-index.htm)
 
+- **8-K** | KNOW LABS, INC.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009164/0001654954-25-009164-index.htm)
+
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925074863/0001104659-25-074863-index.htm)
 
