@@ -51,6 +51,9 @@
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925074863/0001104659-25-074863-index.htm)
 
+- **8-K** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315225011680/0001493152-25-011680-index.htm)
+
 - **8-K** | Enertopia Corp.  (ENRT)  (CIK 0001346022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346022/000106299325013680/0001062993-25-013680-index.htm)
 
@@ -293,6 +296,9 @@
 
 - **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000044/0001475841-25-000044-index.htm)
+
+- **253G2** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025072822/0001213900-25-072822-index.htm)
 
 - **13F-HR** | NewSquare Capital LLC  (CIK 0001546989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546989/000154698925000005/0001546989-25-000005-index.htm)
