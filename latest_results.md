@@ -120,6 +120,9 @@
 - **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925074422/0001104659-25-074422-index.htm)
 
+- **253G2** | Angel Studios, Inc.  (CIK 0001671941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925075122/0001104659-25-075122-index.htm)
+
 - **S-4** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025072246/0001213900-25-072246-index.htm)
 
