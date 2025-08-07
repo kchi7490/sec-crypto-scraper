@@ -138,6 +138,9 @@
 - **10-Q** | Customers Bancorp, Inc.  (CUBB, CUBI, CUBI-PF)  (CIK 0001488813)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1488813/000148881325000071/0001488813-25-000071-index.htm)
 
+- **10-Q** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413825000039/0001974138-25-000039-index.htm)
+
 - **10-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025037656/0001628280-25-037656-index.htm)
 
@@ -251,9 +254,6 @@
 
 - **S-1/A** | Permuto Capital AAPL Trust I  (CIK 0002055491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055491/000121390025072094/0001213900-25-072094-index.htm)
-
-- **424B3** | Lionsgate Studios Corp.  (LION)  (CIK 0002052959)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/0001193125-25-173603-index.htm)
 
 - **10-Q** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195625000009/0001591956-25-000009-index.htm)
@@ -420,6 +420,9 @@
 - **253G2** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025072822/0001213900-25-072822-index.htm)
 
+- **424B3** | Lionsgate Studios Corp.  (LION)  (CIK 0002052959)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052959/000119312525173603/0001193125-25-173603-index.htm)
+
 - **40FR12B** | BTQ Technologies Corp.  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325013820/0001062993-25-013820-index.htm)
 
@@ -467,6 +470,9 @@
 
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025072253/0001213900-25-072253-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025073164/0001213900-25-073164-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (CCCM, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025071699/0001213900-25-071699-index.htm)
@@ -524,9 +530,6 @@
 
 - **N-PX** | ARCHER INVESTMENT SERIES TRUST  (CIK 0001477491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1477491/000116204425000796/0001162044-25-000796-index.htm)
-
-- **N-PX** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000102140825001123/0001021408-25-001123-index.htm)
 
 - **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025071508/0001213900-25-071508-index.htm)
