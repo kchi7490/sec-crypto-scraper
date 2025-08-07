@@ -387,6 +387,9 @@
 - **N-PX** | ARCHER INVESTMENT SERIES TRUST  (CIK 0001477491)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1477491/000116204425000796/0001162044-25-000796-index.htm)
 
+- **N-PX** | Horizon Funds  (CIK 0001643174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014670/0001398344-25-014670-index.htm)
+
 - **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025071508/0001213900-25-071508-index.htm)
 
