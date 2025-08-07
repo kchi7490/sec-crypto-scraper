@@ -141,6 +141,9 @@
 - **DEFM14A** | Angel Studios, Inc.  (CIK 0001671941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925074334/0001104659-25-074334-index.htm)
 
+- **10-Q** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868125000117/0001858681-25-000117-index.htm)
+
 - **10-Q** | Upstart Holdings, Inc.  (UPST)  (CIK 0001647639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1647639/000164763925000092/0001647639-25-000092-index.htm)
 
@@ -176,6 +179,9 @@
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325013620/0001062993-25-013620-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225022509/0001641172-25-022509-index.htm)
 
 - **8-K** | Grayscale Digital Large Cap Fund LLC  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000095017025103088/0000950170-25-103088-index.htm)
