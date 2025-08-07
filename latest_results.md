@@ -126,6 +126,9 @@
 - **S-1** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925074713/0001104659-25-074713-index.htm)
 
+- **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000031/0000714395-25-000031-index.htm)
+
 - **F-3/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025072148/0001213900-25-072148-index.htm)
 
