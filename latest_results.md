@@ -57,6 +57,9 @@
 - **8-K** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315225011680/0001493152-25-011680-index.htm)
 
+- **PRER14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225022784/0001641172-25-022784-index.htm)
+
 - **8-K** | Enertopia Corp.  (ENRT)  (CIK 0001346022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346022/000106299325013680/0001062993-25-013680-index.htm)
 
@@ -90,8 +93,14 @@
 - **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022677/0001641172-25-022677-index.htm)
 
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828025039283/0001628280-25-039283-index.htm)
+
 - **10-Q** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011636/0001493152-25-011636-index.htm)
+
+- **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828025039284/0001628280-25-039284-index.htm)
 
 - **10-Q** | Medalist Diversified REIT, Inc.  (MDRR)  (CIK 0001654595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000155837025010758/0001558370-25-010758-index.htm)
@@ -104,6 +113,9 @@
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025073158/0001213900-25-073158-index.htm)
+
+- **S-1** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025073714/0001213900-25-073714-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025073162/0001213900-25-073162-index.htm)
@@ -123,6 +135,9 @@
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000127/0001335258-25-000127-index.htm)
 
+- **10-Q** | FULTON FINANCIAL CORP  (FULT, FULTP)  (CIK 0000700564)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/700564/000070056425000048/0000700564-25-000048-index.htm)
+
 - **10-Q** | Customers Bancorp, Inc.  (CUBB, CUBI, CUBI-PF)  (CIK 0001488813)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1488813/000148881325000071/0001488813-25-000071-index.htm)
 
@@ -135,11 +150,11 @@
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925075274/0001104659-25-075274-index.htm)
 
-- **F-1** | China Tobacco & Alcohol Group Ltd  (CIK 0002025180)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025180/000202518025000005/0002025180-25-000005-index.htm)
-
 - **10-Q** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330125000061/0001083301-25-000061-index.htm)
+
+- **F-1** | China Tobacco & Alcohol Group Ltd  (CIK 0002025180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025180/000202518025000005/0002025180-25-000005-index.htm)
 
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005570/0001477932-25-005570-index.htm)
@@ -188,6 +203,9 @@
 
 - **10-Q** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925011582/0001214659-25-011582-index.htm)
+
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000171/0001679788-25-000171-index.htm)
 
 - **10-Q** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000093/0001823144-25-000093-index.htm)
@@ -291,6 +309,9 @@
 - **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025072755/0001213900-25-072755-index.htm)
 
+- **10-Q** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000095017025105877/0000950170-25-105877-index.htm)
+
 - **10-Q** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225022608/0001641172-25-022608-index.htm)
 
@@ -341,6 +362,9 @@
 
 - **6-K** | Mogo Inc.  (MOGO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000095017025104538/0000950170-25-104538-index.htm)
+
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225022793/0001641172-25-022793-index.htm)
 
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518525000906/0001185185-25-000906-index.htm)
@@ -466,6 +490,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000155837025010529/0001558370-25-010529-index.htm)
 
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000155837025010929/0001558370-25-010929-index.htm)
+
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072556/0001213900-25-072556-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
@@ -494,9 +521,6 @@
 
 - **N-PX** | PRAXIS FUNDS  (CIK 0000912900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912900/000139834425014799/0001398344-25-014799-index.htm)
-
-- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828025039283/0001628280-25-039283-index.htm)
 
 - **10-Q** | BioAtla, Inc.  (BCAB)  (CIK 0001826892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826892/000095017025105220/0000950170-25-105220-index.htm)
