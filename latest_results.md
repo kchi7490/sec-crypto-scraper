@@ -33,6 +33,9 @@
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005501/0001477932-25-005501-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005620/0001477932-25-005620-index.htm)
+
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000095017025103990/0000950170-25-103990-index.htm)
 
@@ -90,11 +93,11 @@
 - **8-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000164117225022528/0001641172-25-022528-index.htm)
 
-- **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022677/0001641172-25-022677-index.htm)
-
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828025039283/0001628280-25-039283-index.htm)
+
+- **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022677/0001641172-25-022677-index.htm)
 
 - **10-Q** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011636/0001493152-25-011636-index.htm)
@@ -273,6 +276,9 @@
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312525175456/0001193125-25-175456-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225022807/0001641172-25-022807-index.htm)
+
 - **N-CSR** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322825008147/0001133228-25-008147-index.htm)
 
@@ -311,6 +317,9 @@
 
 - **10-Q** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000095017025105877/0000950170-25-105877-index.htm)
+
+- **S-1/A** | Cantor Equity Partners IV, Inc.  (CEPF)  (CIK 0002034267)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034267/000121390025073742/0001213900-25-073742-index.htm)
 
 - **10-Q** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225022608/0001641172-25-022608-index.htm)
@@ -372,6 +381,9 @@
 - **6-K/A** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225022353/0001641172-25-022353-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325013991/0001062993-25-013991-index.htm)
+
 - **10-Q** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312525175490/0001193125-25-175490-index.htm)
 
@@ -423,11 +435,20 @@
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925051059/0001145549-25-051059-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425014858/0001398344-25-014858-index.htm)
+
 - **N-CSR** | Starboard Investment Trust  (CIK 0001464413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464413/000199937125010980/0001999371-25-010980-index.htm)
 
 - **485APOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937125010950/0001999371-25-010950-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425014864/0001398344-25-014864-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425014860/0001398344-25-014860-index.htm)
 
 - **10-Q** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312525175509/0001193125-25-175509-index.htm)
