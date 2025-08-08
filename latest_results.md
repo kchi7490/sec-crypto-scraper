@@ -9,11 +9,17 @@
 - **8-K** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025073069/0001213900-25-073069-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022680/0001641172-25-022680-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225022350/0001641172-25-022350-index.htm)
 
 - **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000167/0001679788-25-000167-index.htm)
+
+- **8-K** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011727/0001493152-25-011727-index.htm)
 
 - **8-K** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925074831/0001104659-25-074831-index.htm)
@@ -35,6 +41,9 @@
 
 - **8-K** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925025437/0001437749-25-025437-index.htm)
+
+- **S-3ASR** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011728/0001493152-25-011728-index.htm)
 
 - **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000092/0001823144-25-000092-index.htm)
