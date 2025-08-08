@@ -420,6 +420,9 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
 
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925051059/0001145549-25-051059-index.htm)
+
 - **N-CSR** | Starboard Investment Trust  (CIK 0001464413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464413/000199937125010980/0001999371-25-010980-index.htm)
 
