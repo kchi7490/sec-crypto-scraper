@@ -246,6 +246,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025104301/0000950170-25-104301-index.htm)
 
+- **425** | BOXABL Inc.  (CIK 0001816937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000110465925075620/0001104659-25-075620-index.htm)
+
 - **F-1** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625005947/0001829126-25-005947-index.htm)
 
@@ -357,11 +360,17 @@
 - **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000095017025105149/0000950170-25-105149-index.htm)
 
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125010971/0001999371-25-010971-index.htm)
+
 - **424B1** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925075228/0001104659-25-075228-index.htm)
 
 - **10-Q** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225005574/0001477932-25-005574-index.htm)
+
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125010970/0001999371-25-010970-index.htm)
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
