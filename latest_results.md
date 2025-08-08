@@ -45,6 +45,9 @@
 - **8-K** | Enertopia Corp.  (ENRT)  (CIK 0001346022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1346022/000106299325013680/0001062993-25-013680-index.htm)
 
+- **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025073282/0001213900-25-073282-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000164117225022330/0001641172-25-022330-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000082787625000005/0000827876-25-000005-index.htm)
+
+- **8-K** | CEA Industries Inc.  (BNC, VAPE, BNCWW, VAPEW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225022633/0001641172-25-022633-index.htm)
 
 - **8-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000164117225022528/0001641172-25-022528-index.htm)
@@ -105,6 +111,9 @@
 - **F-1** | China Tobacco & Alcohol Group Ltd  (CIK 0002025180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025180/000202518025000005/0002025180-25-000005-index.htm)
 
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005570/0001477932-25-005570-index.htm)
+
 - **8-K** | Funko, Inc.  (FNKO)  (CIK 0001704711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1704711/000170471125000120/0001704711-25-000120-index.htm)
 
@@ -125,6 +134,9 @@
 
 - **S-1** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925074713/0001104659-25-074713-index.htm)
+
+- **10-Q** | Velocity Financial, Inc.  (VEL)  (CIK 0001692376)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1692376/000095017025105342/0000950170-25-105342-index.htm)
 
 - **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000031/0000714395-25-000031-index.htm)
@@ -186,6 +198,9 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000155837025010632/0001558370-25-010632-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025105347/0000950170-25-105347-index.htm)
+
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000079/0001819989-25-000079-index.htm)
 
@@ -203,6 +218,9 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025104301/0000950170-25-104301-index.htm)
+
+- **F-1** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625005947/0001829126-25-005947-index.htm)
 
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125029058/0001140361-25-029058-index.htm)
@@ -288,6 +306,9 @@
 - **253G2** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000121390025072822/0001213900-25-072822-index.htm)
 
+- **424B4** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025073279/0001213900-25-073279-index.htm)
+
 - **40FR12B** | BTQ Technologies Corp.  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325013820/0001062993-25-013820-index.htm)
 
@@ -339,6 +360,9 @@
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925074886/0001104659-25-074886-index.htm)
 
+- **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925075375/0001104659-25-075375-index.htm)
+
 - **10-Q** | Flywire Corp  (FLYW)  (CIK 0001580560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000095017025104179/0000950170-25-104179-index.htm)
 
@@ -353,6 +377,9 @@
 
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025072556/0001213900-25-072556-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010098/0000950103-25-010098-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010023/0000950103-25-010023-index.htm)
