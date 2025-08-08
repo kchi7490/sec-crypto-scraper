@@ -354,6 +354,9 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
 
+- **485APOS** | Tidal Trust IV  (CIK 0002043390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937125010950/0001999371-25-010950-index.htm)
+
 - **10-Q** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312525175509/0001193125-25-175509-index.htm)
 
