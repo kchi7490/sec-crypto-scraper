@@ -267,6 +267,9 @@
 - **10-Q** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225022608/0001641172-25-022608-index.htm)
 
+- **N-CSRS** | Horizon Funds  (CIK 0001643174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014779/0001398344-25-014779-index.htm)
+
 - **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001376/0001640334-25-001376-index.htm)
 
@@ -389,6 +392,9 @@
 
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925075375/0001104659-25-075375-index.htm)
+
+- **10-Q** | NorthEast Community Bancorp, Inc./MD/  (NECB)  (CIK 0001847398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847398/000155837025010872/0001558370-25-010872-index.htm)
 
 - **10-Q** | Flywire Corp  (FLYW)  (CIK 0001580560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000095017025104179/0000950170-25-104179-index.htm)
