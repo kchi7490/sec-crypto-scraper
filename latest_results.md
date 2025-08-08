@@ -3,6 +3,9 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025038417/0001628280-25-038417-index.htm)
 
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025105481/0000950170-25-105481-index.htm)
+
 - **8-K** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025073069/0001213900-25-073069-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **8-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000164117225022528/0001641172-25-022528-index.htm)
+
+- **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225022677/0001641172-25-022677-index.htm)
 
 - **10-Q** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225011636/0001493152-25-011636-index.htm)
@@ -192,6 +198,9 @@
 - **10-Q** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000081/0001819989-25-000081-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025105484/0000950170-25-105484-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225022509/0001641172-25-022509-index.htm)
 
@@ -230,6 +239,9 @@
 
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125029362/0001140361-25-029362-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125029747/0001140361-25-029747-index.htm)
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025073072/0001213900-25-073072-index.htm)
@@ -323,6 +335,9 @@
 
 - **424B1** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465925075228/0001104659-25-075228-index.htm)
+
+- **10-Q** | TANICO Inc.  (CIK 0001895939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225005574/0001477932-25-005574-index.htm)
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000114554925050825/0001145549-25-050825-index.htm)
