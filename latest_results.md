@@ -285,6 +285,9 @@
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001375/0001640334-25-001375-index.htm)
 
+- **DEF 14A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005588/0001477932-25-005588-index.htm)
+
 - **S-1/A** | Iron Horse Acquisitions Corp. II  (IRHO)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025072745/0001213900-25-072745-index.htm)
 
@@ -443,6 +446,9 @@
 
 - **N-PX** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014670/0001398344-25-014670-index.htm)
+
+- **N-PX** | PRAXIS FUNDS  (CIK 0000912900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/912900/000139834425014799/0001398344-25-014799-index.htm)
 
 - **10-Q** | BioAtla, Inc.  (BCAB)  (CIK 0001826892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826892/000095017025105220/0000950170-25-105220-index.htm)
