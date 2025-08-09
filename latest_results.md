@@ -405,15 +405,3 @@
 - **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000164117225022556/0001641172-25-022556-index.htm)
 
-- **N-PX** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000102140825001123/0001021408-25-001123-index.htm)
-
-- **N-PX** | Horizon Funds  (CIK 0001643174)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834425014670/0001398344-25-014670-index.htm)
-
-- **N-PX** | PRAXIS FUNDS  (CIK 0000912900)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/912900/000139834425014799/0001398344-25-014799-index.htm)
-
-- **10-Q** | BioAtla, Inc.  (BCAB)  (CIK 0001826892)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1826892/000095017025105220/0000950170-25-105220-index.htm)
-
