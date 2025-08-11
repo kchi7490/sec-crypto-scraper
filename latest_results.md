@@ -42,6 +42,9 @@
 - **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011789/0001493152-25-011789-index.htm)
 
+- **S-1/A** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025074193/0001213900-25-074193-index.htm)
+
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022894/0001641172-25-022894-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011017/0001999371-25-011017-index.htm)
+
+- **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022951/0001641172-25-022951-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025073810/0001213900-25-073810-index.htm)
