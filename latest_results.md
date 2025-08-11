@@ -75,6 +75,9 @@
 - **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022951/0001641172-25-022951-index.htm)
 
+- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925076128/0001104659-25-076128-index.htm)
+
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025073810/0001213900-25-073810-index.htm)
 
