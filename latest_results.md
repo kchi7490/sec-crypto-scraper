@@ -75,6 +75,9 @@
 - **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925075896/0001104659-25-075896-index.htm)
 
+- **N-PX** | BAILLIE GIFFORD FUNDS  (CIK 0001120543)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1120543/000093041325002403/0000930413-25-002403-index.htm)
+
 - **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000077375725000009/0000773757-25-000009-index.htm)
 
