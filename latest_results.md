@@ -150,6 +150,9 @@
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000015/0001174610-25-000015-index.htm)
 
+- **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390025074425/0001213900-25-074425-index.htm)
+
 - **10-Q** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025073910/0001213900-25-073910-index.htm)
 
