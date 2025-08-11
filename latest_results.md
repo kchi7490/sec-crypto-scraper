@@ -6,6 +6,9 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000164117225022916/0001641172-25-022916-index.htm)
 
+- **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030-index.htm)
+
 - **8-K** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022924/0001641172-25-022924-index.htm)
 
