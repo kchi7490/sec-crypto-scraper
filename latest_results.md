@@ -90,6 +90,12 @@
 - **PRE 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025073801/0001213900-25-073801-index.htm)
 
+- **S-1** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025074405/0001213900-25-074405-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000164117225023015/0001641172-25-023015-index.htm)
+
 - **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000157587225000532/0001575872-25-000532-index.htm)
 
@@ -135,8 +141,14 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025073804/0001213900-25-073804-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074396/0001213900-25-074396-index.htm)
+
 - **10-Q** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312525177928/0001193125-25-177928-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000015/0001174610-25-000015-index.htm)
 
 - **10-Q** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025073910/0001213900-25-073910-index.htm)
