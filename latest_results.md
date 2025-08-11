@@ -3,14 +3,29 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011799/0001493152-25-011799-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000164117225022916/0001641172-25-022916-index.htm)
+
 - **S-4/A** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316825005824/0001683168-25-005824-index.htm)
 
 - **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025073884/0001213900-25-073884-index.htm)
 
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/0001641172-25-022905-index.htm)
+
+- **424B5** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022915/0001641172-25-022915-index.htm)
+
+- **S-1/A** | TRUTH SOCIAL BITCOIN ETF, B.T.  (CIK 0002071486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2071486/000110465925075934/0001104659-25-075934-index.htm)
+
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005628/0001477932-25-005628-index.htm)
+
+- **424B5** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022911/0001641172-25-022911-index.htm)
 
 - **S-1** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005641/0001477932-25-005641-index.htm)
@@ -27,11 +42,17 @@
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025106224/0000950170-25-106224-index.htm)
 
+- **8-K** | MICROSTRATEGY Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025106241/0000950170-25-106241-index.htm)
+
 - **PRE 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025073801/0001213900-25-073801-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425009307/0001654954-25-009307-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011017/0001999371-25-011017-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025073810/0001213900-25-073810-index.htm)
