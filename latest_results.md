@@ -9,6 +9,12 @@
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030-index.htm)
 
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011802/0001493152-25-011802-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025074298/0001213900-25-074298-index.htm)
+
 - **8-K** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022924/0001641172-25-022924-index.htm)
 
@@ -20,6 +26,12 @@
 
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/0001641172-25-022905-index.htm)
+
+- **S-1** | Apex Treasury Corp  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025074316/0001213900-25-074316-index.htm)
+
+- **8-K** | Babcock & Wilcox Enterprises, Inc.  (BW, BWNB, BWSN, BW-PA)  (CIK 0001630805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1630805/000163080525000061/0001630805-25-000061-index.htm)
 
 - **424B5** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022915/0001641172-25-022915-index.htm)
@@ -45,6 +57,9 @@
 - **S-1/A** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025074193/0001213900-25-074193-index.htm)
 
+- **10-Q** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000070612925000135/0000706129-25-000135-index.htm)
+
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022894/0001641172-25-022894-index.htm)
 
@@ -57,8 +72,17 @@
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025106241/0000950170-25-106241-index.htm)
 
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025106548/0000950170-25-106548-index.htm)
+
+- **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925025918/0001437749-25-025918-index.htm)
+
 - **PRE 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025073801/0001213900-25-073801-index.htm)
+
+- **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000157587225000532/0001575872-25-000532-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425009307/0001654954-25-009307-index.htm)
@@ -84,6 +108,9 @@
 - **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925075896/0001104659-25-075896-index.htm)
 
+- **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
+
 - **N-PX** | BAILLIE GIFFORD FUNDS  (CIK 0001120543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120543/000093041325002403/0000930413-25-002403-index.htm)
 
@@ -96,8 +123,14 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025073804/0001213900-25-073804-index.htm)
 
+- **10-Q** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312525177928/0001193125-25-177928-index.htm)
+
 - **10-Q** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025073910/0001213900-25-073910-index.htm)
+
+- **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025106553/0000950170-25-106553-index.htm)
 
 - **N-PX** | MORGAN STANLEY INSTITUTIONAL FUND INC  (CIK 0000836487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836487/000114036125030050/0001140361-25-030050-index.htm)
