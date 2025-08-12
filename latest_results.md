@@ -183,6 +183,9 @@
 - **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022951/0001641172-25-022951-index.htm)
 
+- **487** | FT 12352  (CIK 0002066131)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066131/000144554625005476/0001445546-25-005476-index.htm)
+
 - **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925076128/0001104659-25-076128-index.htm)
 
