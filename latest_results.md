@@ -15,8 +15,17 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000164117225022916/0001641172-25-022916-index.htm)
 
+- **10-Q** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025074441/0001213900-25-074441-index.htm)
+
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030-index.htm)
+
+- **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023074/0001641172-25-023074-index.htm)
+
+- **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023066/0001641172-25-023066-index.htm)
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011802/0001493152-25-011802-index.htm)
@@ -54,6 +63,9 @@
 - **424B5** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022911/0001641172-25-022911-index.htm)
 
+- **253G2** | Angel Studios, Inc.  (CIK 0001671941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925076344/0001104659-25-076344-index.htm)
+
 - **S-1** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005641/0001477932-25-005641-index.htm)
 
@@ -62,6 +74,9 @@
 
 - **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011789/0001493152-25-011789-index.htm)
+
+- **PRE 14A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005683/0001477932-25-005683-index.htm)
 
 - **S-1/A** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025074193/0001213900-25-074193-index.htm)
@@ -132,6 +147,9 @@
 - **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000077375725000009/0000773757-25-000009-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025074469/0001213900-25-074469-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074338/0001213900-25-074338-index.htm)
 
@@ -140,6 +158,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025073804/0001213900-25-073804-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025074512/0001213900-25-074512-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074396/0001213900-25-074396-index.htm)
