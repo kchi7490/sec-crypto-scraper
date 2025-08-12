@@ -51,6 +51,9 @@
 - **8-K** | Babcock & Wilcox Enterprises, Inc.  (BW, BWNB, BWSN, BW-PA)  (CIK 0001630805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1630805/000163080525000061/0001630805-25-000061-index.htm)
 
+- **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000162828025039749/0001628280-25-039749-index.htm)
+
 - **424B5** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022915/0001641172-25-022915-index.htm)
 
