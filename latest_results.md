@@ -9,11 +9,11 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011799/0001493152-25-011799-index.htm)
 
-- **10-Q** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025039625/0001628280-25-039625-index.htm)
-
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000164117225022916/0001641172-25-022916-index.htm)
+
+- **10-Q** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025039625/0001628280-25-039625-index.htm)
 
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074637/0001213900-25-074637-index.htm)
@@ -29,6 +29,9 @@
 
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030-index.htm)
+
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011859/0001493152-25-011859-index.htm)
 
 - **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023074/0001641172-25-023074-index.htm)
@@ -296,6 +299,9 @@
 
 - **10-Q** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033425001409/0001640334-25-001409-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075108/0001213900-25-075108-index.htm)
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025074000/0001213900-25-074000-index.htm)
