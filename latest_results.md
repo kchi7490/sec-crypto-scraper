@@ -81,6 +81,9 @@
 - **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011789/0001493152-25-011789-index.htm)
 
+- **424B5** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011829/0001493152-25-011829-index.htm)
+
 - **PRE 14A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005683/0001477932-25-005683-index.htm)
 
@@ -131,6 +134,9 @@
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025074610/0001213900-25-074610-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025074626/0001213900-25-074626-index.htm)
 
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025073995/0001213900-25-073995-index.htm)
