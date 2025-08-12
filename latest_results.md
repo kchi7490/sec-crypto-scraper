@@ -216,6 +216,9 @@
 - **10-Q** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025106935/0000950170-25-106935-index.htm)
 
+- **10-Q** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033425001409/0001640334-25-001409-index.htm)
+
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025074000/0001213900-25-074000-index.htm)
 
@@ -230,6 +233,9 @@
 
 - **10-Q** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312525177928/0001193125-25-177928-index.htm)
+
+- **10-Q** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000155837025011185/0001558370-25-011185-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000015/0001174610-25-000015-index.htm)
@@ -251,6 +257,9 @@
 
 - **N-PX** | MORGAN STANLEY INSTITUTIONAL FUND INC  (CIK 0000836487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836487/000114036125030050/0001140361-25-030050-index.htm)
+
+- **N-PX** | MoA Funds Corp  (CIK 0000795259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/795259/000102140825001312/0001021408-25-001312-index.htm)
 
 - **N-PX** | MORGAN STANLEY INSTITUTIONAL FUND TRUST  (CIK 0000741375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/741375/000114036125030051/0001140361-25-030051-index.htm)
