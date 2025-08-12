@@ -63,6 +63,9 @@
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/0001641172-25-022905-index.htm)
 
+- **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
+
 - **10-Q** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000164117225023187/0001641172-25-023187-index.htm)
 
@@ -219,6 +222,9 @@
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000449/0000945908-25-000449-index.htm)
 
+- **10-Q** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000162828025039914/0001628280-25-039914-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011017/0001999371-25-011017-index.htm)
 
@@ -242,6 +248,9 @@
 
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
+
+- **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025074991/0001213900-25-074991-index.htm)
 
 - **N-PX** | BAILLIE GIFFORD FUNDS  (CIK 0001120543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120543/000093041325002403/0000930413-25-002403-index.htm)
