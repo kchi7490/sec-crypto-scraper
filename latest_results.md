@@ -30,6 +30,9 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225011802/0001493152-25-011802-index.htm)
 
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225023107/0001641172-25-023107-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025074298/0001213900-25-074298-index.htm)
 
@@ -90,6 +93,9 @@
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022894/0001641172-25-022894-index.htm)
 
+- **424B3** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225023104/0001641172-25-023104-index.htm)
+
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025074012/0001213900-25-074012-index.htm)
 
@@ -98,6 +104,9 @@
 
 - **8-K** | MICROSTRATEGY Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025106241/0000950170-25-106241-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225023105/0001641172-25-023105-index.htm)
 
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025106548/0000950170-25-106548-index.htm)
