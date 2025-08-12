@@ -111,6 +111,9 @@
 - **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025073872/0001213900-25-073872-index.htm)
 
+- **S-1/A** | 21Shares Sui ETF  (CIK 0002061626)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390025075027/0001213900-25-075027-index.htm)
+
 - **S-1/A** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625006117/0001829126-25-006117-index.htm)
 
@@ -248,6 +251,9 @@
 
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
+
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002048/0001592900-25-002048-index.htm)
 
 - **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025074991/0001213900-25-074991-index.htm)
