@@ -120,6 +120,9 @@
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425009307/0001654954-25-009307-index.htm)
 
+- **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025074610/0001213900-25-074610-index.htm)
+
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025073995/0001213900-25-073995-index.htm)
 
