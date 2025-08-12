@@ -114,6 +114,9 @@
 - **10-Q** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000070612925000135/0000706129-25-000135-index.htm)
 
+- **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000162828025039781/0001628280-25-039781-index.htm)
+
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022894/0001641172-25-022894-index.htm)
 
@@ -200,6 +203,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025074469/0001213900-25-074469-index.htm)
+
+- **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000164117225023123/0001641172-25-023123-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074338/0001213900-25-074338-index.htm)
