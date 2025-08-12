@@ -24,6 +24,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225023115/0001641172-25-023115-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025075103/0001213900-25-075103-index.htm)
+
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074030/0001213900-25-074030-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **10-Q** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000164117225023187/0001641172-25-023187-index.htm)
+
+- **10-K** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225023248/0001641172-25-023248-index.htm)
 
 - **S-1** | Apex Treasury Corp  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025074316/0001213900-25-074316-index.htm)
@@ -204,6 +210,9 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000010/0001285550-25-000010-index.htm)
 
+- **10-Q** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000012/0001285550-25-000012-index.htm)
+
 - **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000157587225000532/0001575872-25-000532-index.htm)
 
@@ -218,6 +227,9 @@
 
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025073995/0001213900-25-073995-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025075061/0001213900-25-075061-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000875/0001279569-25-000875-index.htm)
@@ -323,6 +335,9 @@
 
 - **N-PX** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000114036125030454/0001140361-25-030454-index.htm)
+
+- **N-PX** | Copeland Trust  (CIK 0001502745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1502745/000158064225005072/0001580642-25-005072-index.htm)
 
 - **N-PX** | MORGAN STANLEY INSTITUTIONAL FUND INC  (CIK 0000836487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836487/000114036125030050/0001140361-25-030050-index.htm)
