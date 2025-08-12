@@ -117,6 +117,9 @@
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000162828025039781/0001628280-25-039781-index.htm)
 
+- **S-1** | Dynamix Corp III  (CIK 0002081125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025074566/0001213900-25-074566-index.htm)
+
 - **S-4/A** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225022894/0001641172-25-022894-index.htm)
 
