@@ -72,6 +72,9 @@
 - **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
 
+- **10-Q** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225023322/0001641172-25-023322-index.htm)
+
 - **10-Q** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000164117225023187/0001641172-25-023187-index.htm)
 
@@ -236,6 +239,9 @@
 
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025073995/0001213900-25-073995-index.htm)
+
+- **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746425000040/0001997464-25-000040-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025075061/0001213900-25-075061-index.htm)
