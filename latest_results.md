@@ -381,6 +381,9 @@
 - **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025106553/0000950170-25-106553-index.htm)
 
+- **N-PX** | ZEVIN ASSET MANAGEMENT LLC  (CIK 0001394096)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1394096/000139834425015221/0001398344-25-015221-index.htm)
+
 - **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
 
