@@ -312,6 +312,9 @@
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
 
+- **N-CEN** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000175272425186802/0001752724-25-186802-index.htm)
+
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002048/0001592900-25-002048-index.htm)
 
