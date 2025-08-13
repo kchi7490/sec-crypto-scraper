@@ -192,6 +192,9 @@
 - **424B3** | AlphaVest Acquisition Corp.  (ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000164117225023104/0001641172-25-023104-index.htm)
 
+- **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937125011250/0001999371-25-011250-index.htm)
+
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025074012/0001213900-25-074012-index.htm)
 
@@ -291,6 +294,9 @@
 - **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225022951/0001641172-25-022951-index.htm)
 
+- **10-Q** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225023428/0001641172-25-023428-index.htm)
+
 - **487** | FT 12352  (CIK 0002066131)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066131/000144554625005476/0001445546-25-005476-index.htm)
 
@@ -365,6 +371,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074396/0001213900-25-074396-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
 
 - **10-Q** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312525177928/0001193125-25-177928-index.htm)
