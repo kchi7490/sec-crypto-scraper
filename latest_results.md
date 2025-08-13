@@ -222,6 +222,9 @@
 - **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000157587225000532/0001575872-25-000532-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325005347/0001171843-25-005347-index.htm)
+
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425009307/0001654954-25-009307-index.htm)
 
@@ -287,6 +290,9 @@
 
 - **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000164117225023123/0001641172-25-023123-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025075251/0001213900-25-075251-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074970/0001213900-25-074970-index.htm)
