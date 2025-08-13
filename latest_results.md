@@ -33,6 +33,9 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011859/0001493152-25-011859-index.htm)
 
+- **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025075308/0001213900-25-075308-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023074/0001641172-25-023074-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/0001641172-25-022905-index.htm)
+
+- **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001429/0001640334-25-001429-index.htm)
 
 - **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
@@ -234,6 +240,9 @@
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025074610/0001213900-25-074610-index.htm)
 
+- **6-K** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390025075291/0001213900-25-075291-index.htm)
+
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025074626/0001213900-25-074626-index.htm)
 
@@ -242,6 +251,9 @@
 
 - **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746425000040/0001997464-25-000040-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025075290/0001213900-25-075290-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025075061/0001213900-25-075061-index.htm)
