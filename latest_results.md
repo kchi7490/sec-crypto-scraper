@@ -81,6 +81,9 @@
 - **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025073884/0001213900-25-073884-index.htm)
 
+- **8-K** | B. Riley Financial, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390025075744/0001213900-25-075744-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005919/0001683168-25-005919-index.htm)
 
@@ -356,6 +359,9 @@
 
 - **424B4** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925077583/0001104659-25-077583-index.htm)
+
+- **10-Q** | GOOD GAMING, INC.  (GMER)  (CIK 0001454742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454742/000164117225023550/0001641172-25-023550-index.htm)
 
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
