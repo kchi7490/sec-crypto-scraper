@@ -15,6 +15,9 @@
 - **10-Q** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025039625/0001628280-25-039625-index.htm)
 
+- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025075322/0001213900-25-075322-index.htm)
+
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074637/0001213900-25-074637-index.htm)
 
@@ -35,6 +38,9 @@
 
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025075308/0001213900-25-075308-index.htm)
+
+- **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225023344/0001641172-25-023344-index.htm)
 
 - **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023074/0001641172-25-023074-index.htm)
@@ -89,6 +95,9 @@
 
 - **S-1** | Apex Treasury Corp  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025074316/0001213900-25-074316-index.htm)
+
+- **10-Q** | Angel Studios, Inc.  (CIK 0001671941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000155837025011310/0001558370-25-011310-index.htm)
 
 - **10-Q** | IZEA Worldwide, Inc.  (IZEA)  (CIK 0001495231)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495231/000149523125000156/0001495231-25-000156-index.htm)
@@ -257,6 +266,12 @@
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025075061/0001213900-25-075061-index.htm)
+
+- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225023347/0001641172-25-023347-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000886/0001279569-25-000886-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000875/0001279569-25-000875-index.htm)
