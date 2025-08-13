@@ -36,6 +36,9 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011859/0001493152-25-011859-index.htm)
 
+- **10-Q** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006043/0001683168-25-006043-index.htm)
+
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025075308/0001213900-25-075308-index.htm)
 
@@ -54,6 +57,9 @@
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225023107/0001641172-25-023107-index.htm)
 
+- **10-Q** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000141057825001740/0001410578-25-001740-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390025074298/0001213900-25-074298-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **8-K** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000162828025039902/0001628280-25-039902-index.htm)
+
+- **10-Q** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465925011977/0001214659-25-011977-index.htm)
 
 - **S-4/A** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316825005824/0001683168-25-005824-index.htm)
@@ -75,6 +84,9 @@
 - **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225023114/0001641172-25-023114-index.htm)
 
+- **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025075693/0001213900-25-075693-index.htm)
+
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225022905/0001641172-25-022905-index.htm)
 
@@ -83,6 +95,9 @@
 
 - **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
+
+- **10-Q** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000164117225023468/0001641172-25-023468-index.htm)
 
 - **10-Q** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225023322/0001641172-25-023322-index.htm)
@@ -132,6 +147,9 @@
 - **10-Q** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825005920/0001683168-25-005920-index.htm)
 
+- **10-Q** | Gen Digital Inc.  (GEN, GENVR)  (CIK 0000849399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/849399/000084939925000059/0000849399-25-000059-index.htm)
+
 - **10-Q** | Ondas Holdings Inc.  (ONDS)  (CIK 0001646188)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1646188/000121390025074655/0001213900-25-074655-index.htm)
 
@@ -146,6 +164,9 @@
 
 - **424B5** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225011831/0001493152-25-011831-index.htm)
+
+- **10-Q** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025040150/0001628280-25-040150-index.htm)
 
 - **S-1** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/0001193125-25-178989-index.htm)
@@ -180,6 +201,9 @@
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000162828025039781/0001628280-25-039781-index.htm)
 
+- **10-Q** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390025075658/0001213900-25-075658-index.htm)
+
 - **10-Q** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962825000041/0001769628-25-000041-index.htm)
 
@@ -194,6 +218,9 @@
 
 - **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937125011250/0001999371-25-011250-index.htm)
+
+- **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041325002440/0000930413-25-002440-index.htm)
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025074012/0001213900-25-074012-index.htm)
@@ -215,6 +242,12 @@
 
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025106548/0000950170-25-106548-index.htm)
+
+- **10-Q** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075706/0001213900-25-075706-index.htm)
+
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025040143/0001628280-25-040143-index.htm)
 
 - **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000095017025107298/0000950170-25-107298-index.htm)
@@ -257,6 +290,9 @@
 
 - **6-K** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390025075291/0001213900-25-075291-index.htm)
+
+- **6-K** | Waton Financial Ltd  (WTF)  (CIK 0001987363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1987363/000114036125030795/0001140361-25-030795-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025074626/0001213900-25-074626-index.htm)
@@ -315,6 +351,9 @@
 - **F-1/A** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925075896/0001104659-25-075896-index.htm)
 
+- **424B4** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925077583/0001104659-25-077583-index.htm)
+
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000095017025106537/0000950170-25-106537-index.htm)
 
@@ -350,6 +389,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074338/0001213900-25-074338-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025075694/0001213900-25-075694-index.htm)
 
 - **10-Q** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025106935/0000950170-25-106935-index.htm)
@@ -422,4 +464,7 @@
 
 - **N-PX** | MORGAN STANLEY VARIABLE INSURANCE FUND INC.  (CIK 0001011378)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1011378/000114036125030052/0001140361-25-030052-index.htm)
+
+- **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025075633/0001213900-25-075633-index.htm)
 
