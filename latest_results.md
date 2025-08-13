@@ -300,6 +300,9 @@
 - **N-PX** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000114036125030458/0001140361-25-030458-index.htm)
 
+- **10-Q** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000093041325002430/0000930413-25-002430-index.htm)
+
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025073810/0001213900-25-073810-index.htm)
 
