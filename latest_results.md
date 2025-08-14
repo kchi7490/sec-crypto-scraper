@@ -12,6 +12,9 @@
 - **10-Q** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000164117225023557/0001641172-25-023557-index.htm)
 
+- **10-Q** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225024107/0001641172-25-024107-index.htm)
+
 - **10-K** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000164117225023585/0001641172-25-023585-index.htm)
 
@@ -111,6 +114,9 @@
 - **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000164117225023980/0001641172-25-023980-index.htm)
 
+- **S-3** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465925078731/0001104659-25-078731-index.htm)
+
 - **10-Q** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687525000129/0001836875-25-000129-index.htm)
 
@@ -120,14 +126,17 @@
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001429/0001640334-25-001429-index.htm)
 
+- **10-Q** | Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000121390025076748/0001213900-25-076748-index.htm)
+
 - **10-Q** | Winvest Group Ltd  (WNLV)  (CIK 0001558740)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558740/000147793225005873/0001477932-25-005873-index.htm)
 
-- **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
-
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000047/0001475841-25-000047-index.htm)
+
+- **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
 
 - **10-Q** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000164117225023468/0001641172-25-023468-index.htm)
@@ -329,6 +338,9 @@
 
 - **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025076664/0001213900-25-076664-index.htm)
+
+- **10-Q** | ACTELIS NETWORKS INC  (ASNS)  (CIK 0001141284)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141284/000121390025076747/0001213900-25-076747-index.htm)
 
 - **10-Q** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425009643/0001654954-25-009643-index.htm)
