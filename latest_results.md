@@ -138,11 +138,11 @@
 - **10-Q** | Winvest Group Ltd  (WNLV)  (CIK 0001558740)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558740/000147793225005873/0001477932-25-005873-index.htm)
 
-- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000047/0001475841-25-000047-index.htm)
-
 - **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
+
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000047/0001475841-25-000047-index.htm)
 
 - **10-Q** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000164117225023468/0001641172-25-023468-index.htm)
