@@ -48,6 +48,9 @@
 - **8-K** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000164117225023647/0001641172-25-023647-index.htm)
 
+- **8-K** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023720/0001641172-25-023720-index.htm)
+
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225023107/0001641172-25-023107-index.htm)
 
@@ -245,6 +248,9 @@
 
 - **6-K** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390025075291/0001213900-25-075291-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925078115/0001104659-25-078115-index.htm)
 
 - **6-K** | Waton Financial Ltd  (WTF)  (CIK 0001987363)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1987363/000114036125030795/0001140361-25-030795-index.htm)
