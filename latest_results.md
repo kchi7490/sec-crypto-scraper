@@ -321,6 +321,9 @@
 - **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025075812/0001213900-25-075812-index.htm)
 
+- **485APOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312525180700/0001193125-25-180700-index.htm)
+
 - **487** | FT 12352  (CIK 0002066131)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066131/000144554625005476/0001445546-25-005476-index.htm)
 
@@ -341,6 +344,9 @@
 
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793225005790/0001477932-25-005790-index.htm)
+
+- **N-CEN** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000114554925051386/0001145549-25-051386-index.htm)
 
 - **N-CEN** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000175272425186802/0001752724-25-186802-index.htm)
@@ -410,6 +416,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
+
+- **10-Q** | GIVEMEPOWER CORP  (GMPW)  (CIK 0001064722)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1064722/000164117225023901/0001641172-25-023901-index.htm)
 
 - **10-Q** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000155837025011185/0001558370-25-011185-index.htm)
