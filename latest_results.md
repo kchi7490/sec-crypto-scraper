@@ -87,6 +87,9 @@
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001429/0001640334-25-001429-index.htm)
 
+- **10-Q** | Winvest Group Ltd  (WNLV)  (CIK 0001558740)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558740/000147793225005873/0001477932-25-005873-index.htm)
+
 - **10-Q** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000180391425000122/0001803914-25-000122-index.htm)
 
@@ -170,6 +173,9 @@
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000095017025107368/0000950170-25-107368-index.htm)
+
+- **10-Q** | Video River Networks, Inc.  (NIHK)  (CIK 0001084475)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084475/000164117225023881/0001641172-25-023881-index.htm)
 
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000162828025039781/0001628280-25-039781-index.htm)
@@ -398,6 +404,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025074512/0001213900-25-074512-index.htm)
+
+- **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
