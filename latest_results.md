@@ -18,6 +18,9 @@
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025074637/0001213900-25-074637-index.htm)
 
+- **10-Q** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000143774925026903/0001437749-25-026903-index.htm)
+
 - **10-Q** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025074441/0001213900-25-074441-index.htm)
 
@@ -434,6 +437,9 @@
 
 - **N-PX** | ZEVIN ASSET MANAGEMENT LLC  (CIK 0001394096)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1394096/000139834425015221/0001398344-25-015221-index.htm)
+
+- **N-PX** | CALIFORNIA FIRST LEASING CORP  (CFNB)  (CIK 0000803016)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/803016/000139834425015630/0001398344-25-015630-index.htm)
 
 - **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
