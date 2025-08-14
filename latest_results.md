@@ -87,6 +87,9 @@
 - **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025075693/0001213900-25-075693-index.htm)
 
+- **10-Q** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774925026905/0001437749-25-026905-index.htm)
+
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001429/0001640334-25-001429-index.htm)
 
@@ -440,6 +443,9 @@
 
 - **N-PX** | CALIFORNIA FIRST LEASING CORP  (CFNB)  (CIK 0000803016)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/803016/000139834425015630/0001398344-25-015630-index.htm)
+
+- **N-PX** | Cavanal Hill Funds  (CIK 0000864508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/864508/000121390025076556/0001213900-25-076556-index.htm)
 
 - **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
