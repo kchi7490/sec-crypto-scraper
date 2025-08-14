@@ -54,8 +54,14 @@
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225023107/0001641172-25-023107-index.htm)
 
+- **10-Q** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925026680/0001437749-25-026680-index.htm)
+
 - **10-Q** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000141057825001740/0001410578-25-001740-index.htm)
+
+- **8-K/A** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000164117225023736/0001641172-25-023736-index.htm)
 
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025075972/0001213900-25-075972-index.htm)
@@ -92,6 +98,9 @@
 
 - **10-Q** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000164117225023187/0001641172-25-023187-index.htm)
+
+- **10-Q** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000095017025108479/0000950170-25-108479-index.htm)
 
 - **10-Q** | Golden Minerals Co  (AUMN)  (CIK 0001011509)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1011509/000117625625000069/0001176256-25-000069-index.htm)
@@ -239,6 +248,9 @@
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025074610/0001213900-25-074610-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025076048/0001213900-25-076048-index.htm)
 
 - **6-K** | 707 Cayman Holdings Ltd.  (JEM)  (CIK 0002018222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2018222/000164117225023374/0001641172-25-023374-index.htm)
