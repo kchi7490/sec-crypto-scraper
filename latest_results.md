@@ -438,3 +438,6 @@
 - **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025075633/0001213900-25-075633-index.htm)
 
+- **SCHEDULE 13G/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000131586325000620/0001315863-25-000620-index.htm)
+
