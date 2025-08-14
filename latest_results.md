@@ -567,3 +567,69 @@
 - **10-Q** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033425001409/0001640334-25-001409-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025075865/0001213900-25-075865-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075108/0001213900-25-075108-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075841/0001213900-25-075841-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025076679/0001213900-25-076679-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025074512/0001213900-25-074512-index.htm)
+
+- **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
+
+- **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036125030876/0001140361-25-030876-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010200/0000950103-25-010200-index.htm)
+
+- **NT 10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925012282/0001214659-25-012282-index.htm)
+
+- **10-Q** | I-ON Digital Corp.  (IONI)  (CIK 0001580490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580490/000164117225023973/0001641172-25-023973-index.htm)
+
+- **N-PX** | Ultimus Managers Trust  (CIK 0001545440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1545440/000158064225005099/0001580642-25-005099-index.htm)
+
+- **N-PX** | ZEVIN ASSET MANAGEMENT LLC  (CIK 0001394096)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1394096/000139834425015221/0001398344-25-015221-index.htm)
+
+- **N-PX** | CALIFORNIA FIRST LEASING CORP  (CFNB)  (CIK 0000803016)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/803016/000139834425015630/0001398344-25-015630-index.htm)
+
+- **N-PX** | Cavanal Hill Funds  (CIK 0000864508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/864508/000121390025076556/0001213900-25-076556-index.htm)
+
+- **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
+
+- **10-Q** | GIVEMEPOWER CORP  (GMPW)  (CIK 0001064722)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1064722/000164117225023901/0001641172-25-023901-index.htm)
+
+- **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
+
+- **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025075633/0001213900-25-075633-index.htm)
+
+- **10-Q** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000164117225024006/0001641172-25-024006-index.htm)
+
+- **SCHEDULE 13G/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000131586325000620/0001315863-25-000620-index.htm)
+
