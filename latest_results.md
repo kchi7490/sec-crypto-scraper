@@ -273,6 +273,9 @@
 - **6-K** | Waton Financial Ltd  (WTF)  (CIK 0001987363)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1987363/000114036125030795/0001140361-25-030795-index.htm)
 
+- **424B5** | Color Star Technology Co., Ltd.  (ADD)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025076221/0001213900-25-076221-index.htm)
+
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025074626/0001213900-25-074626-index.htm)
 
