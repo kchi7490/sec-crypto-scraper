@@ -183,8 +183,14 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025106931/0000950170-25-106931-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025108425/0000950170-25-108425-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000164117225023105/0001641172-25-023105-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925078086/0001104659-25-078086-index.htm)
 
 - **10-Q** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075706/0001213900-25-075706-index.htm)
@@ -374,9 +380,6 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010200/0000950103-25-010200-index.htm)
-
-- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925078086/0001104659-25-078086-index.htm)
 
 - **N-PX** | Ultimus Managers Trust  (CIK 0001545440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1545440/000158064225005099/0001580642-25-005099-index.htm)
