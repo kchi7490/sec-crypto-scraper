@@ -189,6 +189,9 @@
 - **10-Q** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075706/0001213900-25-075706-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925078084/0001104659-25-078084-index.htm)
+
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025040143/0001628280-25-040143-index.htm)
 
@@ -210,8 +213,14 @@
 - **424B5** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025075971/0001213900-25-075971-index.htm)
 
+- **8-K** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000095017025108411/0000950170-25-108411-index.htm)
+
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000010/0001285550-25-000010-index.htm)
+
+- **10-Q** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000095017025108407/0000950170-25-108407-index.htm)
 
 - **10-Q** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000012/0001285550-25-000012-index.htm)
@@ -365,6 +374,9 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010200/0000950103-25-010200-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925078086/0001104659-25-078086-index.htm)
 
 - **N-PX** | Ultimus Managers Trust  (CIK 0001545440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1545440/000158064225005099/0001580642-25-005099-index.htm)
