@@ -282,3 +282,75 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025074469/0001213900-25-074469-index.htm)
 
+- **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000164117225023123/0001641172-25-023123-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025075251/0001213900-25-075251-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074970/0001213900-25-074970-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025074971/0001213900-25-074971-index.htm)
+
+- **10-Q** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315225011912/0001493152-25-011912-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025075694/0001213900-25-075694-index.htm)
+
+- **10-Q** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025106935/0000950170-25-106935-index.htm)
+
+- **10-Q** | CareView Communications Inc  (CRVW)  (CIK 0001377149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1377149/000143774925026570/0001437749-25-026570-index.htm)
+
+- **10-Q** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033425001409/0001640334-25-001409-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075108/0001213900-25-075108-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075841/0001213900-25-075841-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025074512/0001213900-25-074512-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
+
+- **10-Q** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000155837025011185/0001558370-25-011185-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010200/0000950103-25-010200-index.htm)
+
+- **N-PX** | Ultimus Managers Trust  (CIK 0001545440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1545440/000158064225005099/0001580642-25-005099-index.htm)
+
+- **N-PX** | ZEVIN ASSET MANAGEMENT LLC  (CIK 0001394096)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1394096/000139834425015221/0001398344-25-015221-index.htm)
+
+- **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
+
+- **N-PX** | Tax-Managed Growth Portfolio  (CIK 0001002667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1002667/000114036125030461/0001140361-25-030461-index.htm)
+
+- **N-PX** | Eaton Vance Growth Trust  (CIK 0000102816)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000114036125030454/0001140361-25-030454-index.htm)
+
+- **N-PX** | Copeland Trust  (CIK 0001502745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1502745/000158064225005072/0001580642-25-005072-index.htm)
+
+- **N-PX** | MoA Funds Corp  (CIK 0000795259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/795259/000102140825001312/0001021408-25-001312-index.htm)
+
+- **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025075633/0001213900-25-075633-index.htm)
+
