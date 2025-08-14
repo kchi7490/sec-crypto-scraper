@@ -435,6 +435,9 @@
 - **N-PX** | MoA Funds Corp  (CIK 0000795259)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/795259/000102140825001312/0001021408-25-001312-index.htm)
 
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND  (CIK 0001383496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383496/000144554625005511/0001445546-25-005511-index.htm)
+
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
 
