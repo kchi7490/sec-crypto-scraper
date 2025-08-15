@@ -435,6 +435,9 @@
 - **10-Q** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225023677/0001641172-25-023677-index.htm)
 
+- **N-PX** | HARDING LOEVNER FUNDS INC  (CIK 0001018170)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1018170/000143893425000868/0001438934-25-000868-index.htm)
+
 - **N-CEN** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000204825125000033/0002048251-25-000033-index.htm)
 
