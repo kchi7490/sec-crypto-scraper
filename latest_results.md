@@ -33,6 +33,9 @@
 - **10-Q** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225005935/0001477932-25-005935-index.htm)
 
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225024283/0001641172-25-024283-index.htm)
+
 - **10-Q** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006043/0001683168-25-006043-index.htm)
 
@@ -460,10 +463,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025076679/0001213900-25-076679-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
 
 - **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
