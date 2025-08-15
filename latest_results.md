@@ -472,6 +472,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011432/0001999371-25-011432-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011430/0001999371-25-011430-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011248/0001999371-25-011248-index.htm)
 
 - **10-Q** | GIVEMEPOWER CORP  (GMPW)  (CIK 0001064722)  
@@ -504,6 +510,9 @@
 - **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
 
+- **N-PX** | LEGG MASON PARTNERS INVESTMENT TRUST  (CIK 0000880366)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880366/000119312525181537/0001193125-25-181537-index.htm)
+
 - **N-PX** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000143893425000789/0001438934-25-000789-index.htm)
 
@@ -518,6 +527,9 @@
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND  (CIK 0001383496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383496/000144554625005511/0001445546-25-005511-index.htm)
+
+- **N-PX** | Legg Mason Global Asset Management Trust  (CIK 0001474103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474103/000119312525181536/0001193125-25-181536-index.htm)
 
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
