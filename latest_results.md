@@ -189,6 +189,9 @@
 - **10-Q** | Video River Networks, Inc.  (NIHK)  (CIK 0001084475)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084475/000164117225023881/0001641172-25-023881-index.htm)
 
+- **S-1** | Creatd, Inc.  (CRTD, CRTDW)  (CIK 0001357671)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1357671/000121390025076895/0001213900-25-076895-index.htm)
+
 - **10-Q** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390025075658/0001213900-25-075658-index.htm)
 
@@ -243,6 +246,9 @@
 - **8-K** | BOLLINGER INNOVATIONS, INC.  (BINI, MULN)  (CIK 0001499961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499961/000182912625006333/0001829126-25-006333-index.htm)
 
+- **8-K/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025076867/0001213900-25-076867-index.htm)
+
 - **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025076664/0001213900-25-076664-index.htm)
 
@@ -276,6 +282,9 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325005347/0001171843-25-005347-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000897/0001279569-25-000897-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025076048/0001213900-25-076048-index.htm)
 
@@ -296,6 +305,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025076783/0001213900-25-076783-index.htm)
+
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325014477/0001062993-25-014477-index.htm)
 
 - **6-K** | Paysafe Ltd  (PSFE, PSFE-WT)  (CIK 0001833835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1833835/000095017025108872/0000950170-25-108872-index.htm)
@@ -318,8 +330,20 @@
 - **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746425000040/0001997464-25-000040-index.htm)
 
+- **6-K** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889725000035/0002058897-25-000035-index.htm)
+
+- **6-K** | BANCOLOMBIA SA  (CIK 0001071371)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1071371/000107137125000122/0001071371-25-000122-index.htm)
+
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025075290/0001213900-25-075290-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025077015/0001213900-25-077015-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025077013/0001213900-25-077013-index.htm)
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225023347/0001641172-25-023347-index.htm)
