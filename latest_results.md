@@ -153,6 +153,9 @@
 - **8-K** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687525000128/0001836875-25-000128-index.htm)
 
+- **424B7** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000181/0001679788-25-000181-index.htm)
+
 - **10-Q** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000164117225024044/0001641172-25-024044-index.htm)
 
@@ -227,6 +230,9 @@
 
 - **10-Q** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962825000041/0001769628-25-000041-index.htm)
+
+- **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000164117225024377/0001641172-25-024377-index.htm)
 
 - **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937125011250/0001999371-25-011250-index.htm)
@@ -381,14 +387,14 @@
 - **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746425000040/0001997464-25-000040-index.htm)
 
-- **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000164117225024377/0001641172-25-024377-index.htm)
-
 - **6-K** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889725000035/0002058897-25-000035-index.htm)
 
 - **6-K** | BANCOLOMBIA SA  (CIK 0001071371)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1071371/000107137125000122/0001071371-25-000122-index.htm)
+
+- **20-F** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024398/0001641172-25-024398-index.htm)
 
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077034/0001213900-25-077034-index.htm)
@@ -405,6 +411,9 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225023347/0001641172-25-023347-index.htm)
 
+- **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225024387/0001641172-25-024387-index.htm)
+
 - **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000119312525180834/0001193125-25-180834-index.htm)
 
@@ -417,20 +426,29 @@
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025040374/0001628280-25-040374-index.htm)
 
+- **8-K** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000164117225024421/0001641172-25-024421-index.htm)
+
 - **10-Q** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000164117225023630/0001641172-25-023630-index.htm)
+
+- **424B3** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000164117225024420/0001641172-25-024420-index.htm)
 
 - **10-Q** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000164117225023428/0001641172-25-023428-index.htm)
 
+- **424B4** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000119312525181916/0001193125-25-181916-index.htm)
+
 - **10-Q** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025075767/0001213900-25-075767-index.htm)
 
-- **10-Q** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025075771/0001213900-25-075771-index.htm)
-
 - **424B3** | 21Shares Core Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025075812/0001213900-25-075812-index.htm)
+
+- **10-Q** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025075771/0001213900-25-075771-index.htm)
 
 - **485APOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312525180700/0001193125-25-180700-index.htm)
@@ -581,15 +599,6 @@
 
 - **N-PX** | FRANKLIN STRATEGIC SERIES  (CIK 0000872625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/872625/000119312525181866/0001193125-25-181866-index.htm)
-
-- **N-PX** | PUTNAM ASSET ALLOCATION FUNDS  (CIK 0000914209)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/914209/000102140825001929/0001021408-25-001929-index.htm)
-
-- **N-PX** | New Age Alpha Funds Trust  (CIK 0002013853)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2013853/000158064225005167/0001580642-25-005167-index.htm)
-
-- **N-PX** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225005166/0001580642-25-005166-index.htm)
 
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
