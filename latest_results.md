@@ -475,10 +475,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025076679/0001213900-25-076679-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
 
 - **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
@@ -524,6 +524,9 @@
 
 - **N-PX** | LEGG MASON PARTNERS INVESTMENT TRUST  (CIK 0000880366)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880366/000119312525181537/0001193125-25-181537-index.htm)
+
+- **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225005184/0001580642-25-005184-index.htm)
 
 - **N-PX** | PUTNAM FUNDS TRUST  (CIK 0001005942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1005942/000102140825001923/0001021408-25-001923-index.htm)
