@@ -90,6 +90,9 @@
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025077049/0001213900-25-077049-index.htm)
 
+- **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025077274/0001213900-25-077274-index.htm)
+
 - **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025075693/0001213900-25-075693-index.htm)
 
@@ -472,10 +475,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025076679/0001213900-25-076679-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025077046/0001213900-25-077046-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025075819/0001213900-25-075819-index.htm)
 
 - **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001317/0001096906-25-001317-index.htm)
@@ -527,6 +530,9 @@
 
 - **N-PX** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000143893425000789/0001438934-25-000789-index.htm)
+
+- **N-PX** | PUTNAM VARIABLE TRUST  (CIK 0000822671)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/822671/000102140825001944/0001021408-25-001944-index.htm)
 
 - **N-PX** | WisdomTree Digital Trust  (CIK 0001859001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859001/000121465925012318/0001214659-25-012318-index.htm)
