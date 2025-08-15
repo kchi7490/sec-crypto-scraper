@@ -21,6 +21,9 @@
 - **10-K** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000164117225023585/0001641172-25-023585-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225005989/0001477932-25-005989-index.htm)
+
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025075322/0001213900-25-075322-index.htm)
 
@@ -66,6 +69,9 @@
 - **S-1** | Nuvve Holding Corp.  (NVVE, NVVEW)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000121390025077429/0001213900-25-077429-index.htm)
 
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025077579/0001213900-25-077579-index.htm)
+
 - **10-Q** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225011978/0001493152-25-011978-index.htm)
 
@@ -80,6 +86,9 @@
 
 - **8-K/A** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000164117225023736/0001641172-25-023736-index.htm)
+
+- **DEF 14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024375/0001641172-25-024375-index.htm)
 
 - **8-K** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025075972/0001213900-25-075972-index.htm)
@@ -315,6 +324,9 @@
 - **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025076664/0001213900-25-076664-index.htm)
 
+- **S-1** | Cantor Equity Partners V, Inc.  (CIK 0002034266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034266/000121390025077573/0001213900-25-077573-index.htm)
+
 - **10-Q** | ACTELIS NETWORKS INC  (ASNS)  (CIK 0001141284)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141284/000121390025076747/0001213900-25-076747-index.htm)
 
@@ -411,6 +423,9 @@
 - **20-F** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024398/0001641172-25-024398-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325014528/0001062993-25-014528-index.htm)
+
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077034/0001213900-25-077034-index.htm)
 
@@ -437,6 +452,9 @@
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925078544/0001104659-25-078544-index.htm)
+
+- **S-1** | Gemini Space Station, Inc.  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925079323/0001104659-25-079323-index.htm)
 
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025040374/0001628280-25-040374-index.htm)
@@ -492,6 +510,12 @@
 - **10-Q** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000164117225023677/0001641172-25-023677-index.htm)
 
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025077570/0001213900-25-077570-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025077563/0001213900-25-077563-index.htm)
+
 - **N-PX** | HARDING LOEVNER FUNDS INC  (CIK 0001018170)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018170/000143893425000868/0001438934-25-000868-index.htm)
 
@@ -525,8 +549,14 @@
 - **DEFA14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025077439/0001213900-25-077439-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077535/0001213900-25-077535-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025075841/0001213900-25-075841-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077575/0001213900-25-077575-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025076679/0001213900-25-076679-index.htm)
@@ -581,27 +611,6 @@
 
 - **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425015220/0001398344-25-015220-index.htm)
-
-- **N-PX** | Franklin Custodian Funds  (CIK 0000038721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38721/000119312525181856/0001193125-25-181856-index.htm)
-
-- **N-PX** | LEGG MASON PARTNERS INVESTMENT TRUST  (CIK 0000880366)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/880366/000119312525181537/0001193125-25-181537-index.htm)
-
-- **N-PX** | WILLIAMSBURG INVESTMENT TRUST  (CIK 0000842512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/842512/000158064225005184/0001580642-25-005184-index.htm)
-
-- **N-PX** | PUTNAM FUNDS TRUST  (CIK 0001005942)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1005942/000102140825001923/0001021408-25-001923-index.htm)
-
-- **N-PX** | Guardian Variable Products Trust  (CIK 0001668512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000143893425000789/0001438934-25-000789-index.htm)
-
-- **N-PX** | PUTNAM VARIABLE TRUST  (CIK 0000822671)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/822671/000102140825001944/0001021408-25-001944-index.htm)
-
-- **N-PX** | FRANKLIN TEMPLETON VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000837274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/837274/000119312525181849/0001193125-25-181849-index.htm)
 
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
