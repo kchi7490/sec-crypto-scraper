@@ -24,6 +24,9 @@
 - **10-Q** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000143774925026903/0001437749-25-026903-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225024278/0001641172-25-024278-index.htm)
+
 - **10-Q** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316825006161/0001683168-25-006161-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **8-K** | B. Riley Financial, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390025075744/0001213900-25-075744-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025077049/0001213900-25-077049-index.htm)
 
 - **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025075693/0001213900-25-075693-index.htm)
@@ -210,6 +216,9 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925078619/0001104659-25-078619-index.htm)
 
+- **8-K** | USBC, Inc.  (KNW)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425009690/0001654954-25-009690-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025108425/0000950170-25-108425-index.htm)
 
@@ -272,6 +281,9 @@
 
 - **PRER14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023755/0001641172-25-023755-index.htm)
+
+- **DEF 14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225024274/0001641172-25-024274-index.htm)
 
 - **424B5** | 180 Life Sciences Corp.  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025075971/0001213900-25-075971-index.htm)
