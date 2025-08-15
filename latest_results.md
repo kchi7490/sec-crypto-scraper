@@ -510,6 +510,12 @@
 - **N-PX** | WisdomTree Digital Trust  (CIK 0001859001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859001/000121465925012318/0001214659-25-012318-index.htm)
 
+- **N-PX** | New Age Alpha Funds Trust  (CIK 0002013853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013853/000158064225005167/0001580642-25-005167-index.htm)
+
+- **N-PX** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225005166/0001580642-25-005166-index.htm)
+
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND  (CIK 0001383496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383496/000144554625005511/0001445546-25-005511-index.htm)
 
