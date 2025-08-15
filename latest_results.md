@@ -339,6 +339,9 @@
 - **10-Q** | Provident Bancorp, Inc. /MD/  (PVBC)  (CIK 0001778784)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1778784/000143774925026940/0001437749-25-026940-index.htm)
 
+- **20-F** | Reitar Logtech Holdings Ltd  (RITR)  (CIK 0001951229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951229/000121390025077592/0001213900-25-077592-index.htm)
+
 - **PRER14C** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225023755/0001641172-25-023755-index.htm)
 
