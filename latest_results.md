@@ -81,6 +81,9 @@
 - **10-Q** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465925011977/0001214659-25-011977-index.htm)
 
+- **S-1/A** | Bitwise NEAR ETF  (CIK 0002067111)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000121390025077280/0001213900-25-077280-index.htm)
+
 - **8-K** | B. Riley Financial, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390025075744/0001213900-25-075744-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025075693/0001213900-25-075693-index.htm)
+
+- **S-1/A** | Bitwise Aptos ETF  (CIK 0002059135)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059135/000121390025077277/0001213900-25-077277-index.htm)
 
 - **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000164117225023980/0001641172-25-023980-index.htm)
@@ -513,11 +519,17 @@
 - **N-PX** | LEGG MASON PARTNERS INVESTMENT TRUST  (CIK 0000880366)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880366/000119312525181537/0001193125-25-181537-index.htm)
 
+- **N-PX** | PUTNAM FUNDS TRUST  (CIK 0001005942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1005942/000102140825001923/0001021408-25-001923-index.htm)
+
 - **N-PX** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000143893425000789/0001438934-25-000789-index.htm)
 
 - **N-PX** | WisdomTree Digital Trust  (CIK 0001859001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859001/000121465925012318/0001214659-25-012318-index.htm)
+
+- **N-PX** | PUTNAM ASSET ALLOCATION FUNDS  (CIK 0000914209)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/914209/000102140825001929/0001021408-25-001929-index.htm)
 
 - **N-PX** | New Age Alpha Funds Trust  (CIK 0002013853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013853/000158064225005167/0001580642-25-005167-index.htm)
