@@ -93,6 +93,9 @@
 - **10-Q** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774925026905/0001437749-25-026905-index.htm)
 
+- **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000164117225024265/0001641172-25-024265-index.htm)
+
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001429/0001640334-25-001429-index.htm)
 
