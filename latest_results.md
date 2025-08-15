@@ -507,6 +507,9 @@
 - **N-PX** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000143893425000789/0001438934-25-000789-index.htm)
 
+- **N-PX** | WisdomTree Digital Trust  (CIK 0001859001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859001/000121465925012318/0001214659-25-012318-index.htm)
+
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND  (CIK 0001383496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383496/000144554625005511/0001445546-25-005511-index.htm)
 
