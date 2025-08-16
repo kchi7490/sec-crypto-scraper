@@ -486,3 +486,18 @@
 - **N-PX** | New Age Alpha Funds Trust  (CIK 0002013853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013853/000158064225005167/0001580642-25-005167-index.htm)
 
+- **N-PX** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225005166/0001580642-25-005166-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED ALPHADEX FUND  (CIK 0001383496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383496/000144554625005511/0001445546-25-005511-index.htm)
+
+- **N-PX** | Legg Mason Global Asset Management Trust  (CIK 0001474103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474103/000119312525181536/0001193125-25-181536-index.htm)
+
+- **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125030870/0001140361-25-030870-index.htm)
+
+- **SCHEDULE 13G/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000131586325000620/0001315863-25-000620-index.htm)
+
