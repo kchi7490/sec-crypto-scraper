@@ -21,8 +21,14 @@
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
 
+- **S-1** | FT Intermediate, Inc.  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025040673/0001628280-25-040673-index.htm)
+
 - **S-3ASR** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006260/0001683168-25-006260-index.htm)
+
+- **10-Q** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793225006023/0001477932-25-006023-index.htm)
 
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005997/0001477932-25-005997-index.htm)
