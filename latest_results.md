@@ -36,6 +36,12 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
 
+- **SC 14D9** | HilleVax, Inc.  (HLVX)  (CIK 0001888012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888012/000119312525182307/0001193125-25-182307-index.htm)
+
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000901/0001279569-25-000901-index.htm)
 
