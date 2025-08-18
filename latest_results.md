@@ -60,3 +60,6 @@
 - **N-PX** | Meeder Funds  (CIK 0000702435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702435/000139834425016019/0001398344-25-016019-index.htm)
 
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND II  (CIK 0001364608)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1364608/000144554625005552/0001445546-25-005552-index.htm)
+
