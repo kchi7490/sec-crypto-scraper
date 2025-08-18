@@ -18,6 +18,15 @@
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005997/0001477932-25-005997-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/0001104659-25-079463-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079466/0001104659-25-079466-index.htm)
+
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
+
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
 
