@@ -6,6 +6,9 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
 
+- **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077719/0001213900-25-077719-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006265/0001683168-25-006265-index.htm)
 
@@ -20,6 +23,9 @@
 
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005997/0001477932-25-005997-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025109566/0000950170-25-109566-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/0001104659-25-079463-index.htm)
