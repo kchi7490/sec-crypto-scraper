@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
+
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
 
