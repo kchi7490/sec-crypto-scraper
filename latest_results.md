@@ -45,3 +45,6 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000901/0001279569-25-000901-index.htm)
 
+- **N-PX** | RBC FUNDS TRUST  (CIK 0001272950)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1272950/000143893425000885/0001438934-25-000885-index.htm)
+
