@@ -36,6 +36,9 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
 
+- **DEF 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025077850/0001213900-25-077850-index.htm)
+
 - **SC 14D9** | HilleVax, Inc.  (HLVX)  (CIK 0001888012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888012/000119312525182307/0001193125-25-182307-index.htm)
 
