@@ -15,14 +15,26 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000128/0001788230-25-000128-index.htm)
 
+- **10-Q** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000164117225024669/0001641172-25-024669-index.htm)
+
 - **424B5** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025077936/0001213900-25-077936-index.htm)
+
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225024661/0001641172-25-024661-index.htm)
 
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
 
+- **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025078014/0001213900-25-078014-index.htm)
+
 - **S-1** | FT Intermediate, Inc.  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025040673/0001628280-25-040673-index.htm)
+
+- **S-1/A** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925079896/0001104659-25-079896-index.htm)
 
 - **S-3ASR** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006260/0001683168-25-006260-index.htm)
@@ -80,6 +92,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077934/0001213900-25-077934-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025078015/0001213900-25-078015-index.htm)
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011562/0001999371-25-011562-index.htm)
