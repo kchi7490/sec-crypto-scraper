@@ -15,6 +15,9 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000128/0001788230-25-000128-index.htm)
 
+- **424B5** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025077936/0001213900-25-077936-index.htm)
+
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025109566/0000950170-25-109566-index.htm)
+
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312525182661/0001193125-25-182661-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/0001104659-25-079463-index.htm)
@@ -51,8 +57,14 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000901/0001279569-25-000901-index.htm)
 
+- **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
+
 - **N-PX** | RBC FUNDS TRUST  (CIK 0001272950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1272950/000143893425000885/0001438934-25-000885-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077934/0001213900-25-077934-index.htm)
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011562/0001999371-25-011562-index.htm)
