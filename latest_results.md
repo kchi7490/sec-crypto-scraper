@@ -9,9 +9,15 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000128/0001788230-25-000128-index.htm)
 
+- **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
+
 - **S-3ASR** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006260/0001683168-25-006260-index.htm)
 
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005997/0001477932-25-005997-index.htm)
+
+- **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
 
