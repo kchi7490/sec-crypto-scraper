@@ -54,8 +54,17 @@
 - **DEF 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025077850/0001213900-25-077850-index.htm)
 
+- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025078001/0001213900-25-078001-index.htm)
+
 - **SC 14D9** | HilleVax, Inc.  (HLVX)  (CIK 0001888012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888012/000119312525182307/0001193125-25-182307-index.htm)
+
+- **S-1** | American Exceptionalism Acquisition Corp. A  (CIK 0002079173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525182758/0001193125-25-182758-index.htm)
+
+- **S-1/A** | M3-Brigade Acquisition VI Corp.  (MBVI)  (CIK 0002073928)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025078000/0001213900-25-078000-index.htm)
 
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
@@ -74,6 +83,9 @@
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011562/0001999371-25-011562-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000032/0001174610-25-000032-index.htm)
 
 - **N-PX** | Meeder Funds  (CIK 0000702435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702435/000139834425016019/0001398344-25-016019-index.htm)
