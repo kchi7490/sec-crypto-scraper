@@ -189,3 +189,6 @@
 - **N-PX** | Calvert Variable Trust, Inc.  (CIK 0000743773)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/743773/000114036125031855/0001140361-25-031855-index.htm)
 
+- **10-Q** | Authentic Holdings, Inc.  (AHRO)  (CIK 0001338929)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1338929/000147793225006087/0001477932-25-006087-index.htm)
+
