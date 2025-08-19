@@ -153,6 +153,9 @@
 - **N-PX** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000143893425001062/0001438934-25-001062-index.htm)
 
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125011672/0001999371-25-011672-index.htm)
+
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000110465925080219/0001104659-25-080219-index.htm)
 
