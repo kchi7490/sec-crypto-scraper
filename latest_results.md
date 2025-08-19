@@ -69,6 +69,9 @@
 - **10-Q** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793225006023/0001477932-25-006023-index.htm)
 
+- **10-Q** | Snail, Inc.  (SNAL)  (CIK 0001886894)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1886894/000164117225024806/0001641172-25-024806-index.htm)
+
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225005997/0001477932-25-005997-index.htm)
 
@@ -134,6 +137,9 @@
 
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
+
+- **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000110465925080219/0001104659-25-080219-index.htm)
 
 - **N-PX** | RBC FUNDS TRUST  (CIK 0001272950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1272950/000143893425000885/0001438934-25-000885-index.htm)
