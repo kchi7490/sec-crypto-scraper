@@ -90,6 +90,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079960/0001104659-25-079960-index.htm)
 
+- **S-1** | BTC Development Corp.  (CIK 0002042292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025078198/0001213900-25-078198-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
 
