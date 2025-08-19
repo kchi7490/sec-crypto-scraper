@@ -45,11 +45,17 @@
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
 
+- **S-1** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225024829/0001641172-25-024829-index.htm)
+
 - **10-Q** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000164117225024796/0001641172-25-024796-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025078014/0001213900-25-078014-index.htm)
+
+- **10-Q** | Viewbix Inc.  (VBIX)  (CIK 0000797542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/797542/000164117225024831/0001641172-25-024831-index.htm)
 
 - **S-1** | FT Intermediate, Inc.  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025040673/0001628280-25-040673-index.htm)
@@ -126,6 +132,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925080039/0001104659-25-080039-index.htm)
 
+- **6-K** | INX Ltd  (CIK 0001725882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725882/000121390025078504/0001213900-25-078504-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025078134/0001213900-25-078134-index.htm)
 
@@ -138,6 +147,12 @@
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
 
+- **N-PX** | GMO TRUST  (CIK 0000772129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/772129/000107261325000664/0001072613-25-000664-index.htm)
+
+- **N-PX** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000143893425001062/0001438934-25-001062-index.htm)
+
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000110465925080219/0001104659-25-080219-index.htm)
 
@@ -147,11 +162,20 @@
 - **N-PX** | Krane Shares Trust  (CIK 0001547576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000113542825000073/0001135428-25-000073-index.htm)
 
+- **N-PX** | John Hancock Funds II  (CIK 0001331971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1331971/000143893425001061/0001438934-25-001061-index.htm)
+
+- **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893425001064/0001438934-25-001064-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078132/0001213900-25-078132-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077934/0001213900-25-077934-index.htm)
+
+- **10-Q** | ADM TRONICS UNLIMITED, INC.  (ADMT)  (CIK 0000849401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774925027354/0001437749-25-027354-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025078015/0001213900-25-078015-index.htm)
@@ -165,8 +189,14 @@
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011656/0001999371-25-011656-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078502/0001213900-25-078502-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000032/0001174610-25-000032-index.htm)
+
+- **10-Q** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225012159/0001493152-25-012159-index.htm)
 
 - **N-PX** | BOSTON TRUST WALDEN FUNDS  (CIK 0000882748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/882748/000139834425016078/0001398344-25-016078-index.htm)
