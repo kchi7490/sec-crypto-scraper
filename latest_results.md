@@ -6,8 +6,14 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225024722/0001641172-25-024722-index.htm)
+
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077719/0001213900-25-077719-index.htm)
+
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025078130/0001213900-25-078130-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006265/0001683168-25-006265-index.htm)
@@ -60,6 +66,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079466/0001104659-25-079466-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925079960/0001104659-25-079960-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
 
@@ -81,6 +90,9 @@
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025078134/0001213900-25-078134-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000901/0001279569-25-000901-index.htm)
 
@@ -90,11 +102,17 @@
 - **N-PX** | RBC FUNDS TRUST  (CIK 0001272950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1272950/000143893425000885/0001438934-25-000885-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078132/0001213900-25-078132-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025077934/0001213900-25-077934-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025078015/0001213900-25-078015-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025078063/0001213900-25-078063-index.htm)
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011562/0001999371-25-011562-index.htm)
@@ -104,6 +122,9 @@
 
 - **N-PX** | Meeder Funds  (CIK 0000702435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702435/000139834425016019/0001398344-25-016019-index.htm)
+
+- **N-PX** | MARCO INVESTMENT MANAGEMENT LLC  (CIK 0001080493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080493/000108049325000008/0001080493-25-000008-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND II  (CIK 0001364608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1364608/000144554625005552/0001445546-25-005552-index.htm)
