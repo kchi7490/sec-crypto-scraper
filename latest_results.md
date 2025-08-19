@@ -147,6 +147,9 @@
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011562/0001999371-25-011562-index.htm)
 
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011656/0001999371-25-011656-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000032/0001174610-25-000032-index.htm)
 
