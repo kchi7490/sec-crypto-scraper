@@ -6,11 +6,11 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
-- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
+
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -44,6 +44,9 @@
 
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
+
+- **10-Q** | BOXABL Inc.  (CIK 0001816937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000164117225024796/0001641172-25-024796-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025078014/0001213900-25-078014-index.htm)
@@ -134,6 +137,9 @@
 
 - **N-PX** | RBC FUNDS TRUST  (CIK 0001272950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1272950/000143893425000885/0001438934-25-000885-index.htm)
+
+- **N-PX** | Krane Shares Trust  (CIK 0001547576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000113542825000073/0001135428-25-000073-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078132/0001213900-25-078132-index.htm)
