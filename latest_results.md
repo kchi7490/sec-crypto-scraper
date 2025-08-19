@@ -129,3 +129,6 @@
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND II  (CIK 0001364608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1364608/000144554625005552/0001445546-25-005552-index.htm)
 
+- **N-PX** | LAZARD RETIREMENT SERIES INC  (CIK 0001033669)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1033669/000093041325002516/0000930413-25-002516-index.htm)
+
