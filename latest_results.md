@@ -3,11 +3,14 @@
 - **DEFA14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024733/0001641172-25-024733-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
+- **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
