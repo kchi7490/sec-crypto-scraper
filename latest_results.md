@@ -171,3 +171,6 @@
 - **N-PX** | LAZARD FUNDS INC  (CIK 0000874964)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/874964/000093041325002520/0000930413-25-002520-index.htm)
 
+- **N-PX** | Calvert Variable Trust, Inc.  (CIK 0000743773)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/743773/000114036125031855/0001140361-25-031855-index.htm)
+
