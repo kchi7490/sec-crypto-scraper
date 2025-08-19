@@ -69,6 +69,9 @@
 - **424B3** | AMC Corp  (CIK 0002044018)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044018/000164117225024570/0001641172-25-024570-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025109941/0000950170-25-109941-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025109566/0000950170-25-109566-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000032/0001174610-25-000032-index.htm)
+
+- **N-PX** | BOSTON TRUST WALDEN FUNDS  (CIK 0000882748)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/882748/000139834425016078/0001398344-25-016078-index.htm)
 
 - **N-PX** | Meeder Funds  (CIK 0000702435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702435/000139834425016019/0001398344-25-016019-index.htm)
