@@ -27,6 +27,9 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025078130/0001213900-25-078130-index.htm)
 
+- **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000164117225024844/0001641172-25-024844-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006265/0001683168-25-006265-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225012108/0001493152-25-012108-index.htm)
+
+- **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025078539/0001213900-25-078539-index.htm)
 
 - **DEF 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025077850/0001213900-25-077850-index.htm)
