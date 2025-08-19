@@ -6,11 +6,11 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
-
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -39,6 +39,9 @@
 - **10-Q** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000164117225024669/0001641172-25-024669-index.htm)
 
+- **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000164117225024873/0001641172-25-024873-index.htm)
+
 - **424B5** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025077936/0001213900-25-077936-index.htm)
 
@@ -54,6 +57,9 @@
 - **10-Q** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000164117225024796/0001641172-25-024796-index.htm)
 
+- **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738625000115/0001017386-25-000115-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025078014/0001213900-25-078014-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **S-1** | FT Intermediate, Inc.  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025040673/0001628280-25-040673-index.htm)
+
+- **10-Q** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925027382/0001437749-25-027382-index.htm)
 
 - **S-1/A** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925079896/0001104659-25-079896-index.htm)
@@ -78,6 +87,9 @@
 - **10-Q** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793225006023/0001477932-25-006023-index.htm)
 
+- **10-Q** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000164117225024882/0001641172-25-024882-index.htm)
+
 - **10-Q** | Snail, Inc.  (SNAL)  (CIK 0001886894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886894/000164117225024806/0001641172-25-024806-index.htm)
 
@@ -89,6 +101,9 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025109941/0000950170-25-109941-index.htm)
+
+- **8-K/A** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025110168/0000950170-25-110168-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025109566/0000950170-25-109566-index.htm)
@@ -116,6 +131,9 @@
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025078539/0001213900-25-078539-index.htm)
+
+- **10-Q** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025078583/0001213900-25-078583-index.htm)
 
 - **DEF 14A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025077850/0001213900-25-077850-index.htm)
@@ -153,11 +171,20 @@
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
 
+- **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390025078562/0001213900-25-078562-index.htm)
+
+- **POS AMI** | USCA All Terrain Fund  (CIK 0001638600)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1638600/000139834425016132/0001398344-25-016132-index.htm)
+
 - **N-PX** | GMO TRUST  (CIK 0000772129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/772129/000107261325000664/0001072613-25-000664-index.htm)
 
 - **N-PX** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000143893425001062/0001438934-25-001062-index.htm)
+
+- **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690625001380/0001096906-25-001380-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125011672/0001999371-25-011672-index.htm)
@@ -176,6 +203,9 @@
 
 - **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893425001064/0001438934-25-001064-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078593/0001213900-25-078593-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078132/0001213900-25-078132-index.htm)
