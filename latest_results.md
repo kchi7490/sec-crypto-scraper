@@ -336,6 +336,9 @@
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
 
+- **N-PX** | FINANCIAL INVESTORS TRUST  (CIK 0000915802)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/915802/000139834425016224/0001398344-25-016224-index.htm)
+
 - **N-PX** | MARCO INVESTMENT MANAGEMENT LLC  (CIK 0001080493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080493/000108049325000008/0001080493-25-000008-index.htm)
 
