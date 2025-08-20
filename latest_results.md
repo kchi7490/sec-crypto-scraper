@@ -81,6 +81,9 @@
 - **S-1/A** | Spring Valley Acquisition Corp. III  (CIK 0002074850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925079896/0001104659-25-079896-index.htm)
 
+- **424B5** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000030/0002077096-25-000030-index.htm)
+
 - **S-3ASR** | Empery Digital Inc.  (EMPD, VLCN)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006260/0001683168-25-006260-index.htm)
 
@@ -182,6 +185,9 @@
 
 - **S-1/A** | M3-Brigade Acquisition VI Corp.  (MBVI)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025078000/0001213900-25-078000-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001570/0001640334-25-001570-index.htm)
 
 - **6-K** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025078782/0001213900-25-078782-index.htm)
