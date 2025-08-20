@@ -6,11 +6,11 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
-
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -159,6 +159,15 @@
 - **S-1/A** | M3-Brigade Acquisition VI Corp.  (MBVI)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025078000/0001213900-25-078000-index.htm)
 
+- **6-K** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025078782/0001213900-25-078782-index.htm)
+
+- **6-K** | AMTD IDEA GROUP  (AMTD)  (CIK 0001769731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769731/000121390025078780/0001213900-25-078780-index.htm)
+
+- **6-K** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390025078778/0001213900-25-078778-index.htm)
+
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
 
@@ -252,6 +261,9 @@
 - **10-Q** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225012159/0001493152-25-012159-index.htm)
 
+- **N-PX** | FIRST TRUST VARIABLE INSURANCE TRUST  (CIK 0001537395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1537395/000144554625005599/0001445546-25-005599-index.htm)
+
 - **N-PX** | Cornerstone Strategic Investment Fund, Inc.  (CLM)  (CIK 0000814083)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/814083/000139834425016158/0001398344-25-016158-index.htm)
 
@@ -266,6 +278,9 @@
 
 - **N-PX** | Meeder Funds  (CIK 0000702435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702435/000139834425016019/0001398344-25-016019-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
 
 - **N-PX** | MARCO INVESTMENT MANAGEMENT LLC  (CIK 0001080493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080493/000108049325000008/0001080493-25-000008-index.htm)
