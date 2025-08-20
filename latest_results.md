@@ -141,6 +141,9 @@
 - **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025078001/0001213900-25-078001-index.htm)
 
+- **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025078698/0001213900-25-078698-index.htm)
+
 - **10-Q** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025078681/0001213900-25-078681-index.htm)
 
