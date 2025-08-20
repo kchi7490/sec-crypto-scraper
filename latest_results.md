@@ -108,6 +108,9 @@
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000467/0001137360-25-000467-index.htm)
 
+- **S-4** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000114036125032095/0001140361-25-032095-index.htm)
+
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000462/0001137360-25-000462-index.htm)
 
@@ -228,6 +231,9 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225012139/0001493152-25-012139-index.htm)
 
+- **N-14/A** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125011775/0001999371-25-011775-index.htm)
+
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
 
@@ -269,6 +275,9 @@
 
 - **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893425001064/0001438934-25-001064-index.htm)
+
+- **N-PX** | Bridge Builder Trust  (CIK 0001567101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312525184168/0001193125-25-184168-index.htm)
 
 - **PRE 14A** | AMCAP FUND  (CIK 0000004405)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000207709625000023/0002077096-25-000023-index.htm)
@@ -339,6 +348,12 @@
 - **N-PX** | FINANCIAL INVESTORS TRUST  (CIK 0000915802)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/915802/000139834425016224/0001398344-25-016224-index.htm)
 
+- **N-PX** | COMMONWEALTH INTERNATIONAL SERIES TRUST  (CIK 0000793601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/793601/000158064225005309/0001580642-25-005309-index.htm)
+
+- **N-PX** | Securian Funds Trust  (CIK 0000766351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/766351/000143893425001208/0001438934-25-001208-index.htm)
+
 - **N-PX** | MARCO INVESTMENT MANAGEMENT LLC  (CIK 0001080493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080493/000108049325000008/0001080493-25-000008-index.htm)
 
@@ -368,4 +383,7 @@
 
 - **SCHEDULE 13G** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000199937125011752/0001999371-25-011752-index.htm)
+
+- **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000095017025110483/0000950170-25-110483-index.htm)
 
