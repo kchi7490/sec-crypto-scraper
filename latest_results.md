@@ -210,6 +210,9 @@
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
 
+- **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525183987/0001193125-25-183987-index.htm)
+
 - **487** | FT 12355  (CIK 0002066135)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066135/000144554625005606/0001445546-25-005606-index.htm)
 
