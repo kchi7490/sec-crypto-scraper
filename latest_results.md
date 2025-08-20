@@ -6,11 +6,14 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
 
-- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001046/0001185185-25-001046-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -50,6 +53,9 @@
 
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025077692/0001213900-25-077692-index.htm)
+
+- **S-1** | Insight Digital Partners II  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
 
 - **S-1** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225024829/0001641172-25-024829-index.htm)
@@ -147,6 +153,9 @@
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025078539/0001213900-25-078539-index.htm)
 
+- **10-K** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997325001354/0001079973-25-001354-index.htm)
+
 - **10-Q** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025078583/0001213900-25-078583-index.htm)
 
@@ -155,6 +164,9 @@
 
 - **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025078001/0001213900-25-078001-index.htm)
+
+- **S-1/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025078966/0001213900-25-078966-index.htm)
 
 - **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025078698/0001213900-25-078698-index.htm)
@@ -179,6 +191,9 @@
 
 - **6-K** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390025078778/0001213900-25-078778-index.htm)
+
+- **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025078962/0001213900-25-078962-index.htm)
 
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
@@ -267,6 +282,9 @@
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025078015/0001213900-25-078015-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078972/0001213900-25-078972-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025078063/0001213900-25-078063-index.htm)
 
@@ -338,4 +356,7 @@
 
 - **10-Q** | Authentic Holdings, Inc.  (AHRO)  (CIK 0001338929)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1338929/000147793225006087/0001477932-25-006087-index.htm)
+
+- **SCHEDULE 13G** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000199937125011752/0001999371-25-011752-index.htm)
 
