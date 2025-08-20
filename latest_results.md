@@ -6,11 +6,11 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
-- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
+
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -251,6 +251,15 @@
 
 - **10-Q** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225012159/0001493152-25-012159-index.htm)
+
+- **N-PX** | Cornerstone Strategic Investment Fund, Inc.  (CLM)  (CIK 0000814083)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/814083/000139834425016158/0001398344-25-016158-index.htm)
+
+- **N-PX** | CORNERSTONE TOTAL RETURN FUND INC  (CRF)  (CIK 0000033934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/33934/000139834425016156/0001398344-25-016156-index.htm)
+
+- **N-PX** | GUINNESS ATKINSON FUNDS  (CIK 0000919160)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/919160/000139834425016157/0001398344-25-016157-index.htm)
 
 - **N-PX** | BOSTON TRUST WALDEN FUNDS  (CIK 0000882748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/882748/000139834425016078/0001398344-25-016078-index.htm)
