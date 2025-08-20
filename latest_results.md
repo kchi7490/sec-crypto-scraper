@@ -207,6 +207,9 @@
 - **6-K** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950525000032/0001499505-25-000032-index.htm)
 
+- **487** | FT 12355  (CIK 0002066135)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066135/000144554625005606/0001445546-25-005606-index.htm)
+
 - **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390025078562/0001213900-25-078562-index.htm)
 
@@ -272,6 +275,9 @@
 
 - **10-Q** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225012159/0001493152-25-012159-index.htm)
+
+- **N-PX** | TRUST FOR PROFESSIONAL MANAGERS  (CIK 0001141819)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141819/000143893425001132/0001438934-25-001132-index.htm)
 
 - **N-PX** | FIRST TRUST VARIABLE INSURANCE TRUST  (CIK 0001537395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1537395/000144554625005599/0001445546-25-005599-index.htm)
