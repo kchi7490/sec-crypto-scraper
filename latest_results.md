@@ -198,6 +198,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025078134/0001213900-25-078134-index.htm)
 
+- **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024954/0001641172-25-024954-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000901/0001279569-25-000901-index.htm)
 
@@ -242,6 +245,9 @@
 
 - **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893425001064/0001438934-25-001064-index.htm)
+
+- **PRE 14A** | AMCAP FUND  (CIK 0000004405)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000207709625000023/0002077096-25-000023-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025078593/0001213900-25-078593-index.htm)
@@ -308,6 +314,9 @@
 
 - **N-PX** | LAZARD RETIREMENT SERIES INC  (CIK 0001033669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1033669/000093041325002516/0000930413-25-002516-index.htm)
+
+- **N-PX** | Investment Managers Series Trust  (CIK 0001318342)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318342/000139834425016202/0001398344-25-016202-index.htm)
 
 - **N-PX** | New York Life Investments ETF Trust  (CIK 0001415995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415995/000183988225045836/0001839882-25-045836-index.htm)
