@@ -6,11 +6,11 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525183317/0001193125-25-183317-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
-
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025077688/0001213900-25-077688-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012109/0001493152-25-012109-index.htm)
 
 - **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024730/0001641172-25-024730-index.htm)
@@ -302,6 +302,9 @@
 
 - **N-PX** | LAZARD RETIREMENT SERIES INC  (CIK 0001033669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1033669/000093041325002516/0000930413-25-002516-index.htm)
+
+- **N-PX** | New York Life Investments ETF Trust  (CIK 0001415995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415995/000183988225045836/0001839882-25-045836-index.htm)
 
 - **N-PX** | LAZARD FUNDS INC  (CIK 0000874964)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/874964/000093041325002520/0000930413-25-002520-index.htm)
