@@ -109,6 +109,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025109566/0000950170-25-109566-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925080557/0001104659-25-080557-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925080047/0001104659-25-080047-index.htm)
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
@@ -161,6 +164,9 @@
 
 - **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465925080455/0001104659-25-080455-index.htm)
+
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925080552/0001104659-25-080552-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925080039/0001104659-25-080039-index.htm)
