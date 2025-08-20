@@ -141,6 +141,9 @@
 - **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025078001/0001213900-25-078001-index.htm)
 
+- **10-Q** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025078681/0001213900-25-078681-index.htm)
+
 - **SC 14D9** | HilleVax, Inc.  (HLVX)  (CIK 0001888012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888012/000119312525182307/0001193125-25-182307-index.htm)
 
@@ -152,6 +155,9 @@
 
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025077691/0001213900-25-077691-index.htm)
+
+- **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465925080455/0001104659-25-080455-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925080039/0001104659-25-080039-index.htm)
