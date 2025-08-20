@@ -288,6 +288,9 @@
 - **N-PX** | TRUST FOR PROFESSIONAL MANAGERS  (CIK 0001141819)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141819/000143893425001132/0001438934-25-001132-index.htm)
 
+- **N-PX** | BUFFALO FUNDS  (CIK 0001135300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1135300/000143893425001163/0001438934-25-001163-index.htm)
+
 - **N-PX** | FIRST TRUST VARIABLE INSURANCE TRUST  (CIK 0001537395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1537395/000144554625005599/0001445546-25-005599-index.htm)
 
