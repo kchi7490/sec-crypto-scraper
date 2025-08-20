@@ -189,6 +189,9 @@
 - **S-1/A** | M3-Brigade Acquisition VI Corp.  (MBVI)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025078000/0001213900-25-078000-index.htm)
 
+- **S-1/A** | New ERA Energy & Digital, Inc.  (NEHC, NUAI, NEHCW, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025078675/0001213900-25-078675-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001570/0001640334-25-001570-index.htm)
 
