@@ -294,6 +294,9 @@
 - **N-PX** | Securian Funds Trust  (CIK 0000766351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/766351/000143893425001208/0001438934-25-001208-index.htm)
 
+- **N-PX** | AUGUSTAR VARIABLE INSURANCE PRODUCTS FUND INC  (CIK 0000315754)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315754/000139834425016271/0001398344-25-016271-index.htm)
+
 - **N-PX** | UBS INVESTMENT TRUST  (CIK 0000873803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/873803/000110465925081272/0001104659-25-081272-index.htm)
 
