@@ -291,6 +291,9 @@
 - **N-PX** | Securian Funds Trust  (CIK 0000766351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/766351/000143893425001208/0001438934-25-001208-index.htm)
 
+- **N-PX** | UBS INVESTMENT TRUST  (CIK 0000873803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/873803/000110465925081272/0001104659-25-081272-index.htm)
+
 - **N-PX** | MARCO INVESTMENT MANAGEMENT LLC  (CIK 0001080493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080493/000108049325000008/0001080493-25-000008-index.htm)
 
