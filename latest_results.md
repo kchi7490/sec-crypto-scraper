@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000164117225025020/0001641172-25-025020-index.htm)
+
 - **DEFA14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000164117225024733/0001641172-25-024733-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000164117225024873/0001641172-25-024873-index.htm)
+
+- **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079088/0001213900-25-079088-index.htm)
 
 - **S-1** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
@@ -77,6 +83,9 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025109941/0000950170-25-109941-index.htm)
+
+- **8-K** | Phoenix Plus Corp.  (PXPC)  (CIK 0001785493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000164117225025003/0001641172-25-025003-index.htm)
 
 - **8-K/A** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025110168/0000950170-25-110168-index.htm)
@@ -210,11 +219,17 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025078063/0001213900-25-078063-index.htm)
 
+- **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925081019/0001104659-25-081019-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125011656/0001999371-25-011656-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078502/0001213900-25-078502-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010531/0000950103-25-010531-index.htm)
 
 - **10-Q** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225012159/0001493152-25-012159-index.htm)
@@ -239,6 +254,12 @@
 
 - **N-PX** | BOSTON TRUST WALDEN FUNDS  (CIK 0000882748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/882748/000139834425016078/0001398344-25-016078-index.htm)
+
+- **N-PX** | John Hancock Funds III  (CIK 0001329954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1329954/000143893425001232/0001438934-25-001232-index.htm)
+
+- **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
