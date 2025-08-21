@@ -78,6 +78,9 @@
 - **SC TO-I** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000046/0001859392-25-000046-index.htm)
 
+- **10-K** | OPGEN INC  (CIK 0001293818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912625006628/0001829126-25-006628-index.htm)
+
 - **10-Q** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000164117225024882/0001641172-25-024882-index.htm)
 
