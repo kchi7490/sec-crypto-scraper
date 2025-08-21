@@ -33,6 +33,9 @@
 - **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000164117225024844/0001641172-25-024844-index.htm)
 
+- **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006166/0001477932-25-006166-index.htm)
+
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000164117225024873/0001641172-25-024873-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **S-1** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
+
+- **S-1/A** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/0001137439-25-001022-index.htm)
 
 - **S-1** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000164117225024829/0001641172-25-024829-index.htm)
@@ -165,6 +171,9 @@
 - **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465925080455/0001104659-25-080455-index.htm)
 
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025103/0001641172-25-025103-index.htm)
+
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925080552/0001104659-25-080552-index.htm)
 
@@ -180,8 +189,14 @@
 - **424B5** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025079171/0001213900-25-079171-index.htm)
 
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025106/0001641172-25-025106-index.htm)
+
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024954/0001641172-25-024954-index.htm)
+
+- **424B3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225025109/0001641172-25-025109-index.htm)
 
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225012139/0001493152-25-012139-index.htm)
@@ -198,8 +213,14 @@
 - **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390025078562/0001213900-25-078562-index.htm)
 
+- **S-1/A** | Gemini Space Station, Inc.  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925081463/0001104659-25-081463-index.htm)
+
 - **POS AMI** | USCA All Terrain Fund  (CIK 0001638600)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1638600/000139834425016132/0001398344-25-016132-index.htm)
+
+- **N-PX** | Morningstar Funds Trust  (CIK 0001699360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1699360/000102140825002736/0001021408-25-002736-index.htm)
 
 - **N-PX** | GMO TRUST  (CIK 0000772129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/772129/000107261325000664/0001072613-25-000664-index.htm)
