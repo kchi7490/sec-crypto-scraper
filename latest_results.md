@@ -21,6 +21,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225024734/0001641172-25-024734-index.htm)
 
+- **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025079168/0001213900-25-079168-index.htm)
+
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025078130/0001213900-25-078130-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000164117225024873/0001641172-25-024873-index.htm)
+
+- **8-K** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000164117225025037/0001641172-25-025037-index.htm)
 
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079088/0001213900-25-079088-index.htm)
