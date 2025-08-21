@@ -120,6 +120,9 @@
 - **10-Q** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025078583/0001213900-25-078583-index.htm)
 
+- **424B4** | Cantor Equity Partners IV, Inc.  (CEPF)  (CIK 0002034267)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034267/000121390025079372/0001213900-25-079372-index.htm)
+
 - **S-1/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025078966/0001213900-25-078966-index.htm)
 
@@ -131,6 +134,9 @@
 
 - **S-1/A** | New ERA Energy & Digital, Inc.  (NEHC, NUAI, NEHCW, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025078675/0001213900-25-078675-index.htm)
+
+- **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002700/0001021408-25-002700-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001570/0001640334-25-001570-index.htm)
@@ -210,6 +216,9 @@
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000110465925080219/0001104659-25-080219-index.htm)
 
+- **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002701/0001021408-25-002701-index.htm)
+
 - **N-PX** | Krane Shares Trust  (CIK 0001547576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000113542825000073/0001135428-25-000073-index.htm)
 
@@ -236,6 +245,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078972/0001213900-25-078972-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025079369/0001213900-25-079369-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, CCCM, BRRWU, BRRWW, CCCMU, CCCMW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025078063/0001213900-25-078063-index.htm)
