@@ -285,6 +285,9 @@
 - **N-PX** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000400/0001081400-25-000400-index.htm)
 
+- **N-PX** | Columbia Funds Variable Series Trust II  (CIK 0001413032)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413032/000102140825002647/0001021408-25-002647-index.htm)
+
 - **N-PX** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140025000402/0001081400-25-000402-index.htm)
 
