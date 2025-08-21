@@ -276,6 +276,12 @@
 - **N-PX** | John Hancock Funds III  (CIK 0001329954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329954/000143893425001232/0001438934-25-001232-index.htm)
 
+- **N-PX** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000400/0001081400-25-000400-index.htm)
+
+- **N-PX** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140025000402/0001081400-25-000402-index.htm)
+
 - **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
@@ -296,6 +302,9 @@
 
 - **N-PX** | AUGUSTAR VARIABLE INSURANCE PRODUCTS FUND INC  (CIK 0000315754)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315754/000139834425016271/0001398344-25-016271-index.htm)
+
+- **N-PX** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108140025000401/0001081400-25-000401-index.htm)
 
 - **N-PX** | UBS INVESTMENT TRUST  (CIK 0000873803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/873803/000110465925081272/0001104659-25-081272-index.htm)
