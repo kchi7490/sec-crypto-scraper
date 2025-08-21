@@ -276,6 +276,9 @@
 - **N-PX** | BOSTON TRUST WALDEN FUNDS  (CIK 0000882748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/882748/000139834425016078/0001398344-25-016078-index.htm)
 
+- **N-PX** | Columbia Funds Series Trust II  (CIK 0001352280)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1352280/000102140825002641/0001021408-25-002641-index.htm)
+
 - **N-PX** | John Hancock Funds III  (CIK 0001329954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329954/000143893425001232/0001438934-25-001232-index.htm)
 
@@ -309,6 +312,9 @@
 - **N-PX** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108140025000401/0001081400-25-000401-index.htm)
 
+- **N-PX** | COLUMBIA FUNDS SERIES TRUST  (CIK 0001097519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1097519/000102140825002645/0001021408-25-002645-index.htm)
+
 - **N-PX** | UBS INVESTMENT TRUST  (CIK 0000873803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/873803/000110465925081272/0001104659-25-081272-index.htm)
 
@@ -317,6 +323,9 @@
 
 - **N-PX** | LAZARD RETIREMENT SERIES INC  (CIK 0001033669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1033669/000093041325002516/0000930413-25-002516-index.htm)
+
+- **N-PX** | Columbia ETF Trust I  (CIK 0001551950)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1551950/000102140825002643/0001021408-25-002643-index.htm)
 
 - **N-PX** | Investment Managers Series Trust  (CIK 0001318342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318342/000139834425016202/0001398344-25-016202-index.htm)
