@@ -57,6 +57,9 @@
 - **10-Q** | Viewbix Inc.  (VBIX)  (CIK 0000797542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/797542/000164117225024831/0001641172-25-024831-index.htm)
 
+- **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025079401/0001213900-25-079401-index.htm)
+
 - **10-Q** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925027382/0001437749-25-027382-index.htm)
 
