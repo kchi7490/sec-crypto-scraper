@@ -213,6 +213,9 @@
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225025064/0001641172-25-025064-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002078/0001592900-25-002078-index.htm)
+
 - **N-1A/A** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000110465925080219/0001104659-25-080219-index.htm)
 
@@ -344,6 +347,9 @@
 
 - **N-PX** | Investment Managers Series Trust  (CIK 0001318342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318342/000139834425016202/0001398344-25-016202-index.htm)
+
+- **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002702/0001021408-25-002702-index.htm)
 
 - **N-PX** | New York Life Investments ETF Trust  (CIK 0001415995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415995/000183988225045836/0001839882-25-045836-index.htm)
