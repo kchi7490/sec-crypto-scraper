@@ -84,6 +84,9 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925080557/0001104659-25-080557-index.htm)
 
+- **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000164117225025195/0001641172-25-025195-index.htm)
+
 - **10-K** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997325001354/0001079973-25-001354-index.htm)
 
@@ -207,6 +210,9 @@
 - **PRE 14A** | AMCAP FUND  (CIK 0000004405)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000207709625000023/0002077096-25-000023-index.htm)
 
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025079858/0001213900-25-079858-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078972/0001213900-25-078972-index.htm)
 
@@ -276,11 +282,11 @@
 - **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
-- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
-
 - **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
