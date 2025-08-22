@@ -111,6 +111,9 @@
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025103/0001641172-25-025103-index.htm)
 
+- **6-K/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025040984/0001628280-25-040984-index.htm)
+
 - **6-K** | Yiren Digital Ltd.  (YRD)  (CIK 0001631761)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1631761/000110465925081533/0001104659-25-081533-index.htm)
 
@@ -125,6 +128,9 @@
 
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024954/0001641172-25-024954-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025040985/0001628280-25-040985-index.htm)
 
 - **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025079559/0001213900-25-079559-index.htm)
@@ -221,6 +227,9 @@
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
+
+- **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
