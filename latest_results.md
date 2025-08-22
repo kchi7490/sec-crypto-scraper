@@ -186,6 +186,9 @@
 - **N-PX** | Morningstar Funds Trust  (CIK 0001699360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1699360/000102140825002736/0001021408-25-002736-index.htm)
 
+- **N-PX** | COLLEGE RETIREMENT EQUITIES FUND  (CIK 0000777535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/777535/000093041325002694/0000930413-25-002694-index.htm)
+
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225025064/0001641172-25-025064-index.htm)
 
@@ -282,11 +285,11 @@
 - **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
-- **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
-
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
+
+- **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
