@@ -222,6 +222,9 @@
 - **N-PX** | TRUST FOR PROFESSIONAL MANAGERS  (CIK 0001141819)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141819/000143893425001132/0001438934-25-001132-index.htm)
 
+- **N-PX** | CANTOR SELECT PORTFOLIOS TRUST  (CIK 0001903606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903606/000158064225005386/0001580642-25-005386-index.htm)
+
 - **N-PX** | TOUCHSTONE STRATEGIC TRUST  (CIK 0000711080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/711080/000110465925081601/0001104659-25-081601-index.htm)
 
@@ -270,11 +273,11 @@
 - **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
-- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
-
 - **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
