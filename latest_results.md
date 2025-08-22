@@ -15,11 +15,17 @@
 - **8-K** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225012207/0001493152-25-012207-index.htm)
 
+- **S-3/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925012636/0001214659-25-012636-index.htm)
+
 - **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006166/0001477932-25-006166-index.htm)
 
 - **S-1/A** | CoinShares XRP ETF  (CIK 0002048583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048583/000199937125011886/0001999371-25-011886-index.htm)
+
+- **DEF 14A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125032358/0001140361-25-032358-index.htm)
 
 - **S-1/A** | Canary XRP ETF  (CIK 0002039505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937125011879/0001999371-25-011879-index.htm)
@@ -30,8 +36,14 @@
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000113743925001026/0001137439-25-001026-index.htm)
 
+- **S-1/A** | WisdomTree XRP Fund  (CIK 0002046791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046791/000121465925012637/0001214659-25-012637-index.htm)
+
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079088/0001213900-25-079088-index.htm)
+
+- **S-1** | Grayscale XRP Trust  (CIK 0002037427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000095017025111044/0000950170-25-111044-index.htm)
 
 - **S-1** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
@@ -39,11 +51,26 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225012270/0001493152-25-012270-index.htm)
 
+- **PRE 14A** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225025225/0001641172-25-025225-index.htm)
+
 - **S-1** | VanEck JitoSOL ETF  (CIK 0002082189)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082189/000162828025041000/0001628280-25-041000-index.htm)
 
 - **S-1/A** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/0001137439-25-001022-index.htm)
+
+- **S-3/A** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000164117225025261/0001641172-25-025261-index.htm)
+
+- **S-1/A** | Bitwise XRP ETF  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000121390025079990/0001213900-25-079990-index.htm)
+
+- **424B3** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025079987/0001213900-25-079987-index.htm)
+
+- **S-1** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125032386/0001140361-25-032386-index.htm)
 
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025079401/0001213900-25-079401-index.htm)
@@ -66,11 +93,17 @@
 - **424B5** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000037/0002077096-25-000037-index.htm)
 
+- **DEF 14A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225006195/0001477932-25-006195-index.htm)
+
 - **10-K** | OPGEN INC  (CIK 0001293818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912625006628/0001829126-25-006628-index.htm)
 
 - **F-3/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025040987/0001628280-25-040987-index.htm)
+
+- **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025079981/0001213900-25-079981-index.htm)
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000467/0001137360-25-000467-index.htm)
@@ -99,6 +132,9 @@
 - **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000164117225025195/0001641172-25-025195-index.htm)
 
+- **424B5** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925081946/0001104659-25-081946-index.htm)
+
 - **10-K** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997325001354/0001079973-25-001354-index.htm)
 
@@ -107,6 +143,9 @@
 
 - **S-1/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025078966/0001213900-25-078966-index.htm)
+
+- **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025079984/0001213900-25-079984-index.htm)
 
 - **424B3** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390025078698/0001213900-25-078698-index.htm)
@@ -119,6 +158,12 @@
 
 - **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002700/0001021408-25-002700-index.htm)
+
+- **PRE 14A** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025111036/0000950170-25-111036-index.htm)
+
+- **PRE 14A** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000095017025111034/0000950170-25-111034-index.htm)
 
 - **S-3ASR** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079962/0001213900-25-079962-index.htm)
@@ -231,6 +276,9 @@
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000175272425198369/0001752724-25-198369-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425016459/0001398344-25-016459-index.htm)
+
 - **N-PX** | TIFF INVESTMENT PROGRAM  (CIK 0000916622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916622/000143893425001350/0001438934-25-001350-index.htm)
 
@@ -245,6 +293,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025079858/0001213900-25-079858-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025079972/0001213900-25-079972-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078972/0001213900-25-078972-index.htm)
