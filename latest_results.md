@@ -36,6 +36,9 @@
 - **S-1** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225012270/0001493152-25-012270-index.htm)
+
 - **S-1** | VanEck JitoSOL ETF  (CIK 0002082189)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082189/000162828025041000/0001628280-25-041000-index.htm)
 
@@ -186,8 +189,14 @@
 - **424B3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225025109/0001641172-25-025109-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000913/0001279569-25-000913-index.htm)
+
 - **N-14/A** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125011775/0001999371-25-011775-index.htm)
+
+- **6-K** | Medirom Healthcare Technologies Inc.  (MRM)  (CIK 0001819704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819704/000155837025011736/0001558370-25-011736-index.htm)
 
 - **487** | FT 12356  (CIK 0002066136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066136/000144554625005800/0001445546-25-005800-index.htm)
@@ -270,6 +279,9 @@
 - **N-PX** | BUFFALO FUNDS  (CIK 0001135300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1135300/000143893425001163/0001438934-25-001163-index.htm)
 
+- **N-PX** | Ultimus Managers Trust  (CIK 0001545440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1545440/000158064225005400/0001580642-25-005400-index.htm)
+
 - **N-PX** | FIRST TRUST VARIABLE INSURANCE TRUST  (CIK 0001537395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1537395/000144554625005599/0001445546-25-005599-index.htm)
 
@@ -333,11 +345,17 @@
 - **N-PX** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108140025000401/0001081400-25-000401-index.htm)
 
+- **N-PX** | STATE STREET INSTITUTIONAL FUNDS  (CIK 0001040061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1040061/000102140825002991/0001021408-25-002991-index.htm)
+
 - **N-PX** | PACE SELECT ADVISORS TRUST  (CIK 0000930007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/930007/000110465925081736/0001104659-25-081736-index.htm)
 
 - **N-PX** | COLUMBIA FUNDS SERIES TRUST  (CIK 0001097519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1097519/000102140825002645/0001021408-25-002645-index.htm)
+
+- **N-PX** | ELFUN DIVERSIFIED FUND  (CIK 0000821484)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/821484/000102140825002989/0001021408-25-002989-index.htm)
 
 - **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001361/0001438934-25-001361-index.htm)
@@ -368,6 +386,9 @@
 
 - **N-PX** | PENN SERIES FUNDS INC  (CIK 0000702340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702340/000119312525183874/0001193125-25-183874-index.htm)
+
+- **N-PX** | STATE STREET VARIABLE INSURANCE SERIES FUNDS INC  (CIK 0000746687)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746687/000102140825002995/0001021408-25-002995-index.htm)
 
 - **N-PX** | SEASONS SERIES TRUST  (CIK 0001003239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1003239/000102140825002922/0001021408-25-002922-index.htm)
