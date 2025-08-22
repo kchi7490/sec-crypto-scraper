@@ -15,6 +15,9 @@
 - **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006166/0001477932-25-006166-index.htm)
 
+- **S-1/A** | Canary XRP ETF  (CIK 0002039505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937125011879/0001999371-25-011879-index.htm)
+
 - **8-K** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000164117225025037/0001641172-25-025037-index.htm)
 
@@ -156,6 +159,9 @@
 - **N-14/A** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125011775/0001999371-25-011775-index.htm)
 
+- **487** | FT 12356  (CIK 0002066136)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066136/000144554625005800/0001445546-25-005800-index.htm)
+
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525183987/0001193125-25-183987-index.htm)
 
@@ -212,6 +218,9 @@
 
 - **N-PX** | TOUCHSTONE STRATEGIC TRUST  (CIK 0000711080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/711080/000110465925081601/0001104659-25-081601-index.htm)
+
+- **N-PX** | LIBERTY ALL STAR EQUITY FUND  (USA)  (CIK 0000799195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/799195/000139834425016396/0001398344-25-016396-index.htm)
 
 - **N-PX** | BUFFALO FUNDS  (CIK 0001135300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1135300/000143893425001163/0001438934-25-001163-index.htm)
@@ -281,6 +290,9 @@
 
 - **N-PX** | COLUMBIA FUNDS SERIES TRUST  (CIK 0001097519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1097519/000102140825002645/0001021408-25-002645-index.htm)
+
+- **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001361/0001438934-25-001361-index.htm)
 
 - **N-PX** | UBS INVESTMENT TRUST  (CIK 0000873803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/873803/000110465925081272/0001104659-25-081272-index.htm)
