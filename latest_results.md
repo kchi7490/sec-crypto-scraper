@@ -30,8 +30,14 @@
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025079401/0001213900-25-079401-index.htm)
 
+- **POS AM** | Cyclacel Pharmaceuticals, Inc.  (CYCC, CYCCP)  (CIK 0001130166)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1130166/000164117225025122/0001641172-25-025122-index.htm)
+
 - **424B5** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000030/0002077096-25-000030-index.htm)
+
+- **424B5** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000037/0002077096-25-000037-index.htm)
 
 - **10-K** | OPGEN INC  (CIK 0001293818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912625006628/0001829126-25-006628-index.htm)
@@ -104,6 +110,9 @@
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025103/0001641172-25-025103-index.htm)
+
+- **6-K** | Yiren Digital Ltd.  (YRD)  (CIK 0001631761)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1631761/000110465925081533/0001104659-25-081533-index.htm)
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925080552/0001104659-25-080552-index.htm)
