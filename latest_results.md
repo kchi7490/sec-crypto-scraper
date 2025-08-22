@@ -174,6 +174,9 @@
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002078/0001592900-25-002078-index.htm)
 
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002081/0001592900-25-002081-index.htm)
+
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000175272425198369/0001752724-25-198369-index.htm)
 
@@ -249,11 +252,11 @@
 - **N-PX** | JOHN HANCOCK INVESTMENT TRUST  (CIK 0000022370)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22370/000143893425001249/0001438934-25-001249-index.htm)
 
-- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
-
 - **N-PX** | THORNBURG INVESTMENT TRUST  (CIK 0000816153)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/816153/000183988225046083/0001839882-25-046083-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VI  (CIK 0001552740)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1552740/000144554625005632/0001445546-25-005632-index.htm)
 
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554625005601/0001445546-25-005601-index.htm)
