@@ -111,6 +111,9 @@
 - **6-K** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390025078778/0001213900-25-078778-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425009948/0001654954-25-009948-index.htm)
+
 - **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025078962/0001213900-25-078962-index.htm)
 
