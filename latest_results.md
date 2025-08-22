@@ -15,6 +15,9 @@
 - **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006166/0001477932-25-006166-index.htm)
 
+- **S-1/A** | CoinShares XRP ETF  (CIK 0002048583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048583/000199937125011886/0001999371-25-011886-index.htm)
+
 - **S-1/A** | Canary XRP ETF  (CIK 0002039505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937125011879/0001999371-25-011879-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002700/0001021408-25-002700-index.htm)
+
+- **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025079780/0001213900-25-079780-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001570/0001640334-25-001570-index.htm)
