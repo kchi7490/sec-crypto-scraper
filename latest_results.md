@@ -120,6 +120,9 @@
 - **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002700/0001021408-25-002700-index.htm)
 
+- **S-3ASR** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079962/0001213900-25-079962-index.htm)
+
 - **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025079780/0001213900-25-079780-index.htm)
 
@@ -368,6 +371,9 @@
 
 - **N-PX** | SUNAMERICA SERIES TRUST  (CIK 0000892538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/892538/000102140825002927/0001021408-25-002927-index.htm)
+
+- **N-PX** | TIAA-CREF LIFE FUNDS  (CIK 0001068204)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1068204/000093041325002695/0000930413-25-002695-index.htm)
 
 - **N-PX** | Investment Managers Series Trust  (CIK 0001318342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318342/000139834425016202/0001398344-25-016202-index.htm)
