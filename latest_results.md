@@ -6,6 +6,9 @@
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001046/0001185185-25-001046-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225025218/0001641172-25-025218-index.htm)
+
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025079168/0001213900-25-079168-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000164117225025037/0001641172-25-025037-index.htm)
+
+- **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000113743925001026/0001137439-25-001026-index.htm)
 
 - **8-K/A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079088/0001213900-25-079088-index.htm)
@@ -84,6 +90,9 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925080557/0001104659-25-080557-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925081886/0001104659-25-081886-index.htm)
+
 - **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000164117225025195/0001641172-25-025195-index.htm)
 
@@ -121,6 +130,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925081220/0001104659-25-081220-index.htm)
 
 - **6-K** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025079891/0001213900-25-079891-index.htm)
+
+- **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025079896/0001213900-25-079896-index.htm)
+
+- **6-K** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025078782/0001213900-25-078782-index.htm)
 
 - **6-K** | AMTD IDEA GROUP  (AMTD)  (CIK 0001769731)  
@@ -155,6 +170,9 @@
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025106/0001641172-25-025106-index.htm)
+
+- **F-3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025079899/0001213900-25-079899-index.htm)
 
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024954/0001641172-25-024954-index.htm)
@@ -220,7 +238,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025078972/0001213900-25-078972-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025079916/0001213900-25-079916-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025079369/0001213900-25-079369-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025079893/0001213900-25-079893-index.htm)
 
 - **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925081019/0001104659-25-081019-index.htm)
