@@ -24,6 +24,9 @@
 - **S-1** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025078978/0001213900-25-078978-index.htm)
 
+- **S-1** | VanEck JitoSOL ETF  (CIK 0002082189)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082189/000162828025041000/0001628280-25-041000-index.htm)
+
 - **S-1/A** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/0001137439-25-001022-index.htm)
 
@@ -216,6 +219,9 @@
 - **N-PX** | Cornerstone Strategic Investment Fund, Inc.  (CLM)  (CIK 0000814083)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/814083/000139834425016158/0001398344-25-016158-index.htm)
 
+- **N-PX** | UBS FUNDS  (CIK 0000886244)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886244/000110465925081738/0001104659-25-081738-index.htm)
+
 - **N-PX** | CORNERSTONE TOTAL RETURN FUND INC  (CRF)  (CIK 0000033934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/33934/000139834425016156/0001398344-25-016156-index.htm)
 
@@ -264,6 +270,9 @@
 - **N-PX** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108140025000401/0001081400-25-000401-index.htm)
 
+- **N-PX** | PACE SELECT ADVISORS TRUST  (CIK 0000930007)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/930007/000110465925081736/0001104659-25-081736-index.htm)
+
 - **N-PX** | COLUMBIA FUNDS SERIES TRUST  (CIK 0001097519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1097519/000102140825002645/0001021408-25-002645-index.htm)
 
@@ -273,11 +282,17 @@
 - **N-PX** | Columbia ETF Trust I  (CIK 0001551950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1551950/000102140825002643/0001021408-25-002643-index.htm)
 
+- **N-PX** | SUNAMERICA SERIES TRUST  (CIK 0000892538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/892538/000102140825002927/0001021408-25-002927-index.htm)
+
 - **N-PX** | Investment Managers Series Trust  (CIK 0001318342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318342/000139834425016202/0001398344-25-016202-index.htm)
 
 - **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002702/0001021408-25-002702-index.htm)
+
+- **N-PX** | VALIC Co I  (CIK 0000719423)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/719423/000102140825002928/0001021408-25-002928-index.htm)
 
 - **N-PX** | New York Life Investments ETF Trust  (CIK 0001415995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415995/000183988225045836/0001839882-25-045836-index.htm)
@@ -287,6 +302,9 @@
 
 - **N-PX** | PENN SERIES FUNDS INC  (CIK 0000702340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702340/000119312525183874/0001193125-25-183874-index.htm)
+
+- **N-PX** | SEASONS SERIES TRUST  (CIK 0001003239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1003239/000102140825002922/0001021408-25-002922-index.htm)
 
 - **SCHEDULE 13G** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000199937125011752/0001999371-25-011752-index.htm)
