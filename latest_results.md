@@ -165,6 +165,9 @@
 - **PRE 14A** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000095017025111034/0000950170-25-111034-index.htm)
 
+- **424B5** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080000/0001213900-25-080000-index.htm)
+
 - **S-3ASR** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079962/0001213900-25-079962-index.htm)
 
@@ -264,6 +267,9 @@
 - **N-PX** | COLLEGE RETIREMENT EQUITIES FUND  (CIK 0000777535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777535/000093041325002694/0000930413-25-002694-index.htm)
 
+- **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025080014/0001213900-25-080014-index.htm)
+
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000164117225025064/0001641172-25-025064-index.htm)
 
@@ -275,6 +281,9 @@
 
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000175272425198369/0001752724-25-198369-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425016464/0001398344-25-016464-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425016459/0001398344-25-016459-index.htm)
