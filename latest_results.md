@@ -126,6 +126,9 @@
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000164117225024954/0001641172-25-024954-index.htm)
 
+- **6-K** | Top Win International Ltd  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025079559/0001213900-25-079559-index.htm)
+
 - **424B3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225025109/0001641172-25-025109-index.htm)
 
@@ -171,14 +174,23 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010531/0000950103-25-010531-index.htm)
 
+- **N-PX** | TOUCHSTONE VARIABLE SERIES TRUST  (CIK 0000920547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/920547/000110465925081596/0001104659-25-081596-index.htm)
+
 - **N-PX** | TRUST FOR PROFESSIONAL MANAGERS  (CIK 0001141819)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141819/000143893425001132/0001438934-25-001132-index.htm)
+
+- **N-PX** | TOUCHSTONE STRATEGIC TRUST  (CIK 0000711080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/711080/000110465925081601/0001104659-25-081601-index.htm)
 
 - **N-PX** | BUFFALO FUNDS  (CIK 0001135300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1135300/000143893425001163/0001438934-25-001163-index.htm)
 
 - **N-PX** | FIRST TRUST VARIABLE INSURANCE TRUST  (CIK 0001537395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1537395/000144554625005599/0001445546-25-005599-index.htm)
+
+- **N-PX** | Touchstone ETF Trust  (CIK 0001919700)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1919700/000110465925081607/0001104659-25-081607-index.htm)
 
 - **N-PX** | Cornerstone Strategic Investment Fund, Inc.  (CLM)  (CIK 0000814083)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/814083/000139834425016158/0001398344-25-016158-index.htm)
