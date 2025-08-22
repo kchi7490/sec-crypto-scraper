@@ -171,6 +171,9 @@
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002078/0001592900-25-002078-index.htm)
 
+- **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000175272425198369/0001752724-25-198369-index.htm)
+
 - **N-PX** | LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914036/000102140825002701/0001021408-25-002701-index.htm)
 
@@ -278,6 +281,9 @@
 
 - **N-PX** | New York Life Investments ETF Trust  (CIK 0001415995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415995/000183988225045836/0001839882-25-045836-index.htm)
+
+- **N-PX** | EMPOWER FUNDS, INC.  (CIK 0000356476)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356476/000102140825002893/0001021408-25-002893-index.htm)
 
 - **N-PX** | PENN SERIES FUNDS INC  (CIK 0000702340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702340/000119312525183874/0001193125-25-183874-index.htm)
