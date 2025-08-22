@@ -30,8 +30,14 @@
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025079401/0001213900-25-079401-index.htm)
 
+- **S-3ASR** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079574/0001213900-25-079574-index.htm)
+
 - **POS AM** | Cyclacel Pharmaceuticals, Inc.  (CYCC, CYCCP)  (CIK 0001130166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1130166/000164117225025122/0001641172-25-025122-index.htm)
+
+- **S-3ASR** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025079572/0001213900-25-079572-index.htm)
 
 - **424B5** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000030/0002077096-25-000030-index.htm)
@@ -41,6 +47,9 @@
 
 - **10-K** | OPGEN INC  (CIK 0001293818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912625006628/0001829126-25-006628-index.htm)
+
+- **F-3/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025040987/0001628280-25-040987-index.htm)
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000467/0001137360-25-000467-index.htm)
