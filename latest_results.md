@@ -102,6 +102,9 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
+- **N-PX** | ADVISORS SERIES TRUST  (CIK 0001027596)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027596/000143893425001547/0001438934-25-001547-index.htm)
+
 - **N-PX** | LAUDUS TRUST  (CIK 0000832545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/832545/000102140825003155/0001021408-25-003155-index.htm)
 
