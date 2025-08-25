@@ -6,6 +6,9 @@
 - **S-1** | Canary American-Made Crypto ETF  (CIK 0002083119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083119/000199937125011916/0001999371-25-011916-index.htm)
 
+- **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
+
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080048/0001213900-25-080048-index.htm)
 
@@ -20,6 +23,12 @@
 
 - **S-1** | OTG Acquisition Corp. I  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315225012277/0001493152-25-012277-index.htm)
+
+- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225025338/0001641172-25-025338-index.htm)
+
+- **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225012291/0001493152-25-012291-index.htm)
 
 - **F-1** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000141057825001881/0001410578-25-001881-index.htm)
