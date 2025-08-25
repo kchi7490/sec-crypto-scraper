@@ -90,6 +90,9 @@
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025080129/0001213900-25-080129-index.htm)
 
+- **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
+
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
