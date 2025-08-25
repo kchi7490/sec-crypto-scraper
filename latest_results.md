@@ -54,6 +54,9 @@
 - **S-1/A** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025080183/0001213900-25-080183-index.htm)
 
+- **ARS** | reAlpha Tech Corp.  (AIRE)  (CIK 0001859199)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859199/000200858925000056/0002008589-25-000056-index.htm)
+
 - **8-K** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000164117225025341/0001641172-25-025341-index.htm)
 
@@ -138,6 +141,21 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010669/0000950103-25-010669-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010671/0000950103-25-010671-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010672/0000950103-25-010672-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010666/0000950103-25-010666-index.htm)
+
+- **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010670/0000950103-25-010670-index.htm)
+
 - **N-PX** | Voya VARIABLE FUNDS  (CIK 0000002664)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2664/000119312525187802/0001193125-25-187802-index.htm)
 
@@ -167,6 +185,9 @@
 
 - **N-PX** | Voya INVESTORS TRUST  (CIK 0000837276)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837276/000119312525187782/0001193125-25-187782-index.htm)
+
+- **N-PX** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542825000144/0001135428-25-000144-index.htm)
 
 - **N-PX** | Forethought Variable Insurance Trust  (CIK 0001580353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580353/000110465925082389/0001104659-25-082389-index.htm)
