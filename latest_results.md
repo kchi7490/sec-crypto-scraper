@@ -18,6 +18,9 @@
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080111/0001213900-25-080111-index.htm)
 
+- **8-K** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025080371/0001213900-25-080371-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
 
@@ -105,6 +108,12 @@
 - **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
 
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425016550/0001398344-25-016550-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025080375/0001213900-25-080375-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025080358/0001213900-25-080358-index.htm)
 
@@ -149,4 +158,7 @@
 
 - **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
+
+- **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
 
