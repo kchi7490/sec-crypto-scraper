@@ -96,6 +96,15 @@
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 3  (CIK 0001104631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104631/000006759025000037/0000067590-25-000037-index.htm)
 
+- **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001499/0001438934-25-001499-index.htm)
+
+- **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554625005829/0001445546-25-005829-index.htm)
+
+- **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
+
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
 
