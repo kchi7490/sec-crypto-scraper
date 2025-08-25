@@ -90,6 +90,9 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
+- **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 3  (CIK 0001104631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104631/000006759025000037/0000067590-25-000037-index.htm)
+
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
 
