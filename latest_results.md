@@ -90,14 +90,23 @@
 - **6-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225025342/0001641172-25-025342-index.htm)
 
+- **424B5** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025080346/0001213900-25-080346-index.htm)
+
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025080129/0001213900-25-080129-index.htm)
+
+- **6-K** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025080350/0001213900-25-080350-index.htm)
 
 - **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
 
 - **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025080358/0001213900-25-080358-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
@@ -134,4 +143,10 @@
 
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
+
+- **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542825000128/0001135428-25-000128-index.htm)
+
+- **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
 
