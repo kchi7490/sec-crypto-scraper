@@ -3,6 +3,9 @@
 - **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025080068/0001213900-25-080068-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012292/0001493152-25-012292-index.htm)
+
 - **S-1** | Canary American-Made Crypto ETF  (CIK 0002083119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083119/000199937125011916/0001999371-25-011916-index.htm)
 
