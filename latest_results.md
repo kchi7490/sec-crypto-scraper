@@ -48,6 +48,9 @@
 - **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025080089/0001213900-25-080089-index.htm)
 
+- **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025080387/0001213900-25-080387-index.htm)
+
 - **S-1/A** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025080183/0001213900-25-080183-index.htm)
 
@@ -120,6 +123,9 @@
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
+- **N-PX** | Voya VARIABLE FUNDS  (CIK 0000002664)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2664/000119312525187802/0001193125-25-187802-index.htm)
+
 - **N-PX** | ADVISORS SERIES TRUST  (CIK 0001027596)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027596/000143893425001547/0001438934-25-001547-index.htm)
 
@@ -144,6 +150,9 @@
 - **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
 
+- **N-PX** | Voya INVESTORS TRUST  (CIK 0000837276)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/837276/000119312525187782/0001193125-25-187782-index.htm)
+
 - **N-PX** | Forethought Variable Insurance Trust  (CIK 0001580353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580353/000110465925082389/0001104659-25-082389-index.htm)
 
@@ -155,6 +164,9 @@
 
 - **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542825000128/0001135428-25-000128-index.htm)
+
+- **N-PX** | Voya EQUITY TRUST  (CIK 0001063946)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1063946/000119312525187783/0001193125-25-187783-index.htm)
 
 - **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
