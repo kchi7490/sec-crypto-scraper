@@ -93,11 +93,17 @@
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025080129/0001213900-25-080129-index.htm)
 
+- **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
+
 - **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
+
+- **N-PX** | LAUDUS TRUST  (CIK 0000832545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/832545/000102140825003155/0001021408-25-003155-index.htm)
 
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 3  (CIK 0001104631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104631/000006759025000037/0000067590-25-000037-index.htm)
@@ -105,11 +111,23 @@
 - **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001499/0001438934-25-001499-index.htm)
 
+- **N-PX** | VIRTUS ASSET TRUST  (CIK 0001018593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1018593/000003427325000011/0000034273-25-000011-index.htm)
+
 - **N-PX** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554625005829/0001445546-25-005829-index.htm)
 
+- **N-PX** | Virtus Investment Trust  (CIK 0000867297)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/867297/000003427325000006/0000034273-25-000006-index.htm)
+
 - **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
+
+- **N-PX** | Forethought Variable Insurance Trust  (CIK 0001580353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580353/000110465925082389/0001104659-25-082389-index.htm)
+
+- **N-PX** | SCHWAB ANNUITY PORTFOLIOS  (CIK 0000918266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/918266/000102140825003157/0001021408-25-003157-index.htm)
 
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
