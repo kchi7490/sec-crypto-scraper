@@ -66,6 +66,12 @@
 - **8-K** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080112/0001213900-25-080112-index.htm)
 
+- **8-K** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025080402/0001213900-25-080402-index.htm)
+
+- **F-3ASR** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000094/0001383395-25-000094-index.htm)
+
 - **S-1/A** | GSR IV Acquisition Corp.  (GSRF)  (CIK 0002072404)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390025080052/0001213900-25-080052-index.htm)
 
@@ -102,11 +108,17 @@
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025080129/0001213900-25-080129-index.htm)
 
+- **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225025410/0001641172-25-025410-index.htm)
+
 - **6-K** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025080350/0001213900-25-080350-index.htm)
 
 - **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
+
+- **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003219/0001021408-25-003219-index.htm)
 
 - **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
@@ -119,6 +131,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025080358/0001213900-25-080358-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080395/0001213900-25-080395-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
@@ -162,6 +177,9 @@
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
 
+- **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003233/0001021408-25-003233-index.htm)
+
 - **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542825000128/0001135428-25-000128-index.htm)
 
@@ -173,4 +191,7 @@
 
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
+
+- **N-PX** | Voya VARIABLE PORTFOLIOS INC  (CIK 0001015965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1015965/000119312525187806/0001193125-25-187806-index.htm)
 
