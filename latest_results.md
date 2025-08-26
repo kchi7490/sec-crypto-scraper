@@ -126,6 +126,9 @@
 - **S-1** | OTG Acquisition Corp. I  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315225012277/0001493152-25-012277-index.htm)
 
+- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188538/0001193125-25-188538-index.htm)
+
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225025338/0001641172-25-025338-index.htm)
 
@@ -201,6 +204,12 @@
 - **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003219/0001021408-25-003219-index.htm)
 
+- **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000175272425204894/0001752724-25-204894-index.htm)
+
+- **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000175272425204890/0001752724-25-204890-index.htm)
+
 - **10-Q** | Freedom Holdings, Inc.  (FHLD)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793225006204/0001477932-25-006204-index.htm)
 
@@ -252,6 +261,9 @@
 - **N-PX** | ADVISORS SERIES TRUST  (CIK 0001027596)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027596/000143893425001547/0001438934-25-001547-index.htm)
 
+- **N-PX** | Managed Portfolio Series  (CIK 0001511699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1511699/000143893425001660/0001438934-25-001660-index.htm)
+
 - **N-PX** | LAUDUS TRUST  (CIK 0000832545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/832545/000102140825003155/0001021408-25-003155-index.htm)
 
@@ -263,6 +275,9 @@
 
 - **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001499/0001438934-25-001499-index.htm)
+
+- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188540/0001193125-25-188540-index.htm)
 
 - **N-PX** | DEUTSCHE DWS VARIABLE SERIES I  (CIK 0000764797)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/764797/000008805325000744/0000088053-25-000744-index.htm)
@@ -327,6 +342,9 @@
 - **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
 
+- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188539/0001193125-25-188539-index.htm)
+
 - **N-PX** | GUGGENHEIM STRATEGIC OPPORTUNITIES FUND  (GOF)  (CIK 0001380936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1380936/000182126825000219/0001821268-25-000219-index.htm)
 
@@ -345,11 +363,17 @@
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
 
+- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188541/0001193125-25-188541-index.htm)
+
 - **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
 
 - **N-PX** | ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0001091439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1091439/000143893425001654/0001438934-25-001654-index.htm)
+
+- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188542/0001193125-25-188542-index.htm)
 
 - **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000764/0000088053-25-000764-index.htm)
