@@ -117,6 +117,9 @@
 - **S-1/A** | GSR IV Acquisition Corp.  (GSRF)  (CIK 0002072404)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390025080052/0001213900-25-080052-index.htm)
 
+- **485BPOS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312525188482/0001193125-25-188482-index.htm)
+
 - **S-1** | OTG Acquisition Corp. I  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315225012277/0001493152-25-012277-index.htm)
 
@@ -276,6 +279,9 @@
 - **N-PX** | DEUTSCHE DWS VARIABLE SERIES II  (CIK 0000810573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810573/000008805325000746/0000088053-25-000746-index.htm)
 
+- **N-PX** | 1290 Funds  (CIK 0001605941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312525188494/0001193125-25-188494-index.htm)
+
 - **N-PX** | Voya INVESTORS TRUST  (CIK 0000837276)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837276/000119312525187782/0001193125-25-187782-index.htm)
 
@@ -315,14 +321,29 @@
 - **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
 
+- **N-PX** | GUGGENHEIM STRATEGIC OPPORTUNITIES FUND  (GOF)  (CIK 0001380936)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1380936/000182126825000219/0001821268-25-000219-index.htm)
+
 - **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000766/0000088053-25-000766-index.htm)
+
+- **N-PX** | RYDEX VARIABLE TRUST  (CIK 0001064046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1064046/000182126825000216/0001821268-25-000216-index.htm)
+
+- **N-PX** | RYDEX DYNAMIC FUNDS  (CIK 0001092720)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1092720/000182126825000217/0001821268-25-000217-index.htm)
+
+- **N-PX** | RYDEX SERIES FUNDS  (CIK 0000899148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/899148/000182126825000212/0001821268-25-000212-index.htm)
 
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
 
 - **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
+
+- **N-PX** | ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0001091439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1091439/000143893425001654/0001438934-25-001654-index.htm)
 
 - **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000764/0000088053-25-000764-index.htm)
