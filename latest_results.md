@@ -186,6 +186,9 @@
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000034/0001690639-25-000034-index.htm)
 
+- **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825008925/0001133228-25-008925-index.htm)
+
 - **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
 
@@ -302,6 +305,9 @@
 
 - **N-PX** | Virtus Investment Trust  (CIK 0000867297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/867297/000003427325000006/0000034273-25-000006-index.htm)
+
+- **N-PX** | HARTFORD SERIES FUND INC  (CIK 0001053425)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1053425/000110465925083028/0001104659-25-083028-index.htm)
 
 - **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
