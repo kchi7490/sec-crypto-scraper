@@ -30,6 +30,9 @@
 - **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025111341/0000950170-25-111341-index.htm)
+
 - **S-1** | Canary TRUMP Coin ETF  (CIK 0002083122)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083122/000199937125012002/0001999371-25-012002-index.htm)
 
@@ -239,6 +242,9 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325010670/0000950103-25-010670-index.htm)
+
+- **N-PX** | Managed Portfolio Series  (CIK 0001511699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1511699/000143893425001658/0001438934-25-001658-index.htm)
 
 - **N-PX** | Voya VARIABLE FUNDS  (CIK 0000002664)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2664/000119312525187802/0001193125-25-187802-index.htm)
