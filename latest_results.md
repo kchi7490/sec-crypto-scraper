@@ -285,6 +285,9 @@
 - **N-PX** | DEUTSCHE DWS VARIABLE SERIES I  (CIK 0000764797)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/764797/000008805325000744/0000088053-25-000744-index.htm)
 
+- **N-PX** | ETF Series Solutions  (CIK 0001540305)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1540305/000143893425001672/0001438934-25-001672-index.htm)
+
 - **N-PX** | VIRTUS ASSET TRUST  (CIK 0001018593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018593/000003427325000011/0000034273-25-000011-index.htm)
 
