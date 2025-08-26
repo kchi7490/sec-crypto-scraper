@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **S-3/A** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025080800/0001213900-25-080800-index.htm)
+
 - **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025080068/0001213900-25-080068-index.htm)
 
@@ -59,6 +62,9 @@
 
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080048/0001213900-25-080048-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080821/0001213900-25-080821-index.htm)
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025080126/0001213900-25-080126-index.htm)
@@ -137,6 +143,9 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006234/0001477932-25-006234-index.htm)
+
+- **PRE 14C** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025080814/0001213900-25-080814-index.htm)
 
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225012291/0001493152-25-012291-index.htm)
@@ -277,13 +286,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205743/0001752724-25-205743-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205704/0001752724-25-205704-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205709/0001752724-25-205709-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205750/0001752724-25-205750-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205709/0001752724-25-205709-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205705/0001752724-25-205705-index.htm)
@@ -292,10 +298,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205754/0001752724-25-205754-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205720/0001752724-25-205720-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205753/0001752724-25-205753-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205753/0001752724-25-205753-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205720/0001752724-25-205720-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205716/0001752724-25-205716-index.htm)
@@ -308,6 +314,9 @@
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205722/0001752724-25-205722-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205704/0001752724-25-205704-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205714/0001752724-25-205714-index.htm)
