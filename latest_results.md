@@ -183,6 +183,12 @@
 - **485BPOS** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000119312525188188/0001193125-25-188188-index.htm)
 
+- **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000763/0000088053-25-000763-index.htm)
+
+- **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000762/0000088053-25-000762-index.htm)
+
 - **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003219/0001021408-25-003219-index.htm)
 
@@ -297,11 +303,17 @@
 - **N-PX** | HENNESSY FUNDS TRUST  (CIK 0000891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891944/000199937125011961/0001999371-25-011961-index.htm)
 
+- **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000766/0000088053-25-000766-index.htm)
+
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
 
 - **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
+
+- **N-PX** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000764/0000088053-25-000764-index.htm)
 
 - **N-PX** | Voya VARIABLE PORTFOLIOS INC  (CIK 0001015965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1015965/000119312525187806/0001193125-25-187806-index.htm)
