@@ -375,6 +375,9 @@
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
 
+- **N-PX** | HARTFORD MUTUAL FUNDS II, INC  (CIK 0000049905)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/49905/000110465925083008/0001104659-25-083008-index.htm)
+
 - **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188541/0001193125-25-188541-index.htm)
 
