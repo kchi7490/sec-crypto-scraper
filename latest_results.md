@@ -42,6 +42,9 @@
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025080127/0001213900-25-080127-index.htm)
 
+- **8-K/A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025080492/0001213900-25-080492-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000095017025111256/0000950170-25-111256-index.htm)
 
