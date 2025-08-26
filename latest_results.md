@@ -276,6 +276,9 @@
 - **N-PX** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542825000144/0001135428-25-000144-index.htm)
 
+- **N-PX** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000143893425001640/0001438934-25-001640-index.htm)
+
 - **N-PX** | NORTHWESTERN MUTUAL SERIES FUND INC  (CIK 0000742212)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/742212/000074221225000013/0000742212-25-000013-index.htm)
 
@@ -317,6 +320,9 @@
 
 - **N-PX** | Voya VARIABLE PORTFOLIOS INC  (CIK 0001015965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1015965/000119312525187806/0001193125-25-187806-index.htm)
+
+- **N-PX** | SA FUNDS INVESTMENT TRUST  (CIK 0001075065)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1075065/000120677425000576/0001206774-25-000576-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082830/0001104659-25-082830-index.htm)
