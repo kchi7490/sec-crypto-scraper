@@ -30,6 +30,9 @@
 - **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
 
+- **S-1** | Canary TRUMP Coin ETF  (CIK 0002083122)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083122/000199937125012002/0001999371-25-012002-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125032615/0001140361-25-032615-index.htm)
 
@@ -71,6 +74,9 @@
 
 - **S-1** | Grayscale Avalanche Trust (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000095017025111074/0000950170-25-111074-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125032617/0001140361-25-032617-index.htm)
 
 - **S-3ASR** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225025347/0001641172-25-025347-index.htm)
@@ -243,17 +249,26 @@
 - **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
 
+- **N-PX** | DEUTSCHE DWS ASSET ALLOCATION TRUST  (CIK 0000926425)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/926425/000008805325000735/0000088053-25-000735-index.htm)
+
 - **N-PX** | Voya INVESTORS TRUST  (CIK 0000837276)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837276/000119312525187782/0001193125-25-187782-index.htm)
 
 - **N-PX** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542825000144/0001135428-25-000144-index.htm)
 
+- **N-PX** | NORTHWESTERN MUTUAL SERIES FUND INC  (CIK 0000742212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/742212/000074221225000013/0000742212-25-000013-index.htm)
+
 - **N-PX** | Forethought Variable Insurance Trust  (CIK 0001580353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580353/000110465925082389/0001104659-25-082389-index.htm)
 
 - **N-PX** | SCHWAB ANNUITY PORTFOLIOS  (CIK 0000918266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/918266/000102140825003157/0001021408-25-003157-index.htm)
+
+- **N-PX** | DEUTSCHE DWS EQUITY 500 INDEX PORTFOLIO  (CIK 0000888568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/888568/000008805325000736/0000088053-25-000736-index.htm)
 
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
@@ -275,4 +290,7 @@
 
 - **N-PX** | Voya VARIABLE PORTFOLIOS INC  (CIK 0001015965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1015965/000119312525187806/0001193125-25-187806-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082830/0001104659-25-082830-index.htm)
 
