@@ -180,6 +180,9 @@
 - **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
 
+- **485BPOS** | Morningstar Funds Trust  (CIK 0001699360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1699360/000119312525188402/0001193125-25-188402-index.htm)
+
 - **485BPOS** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000119312525188188/0001193125-25-188188-index.htm)
 
