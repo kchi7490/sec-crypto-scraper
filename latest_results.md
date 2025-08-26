@@ -21,6 +21,9 @@
 - **8-K** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025080371/0001213900-25-080371-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000144/0001788230-25-000144-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
 
@@ -38,6 +41,12 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025080127/0001213900-25-080127-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000095017025111256/0000950170-25-111256-index.htm)
+
+- **S-1** | Bitwise Chainlink ETF  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390025080461/0001213900-25-080461-index.htm)
 
 - **S-1** | Grayscale Avalanche Trust (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000095017025111074/0000950170-25-111074-index.htm)
@@ -131,6 +140,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025080375/0001213900-25-080375-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025080436/0001213900-25-080436-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025080358/0001213900-25-080358-index.htm)
