@@ -216,6 +216,9 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012004/0001999371-25-012004-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012013/0001999371-25-012013-index.htm)
+
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
@@ -281,6 +284,9 @@
 
 - **N-PX** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000143893425001640/0001438934-25-001640-index.htm)
+
+- **N-PX** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000119312525188437/0001193125-25-188437-index.htm)
 
 - **N-PX** | NORTHWESTERN MUTUAL SERIES FUND INC  (CIK 0000742212)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/742212/000074221225000013/0000742212-25-000013-index.htm)
