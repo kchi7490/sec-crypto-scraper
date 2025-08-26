@@ -18,6 +18,9 @@
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080111/0001213900-25-080111-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000164117225025469/0001641172-25-025469-index.htm)
+
 - **8-K** | Mill City Ventures III, Ltd  (MCVT)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025080371/0001213900-25-080371-index.htm)
 
@@ -27,11 +30,26 @@
 - **8-K** | Fundamental Global Inc.  (FGF, FGNX, FGFPP, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025340/0001641172-25-025340-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125032615/0001140361-25-032615-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006441/0001683168-25-006441-index.htm)
 
+- **8-K** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082818/0001104659-25-082818-index.htm)
+
 - **PRE 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525187110/0001193125-25-187110-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080533/0001213900-25-080533-index.htm)
+
+- **8-K** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080531/0001213900-25-080531-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082820/0001104659-25-082820-index.htm)
 
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080048/0001213900-25-080048-index.htm)
@@ -99,6 +117,9 @@
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225025338/0001641172-25-025338-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006234/0001477932-25-006234-index.htm)
+
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225012291/0001493152-25-012291-index.htm)
 
@@ -126,6 +147,9 @@
 - **6-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225025342/0001641172-25-025342-index.htm)
 
+- **F-3** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025080525/0001213900-25-080525-index.htm)
+
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312525188101/0001193125-25-188101-index.htm)
 
@@ -149,6 +173,9 @@
 
 - **N-PX** | VIRTUS VARIABLE INSURANCE TRUST  (CIK 0000792359)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/792359/000003427325000016/0000034273-25-000016-index.htm)
+
+- **485BPOS** | John Hancock Exchange-Traded Fund Trust  (CIK 0001478482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1478482/000119312525188188/0001193125-25-188188-index.htm)
 
 - **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003219/0001021408-25-003219-index.htm)
