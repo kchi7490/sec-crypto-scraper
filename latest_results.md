@@ -204,6 +204,9 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080395/0001213900-25-080395-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012004/0001999371-25-012004-index.htm)
+
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025080114/0001213900-25-080114-index.htm)
 
@@ -231,11 +234,17 @@
 - **N-PX** | LAUDUS TRUST  (CIK 0000832545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/832545/000102140825003155/0001021408-25-003155-index.htm)
 
+- **N-PX** | DEUTSCHE DWS INVESTMENT TRUST  (CIK 0000088064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/88064/000008805325000745/0000088053-25-000745-index.htm)
+
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 3  (CIK 0001104631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104631/000006759025000037/0000067590-25-000037-index.htm)
 
 - **N-PX** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000143893425001499/0001438934-25-001499-index.htm)
+
+- **N-PX** | DEUTSCHE DWS VARIABLE SERIES I  (CIK 0000764797)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/764797/000008805325000744/0000088053-25-000744-index.htm)
 
 - **N-PX** | VIRTUS ASSET TRUST  (CIK 0001018593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018593/000003427325000011/0000034273-25-000011-index.htm)
@@ -251,6 +260,9 @@
 
 - **N-PX** | DEUTSCHE DWS ASSET ALLOCATION TRUST  (CIK 0000926425)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/926425/000008805325000735/0000088053-25-000735-index.htm)
+
+- **N-PX** | DEUTSCHE DWS VARIABLE SERIES II  (CIK 0000810573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810573/000008805325000746/0000088053-25-000746-index.htm)
 
 - **N-PX** | Voya INVESTORS TRUST  (CIK 0000837276)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837276/000119312525187782/0001193125-25-187782-index.htm)
@@ -287,6 +299,9 @@
 
 - **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
+
+- **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
 
 - **N-PX** | Voya VARIABLE PORTFOLIOS INC  (CIK 0001015965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1015965/000119312525187806/0001193125-25-187806-index.htm)
