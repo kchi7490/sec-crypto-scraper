@@ -108,6 +108,9 @@
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025080140/0001213900-25-080140-index.htm)
 
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025080499/0001213900-25-080499-index.htm)
+
 - **F-1** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000141057825001881/0001410578-25-001881-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **6-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000164117225025342/0001641172-25-025342-index.htm)
+
+- **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312525188101/0001193125-25-188101-index.htm)
 
 - **424B5** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025080346/0001213900-25-080346-index.htm)
