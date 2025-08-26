@@ -63,8 +63,14 @@
 - **8-K** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080048/0001213900-25-080048-index.htm)
 
+- **S-3/A** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125032760/0001140361-25-032760-index.htm)
+
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080821/0001213900-25-080821-index.htm)
+
+- **S-3ASR** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025080824/0001213900-25-080824-index.htm)
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025080126/0001213900-25-080126-index.htm)
@@ -84,14 +90,29 @@
 - **S-1** | Grayscale Avalanche Trust (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000095017025111074/0000950170-25-111074-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125032763/0001140361-25-032763-index.htm)
+
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125032617/0001140361-25-032617-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125032764/0001140361-25-032764-index.htm)
+
+- **8-K** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083153/0001104659-25-083153-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083156/0001104659-25-083156-index.htm)
 
 - **S-3ASR** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000164117225025347/0001641172-25-025347-index.htm)
 
 - **F-1/A** | DeepGreenX Group Inc.  (DXG)  (CIK 0002046889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046889/000121390025080089/0001213900-25-080089-index.htm)
+
+- **S-1** | Heritage Distilling Holding Company, Inc.  (CASK)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000121390025080839/0001213900-25-080839-index.htm)
 
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025080387/0001213900-25-080387-index.htm)
@@ -104,6 +125,9 @@
 
 - **ARS** | USBC, Inc.  (KNW)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425010056/0001654954-25-010056-index.htm)
+
+- **PREM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225025582/0001641172-25-025582-index.htm)
 
 - **8-K** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000164117225025341/0001641172-25-025341-index.htm)
@@ -134,6 +158,9 @@
 
 - **S-1** | OTG Acquisition Corp. I  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315225012277/0001493152-25-012277-index.htm)
+
+- **PRE 14A** | ETHZilla Corp  (ATNF, ATNFW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025080796/0001213900-25-080796-index.htm)
 
 - **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188538/0001193125-25-188538-index.htm)
@@ -268,9 +295,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205737/0001752724-25-205737-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205727/0001752724-25-205727-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205713/0001752724-25-205713-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
@@ -284,6 +308,9 @@
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205743/0001752724-25-205743-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205727/0001752724-25-205727-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205709/0001752724-25-205709-index.htm)
@@ -605,6 +632,9 @@
 
 - **N-PX** | SA FUNDS INVESTMENT TRUST  (CIK 0001075065)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1075065/000120677425000576/0001206774-25-000576-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082830/0001104659-25-082830-index.htm)
