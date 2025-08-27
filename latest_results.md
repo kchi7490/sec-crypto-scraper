@@ -147,6 +147,9 @@
 - **PREM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225025582/0001641172-25-025582-index.htm)
 
+- **10-12G** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000164117225025717/0001641172-25-025717-index.htm)
+
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000496/0001137360-25-000496-index.htm)
 
@@ -498,6 +501,9 @@
 - **N-PX** | HARBOR FUNDS  (CIK 0000793769)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/793769/000143893425001958/0001438934-25-001958-index.htm)
 
+- **N-PX** | GPS Funds I  (CIK 0001131042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000143893425002087/0001438934-25-002087-index.htm)
+
 - **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000175272425205201/0001752724-25-205201-index.htm)
 
@@ -515,6 +521,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025080436/0001213900-25-080436-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025081164/0001213900-25-081164-index.htm)
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025080751/0001213900-25-080751-index.htm)
