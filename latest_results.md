@@ -307,10 +307,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205706/0001752724-25-205706-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205748/0001752724-25-205748-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205751/0001752724-25-205751-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205751/0001752724-25-205751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205748/0001752724-25-205748-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205718/0001752724-25-205718-index.htm)
@@ -564,6 +564,9 @@
 - **N-PX** | VANGUARD WINDSOR FUNDS  (CIK 0000107606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/107606/000110465925083580/0001104659-25-083580-index.htm)
 
+- **N-PX** | NEIMAN FUNDS  (CIK 0001215880)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1215880/000141304225000718/0001413042-25-000718-index.htm)
+
 - **N-PX** | Federated Hermes Equity Income Fund, Inc.  (CIK 0000799704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/799704/000162363225001164/0001623632-25-001164-index.htm)
 
@@ -672,23 +675,20 @@
 - **N-PX** | DEUTSCHE DWS EQUITY 500 INDEX PORTFOLIO  (CIK 0000888568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/888568/000008805325000736/0000088053-25-000736-index.htm)
 
+- **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
+
 - **N-PX** | GABELLI ASSET FUND  (CIK 0000783898)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783898/000200032425003202/0002000324-25-003202-index.htm)
 
-- **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
+- **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083457/0001104659-25-083457-index.htm)
 
 - **N-PX** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000080959325000039/0000809593-25-000039-index.htm)
 
 - **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083457/0001104659-25-083457-index.htm)
-
-- **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083451/0001104659-25-083451-index.htm)
-
-- **N-PX** | FLEXSHARES TRUST  (CIK 0001491978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000102140825003233/0001021408-25-003233-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
