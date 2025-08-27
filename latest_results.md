@@ -531,6 +531,9 @@
 - **N-PX** | MANNING & NAPIER FUND, INC.  (CIK 0000751173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751173/000200032425003135/0002000324-25-003135-index.htm)
 
+- **N-PX** | VANGUARD CHESTER FUNDS  (CIK 0000752177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/752177/000110465925083330/0001104659-25-083330-index.htm)
+
 - **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188540/0001193125-25-188540-index.htm)
 
@@ -656,9 +659,6 @@
 
 - **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
-
-- **N-PX** | ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0001091439)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1091439/000143893425001654/0001438934-25-001654-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
