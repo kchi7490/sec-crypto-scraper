@@ -657,11 +657,11 @@
 - **N-PX** | DEUTSCHE DWS EQUITY 500 INDEX PORTFOLIO  (CIK 0000888568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/888568/000008805325000736/0000088053-25-000736-index.htm)
 
-- **N-PX** | GABELLI ASSET FUND  (CIK 0000783898)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/783898/000200032425003202/0002000324-25-003202-index.htm)
-
 - **N-PX** | PRUDENTIAL INVESTMENT PORTFOLIOS 8  (CIK 0000887991)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887991/000006759025000017/0000067590-25-000017-index.htm)
+
+- **N-PX** | GABELLI ASSET FUND  (CIK 0000783898)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/783898/000200032425003202/0002000324-25-003202-index.htm)
 
 - **N-PX** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000080959325000039/0000809593-25-000039-index.htm)
