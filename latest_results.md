@@ -3,6 +3,9 @@
 - **S-3/A** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025080800/0001213900-25-080800-index.htm)
 
+- **S-3** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525189768/0001193125-25-189768-index.htm)
+
 - **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025080068/0001213900-25-080068-index.htm)
 
@@ -104,6 +107,9 @@
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125032617/0001140361-25-032617-index.htm)
+
+- **10-K** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000164117225025687/0001641172-25-025687-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125032764/0001140361-25-032764-index.htm)
@@ -290,6 +296,9 @@
 
 - **N-PX** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000143893425002045/0001438934-25-002045-index.htm)
+
+- **N-PX** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000102140825003832/0001021408-25-003832-index.htm)
 
 - **N-PX** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060725000291/0001710607-25-000291-index.htm)
@@ -516,6 +525,12 @@
 - **425** | Dynamix Corp  (DYNX, DYNXU, DYNXW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025080395/0001213900-25-080395-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025081128/0001213900-25-081128-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025081127/0001213900-25-081127-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012004/0001999371-25-012004-index.htm)
 
@@ -669,6 +684,9 @@
 - **N-PX** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542825000144/0001135428-25-000144-index.htm)
 
+- **N-PX** | PRUDENTIAL SERIES FUND  (CIK 0000711175)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/711175/000006759025000040/0000067590-25-000040-index.htm)
+
 - **N-PX** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000143893425001640/0001438934-25-001640-index.htm)
 
@@ -686,15 +704,6 @@
 
 - **N-PX** | NORTHWESTERN MUTUAL SERIES FUND INC  (CIK 0000742212)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/742212/000074221225000013/0000742212-25-000013-index.htm)
-
-- **N-PX** | Forethought Variable Insurance Trust  (CIK 0001580353)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1580353/000110465925082389/0001104659-25-082389-index.htm)
-
-- **N-PX** | EA Series Trust  (CIK 0001592900)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000143893425001755/0001438934-25-001755-index.htm)
-
-- **N-PX** | SCHWAB ANNUITY PORTFOLIOS  (CIK 0000918266)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/918266/000102140825003157/0001021408-25-003157-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
