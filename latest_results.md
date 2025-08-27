@@ -51,6 +51,9 @@
 - **8-K** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925082818/0001104659-25-082818-index.htm)
 
+- **S-3/A** | Fundamental Global Inc.  (FGF, FGFPP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225025632/0001641172-25-025632-index.htm)
+
 - **PRE 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525187110/0001193125-25-187110-index.htm)
 
@@ -277,10 +280,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000175272425204890/0001752724-25-204890-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205706/0001752724-25-205706-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205723/0001752724-25-205723-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205723/0001752724-25-205723-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205706/0001752724-25-205706-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205751/0001752724-25-205751-index.htm)
@@ -328,10 +331,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205743/0001752724-25-205743-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205709/0001752724-25-205709-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205704/0001752724-25-205704-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205750/0001752724-25-205750-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205709/0001752724-25-205709-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205705/0001752724-25-205705-index.htm)
@@ -340,13 +346,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205754/0001752724-25-205754-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205716/0001752724-25-205716-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205720/0001752724-25-205720-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205753/0001752724-25-205753-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205720/0001752724-25-205720-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205716/0001752724-25-205716-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205734/0001752724-25-205734-index.htm)
@@ -358,13 +364,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205722/0001752724-25-205722-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205704/0001752724-25-205704-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205714/0001752724-25-205714-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205745/0001752724-25-205745-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205708/0001752724-25-205708-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205721/0001752724-25-205721-index.htm)
@@ -373,13 +379,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205738/0001752724-25-205738-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205752/0001752724-25-205752-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205708/0001752724-25-205708-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205712/0001752724-25-205712-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205752/0001752724-25-205752-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205741/0001752724-25-205741-index.htm)
@@ -406,22 +409,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205717/0001752724-25-205717-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205732/0001752724-25-205732-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205746/0001752724-25-205746-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205735/0001752724-25-205735-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205732/0001752724-25-205732-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205729/0001752724-25-205729-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205710/0001752724-25-205710-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205735/0001752724-25-205735-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205731/0001752724-25-205731-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205710/0001752724-25-205710-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000175272425205749/0001752724-25-205749-index.htm)
@@ -534,6 +537,9 @@
 - **N-PX** | VANGUARD CHESTER FUNDS  (CIK 0000752177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/752177/000110465925083330/0001104659-25-083330-index.htm)
 
+- **N-PX** | VANGUARD FENWAY FUNDS  (CIK 0000826473)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826473/000110465925083388/0001104659-25-083388-index.htm)
+
 - **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188540/0001193125-25-188540-index.htm)
 
@@ -557,6 +563,9 @@
 
 - **N-PX** | HARTFORD SERIES FUND INC  (CIK 0001053425)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1053425/000110465925083028/0001104659-25-083028-index.htm)
+
+- **N-PX** | VANGUARD VARIABLE INSURANCE FUNDS  (CIK 0000857490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857490/000110465925083430/0001104659-25-083430-index.htm)
 
 - **N-PX** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000143893425001503/0001438934-25-001503-index.htm)
@@ -612,6 +621,9 @@
 - **N-PX** | Voya EQUITY TRUST  (CIK 0001063946)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1063946/000119312525187783/0001193125-25-187783-index.htm)
 
+- **N-PX** | VANGUARD VARIABLE INSURANCE FUNDS  (CIK 0000857490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857490/000110465925083439/0001104659-25-083439-index.htm)
+
 - **N-PX** | SELECT SECTOR SPDR TRUST  (CIK 0001064641)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1064641/000102140825003503/0001021408-25-003503-index.htm)
 
@@ -648,17 +660,8 @@
 - **N-PX** | RYDEX SERIES FUNDS  (CIK 0000899148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/899148/000182126825000212/0001821268-25-000212-index.htm)
 
-- **N-PX** | WILMINGTON FUNDS  (CIK 0000830744)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/830744/000102140825003209/0001021408-25-003209-index.htm)
-
-- **N-PX** | HARTFORD MUTUAL FUNDS II, INC  (CIK 0000049905)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/49905/000110465925083008/0001104659-25-083008-index.htm)
-
-- **N-PX** | EQ ADVISORS TRUST  (CIK 0001027263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312525188541/0001193125-25-188541-index.htm)
-
-- **N-PX** | DEUTSCHE DWS INVESTMENTS VIT FUNDS  (CIK 0001006373)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1006373/000008805325000747/0000088053-25-000747-index.htm)
+- **N-PX** | VANGUARD SCOTTSDALE FUNDS  (CIK 0001021882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1021882/000110465925083414/0001104659-25-083414-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
