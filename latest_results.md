@@ -558,14 +558,14 @@
 - **N-PX** | GABELLI ASSET FUND  (CIK 0000783898)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783898/000200032425003202/0002000324-25-003202-index.htm)
 
-- **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083457/0001104659-25-083457-index.htm)
+- **N-PX** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000143893425002026/0001438934-25-002026-index.htm)
 
 - **N-PX** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000080959325000039/0000809593-25-000039-index.htm)
 
-- **N-PX** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000143893425002026/0001438934-25-002026-index.htm)
+- **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083457/0001104659-25-083457-index.htm)
 
 - **N-PX** | VANGUARD INDEX FUNDS  (CIK 0000036405)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36405/000110465925083451/0001104659-25-083451-index.htm)
