@@ -538,6 +538,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012115/0001999371-25-012115-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012221/0001999371-25-012221-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012026/0001999371-25-012026-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
@@ -734,9 +737,6 @@
 
 - **N-PX** | GABELLI DIVIDEND & INCOME TRUST  (GDV, GDV-PH, GDV-PK)  (CIK 0001260729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1260729/000200032425003210/0002000324-25-003210-index.htm)
-
-- **N-PX** | American Beacon Institutional Funds Trust  (CIK 0001700933)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1700933/000170093325000007/0001700933-25-000007-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925083157/0001104659-25-083157-index.htm)
