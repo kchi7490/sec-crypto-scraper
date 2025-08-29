@@ -87,6 +87,9 @@
 - **424B4** | M3-Brigade Acquisition VI Corp.  (MBVI)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390025081199/0001213900-25-081199-index.htm)
 
+- **485APOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225005628/0001580642-25-005628-index.htm)
+
 - **485BPOS** | Strategy Shares  (CIK 0001506213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064225005537/0001580642-25-005537-index.htm)
 
@@ -232,10 +235,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/35315/000027530925000231/0000275309-25-000231-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002638/0000810893-25-002638-index.htm)
@@ -361,6 +364,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002627/0000810893-25-002627-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002585/0000810893-25-002585-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002650/0000810893-25-002650-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002601/0000810893-25-002601-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -371,12 +380,6 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002664/0000810893-25-002664-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002585/0000810893-25-002585-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002650/0000810893-25-002650-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002670/0000810893-25-002670-index.htm)
@@ -425,6 +428,9 @@
 
 - **1-A** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825006500/0001683168-25-006500-index.htm)
+
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002420/0001592900-25-002420-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002389/0001592900-25-002389-index.htm)
@@ -743,7 +749,4 @@
 
 - **N-PX** | Decatur Capital Management, Inc.  (CIK 0001505961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1505961/000137647425000781/0001376474-25-000781-index.htm)
-
-- **N-PX** | ARTISAN PARTNERS FUNDS INC  (CIK 0000935015)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/935015/000200032425003267/0002000324-25-003267-index.htm)
 
