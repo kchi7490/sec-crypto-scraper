@@ -16,6 +16,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390025082038/0001213900-25-082038-index.htm)
 
 - **10-Q/A** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000159991625000115/0001599916-25-000115-index.htm)
+
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001101/0001185185-25-001101-index.htm)
+
+- **10-Q/A** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000159991625000113/0001599916-25-000113-index.htm)
 
 - **8-K** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
@@ -23,6 +29,9 @@
 
 - **10-Q/A** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000159991625000111/0001599916-25-000111-index.htm)
+
+- **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925013114/0001214659-25-013114-index.htm)
 
 - **S-1/A** | SUI Group Holdings Ltd.  (MCVT)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025081325/0001213900-25-081325-index.htm)
@@ -110,6 +119,12 @@
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000164117225025666/0001641172-25-025666-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925013112/0001214659-25-013112-index.htm)
+
+- **10-K** | Tribal Rides International Corp.  (CIK 0001624985)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825006576/0001683168-25-006576-index.htm)
 
 - **10-K/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025082025/0001213900-25-082025-index.htm)
@@ -203,6 +218,12 @@
 
 - **POS AM** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225012441/0001493152-25-012441-index.htm)
+
+- **F-3/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025082606/0001213900-25-082606-index.htm)
+
+- **F-3/A** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025082611/0001213900-25-082611-index.htm)
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925083568/0001104659-25-083568-index.htm)
@@ -405,8 +426,8 @@
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002650/0000810893-25-002650-index.htm)
 
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002601/0000810893-25-002601-index.htm)
+- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000189667725000009/0001896677-25-000009-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425015465/0001888524-25-015465-index.htm)
@@ -660,6 +681,9 @@
 - **N-PX** | IVY FUNDS  (CIK 0000883622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/883622/000120677425000641/0001206774-25-000641-index.htm)
 
+- **N-PX** | EXCHANGE TRADED CONCEPTS TRUST  (CIK 0001452937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1452937/000113542825000230/0001135428-25-000230-index.htm)
+
 - **N-PX** | T. Rowe Price Exchange-Traded Funds, Inc.  (CIK 0001795351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795351/000119312525192095/0001193125-25-192095-index.htm)
 
@@ -734,21 +758,6 @@
 
 - **N-PX** | T. Rowe Price Equity Funds, Inc.  (CIK 0001012968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1012968/000102140825004340/0001021408-25-004340-index.htm)
-
-- **N-PX** | AMERICAN FUNDS FUNDAMENTAL INVESTORS  (CIK 0000039473)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/39473/000110465925084605/0001104659-25-084605-index.htm)
-
-- **N-PX** | NEW YORK LIFE INVESTMENTS VP FUNDS TRUST  (CIK 0000887340)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000102140825003881/0001021408-25-003881-index.htm)
-
-- **N-PX** | PRIMECAP Odyssey Funds  (CIK 0001293967)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1293967/000143893425002678/0001438934-25-002678-index.htm)
-
-- **N-PX** | Capital Group New Geography Equity ETF  (CIK 0002008517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2008517/000110465925084613/0001104659-25-084613-index.htm)
-
-- **N-PX** | Macquarie ETF Trust  (CIK 0001969995)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969995/000120677425000639/0001206774-25-000639-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925085680/0001104659-25-085680-index.htm)
