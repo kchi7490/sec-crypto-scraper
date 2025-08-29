@@ -93,6 +93,9 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000496/0001137360-25-000496-index.htm)
 
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025082561/0001213900-25-082561-index.htm)
+
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000164117225025794/0001641172-25-025794-index.htm)
 
@@ -173,6 +176,9 @@
 
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225012420/0001493152-25-012420-index.htm)
+
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225025985/0001641172-25-025985-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025081398/0001213900-25-081398-index.htm)
@@ -558,6 +564,9 @@
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012305/0001999371-25-012305-index.htm)
 
+- **SC 14F1** | Investcorp AI Acquisition Corp.  (IVAUF, IVAWF, IVCAF)  (CIK 0001852889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852889/000182912625006932/0001829126-25-006932-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012115/0001999371-25-012115-index.htm)
 
@@ -741,6 +750,6 @@
 - **N-PX** | Macquarie ETF Trust  (CIK 0001969995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969995/000120677425000639/0001206774-25-000639-index.htm)
 
-- **N-PX** | LORD ABBETT SERIES FUND INC  (CIK 0000855396)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/855396/000093041325002813/0000930413-25-002813-index.htm)
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925085680/0001104659-25-085680-index.htm)
 
