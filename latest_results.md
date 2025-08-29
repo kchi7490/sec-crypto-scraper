@@ -84,11 +84,11 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006423/0001477932-25-006423-index.htm)
 
-- **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
-
 - **POSASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225012484/0001493152-25-012484-index.htm)
+
+- **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
 
 - **S-1/A** | Bitwise Solana ETF  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025082660/0001213900-25-082660-index.htm)
@@ -135,6 +135,9 @@
 - **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000164117225025955/0001641172-25-025955-index.htm)
 
+- **F-4/A** | Alps Global Holding Pubco  (CIK 0002025774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025774/000164117225026086/0001641172-25-026086-index.htm)
+
 - **10-12G** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000164117225025717/0001641172-25-025717-index.htm)
 
@@ -167,6 +170,9 @@
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925013112/0001214659-25-013112-index.htm)
+
+- **S-3** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025082692/0001213900-25-082692-index.htm)
 
 - **10-K** | Tribal Rides International Corp.  (CIK 0001624985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825006576/0001683168-25-006576-index.htm)
@@ -287,6 +293,9 @@
 
 - **487** | FT 12357  (CIK 0002066138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066138/000144554625005854/0001445546-25-005854-index.htm)
+
+- **486APOS** | ARK Venture Fund  (CIK 0001905088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390025082699/0001213900-25-082699-index.htm)
 
 - **S-1/A** | DMINT, Inc.  (CIK 0001996450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390025081900/0001213900-25-081900-index.htm)
@@ -416,15 +425,6 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002643/0000810893-25-002643-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002641/0000810893-25-002641-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002649/0000810893-25-002649-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002671/0000810893-25-002671-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425015465/0001888524-25-015465-index.htm)
@@ -600,6 +600,9 @@
 - **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461025000050/0001174610-25-000050-index.htm)
 
+- **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025082688/0001213900-25-082688-index.htm)
+
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011018/0000950103-25-011018-index.htm)
 
@@ -693,11 +696,11 @@
 - **N-PX** | T. Rowe Price Exchange-Traded Funds, Inc.  (CIK 0001795351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795351/000119312525192095/0001193125-25-192095-index.htm)
 
-- **N-PX** | AMCAP FUND  (CIK 0000004405)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000110465925084590/0001104659-25-084590-index.htm)
-
 - **N-PX** | VALUED ADVISERS TRUST  (CIK 0001437249)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437249/000158064225005571/0001580642-25-005571-index.htm)
+
+- **N-PX** | AMCAP FUND  (CIK 0000004405)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000110465925084590/0001104659-25-084590-index.htm)
 
 - **N-PX** | VANGUARD CHESTER FUNDS  (CIK 0000752177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/752177/000110465925083330/0001104659-25-083330-index.htm)
@@ -722,12 +725,6 @@
 
 - **N-PX** | T. Rowe Price Dividend Growth Fund, Inc.  (CIK 0000894024)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/894024/000102140825004304/0001021408-25-004304-index.htm)
-
-- **N-PX** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000088019525000582/0000880195-25-000582-index.htm)
-
-- **N-PX** | AMERICAN FUNDS TAX EXEMPT SERIES II / CA  (CIK 0000794389)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/794389/000110465925084549/0001104659-25-084549-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925085680/0001104659-25-085680-index.htm)
