@@ -27,8 +27,14 @@
 - **8-K** | Verb Technology Company, Inc.  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225012461/0001493152-25-012461-index.htm)
 
+- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025082635/0001213900-25-082635-index.htm)
+
 - **10-Q/A** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000159991625000111/0001599916-25-000111-index.htm)
+
+- **8-K/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025082626/0001213900-25-082626-index.htm)
 
 - **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925013114/0001214659-25-013114-index.htm)
@@ -66,11 +72,26 @@
 - **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
 
+- **POSASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225012484/0001493152-25-012484-index.htm)
+
 - **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000010/0002028541-25-000010-index.htm)
 
+- **S-1** | Grayscale Cardano Trust ETF  (CIK 0002083106)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/0002083106-25-000004-index.htm)
+
+- **S-1** | Grayscale Polkadot Trust ETF  (CIK 0002083137)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083137/000208313725000004/0002083137-25-000004-index.htm)
+
 - **10-K** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000164117225025687/0001641172-25-025687-index.htm)
+
+- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000189667725000009/0001896677-25-000009-index.htm)
+
+- **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/0001213900-25-082627-index.htm)
 
 - **424B4** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625006758/0001829126-25-006758-index.htm)
@@ -164,6 +185,9 @@
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000095017025111943/0000950170-25-111943-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001613/0001640334-25-001613-index.htm)
 
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000131/0001726978-25-000131-index.htm)
@@ -292,10 +316,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/35315/000027530925000231/0000275309-25-000231-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002638/0000810893-25-002638-index.htm)
@@ -361,16 +385,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002635/0000810893-25-002635-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002641/0000810893-25-002641-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002649/0000810893-25-002649-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002580/0000810893-25-002580-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002643/0000810893-25-002643-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002641/0000810893-25-002641-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002649/0000810893-25-002649-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002671/0000810893-25-002671-index.htm)
@@ -388,46 +412,7 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002623/0000810893-25-002623-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002626/0000810893-25-002626-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002667/0000810893-25-002667-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002598/0000810893-25-002598-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002636/0000810893-25-002636-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002663/0000810893-25-002663-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002579/0000810893-25-002579-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002645/0000810893-25-002645-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002596/0000810893-25-002596-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002651/0000810893-25-002651-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002597/0000810893-25-002597-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002627/0000810893-25-002627-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002585/0000810893-25-002585-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002650/0000810893-25-002650-index.htm)
-
-- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000189667725000009/0001896677-25-000009-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425015465/0001888524-25-015465-index.htm)
@@ -743,21 +728,6 @@
 
 - **N-PX** | Managed Portfolio Series  (CIK 0001511699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1511699/000143893425002670/0001438934-25-002670-index.htm)
-
-- **N-PX** | Principal Exchange-Traded Funds  (CIK 0001572661)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1572661/000157266125000105/0001572661-25-000105-index.htm)
-
-- **N-PX** | Investment Managers Series Trust II  (CIK 0001587982)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000139834425016705/0001398344-25-016705-index.htm)
-
-- **N-PX** | LORD ABBETT SECURITIES TRUST  (CIK 0000898031)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898031/000093041325002814/0000930413-25-002814-index.htm)
-
-- **N-PX** | AB CAP FUND, INC.  (CIK 0000081443)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/81443/000091957425005180/0000919574-25-005180-index.htm)
-
-- **N-PX** | T. Rowe Price Equity Funds, Inc.  (CIK 0001012968)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1012968/000102140825004340/0001021408-25-004340-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925085680/0001104659-25-085680-index.htm)
