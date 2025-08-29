@@ -42,6 +42,9 @@
 - **424B4** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912625006758/0001829126-25-006758-index.htm)
 
+- **8-K** | Connexa Sports Technologies Inc.  (YYAI)  (CIK 0001674440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000164117225025896/0001641172-25-025896-index.htm)
+
 - **POSASR** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125033216/0001140361-25-033216-index.htm)
 
@@ -113,6 +116,9 @@
 
 - **6-K** | GCL Global Holdings Ltd  (GCL, GCLWW)  (CIK 0002002045)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2002045/000121390025082042/0001213900-25-082042-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828025041358/0001628280-25-041358-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925084741/0001104659-25-084741-index.htm)
@@ -286,6 +292,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002636/0000810893-25-002636-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002596/0000810893-25-002596-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002598/0000810893-25-002598-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -293,9 +302,6 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002645/0000810893-25-002645-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002596/0000810893-25-002596-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002597/0000810893-25-002597-index.htm)
@@ -325,9 +331,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002629/0000810893-25-002629-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002647/0000810893-25-002647-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002584/0000810893-25-002584-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -338,6 +341,9 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002630/0000810893-25-002630-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002647/0000810893-25-002647-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002576/0000810893-25-002576-index.htm)
@@ -537,11 +543,11 @@
 - **N-PX** | VANGUARD WINDSOR FUNDS  (CIK 0000107606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/107606/000110465925083580/0001104659-25-083580-index.htm)
 
-- **N-PX** | NEIMAN FUNDS  (CIK 0001215880)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1215880/000141304225000718/0001413042-25-000718-index.htm)
-
 - **N-PX** | Federated Hermes Equity Income Fund, Inc.  (CIK 0000799704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/799704/000162363225001164/0001623632-25-001164-index.htm)
+
+- **N-PX** | NEIMAN FUNDS  (CIK 0001215880)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1215880/000141304225000718/0001413042-25-000718-index.htm)
 
 - **N-PX** | AB PORTFOLIOS  (CIK 0000812015)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/812015/000091957425005183/0000919574-25-005183-index.htm)
@@ -584,6 +590,9 @@
 
 - **N-PX** | AIM VARIABLE INSURANCE FUNDS (INVESCO VARIABLE INSURANCE FUNDS)  (CIK 0000896435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896435/000102140825004125/0001021408-25-004125-index.htm)
+
+- **N-PX** | TCW ETF Trust  (CIK 0001831313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1831313/000102140825004276/0001021408-25-004276-index.htm)
 
 - **N-PX** | Principal Exchange-Traded Funds  (CIK 0001572661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1572661/000157266125000105/0001572661-25-000105-index.htm)
@@ -680,10 +689,4 @@
 
 - **N-PX** | ONEFUND Trust  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000143893425002442/0001438934-25-002442-index.htm)
-
-- **N-PX** | PRINCIPAL VARIABLE CONTRACTS FUNDS INC  (CIK 0000012601)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/12601/000001260125000281/0000012601-25-000281-index.htm)
-
-- **N-PX** | NEW WORLD FUND INC  (CIK 0001073330)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1073330/000110465925084573/0001104659-25-084573-index.htm)
 
