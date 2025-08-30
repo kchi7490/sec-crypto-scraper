@@ -75,11 +75,11 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006423/0001477932-25-006423-index.htm)
 
-- **POSASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225012484/0001493152-25-012484-index.htm)
-
 - **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
+
+- **POSASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225012484/0001493152-25-012484-index.htm)
 
 - **S-1/A** | Bitwise Solana ETF  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025082660/0001213900-25-082660-index.htm)
@@ -292,10 +292,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/35315/000027530925000231/0000275309-25-000231-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002658/0000810893-25-002658-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002640/0000810893-25-002640-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002638/0000810893-25-002638-index.htm)
@@ -591,11 +591,11 @@
 - **N-PX** | T. Rowe Price Exchange-Traded Funds, Inc.  (CIK 0001795351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795351/000119312525192095/0001193125-25-192095-index.htm)
 
-- **N-PX** | VALUED ADVISERS TRUST  (CIK 0001437249)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1437249/000158064225005571/0001580642-25-005571-index.htm)
-
 - **N-PX** | AMCAP FUND  (CIK 0000004405)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000110465925084590/0001104659-25-084590-index.htm)
+
+- **N-PX** | VALUED ADVISERS TRUST  (CIK 0001437249)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437249/000158064225005571/0001580642-25-005571-index.htm)
 
 - **N-PX** | BNY Mellon Investment Funds III  (CIK 0000053808)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/53808/000111117825000012/0001111178-25-000012-index.htm)
