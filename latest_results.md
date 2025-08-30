@@ -75,11 +75,11 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006423/0001477932-25-006423-index.htm)
 
-- **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
-
 - **POSASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225012484/0001493152-25-012484-index.htm)
+
+- **POS AM** | 21Shares Ethereum ETF  (CETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025081279/0001213900-25-081279-index.htm)
 
 - **S-1/A** | Bitwise Solana ETF  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025082660/0001213900-25-082660-index.htm)
