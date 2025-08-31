@@ -205,10 +205,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002651/0000810893-25-002651-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002664/0000810893-25-002664-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002662/0000810893-25-002662-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002662/0000810893-25-002662-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002664/0000810893-25-002664-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002650/0000810893-25-002650-index.htm)
