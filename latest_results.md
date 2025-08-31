@@ -226,13 +226,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002666/0000810893-25-002666-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002647/0000810893-25-002647-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002656/0000810893-25-002656-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002668/0000810893-25-002668-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002647/0000810893-25-002647-index.htm)
 
 - **N-PX** | DFA INVESTMENT DIMENSIONS GROUP INC  (CIK 0000355437)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/355437/000168035925000726/0001680359-25-000726-index.htm)
@@ -240,11 +240,11 @@
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002652/0000810893-25-002652-index.htm)
 
-- **N-PX** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000102140825004431/0001021408-25-004431-index.htm)
-
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002657/0000810893-25-002657-index.htm)
+
+- **N-PX** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000102140825004431/0001021408-25-004431-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000081089325002669/0000810893-25-002669-index.htm)
