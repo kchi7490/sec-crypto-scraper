@@ -114,6 +114,12 @@
 - **N-PX** | SHELTON FUNDS  (CIK 0000778206)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/778206/000199937125012380/0001999371-25-012380-index.htm)
 
+- **N-PX** | GOLDMAN SACHS VARIABLE INSURANCE TRUST  (CIK 0001046292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1046292/000102140825004837/0001021408-25-004837-index.htm)
+
+- **N-PX** | JPMORGAN TRUST II  (CIK 0000763852)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/763852/000143893425002820/0001438934-25-002820-index.htm)
+
 - **N-PX** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000113542825000244/0001135428-25-000244-index.htm)
 
@@ -123,8 +129,14 @@
 - **N-PX** | Family Firm, Inc.  (CIK 0001602603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602603/000160260325000012/0001602603-25-000012-index.htm)
 
+- **N-PX** | Goldman Sachs ETF Trust II  (CIK 0001882879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1882879/000102140825004838/0001021408-25-004838-index.htm)
+
 - **N-PX** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000113542825000246/0001135428-25-000246-index.htm)
+
+- **N-PX** | Goldman Sachs Trust II  (CIK 0001557156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557156/000102140825004840/0001021408-25-004840-index.htm)
 
 - **N-PX** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000102140825004816/0001021408-25-004816-index.htm)
