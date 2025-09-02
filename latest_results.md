@@ -96,6 +96,9 @@
 - **N-PX** | SHELTON CAPITAL MANAGEMENT  (CIK 0001002784)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1002784/000199937125012384/0001999371-25-012384-index.htm)
 
+- **N-PX** | Advisors' Inner Circle Fund II  (CIK 0000890540)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/890540/000113542825000250/0001135428-25-000250-index.htm)
+
 - **N-PX** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002788/0001438934-25-002788-index.htm)
 
