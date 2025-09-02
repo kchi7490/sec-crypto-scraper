@@ -81,6 +81,12 @@
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002569/0001592900-25-002569-index.htm)
 
+- **N-PX** | JPMORGAN TRUST IV  (CIK 0001659326)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000143893425002818/0001438934-25-002818-index.htm)
+
+- **N-PX** | JPMORGAN TRUST IV  (CIK 0001659326)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000143893425002819/0001438934-25-002819-index.htm)
+
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
 
