@@ -6,11 +6,17 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025082869/0001213900-25-082869-index.htm)
 
+- **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006616/0001683168-25-006616-index.htm)
+
 - **8-K** | ETHZilla Corp  (ATNF, ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025082917/0001213900-25-082917-index.htm)
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012518/0001493152-25-012518-index.htm)
+
+- **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006617/0001683168-25-006617-index.htm)
 
 - **8-K** | TNF Pharmaceuticals, Inc.  (TNFA)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000164117225026167/0001641172-25-026167-index.htm)
@@ -48,6 +54,9 @@
 - **S-1/A** | FT Intermediate, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041443/0001628280-25-041443-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112471/0000950170-25-112471-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044625000008/0001050446-25-000008-index.htm)
 
@@ -63,11 +72,17 @@
 - **6-K** | Jianpu Technology Inc.  (AIJTY)  (CIK 0001713923)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1713923/000110465925085985/0001104659-25-085985-index.htm)
 
+- **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025083343/0001213900-25-083343-index.htm)
+
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025082918/0001213900-25-082918-index.htm)
 
 - **6-K/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225026152/0001641172-25-026152-index.htm)
+
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625007012/0001829126-25-007012-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925085963/0001104659-25-085963-index.htm)
@@ -86,6 +101,15 @@
 
 - **N-PX** | JPMORGAN TRUST IV  (CIK 0001659326)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000143893425002819/0001438934-25-002819-index.htm)
+
+- **N-PX** | JPMorgan Trust I  (CIK 0001217286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002822/0001438934-25-002822-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025083371/0001213900-25-083371-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025083383/0001213900-25-083383-index.htm)
 
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
@@ -140,4 +164,10 @@
 
 - **N-PX** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000102140825004816/0001021408-25-004816-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925086373/0001104659-25-086373-index.htm)
+
+- **10-Q/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112470/0000950170-25-112470-index.htm)
 
