@@ -66,8 +66,14 @@
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925085963/0001104659-25-085963-index.htm)
 
+- **487** | FT 12427  (CIK 0002070335)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070335/000144554625005887/0001445546-25-005887-index.htm)
+
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
+
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002569/0001592900-25-002569-index.htm)
 
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
@@ -86,6 +92,9 @@
 
 - **N-PX** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000113542825000244/0001135428-25-000244-index.htm)
+
+- **N-PX** | Family Firm, Inc.  (CIK 0001602603)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602603/000160260325000012/0001602603-25-000012-index.htm)
 
 - **N-PX** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000113542825000246/0001135428-25-000246-index.htm)
