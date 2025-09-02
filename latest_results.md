@@ -105,6 +105,9 @@
 - **N-PX** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000113542825000244/0001135428-25-000244-index.htm)
 
+- **N-PX** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000102140825004830/0001021408-25-004830-index.htm)
+
 - **N-PX** | Family Firm, Inc.  (CIK 0001602603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602603/000160260325000012/0001602603-25-000012-index.htm)
 
