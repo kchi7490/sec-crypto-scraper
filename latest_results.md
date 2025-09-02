@@ -12,6 +12,9 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012518/0001493152-25-012518-index.htm)
 
+- **8-K** | TNF Pharmaceuticals, Inc.  (TNFA)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000164117225026167/0001641172-25-026167-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026146/0001641172-25-026146-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525193487/0001193125-25-193487-index.htm)
+
+- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225026162/0001641172-25-026162-index.htm)
 
 - **6-K** | Jianpu Technology Inc.  (AIJTY)  (CIK 0001713923)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1713923/000110465925085985/0001104659-25-085985-index.htm)
