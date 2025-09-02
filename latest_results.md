@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Yoshiharu Global Co.  (YOSH)  (CIK 0001898604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000164117225026234/0001641172-25-026234-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012513/0001493152-25-012513-index.htm)
 
@@ -168,8 +171,14 @@
 - **N-PX** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000102140825004830/0001021408-25-004830-index.htm)
 
+- **N-PX** | Goldman Sachs ETF Trust  (CIK 0001479026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479026/000102140825004891/0001021408-25-004891-index.htm)
+
 - **N-PX** | Family Firm, Inc.  (CIK 0001602603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602603/000160260325000012/0001602603-25-000012-index.htm)
+
+- **N-PX** | GOLDMAN SACHS TRUST  (CIK 0000822977)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/822977/000102140825004894/0001021408-25-004894-index.htm)
 
 - **N-PX** | Goldman Sachs ETF Trust II  (CIK 0001882879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882879/000102140825004838/0001021408-25-004838-index.htm)
