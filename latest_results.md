@@ -69,6 +69,9 @@
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
 
+- **N-PX** | SHELTON FUNDS  (CIK 0000778206)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/778206/000199937125012380/0001999371-25-012380-index.htm)
+
 - **N-PX** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000113542825000244/0001135428-25-000244-index.htm)
 
