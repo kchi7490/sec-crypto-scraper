@@ -69,6 +69,12 @@
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
 
+- **497** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
+
+- **N-PX** | SHELTON CAPITAL MANAGEMENT  (CIK 0001002784)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1002784/000199937125012384/0001999371-25-012384-index.htm)
+
 - **N-PX** | SHELTON FUNDS  (CIK 0000778206)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/778206/000199937125012380/0001999371-25-012380-index.htm)
 
