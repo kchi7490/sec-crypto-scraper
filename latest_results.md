@@ -51,6 +51,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044625000008/0001050446-25-000008-index.htm)
 
+- **N-CSRS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322825009288/0001133228-25-009288-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525193487/0001193125-25-193487-index.htm)
 
