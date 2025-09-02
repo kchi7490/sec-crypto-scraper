@@ -21,6 +21,9 @@
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000164117225026153/0001641172-25-026153-index.htm)
 
+- **10-K** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000159991625000120/0001599916-25-000120-index.htm)
+
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225026137/0001641172-25-026137-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **N-PX** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002722/0001438934-25-002722-index.htm)
+
+- **N-PX** | NORTHERN LIGHTS FUND TRUST III  (CIK 0001537140)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1537140/000158064225005666/0001580642-25-005666-index.htm)
 
 - **N-PX** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000143893425002792/0001438934-25-002792-index.htm)
