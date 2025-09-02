@@ -72,6 +72,9 @@
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
 
+- **N-PX** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002722/0001438934-25-002722-index.htm)
+
 - **N-PX** | SHELTON CAPITAL MANAGEMENT  (CIK 0001002784)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1002784/000199937125012384/0001999371-25-012384-index.htm)
 
