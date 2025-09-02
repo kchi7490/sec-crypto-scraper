@@ -72,6 +72,9 @@
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012388/0001999371-25-012388-index.htm)
 
+- **N-PX** | FIRST EAGLE FUNDS  (CIK 0000906352)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906352/000093041325002849/0000930413-25-002849-index.htm)
+
 - **N-PX** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002722/0001438934-25-002722-index.htm)
 
