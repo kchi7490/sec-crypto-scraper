@@ -84,8 +84,14 @@
 - **N-PX** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002722/0001438934-25-002722-index.htm)
 
+- **N-PX** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000143893425002792/0001438934-25-002792-index.htm)
+
 - **N-PX** | SHELTON CAPITAL MANAGEMENT  (CIK 0001002784)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1002784/000199937125012384/0001999371-25-012384-index.htm)
+
+- **N-PX** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000143893425002788/0001438934-25-002788-index.htm)
 
 - **N-PX** | SHELTON FUNDS  (CIK 0000778206)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/778206/000199937125012380/0001999371-25-012380-index.htm)
@@ -98,4 +104,7 @@
 
 - **N-PX** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000113542825000246/0001135428-25-000246-index.htm)
+
+- **N-PX** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000102140825004816/0001021408-25-004816-index.htm)
 
