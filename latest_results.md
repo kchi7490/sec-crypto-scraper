@@ -69,6 +69,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525193487/0001193125-25-193487-index.htm)
 
+- **DEF 14A** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000005/0002020455-25-000005-index.htm)
+
+- **DEF 14A** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000172521025000003/0001725210-25-000003-index.htm)
+
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225026162/0001641172-25-026162-index.htm)
 
@@ -99,8 +105,14 @@
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
 
+- **N-PX** | J.P. Morgan Exchange-Traded Fund Trust  (CIK 0001485894)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1485894/000143893425002833/0001438934-25-002833-index.htm)
+
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002569/0001592900-25-002569-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425017364/0001398344-25-017364-index.htm)
 
 - **N-PX** | JPMORGAN TRUST IV  (CIK 0001659326)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000143893425002818/0001438934-25-002818-index.htm)
