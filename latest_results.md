@@ -138,6 +138,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
 
+- **N-CSR/A** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000113322825009336/0001133228-25-009336-index.htm)
+
 - **6-K/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225026152/0001641172-25-026152-index.htm)
 
