@@ -87,6 +87,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112471/0000950170-25-112471-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
@@ -122,6 +125,9 @@
 
 - **6-K** | Jianpu Technology Inc.  (AIJTY)  (CIK 0001713923)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1713923/000110465925085985/0001104659-25-085985-index.htm)
+
+- **6-K** | Hub Cyber Security Ltd.  (HUBC, HUBCW, HUBCZ)  (CIK 0001905660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905660/000121390025084039/0001213900-25-084039-index.htm)
 
 - **6-K** | PORTAGE BIOTECH INC.  (PRTG)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005698/0001171843-25-005698-index.htm)
