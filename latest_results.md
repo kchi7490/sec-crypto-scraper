@@ -75,6 +75,9 @@
 - **S-4** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465925086504/0001104659-25-086504-index.htm)
 
+- **F-1** | OBOOK HOLDINGS INC.  (CIK 0002025416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525195057/0001193125-25-195057-index.htm)
+
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011193/0000950103-25-011193-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525193487/0001193125-25-193487-index.htm)
+
+- **S-3** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025084099/0001213900-25-084099-index.htm)
 
 - **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413825000041/0001974138-25-000041-index.htm)
@@ -150,6 +156,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025082918/0001213900-25-082918-index.htm)
 
+- **424B5** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005711/0001171843-25-005711-index.htm)
+
 - **424B3** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005707/0001171843-25-005707-index.htm)
 
@@ -179,6 +188,9 @@
 
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
+
+- **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000157987825000027/0001579878-25-000027-index.htm)
 
 - **N-PX** | J.P. Morgan Exchange-Traded Fund Trust  (CIK 0001485894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1485894/000143893425002833/0001438934-25-002833-index.htm)
