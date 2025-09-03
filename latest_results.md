@@ -108,6 +108,9 @@
 - **DEF 14A** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000172521025000003/0001725210-25-000003-index.htm)
 
+- **DEF 14A** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012565/0001493152-25-012565-index.htm)
+
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000164117225026162/0001641172-25-026162-index.htm)
 
@@ -146,6 +149,9 @@
 
 - **487** | FT 12427  (CIK 0002070335)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070335/000144554625005887/0001445546-25-005887-index.htm)
+
+- **N-CSRS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525194717/0001193125-25-194717-index.htm)
 
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
