@@ -138,6 +138,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025082918/0001213900-25-082918-index.htm)
 
+- **424B3** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005707/0001171843-25-005707-index.htm)
+
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
 
