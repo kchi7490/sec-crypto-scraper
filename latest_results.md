@@ -132,6 +132,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025082918/0001213900-25-082918-index.htm)
 
+- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
+
 - **6-K/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225026152/0001641172-25-026152-index.htm)
 
