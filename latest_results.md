@@ -159,6 +159,9 @@
 - **N-CSRS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525194717/0001193125-25-194717-index.htm)
 
+- **RW** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025083916/0001213900-25-083916-index.htm)
+
 - **FWP** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925085818/0001104659-25-085818-index.htm)
 
