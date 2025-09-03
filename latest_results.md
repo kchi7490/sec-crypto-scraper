@@ -102,6 +102,9 @@
 - **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413825000041/0001974138-25-000041-index.htm)
 
+- **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025083876/0001213900-25-083876-index.htm)
+
 - **DEF 14A** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000005/0002020455-25-000005-index.htm)
 
