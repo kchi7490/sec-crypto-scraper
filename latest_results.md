@@ -102,6 +102,9 @@
 - **F-1** | OBOOK HOLDINGS INC.  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525195057/0001193125-25-195057-index.htm)
 
+- **S-3/A** | Interactive Strength, Inc.  (TRNR)  (CIK 0001785056)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785056/000178505625000010/0001785056-25-000010-index.htm)
+
 - **S-4** | Hyperliquid Strategies Inc  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000164117225026577/0001641172-25-026577-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011193/0000950103-25-011193-index.htm)
+
+- **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011286/0000950103-25-011286-index.htm)
 
 - **F-1** | Hub Cyber Security Ltd.  (HUBC, HUBCW, HUBCZ)  (CIK 0001905660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905660/000121390025083622/0001213900-25-083622-index.htm)
@@ -129,11 +135,11 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112471/0000950170-25-112471-index.htm)
 
-- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
-
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044625000008/0001050446-25-000008-index.htm)
