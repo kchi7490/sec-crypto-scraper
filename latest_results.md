@@ -252,6 +252,9 @@
 - **PREC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425003969/0000902664-25-003969-index.htm)
 
+- **N-CSRS** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000173807825000006/0001738078-25-000006-index.htm)
+
 - **N-PX** | J.P. Morgan Exchange-Traded Fund Trust  (CIK 0001485894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1485894/000143893425002833/0001438934-25-002833-index.htm)
 
