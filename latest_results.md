@@ -12,6 +12,9 @@
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225026602/0001641172-25-026602-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225012649/0001493152-25-012649-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000052/0001859392-25-000052-index.htm)
 
@@ -63,11 +66,17 @@
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726-index.htm)
 
+- **8-K** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925087513/0001104659-25-087513-index.htm)
+
 - **S-3** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026501/0001641172-25-026501-index.htm)
 
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025082930/0001213900-25-082930-index.htm)
+
+- **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925087514/0001104659-25-087514-index.htm)
 
 - **425** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025082934/0001213900-25-082934-index.htm)
@@ -180,6 +189,9 @@
 - **DEF 14A** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012565/0001493152-25-012565-index.htm)
 
+- **F-1/A** | NFT Ltd  (MI)  (CIK 0001958713)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1958713/000121390025084613/0001213900-25-084613-index.htm)
+
 - **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000014/0001285550-25-000014-index.htm)
 
@@ -221,6 +233,9 @@
 
 - **424B5** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005711/0001171843-25-005711-index.htm)
+
+- **F-10** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025084599/0001213900-25-084599-index.htm)
 
 - **424B3** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005707/0001171843-25-005707-index.htm)
