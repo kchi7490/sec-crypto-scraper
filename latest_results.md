@@ -126,6 +126,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044625000008/0001050446-25-000008-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
+
 - **N-CSRS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322825009288/0001133228-25-009288-index.htm)
 
