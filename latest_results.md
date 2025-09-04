@@ -9,6 +9,9 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025082869/0001213900-25-082869-index.htm)
 
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000164117225026602/0001641172-25-026602-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000052/0001859392-25-000052-index.htm)
 
@@ -222,6 +225,9 @@
 - **424B3** | AlphaTON Capital Corp  (PRTG)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325005707/0001171843-25-005707-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025084586/0001213900-25-084586-index.htm)
+
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
 
@@ -245,6 +251,9 @@
 
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625007012/0001829126-25-007012-index.htm)
+
+- **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125034011/0001140361-25-034011-index.htm)
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774925028325/0001437749-25-028325-index.htm)
@@ -287,6 +296,9 @@
 
 - **1-A** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925087368/0001104659-25-087368-index.htm)
+
+- **424B3** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125034010/0001140361-25-034010-index.htm)
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002569/0001592900-25-002569-index.htm)
