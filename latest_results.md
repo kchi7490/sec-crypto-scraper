@@ -78,6 +78,9 @@
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084246/0001213900-25-084246-index.htm)
 
+- **F-3** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025084287/0001213900-25-084287-index.htm)
+
 - **S-1/A** | FT Intermediate, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041443/0001628280-25-041443-index.htm)
 
@@ -212,6 +215,9 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774925028325/0001437749-25-028325-index.htm)
+
+- **6-K** | Robot Consulting Co., Ltd.  (LAWR)  (CIK 0002007599)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007599/000164117225026522/0001641172-25-026522-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925085963/0001104659-25-085963-index.htm)
