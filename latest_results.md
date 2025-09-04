@@ -57,6 +57,9 @@
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726-index.htm)
 
+- **S-3** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026501/0001641172-25-026501-index.htm)
+
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025082930/0001213900-25-082930-index.htm)
 
@@ -72,11 +75,17 @@
 - **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025082967/0001213900-25-082967-index.htm)
 
+- **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084246/0001213900-25-084246-index.htm)
+
 - **S-1/A** | FT Intermediate, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041443/0001628280-25-041443-index.htm)
 
 - **S-4** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465925086504/0001104659-25-086504-index.htm)
+
+- **424B3** | Spring Valley Acquisition Corp. III  (SVAC)  (CIK 0002074850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074850/000110465925087188/0001104659-25-087188-index.htm)
 
 - **F-1** | OBOOK HOLDINGS INC.  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525195057/0001193125-25-195057-index.htm)
@@ -174,6 +183,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000098/0001383395-25-000098-index.htm)
+
 - **N-CSR/A** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000113322825009336/0001133228-25-009336-index.htm)
 
@@ -185,6 +197,9 @@
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925085963/0001104659-25-085963-index.htm)
+
+- **1-A/A** | Fortune Nickel & Gold Inc  (CIK 0002017998)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2017998/000113902025000293/0001139020-25-000293-index.htm)
 
 - **487** | FT 12427  (CIK 0002070335)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070335/000144554625005887/0001445546-25-005887-index.htm)
@@ -200,6 +215,9 @@
 
 - **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000157987825000027/0001579878-25-000027-index.htm)
+
+- **PREC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425003969/0000902664-25-003969-index.htm)
 
 - **N-PX** | J.P. Morgan Exchange-Traded Fund Trust  (CIK 0001485894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1485894/000143893425002833/0001438934-25-002833-index.htm)
@@ -236,6 +254,12 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025084090/0001213900-25-084090-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025084222/0001213900-25-084222-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025084186/0001213900-25-084186-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011122/0000950103-25-011122-index.htm)
