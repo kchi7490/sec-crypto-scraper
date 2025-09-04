@@ -90,6 +90,9 @@
 - **F-1** | OBOOK HOLDINGS INC.  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525195057/0001193125-25-195057-index.htm)
 
+- **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001624/0001640334-25-001624-index.htm)
+
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011193/0000950103-25-011193-index.htm)
 
