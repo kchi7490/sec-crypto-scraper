@@ -228,6 +228,9 @@
 - **1-A/A** | Fortune Nickel & Gold Inc  (CIK 0002017998)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017998/000113902025000293/0001139020-25-000293-index.htm)
 
+- **487** | FT 12428  (CIK 0002070334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070334/000144554625005925/0001445546-25-005925-index.htm)
+
 - **487** | FT 12427  (CIK 0002070335)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070335/000144554625005887/0001445546-25-005887-index.htm)
 
