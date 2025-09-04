@@ -144,6 +144,9 @@
 - **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025083876/0001213900-25-083876-index.htm)
 
+- **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322825009394/0001133228-25-009394-index.htm)
+
 - **DEF 14A** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000005/0002020455-25-000005-index.htm)
 
