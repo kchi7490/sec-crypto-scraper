@@ -144,11 +144,11 @@
 - **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000164117225026760/0001641172-25-026760-index.htm)
 
-- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
-
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
 - **D** | Strive Enterprises, Inc. / OH  (CIK 0001955745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1955745/000095010325011341/0000950103-25-011341-index.htm)
