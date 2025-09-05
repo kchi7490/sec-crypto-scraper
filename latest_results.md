@@ -21,6 +21,9 @@
 - **8-K** | TON Strategy Co  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000164117225026325/0001641172-25-026325-index.htm)
 
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084677/0001213900-25-084677-index.htm)
+
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925087514/0001104659-25-087514-index.htm)
+
+- **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084697/0001213900-25-084697-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084246/0001213900-25-084246-index.htm)
@@ -72,6 +78,9 @@
 - **F-1** | Hub Cyber Security Ltd.  (HUBC, HUBCW, HUBCZ)  (CIK 0001905660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905660/000121390025083622/0001213900-25-083622-index.htm)
 
+- **PRE 14A** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000110465925087598/0001104659-25-087598-index.htm)
+
 - **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025084087/0001213900-25-084087-index.htm)
 
@@ -84,11 +93,11 @@
 - **424B5** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083737/0001213900-25-083737-index.htm)
 
-- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
-
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
@@ -101,6 +110,9 @@
 
 - **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025083876/0001213900-25-083876-index.htm)
+
+- **424B4** | GSR IV Acquisition Corp.  (GSRF)  (CIK 0002072404)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390025084652/0001213900-25-084652-index.htm)
 
 - **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322825009394/0001133228-25-009394-index.htm)
@@ -150,6 +162,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003206/0001292814-25-003206-index.htm)
 
+- **F-1/A** | Diginex Ltd  (DGNX)  (CIK 0002010499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2010499/000164117225026615/0001641172-25-026615-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000098/0001383395-25-000098-index.htm)
 
@@ -167,6 +182,9 @@
 
 - **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125034011/0001140361-25-034011-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000945/0001279569-25-000945-index.htm)
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774925028325/0001437749-25-028325-index.htm)
@@ -207,6 +225,9 @@
 - **N-CSRS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312525196079/0001193125-25-196079-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025084674/0001213900-25-084674-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025084088/0001213900-25-084088-index.htm)
 
@@ -221,6 +242,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025084495/0001213900-25-084495-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025084673/0001213900-25-084673-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025084222/0001213900-25-084222-index.htm)
