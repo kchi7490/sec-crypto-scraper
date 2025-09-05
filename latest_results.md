@@ -93,11 +93,11 @@
 - **424B5** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083737/0001213900-25-083737-index.htm)
 
-- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
-
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
@@ -164,6 +164,9 @@
 
 - **F-1/A** | Diginex Ltd  (DGNX)  (CIK 0002010499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2010499/000164117225026615/0001641172-25-026615-index.htm)
+
+- **F-4/A** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525196513/0001193125-25-196513-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000098/0001383395-25-000098-index.htm)
