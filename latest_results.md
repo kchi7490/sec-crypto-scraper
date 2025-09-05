@@ -21,6 +21,9 @@
 - **8-K** | SUI Group Holdings Ltd.  (MCVT, SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025084142/0001213900-25-084142-index.htm)
 
+- **S-1/A** | SUI Group Holdings Ltd.  (MCVT, SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025085143/0001213900-25-085143-index.htm)
+
 - **8-K** | TON Strategy Co  (VERB)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000164117225026325/0001641172-25-026325-index.htm)
 
@@ -48,8 +51,14 @@
 - **424B3** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125034209/0001140361-25-034209-index.htm)
 
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006537/0001477932-25-006537-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084697/0001213900-25-084697-index.htm)
+
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006540/0001477932-25-006540-index.htm)
 
 - **10-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000173240925000005/0001732409-25-000005-index.htm)
@@ -86,6 +95,9 @@
 
 - **F-1** | OBOOK HOLDINGS INC.  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525195057/0001193125-25-195057-index.htm)
+
+- **S-1** | FutureCrest Acquisition Corp.  (CIK 0002074697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074697/000121390025085160/0001213900-25-085160-index.htm)
 
 - **S-3/A** | Interactive Strength, Inc.  (TRNR)  (CIK 0001785056)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785056/000178505625000010/0001785056-25-000010-index.htm)
@@ -129,11 +141,14 @@
 - **424B5** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083737/0001213900-25-083737-index.htm)
 
-- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
+- **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000164117225026760/0001641172-25-026760-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
 - **D** | Strive Enterprises, Inc. / OH  (CIK 0001955745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1955745/000095010325011341/0000950103-25-011341-index.htm)
@@ -240,6 +255,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025084276/0001213900-25-084276-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325015369/0001062993-25-015369-index.htm)
+
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025084261/0001213900-25-084261-index.htm)
 
@@ -281,9 +299,6 @@
 
 - **RW** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025083916/0001213900-25-083916-index.htm)
-
-- **S-1/A** | SUI Group Holdings Ltd.  (MCVT, SUIG)  (CIK 0001425355)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025085143/0001213900-25-085143-index.htm)
 
 - **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000157987825000027/0001579878-25-000027-index.htm)
