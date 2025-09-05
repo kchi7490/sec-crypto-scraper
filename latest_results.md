@@ -27,6 +27,9 @@
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084677/0001213900-25-084677-index.htm)
 
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001133/0001185185-25-001133-index.htm)
+
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925087514/0001104659-25-087514-index.htm)
+
+- **424B3** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000114036125034209/0001140361-25-034209-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025084697/0001213900-25-084697-index.htm)
@@ -140,6 +146,9 @@
 
 - **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322825009394/0001133228-25-009394-index.htm)
+
+- **S-1/A** | OTG Acquisition Corp. I  (OTGA)  (CIK 0002077010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000164117225026716/0001641172-25-026716-index.htm)
 
 - **497** | Strategy Shares  (CIK 0001506213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064225005762/0001580642-25-005762-index.htm)
@@ -263,6 +272,9 @@
 
 - **N-CSRS** | BlackRock Funds V  (CIK 0001738078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000173807825000006/0001738078-25-000006-index.htm)
+
+- **N-PX/A** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925013427/0001214659-25-013427-index.htm)
 
 - **1-A** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925087368/0001104659-25-087368-index.htm)
