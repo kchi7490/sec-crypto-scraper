@@ -96,11 +96,11 @@
 - **424B5** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083737/0001213900-25-083737-index.htm)
 
-- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
-
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
@@ -209,6 +209,9 @@
 
 - **6-K** | Robot Consulting Co., Ltd.  (LAWR)  (CIK 0002007599)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007599/000164117225026658/0001641172-25-026658-index.htm)
+
+- **10-Q** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000164117225026673/0001641172-25-026673-index.htm)
 
 - **1-A/A** | Fortune Nickel & Gold Inc  (CIK 0002017998)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017998/000113902025000293/0001139020-25-000293-index.htm)
