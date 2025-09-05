@@ -30,6 +30,9 @@
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001133/0001185185-25-001133-index.htm)
 
+- **8-K** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025085107/0001213900-25-085107-index.htm)
+
 - **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083726/0001213900-25-083726-index.htm)
 
@@ -102,6 +105,9 @@
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011286/0000950103-25-011286-index.htm)
 
+- **S-3ASR** | TON Strategy Co  (TONX, VERB)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225012760/0001493152-25-012760-index.htm)
+
 - **F-1** | Hub Cyber Security Ltd.  (HUBC, HUBCW, HUBCZ)  (CIK 0001905660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905660/000121390025083622/0001213900-25-083622-index.htm)
 
@@ -129,6 +135,12 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
 
+- **D** | Strive Enterprises, Inc. / OH  (CIK 0001955745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1955745/000095010325011341/0000950103-25-011341-index.htm)
+
+- **D** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000178623625000032/0001786236-25-000032-index.htm)
+
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
 
@@ -150,6 +162,9 @@
 - **S-1/A** | OTG Acquisition Corp. I  (OTGA)  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000164117225026716/0001641172-25-026716-index.htm)
 
+- **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025085060/0001213900-25-085060-index.htm)
+
 - **497** | Strategy Shares  (CIK 0001506213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064225005762/0001580642-25-005762-index.htm)
 
@@ -158,6 +173,9 @@
 
 - **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000128555025000014/0001285550-25-000014-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001642/0001640334-25-001642-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001617/0001640334-25-001617-index.htm)
@@ -264,6 +282,9 @@
 - **RW** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000121390025083916/0001213900-25-083916-index.htm)
 
+- **S-1/A** | SUI Group Holdings Ltd.  (MCVT, SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025085143/0001213900-25-085143-index.htm)
+
 - **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000157987825000027/0001579878-25-000027-index.htm)
 
@@ -338,6 +359,9 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011118/0000950103-25-011118-index.htm)
+
+- **N-PX/A** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925013430/0001214659-25-013430-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925087808/0001104659-25-087808-index.htm)
