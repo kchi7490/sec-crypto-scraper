@@ -135,6 +135,9 @@
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001617/0001640334-25-001617-index.htm)
 
+- **DEF 14C** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025084918/0001213900-25-084918-index.htm)
+
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025083722/0001213900-25-083722-index.htm)
 
