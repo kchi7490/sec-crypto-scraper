@@ -75,6 +75,9 @@
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011193/0000950103-25-011193-index.htm)
 
+- **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001629/0001640334-25-001629-index.htm)
+
 - **424B3** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000095010325011286/0000950103-25-011286-index.htm)
 
@@ -96,11 +99,11 @@
 - **424B5** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083737/0001213900-25-083737-index.htm)
 
-- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
-
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000095017025112835/0000950170-25-112835-index.htm)
+
+- **8-K** | Gryphon Digital Mining, Inc.  (GRYP)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025083740/0001213900-25-083740-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000211/0001099910-25-000211-index.htm)
