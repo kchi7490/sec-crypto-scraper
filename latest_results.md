@@ -12,8 +12,14 @@
 - **8-K** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026794/0001641172-25-026794-index.htm)
 
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000164117225026811/0001641172-25-026811-index.htm)
+
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025085171/0001213900-25-085171-index.htm)
+
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006738/0001683168-25-006738-index.htm)
 
 - **S-3ASR** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026808/0001641172-25-026808-index.htm)
@@ -36,6 +42,9 @@
 - **DEFM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225026774/0001641172-25-026774-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025113368/0000950170-25-113368-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000095017025113360/0000950170-25-113360-index.htm)
 
@@ -47,6 +56,12 @@
 
 - **8-K/A** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025085268/0001213900-25-085268-index.htm)
+
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025085296/0001213900-25-085296-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000959/0001279569-25-000959-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925087961/0001104659-25-087961-index.htm)
