@@ -54,6 +54,9 @@
 - **DEFM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225026774/0001641172-25-026774-index.htm)
 
+- **S-1/A** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025085541/0001213900-25-085541-index.htm)
+
 - **F-3/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000187643125000003/0001876431-25-000003-index.htm)
 
@@ -105,8 +108,14 @@
 - **6-K** | Above Food Ingredients Inc.  (ABVE, ABVEW)  (CIK 0001979484)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1979484/000110465925088200/0001104659-25-088200-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925088284/0001104659-25-088284-index.htm)
+
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225026826/0001641172-25-026826-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925088287/0001104659-25-088287-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000959/0001279569-25-000959-index.htm)
@@ -144,14 +153,17 @@
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025085278/0001213900-25-085278-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025085546/0001213900-25-085546-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012777/0001999371-25-012777-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
