@@ -9,6 +9,12 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000095017025113366/0000950170-25-113366-index.htm)
 
+- **8-K** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025085305/0001213900-25-085305-index.htm)
+
+- **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025085311/0001213900-25-085311-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026794/0001641172-25-026794-index.htm)
 
@@ -30,17 +36,20 @@
 - **S-1** | Grayscale Chainlink Trust (LINK)  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525197401/0001193125-25-197401-index.htm)
 
-- **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
-
 - **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
+
+- **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
 
 - **DEFM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225026774/0001641172-25-026774-index.htm)
+
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025113368/0000950170-25-113368-index.htm)
@@ -66,6 +75,9 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925087961/0001104659-25-087961-index.htm)
 
+- **6-K** | Rectitude Holdings Ltd.  (RECT)  (CIK 0001995116)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995116/000121390025085303/0001213900-25-085303-index.htm)
+
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225026767/0001641172-25-026767-index.htm)
 
@@ -76,10 +88,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025085278/0001213900-25-085278-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
