@@ -93,6 +93,9 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925087956/0001104659-25-087956-index.htm)
 
+- **N-CSR** | SPDR SERIES TRUST  (CIK 0001064642)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1064642/000119312525197978/0001193125-25-197978-index.htm)
+
 - **N-CEN** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000175272425213393/0001752724-25-213393-index.htm)
 
