@@ -42,11 +42,11 @@
 - **S-1** | Grayscale Chainlink Trust (LINK)  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525197401/0001193125-25-197401-index.htm)
 
-- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
-
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
+
+- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
@@ -74,6 +74,9 @@
 
 - **8-K/A** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025085268/0001213900-25-085268-index.htm)
+
+- **8-K** | ALIXO-YOLLOO Corp  (ALXY)  (CIK 0001977837)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006742/0001683168-25-006742-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025085296/0001213900-25-085296-index.htm)
