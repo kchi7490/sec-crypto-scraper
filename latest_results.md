@@ -48,8 +48,14 @@
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
 
+- **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
+
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
+
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012859/0001999371-25-012859-index.htm)
 
 - **DEFM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225026774/0001641172-25-026774-index.htm)
