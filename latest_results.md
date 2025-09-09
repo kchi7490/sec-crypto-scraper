@@ -174,6 +174,9 @@
 - **6-K** | Above Food Ingredients Inc.  (ABVE, ABVEW)  (CIK 0001979484)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1979484/000110465925088200/0001104659-25-088200-index.htm)
 
+- **6-K** | QMMM Holdings Ltd  (QMMM)  (CIK 0001971542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1971542/000164117225026950/0001641172-25-026950-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925088284/0001104659-25-088284-index.htm)
 
@@ -250,10 +253,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
