@@ -39,6 +39,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006738/0001683168-25-006738-index.htm)
 
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025085765/0001213900-25-085765-index.htm)
+
 - **S-3ASR** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026808/0001641172-25-026808-index.htm)
 
@@ -56,6 +59,12 @@
 
 - **1-A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225012823/0001493152-25-012823-index.htm)
+
+- **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085811/0001213900-25-085811-index.htm)
+
+- **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
@@ -123,6 +132,9 @@
 - **S-8** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025085642/0001213900-25-085642-index.htm)
 
+- **N-CSRS** | Advisor Managed Portfolios  (CIK 0001970751)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322825009648/0001133228-25-009648-index.htm)
+
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322825009579/0001133228-25-009579-index.htm)
 
@@ -156,8 +168,14 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925087961/0001104659-25-087961-index.htm)
 
+- **424B3** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525198517/0001193125-25-198517-index.htm)
+
 - **6-K** | Rectitude Holdings Ltd.  (RECT)  (CIK 0001995116)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995116/000121390025085303/0001213900-25-085303-index.htm)
+
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325015417/0001062993-25-015417-index.htm)
 
 - **6-K** | Mercurity Fintech Holding Inc.  (MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000164117225026767/0001641172-25-026767-index.htm)
@@ -176,6 +194,9 @@
 
 - **N-CEN** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000175272425213393/0001752724-25-213393-index.htm)
+
+- **DEFA14A** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025085662/0001213900-25-085662-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025085517/0001213900-25-085517-index.htm)
