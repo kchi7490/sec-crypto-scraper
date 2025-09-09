@@ -66,11 +66,11 @@
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
-- **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
-
 - **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
+
+- **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
 
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
@@ -129,6 +129,9 @@
 - **N-CSRS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322825009581/0001133228-25-009581-index.htm)
 
+- **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025085823/0001213900-25-085823-index.htm)
+
 - **S-8** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025085642/0001213900-25-085642-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **8-K** | ALIXO-YOLLOO Corp  (ALXY)  (CIK 0001977837)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006742/0001683168-25-006742-index.htm)
+
+- **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025085820/0001213900-25-085820-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025085296/0001213900-25-085296-index.htm)
@@ -182,6 +188,9 @@
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925087956/0001104659-25-087956-index.htm)
+
+- **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088432/0001104659-25-088432-index.htm)
 
 - **487** | FT 12429  (CIK 0002070333)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070333/000144554625006068/0001445546-25-006068-index.htm)
