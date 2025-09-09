@@ -87,11 +87,11 @@
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
-- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
-
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
+
+- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
 
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
@@ -125,6 +125,9 @@
 
 - **F-4/A** | Alps Global Holding Pubco  (CIK 0002025774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025774/000164117225026828/0001641172-25-026828-index.htm)
+
+- **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
@@ -316,10 +319,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
