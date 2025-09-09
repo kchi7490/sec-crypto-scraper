@@ -63,17 +63,23 @@
 - **1-A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225012823/0001493152-25-012823-index.htm)
 
+- **8-K** | GameStop Corp.  (GME)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000073/0001326380-25-000073-index.htm)
+
+- **S-1** | Grayscale Hedera Trust ETF  (CIK 0002084948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084948/000095017025113803/0000950170-25-113803-index.htm)
+
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085811/0001213900-25-085811-index.htm)
 
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
-- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
-
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
+
+- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
 
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
@@ -83,6 +89,12 @@
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
+
+- **S-3** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000173240625000008/0001732406-25-000008-index.htm)
+
+- **S-3** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000173240925000008/0001732409-25-000008-index.htm)
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012861/0001999371-25-012861-index.htm)
@@ -137,6 +149,9 @@
 
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025085657/0001213900-25-085657-index.htm)
+
+- **8-K** | Permex Petroleum Corp  (OILCF)  (CIK 0001922639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922639/000149315225012907/0001493152-25-012907-index.htm)
 
 - **8-K/A** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025085268/0001213900-25-085268-index.htm)
@@ -195,6 +210,9 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925087961/0001104659-25-087961-index.htm)
 
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225026968/0001641172-25-026968-index.htm)
+
 - **424B3** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525198517/0001193125-25-198517-index.htm)
 
@@ -249,8 +267,17 @@
 - **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025085546/0001213900-25-085546-index.htm)
 
+- **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086135/0001213900-25-086135-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025086152/0001213900-25-086152-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025085843/0001213900-25-085843-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025086151/0001213900-25-086151-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012777/0001999371-25-012777-index.htm)
