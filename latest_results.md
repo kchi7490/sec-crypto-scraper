@@ -228,6 +228,9 @@
 - **N-CEN** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000175272425213393/0001752724-25-213393-index.htm)
 
+- **10-Q** | PINEAPPLE EXPRESS CANNABIS Co  (PNXP)  (CIK 0001710495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710495/000113902025000302/0001139020-25-000302-index.htm)
+
 - **DEFA14A** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025085662/0001213900-25-085662-index.htm)
 
