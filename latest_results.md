@@ -21,6 +21,9 @@
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025085311/0001213900-25-085311-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012846/0001493152-25-012846-index.htm)
+
 - **8-K** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026794/0001641172-25-026794-index.htm)
 
@@ -66,14 +69,17 @@
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
-- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
-
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
 
+- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
+
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
+
+- **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041798/0001628280-25-041798-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
@@ -110,6 +116,9 @@
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125034232/0001140361-25-034232-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925088474/0001104659-25-088474-index.htm)
 
 - **N-CSRS** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322825009591/0001133228-25-009591-index.htm)
@@ -235,10 +244,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
