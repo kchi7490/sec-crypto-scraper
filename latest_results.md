@@ -144,11 +144,11 @@
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
-- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025086336/0001213900-25-086336-index.htm)
-
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
+
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025086336/0001213900-25-086336-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025113368/0000950170-25-113368-index.htm)
@@ -183,11 +183,11 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125034365/0001140361-25-034365-index.htm)
 
-- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
-
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
+
+- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
 
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025085657/0001213900-25-085657-index.htm)
@@ -297,17 +297,20 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925087956/0001104659-25-087956-index.htm)
 
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025085842/0001213900-25-085842-index.htm)
+- **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088829/0001104659-25-088829-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088432/0001104659-25-088432-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088829/0001104659-25-088829-index.htm)
-
-- **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088675/0001104659-25-088675-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025085842/0001213900-25-085842-index.htm)
+
+- **487** | FT 12429  (CIK 0002070333)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070333/000144554625006068/0001445546-25-006068-index.htm)
 
 - **424B2** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925088599/0001104659-25-088599-index.htm)
