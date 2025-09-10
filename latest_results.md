@@ -144,11 +144,11 @@
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
-- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025086336/0001213900-25-086336-index.htm)
-
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
+
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025086336/0001213900-25-086336-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025113368/0000950170-25-113368-index.htm)
@@ -183,11 +183,11 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125034365/0001140361-25-034365-index.htm)
 
-- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
-
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
+
+- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
 
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025085657/0001213900-25-085657-index.htm)
