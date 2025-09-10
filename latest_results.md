@@ -183,11 +183,11 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125034365/0001140361-25-034365-index.htm)
 
-- **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
-
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
+
+- **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
 
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025085657/0001213900-25-085657-index.htm)
@@ -215,6 +215,9 @@
 
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322825009572/0001133228-25-009572-index.htm)
+
+- **8-K** | MADE IN USA INC.  (ALXY)  (CIK 0001977837)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006810/0001683168-25-006810-index.htm)
 
 - **8-K** | ALIXO-YOLLOO Corp  (ALXY)  (CIK 0001977837)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006742/0001683168-25-006742-index.htm)
@@ -312,6 +315,9 @@
 - **487** | FT 12429  (CIK 0002070333)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070333/000144554625006068/0001445546-25-006068-index.htm)
 
+- **487** | FT 12430  (CIK 0002070332)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070332/000144554625006094/0001445546-25-006094-index.htm)
+
 - **424B2** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465925088599/0001104659-25-088599-index.htm)
 
@@ -373,10 +379,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
