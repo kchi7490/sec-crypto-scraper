@@ -39,6 +39,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225027004/0001641172-25-027004-index.htm)
 
+- **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000164117225027066/0001641172-25-027066-index.htm)
+
 - **S-1** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025086178/0001213900-25-086178-index.htm)
 
@@ -141,6 +144,9 @@
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012859/0001999371-25-012859-index.htm)
 
+- **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525001166/0001185185-25-001166-index.htm)
+
 - **S-3** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791725000119/0000777917-25-000119-index.htm)
 
@@ -204,11 +210,11 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125034365/0001140361-25-034365-index.htm)
 
-- **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
-
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025085190/0001213900-25-085190-index.htm)
+
+- **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
 
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025085657/0001213900-25-085657-index.htm)
