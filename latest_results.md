@@ -57,11 +57,11 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006738/0001683168-25-006738-index.htm)
 
-- **DEF 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525199210/0001193125-25-199210-index.htm)
-
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025085765/0001213900-25-085765-index.htm)
+
+- **DEF 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525199210/0001193125-25-199210-index.htm)
 
 - **S-3ASR** | Fundamental Global Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000164117225026808/0001641172-25-026808-index.htm)
@@ -99,11 +99,11 @@
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
 
-- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
-
 - **POS AM** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045525000007/0002020455-25-000007-index.htm)
+
+- **POS AM** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503425000003/0002015034-25-000003-index.htm)
 
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774925028574/0001437749-25-028574-index.htm)
@@ -126,8 +126,14 @@
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012861/0001999371-25-012861-index.htm)
 
+- **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025086537/0001213900-25-086537-index.htm)
+
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012859/0001999371-25-012859-index.htm)
+
+- **S-3** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791725000119/0000777917-25-000119-index.htm)
 
 - **DEFM14A** | Evofem Biosciences, Inc.  (EVFM)  (CIK 0001618835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618835/000164117225026774/0001641172-25-026774-index.htm)
@@ -144,11 +150,14 @@
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
-- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
+- **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006824/0001683168-25-006824-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025086336/0001213900-25-086336-index.htm)
+
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000095017025113381/0000950170-25-113381-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000095017025113368/0000950170-25-113368-index.htm)
@@ -363,6 +372,12 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025086152/0001213900-25-086152-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025086536/0001213900-25-086536-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086546/0001213900-25-086546-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025085843/0001213900-25-085843-index.htm)
 
@@ -372,6 +387,9 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125012777/0001999371-25-012777-index.htm)
 
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125013013/0001999371-25-013013-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007391/0001683863-25-007391-index.htm)
 
@@ -379,10 +397,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
@@ -410,4 +428,7 @@
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011373/0000950103-25-011373-index.htm)
+
+- **425** | Yorkville Acquisition Corp.  (YORK, YORKU, YORKW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925089076/0001104659-25-089076-index.htm)
 
