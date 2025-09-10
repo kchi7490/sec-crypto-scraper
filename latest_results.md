@@ -246,6 +246,9 @@
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225026968/0001641172-25-026968-index.htm)
 
+- **6-K** | NIO Inc.  (NIO, NIOIF)  (CIK 0001736541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1736541/000110465925088824/0001104659-25-088824-index.htm)
+
 - **424B3** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525198517/0001193125-25-198517-index.htm)
 
@@ -328,10 +331,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000168386325007392/0001683863-25-007392-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011367/0000950103-25-011367-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011369/0000950103-25-011369-index.htm)
 
 - **425** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011350/0000950103-25-011350-index.htm)
