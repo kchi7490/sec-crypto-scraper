@@ -3,6 +3,9 @@
 - **8-K** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006734/0001683168-25-006734-index.htm)
 
+- **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025086574/0001213900-25-086574-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225012776/0001493152-25-012776-index.htm)
 
@@ -69,6 +72,9 @@
 - **S-3** | StableX Technologies, Inc.  (SBLX)  (CIK 0001086745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000164117225026882/0001641172-25-026882-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225013003/0001493152-25-013003-index.htm)
+
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025085266/0001213900-25-085266-index.htm)
 
@@ -117,6 +123,9 @@
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041731/0001628280-25-041731-index.htm)
 
+- **S-1** | Meshflow Acquisition Corp  (CIK 0002081468)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025086601/0001213900-25-086601-index.htm)
+
 - **S-3** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000173240625000008/0001732406-25-000008-index.htm)
 
@@ -149,6 +158,9 @@
 
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
+
+- **424B3** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025086600/0001213900-25-086600-index.htm)
 
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006824/0001683168-25-006824-index.htm)
@@ -332,6 +344,9 @@
 
 - **N-CSR** | SPDR SERIES TRUST  (CIK 0001064642)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1064642/000119312525197978/0001193125-25-197978-index.htm)
+
+- **424B3** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525200177/0001193125-25-200177-index.htm)
 
 - **1-A/A** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825006780/0001683168-25-006780-index.htm)
