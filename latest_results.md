@@ -60,14 +60,23 @@
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085811/0001213900-25-085811-index.htm)
 
+- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025086891/0001213900-25-086891-index.htm)
+
 - **POS AM** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025085812/0001213900-25-085812-index.htm)
+
+- **424B4** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412425000013/0002064124-25-000013-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041798/0001628280-25-041798-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025041837/0001628280-25-041837-index.htm)
+
+- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025086889/0001213900-25-086889-index.htm)
 
 - **S-1** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025086601/0001213900-25-086601-index.htm)
@@ -155,6 +164,9 @@
 
 - **N-CSRS** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322825009648/0001133228-25-009648-index.htm)
+
+- **DEFA14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025086898/0001213900-25-086898-index.htm)
 
 - **8-K** | MADE IN USA INC.  (ALXY)  (CIK 0001977837)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006810/0001683168-25-006810-index.htm)
