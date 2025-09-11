@@ -138,6 +138,9 @@
 - **8-K** | MADE IN USA INC.  (ALXY)  (CIK 0001977837)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825006810/0001683168-25-006810-index.htm)
 
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000164117225027096/0001641172-25-027096-index.htm)
+
 - **S-1/A** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025085820/0001213900-25-085820-index.htm)
 
