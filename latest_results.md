@@ -90,6 +90,9 @@
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
+- **S-4/A** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025086741/0001213900-25-086741-index.htm)
+
 - **424B3** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025086600/0001213900-25-086600-index.htm)
 
@@ -149,6 +152,9 @@
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001660/0001640334-25-001660-index.htm)
+
+- **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006851/0001683168-25-006851-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925088887/0001104659-25-088887-index.htm)
