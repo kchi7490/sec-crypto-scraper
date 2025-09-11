@@ -96,6 +96,9 @@
 - **S-3** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791725000119/0000777917-25-000119-index.htm)
 
+- **10-12G/A** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312525201413/0001193125-25-201413-index.htm)
+
 - **F-1/A** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525199264/0001193125-25-199264-index.htm)
 
@@ -204,6 +207,9 @@
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000164117225026968/0001641172-25-026968-index.htm)
 
+- **F-3/A** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025086875/0001213900-25-086875-index.htm)
+
 - **6-K** | NIO Inc.  (NIO, NIOIF)  (CIK 0001736541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736541/000110465925088824/0001104659-25-088824-index.htm)
 
@@ -224,6 +230,12 @@
 
 - **6-K** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000095017025114088/0000950170-25-114088-index.htm)
+
+- **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225027133/0001641172-25-027133-index.htm)
+
+- **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525201412/0001193125-25-201412-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088829/0001104659-25-088829-index.htm)
