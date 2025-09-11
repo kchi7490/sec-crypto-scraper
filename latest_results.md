@@ -33,6 +33,9 @@
 - **DEF 14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525199210/0001193125-25-199210-index.htm)
 
+- **S-1/A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006650/0001477932-25-006650-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225013003/0001493152-25-013003-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **S-3ASR** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225013022/0001493152-25-013022-index.htm)
+
+- **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025086823/0001213900-25-086823-index.htm)
 
 - **PRE 14A** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225012933/0001493152-25-012933-index.htm)
@@ -74,6 +80,9 @@
 
 - **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025086537/0001213900-25-086537-index.htm)
+
+- **S-3/A** | Grayscale Digital Large Cap Fund LLC  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000095017025114216/0000950170-25-114216-index.htm)
 
 - **S-4/A** | Roth CH Holdings, Inc.  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625007294/0001829126-25-007294-index.htm)
@@ -122,6 +131,9 @@
 
 - **8-K** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT, LIXTW)  (CIK 0001335105)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000164117225027109/0001641172-25-027109-index.htm)
+
+- **8-K** | Oblong, Inc.  (OBLG)  (CIK 0000746210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774925028846/0001437749-25-028846-index.htm)
 
 - **8-K** | Angel Studios, Inc.  (CIK 0001671941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925088826/0001104659-25-088826-index.htm)
@@ -257,6 +269,9 @@
 
 - **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086135/0001213900-25-086135-index.htm)
+
+- **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086837/0001213900-25-086837-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025086152/0001213900-25-086152-index.htm)
