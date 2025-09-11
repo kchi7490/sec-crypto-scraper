@@ -222,6 +222,9 @@
 - **424B3** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525200177/0001193125-25-200177-index.htm)
 
+- **N-CEN** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000175272425214106/0001752724-25-214106-index.htm)
+
 - **1-A/A** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825006780/0001683168-25-006780-index.htm)
 
