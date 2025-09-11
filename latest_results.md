@@ -156,6 +156,9 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225012958/0001493152-25-012958-index.htm)
 
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925089238/0001104659-25-089238-index.htm)
+
 - **6-K** | QMMM Holdings Ltd  (QMMM)  (CIK 0001971542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971542/000164117225026950/0001641172-25-026950-index.htm)
 
