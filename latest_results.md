@@ -210,6 +210,9 @@
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125034608/0001140361-25-034608-index.htm)
 
+- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000141057825002097/0001410578-25-002097-index.htm)
+
 - **424B3** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525198517/0001193125-25-198517-index.htm)
 
