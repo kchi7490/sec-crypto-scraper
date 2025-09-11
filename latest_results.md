@@ -106,6 +106,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000095017025114071/0000950170-25-114071-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225013038/0001493152-25-013038-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225012844/0001493152-25-012844-index.htm)
 
 - **8-K** | Asset Entities Inc.  (ASST)  (CIK 0001920406)  
