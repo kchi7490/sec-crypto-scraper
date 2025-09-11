@@ -120,6 +120,9 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925088474/0001104659-25-088474-index.htm)
 
+- **8-K** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT, LIXTW)  (CIK 0001335105)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000164117225027109/0001641172-25-027109-index.htm)
+
 - **8-K** | Angel Studios, Inc.  (CIK 0001671941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1671941/000110465925088826/0001104659-25-088826-index.htm)
 
