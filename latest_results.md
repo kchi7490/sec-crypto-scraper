@@ -42,6 +42,9 @@
 - **S-1** | Grayscale Hedera Trust ETF  (CIK 0002084948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084948/000095017025113803/0000950170-25-113803-index.htm)
 
+- **S-3ASR** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225013022/0001493152-25-013022-index.htm)
+
 - **PRE 14A** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225012933/0001493152-25-012933-index.htm)
 
@@ -68,6 +71,12 @@
 
 - **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025086537/0001213900-25-086537-index.htm)
+
+- **S-4/A** | Roth CH Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625007294/0001829126-25-007294-index.htm)
+
+- **424B4** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025086656/0001213900-25-086656-index.htm)
 
 - **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525001166/0001185185-25-001166-index.htm)
@@ -159,6 +168,9 @@
 - **6-K** | NIO Inc.  (NIO, NIOIF)  (CIK 0001736541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736541/000110465925088824/0001104659-25-088824-index.htm)
 
+- **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125034608/0001140361-25-034608-index.htm)
+
 - **424B3** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312525198517/0001193125-25-198517-index.htm)
 
@@ -167,6 +179,9 @@
 
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025086393/0001213900-25-086393-index.htm)
+
+- **6-K** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000095017025114088/0000950170-25-114088-index.htm)
 
 - **S-1/A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925088829/0001104659-25-088829-index.htm)
@@ -206,6 +221,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025086376/0001213900-25-086376-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025086612/0001213900-25-086612-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086135/0001213900-25-086135-index.htm)
