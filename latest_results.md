@@ -3,6 +3,9 @@
 - **S-3/A** | Bitwise 10 Crypto Index Fund  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025086574/0001213900-25-086574-index.htm)
 
+- **8-K** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006838/0001683168-25-006838-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225012846/0001493152-25-012846-index.htm)
 
