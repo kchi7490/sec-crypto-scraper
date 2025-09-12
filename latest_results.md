@@ -39,6 +39,12 @@
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025086891/0001213900-25-086891-index.htm)
 
+- **424B3** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000095017025114373/0000950170-25-114373-index.htm)
+
+- **424B3** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000095017025114372/0000950170-25-114372-index.htm)
+
 - **424B4** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412425000013/0002064124-25-000013-index.htm)
 
@@ -77,6 +83,9 @@
 
 - **424B3** | NLS Pharmaceutics Ltd.  (NLSP, NLSPW)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390025086600/0001213900-25-086600-index.htm)
+
+- **8-K** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390025087054/0001213900-25-087054-index.htm)
 
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825006824/0001683168-25-006824-index.htm)
@@ -147,11 +156,14 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925089291/0001104659-25-089291-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010573/0001654954-25-010573-index.htm)
+
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025086681/0001213900-25-086681-index.htm)
 
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010573/0001654954-25-010573-index.htm)
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025087061/0001213900-25-087061-index.htm)
 
 - **F-3/A** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025086875/0001213900-25-086875-index.htm)
@@ -164,6 +176,9 @@
 
 - **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000141057825002097/0001410578-25-002097-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000187643125000013/0001876431-25-000013-index.htm)
 
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025086393/0001213900-25-086393-index.htm)
