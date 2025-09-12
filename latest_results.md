@@ -9,6 +9,9 @@
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000109/0001627282-25-000109-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225013275/0001493152-25-013275-index.htm)
+
 - **424B3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390025086398/0001213900-25-086398-index.htm)
 
@@ -63,6 +66,9 @@
 - **S-1** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025086601/0001213900-25-086601-index.htm)
 
+- **S-1/A** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225013281/0001493152-25-013281-index.htm)
+
 - **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025086537/0001213900-25-086537-index.htm)
 
@@ -111,6 +117,9 @@
 - **SCHEDULE 13D** | American Bitcoin Corp.  (ABTC, GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000095017025114068/0000950170-25-114068-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087278/0001213900-25-087278-index.htm)
+
 - **SCHEDULE 13D** | American Bitcoin Corp.  (ABTC, GRYP)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000095017025114071/0000950170-25-114071-index.htm)
 
@@ -131,6 +140,9 @@
 
 - **8-K** | MEI Pharma, Inc.  (MEIP)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000126210425000009/0001262104-25-000009-index.htm)
+
+- **424B4** | OTG Acquisition Corp. I  (OTGA)  (CIK 0002077010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315225013283/0001493152-25-013283-index.htm)
 
 - **DEFA14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025086898/0001213900-25-086898-index.htm)
