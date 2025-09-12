@@ -75,6 +75,9 @@
 - **S-4/A** | Roth CH Holdings, Inc.  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625007294/0001829126-25-007294-index.htm)
 
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225013210/0001493152-25-013210-index.htm)
+
 - **424B4** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025086656/0001213900-25-086656-index.htm)
 
@@ -207,6 +210,9 @@
 - **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000164117225027133/0001641172-25-027133-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE, CYFRD)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015599/0001062993-25-015599-index.htm)
+
 - **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525201412/0001193125-25-201412-index.htm)
 
@@ -242,6 +248,9 @@
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002612/0001592900-25-002612-index.htm)
+
+- **N-PX/A** | JPMorgan Trust I  (CIK 0001217286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002844/0001438934-25-002844-index.htm)
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025086376/0001213900-25-086376-index.htm)
