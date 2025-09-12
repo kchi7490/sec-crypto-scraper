@@ -6,6 +6,9 @@
 - **8-K** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006838/0001683168-25-006838-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000109/0001627282-25-000109-index.htm)
+
 - **424B3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390025086398/0001213900-25-086398-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000110465925088692/0001104659-25-088692-index.htm)
+
+- **POS AM** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525202196/0001193125-25-202196-index.htm)
 
 - **S-3ASR** | Eightco Holdings Inc.  (OCTO)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225013022/0001493152-25-013022-index.htm)
@@ -60,6 +66,9 @@
 - **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025086537/0001213900-25-086537-index.htm)
 
+- **PRE 14A** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225013198/0001493152-25-013198-index.htm)
+
 - **S-3/A** | Grayscale Digital Large Cap Fund LLC  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000095017025114216/0000950170-25-114216-index.htm)
 
@@ -68,6 +77,9 @@
 
 - **424B4** | Trailblazer Acquisition Corp.  (BLZR)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390025086656/0001213900-25-086656-index.htm)
+
+- **PRE 14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001182/0001185185-25-001182-index.htm)
 
 - **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525001166/0001185185-25-001166-index.htm)
@@ -131,6 +143,9 @@
 
 - **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006851/0001683168-25-006851-index.htm)
+
+- **N-14 8C** | Apollo Debt Solutions BDC  (CIK 0001837532)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312525202223/0001193125-25-202223-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925088887/0001104659-25-088887-index.htm)
@@ -219,6 +234,9 @@
 - **N-CEN** | GraniteShares ETF Trust  (CIK 0001689873)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1689873/000175272425214843/0001752724-25-214843-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002657/0001592900-25-002657-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002648/0001592900-25-002648-index.htm)
 
@@ -233,6 +251,9 @@
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025086612/0001213900-25-086612-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087225/0001213900-25-087225-index.htm)
 
 - **425** | Dynamix Corp  (DYNX, ETHM, DYNXU, DYNXW, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025086837/0001213900-25-086837-index.htm)
