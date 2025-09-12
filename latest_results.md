@@ -210,6 +210,9 @@
 - **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025086959/0001213900-25-086959-index.htm)
 
+- **N-CEN** | GraniteShares ETF Trust  (CIK 0001689873)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1689873/000175272425214843/0001752724-25-214843-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002648/0001592900-25-002648-index.htm)
 
