@@ -156,11 +156,11 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925089291/0001104659-25-089291-index.htm)
 
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010573/0001654954-25-010573-index.htm)
-
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025086681/0001213900-25-086681-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010573/0001654954-25-010573-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025087061/0001213900-25-087061-index.htm)
@@ -201,6 +201,9 @@
 - **487** | FT 12430  (CIK 0002070332)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070332/000144554625006094/0001445546-25-006094-index.htm)
 
+- **487** | FT 12431  (CIK 0002070331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070331/000144554625006125/0001445546-25-006125-index.htm)
+
 - **424B3** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525200177/0001193125-25-200177-index.htm)
 
@@ -209,6 +212,9 @@
 
 - **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025086959/0001213900-25-086959-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000114554925058240/0001145549-25-058240-index.htm)
 
 - **N-CEN** | GraniteShares ETF Trust  (CIK 0001689873)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1689873/000175272425214843/0001752724-25-214843-index.htm)
