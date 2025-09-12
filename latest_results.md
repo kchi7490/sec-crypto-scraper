@@ -211,6 +211,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025086959/0001213900-25-086959-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002648/0001592900-25-002648-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002612/0001592900-25-002612-index.htm)
 
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
