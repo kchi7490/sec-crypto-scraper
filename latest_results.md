@@ -51,6 +51,9 @@
 - **DEF 14A** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925029014/0001437749-25-029014-index.htm)
 
+- **10-K** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225006767/0001477932-25-006767-index.htm)
+
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
 
@@ -84,6 +87,9 @@
 - **424B4** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925089710/0001104659-25-089710-index.htm)
 
+- **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690625001517/0001096906-25-001517-index.htm)
+
 - **S-8** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087446/0001213900-25-087446-index.htm)
 
@@ -92,6 +98,9 @@
 
 - **POS AM** | Fuxing China Group Ltd  (FFFZ)  (CIK 0001954705)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1954705/000192998025000638/0001929980-25-000638-index.htm)
+
+- **485BPOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064225006067/0001580642-25-006067-index.htm)
 
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025087433/0001213900-25-087433-index.htm)
