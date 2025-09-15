@@ -24,6 +24,9 @@
 - **S-3** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225013411/0001493152-25-013411-index.htm)
 
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006741/0001477932-25-006741-index.htm)
+
 - **S-4** | Twenty One Capital, Inc.  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025087358/0001213900-25-087358-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **S-8** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087446/0001213900-25-087446-index.htm)
+
+- **485APOS** | LEGG MASON PARTNERS INSTITUTIONAL TRUST  (CIK 0000889512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/889512/000119312525203245/0001193125-25-203245-index.htm)
 
 - **POS AM** | Fuxing China Group Ltd  (FFFZ)  (CIK 0001954705)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1954705/000192998025000638/0001929980-25-000638-index.htm)
