@@ -30,6 +30,9 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006750/0001477932-25-006750-index.htm)
 
+- **S-1** | Bitwise Avalanche ETF  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390025087599/0001213900-25-087599-index.htm)
+
 - **S-4** | Twenty One Capital, Inc.  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025087358/0001213900-25-087358-index.htm)
 
