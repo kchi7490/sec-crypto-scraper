@@ -27,6 +27,9 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006741/0001477932-25-006741-index.htm)
 
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006750/0001477932-25-006750-index.htm)
+
 - **S-4** | Twenty One Capital, Inc.  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025087358/0001213900-25-087358-index.htm)
 
