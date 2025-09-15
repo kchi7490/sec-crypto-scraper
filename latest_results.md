@@ -57,6 +57,9 @@
 - **S-8** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087446/0001213900-25-087446-index.htm)
 
+- **POS AM** | Fuxing China Group Ltd  (FFFZ)  (CIK 0001954705)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1954705/000192998025000638/0001929980-25-000638-index.htm)
+
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025087433/0001213900-25-087433-index.htm)
 
