@@ -30,6 +30,9 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006741/0001477932-25-006741-index.htm)
 
+- **S-1/A** | Canary Litecoin ETF  (CIK 0002039461)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125013279/0001999371-25-013279-index.htm)
+
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006750/0001477932-25-006750-index.htm)
 
@@ -48,6 +51,9 @@
 - **DEF 14A** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925029014/0001437749-25-029014-index.htm)
 
+- **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087413/0001213900-25-087413-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **PRE 14A** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525203589/0001193125-25-203589-index.htm)
+
+- **S-1/A** | American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525203772/0001193125-25-203772-index.htm)
 
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013380/0001493152-25-013380-index.htm)
