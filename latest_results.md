@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225013376/0001493152-25-013376-index.htm)
 
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225013634/0001493152-25-013634-index.htm)
+
 - **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025087425/0001213900-25-087425-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **S-4** | Twenty One Capital, Inc.  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025087358/0001213900-25-087358-index.htm)
+
+- **8-K** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025087919/0001213900-25-087919-index.htm)
 
 - **S-3ASR** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025087372/0001213900-25-087372-index.htm)
@@ -92,6 +98,9 @@
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000102/0001383395-25-000102-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025087929/0001213900-25-087929-index.htm)
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000039/0001690639-25-000039-index.htm)
