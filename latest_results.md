@@ -168,3 +168,6 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
 
+- **1-A/A** | STARTENGINE CROWDFUNDING, INC.  (CIK 0001661779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1661779/000110465925090379/0001104659-25-090379-index.htm)
+
