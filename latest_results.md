@@ -21,6 +21,9 @@
 - **8-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025087946/0001213900-25-087946-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013641/0001493152-25-013641-index.htm)
+
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089778/0001104659-25-089778-index.htm)
 
@@ -104,6 +107,9 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025087929/0001213900-25-087929-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000993/0001279569-25-000993-index.htm)
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000039/0001690639-25-000039-index.htm)
