@@ -117,6 +117,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013380/0001493152-25-013380-index.htm)
 
+- **10-K** | NITCHES INC  (CIK 0000772263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/772263/000077226325000003/0000772263-25-000003-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006963/0001683168-25-006963-index.htm)
 
