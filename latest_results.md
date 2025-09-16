@@ -96,6 +96,9 @@
 - **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690625001517/0001096906-25-001517-index.htm)
 
+- **SCHEDULE 13D** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087881/0001213900-25-087881-index.htm)
+
 - **S-8** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087446/0001213900-25-087446-index.htm)
 
