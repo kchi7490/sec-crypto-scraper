@@ -24,6 +24,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013641/0001493152-25-013641-index.htm)
 
+- **S-1/A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025088239/0001213900-25-088239-index.htm)
+
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089778/0001104659-25-089778-index.htm)
 
@@ -86,6 +89,9 @@
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
+
+- **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225006808/0001477932-25-006808-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225013614/0001493152-25-013614-index.htm)
@@ -178,10 +184,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025087762/0001213900-25-087762-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088235/0001213900-25-088235-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087673/0001213900-25-087673-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088248/0001213900-25-088248-index.htm)
 
 - **1-A/A** | STARTENGINE CROWDFUNDING, INC.  (CIK 0001661779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1661779/000110465925090379/0001104659-25-090379-index.htm)
