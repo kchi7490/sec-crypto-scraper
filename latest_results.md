@@ -39,6 +39,12 @@
 - **S-1** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025088171/0001213900-25-088171-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088258/0001213900-25-088258-index.htm)
+
+- **8-K** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088254/0001213900-25-088254-index.htm)
+
 - **8-K** | Angel Studios, Inc.  (ANGX, PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925090427/0001104659-25-090427-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
+
+- **424B3** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525205149/0001193125-25-205149-index.htm)
 
 - **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225006808/0001477932-25-006808-index.htm)
@@ -141,6 +150,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025087929/0001213900-25-087929-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE, CYFRD, CYFRF)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015659/0001062993-25-015659-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925000993/0001279569-25-000993-index.htm)
 
@@ -186,14 +198,20 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088235/0001213900-25-088235-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088248/0001213900-25-088248-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088250/0001213900-25-088250-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088255/0001213900-25-088255-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087673/0001213900-25-087673-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
-
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088248/0001213900-25-088248-index.htm)
 
 - **1-A/A** | STARTENGINE CROWDFUNDING, INC.  (CIK 0001661779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1661779/000110465925090379/0001104659-25-090379-index.htm)
