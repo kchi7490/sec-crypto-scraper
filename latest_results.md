@@ -48,6 +48,9 @@
 - **424B5** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089776/0001104659-25-089776-index.htm)
 
+- **S-1** | Angel Studios, Inc.  (ANGX, PORT, PORTU, PORTW)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925090129/0001104659-25-090129-index.htm)
+
 - **DEF 14A** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925029014/0001437749-25-029014-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
+
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025087749/0001213900-25-087749-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087413/0001213900-25-087413-index.htm)
@@ -96,14 +102,23 @@
 - **485APOS** | LEGG MASON PARTNERS INSTITUTIONAL TRUST  (CIK 0000889512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/889512/000119312525203245/0001193125-25-203245-index.htm)
 
+- **1-A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225006771/0001477932-25-006771-index.htm)
+
 - **POS AM** | Fuxing China Group Ltd  (FFFZ)  (CIK 0001954705)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1954705/000192998025000638/0001929980-25-000638-index.htm)
 
 - **485BPOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064225006067/0001580642-25-006067-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025087840/0001213900-25-087840-index.htm)
+
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025087433/0001213900-25-087433-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025087762/0001213900-25-087762-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087673/0001213900-25-087673-index.htm)
