@@ -60,6 +60,9 @@
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225013614/0001493152-25-013614-index.htm)
+
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025087749/0001213900-25-087749-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000102/0001383395-25-000102-index.htm)
+
+- **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000039/0001690639-25-000039-index.htm)
 
 - **424B4** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465925089710/0001104659-25-089710-index.htm)
