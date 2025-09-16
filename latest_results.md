@@ -108,6 +108,9 @@
 - **S-3ASR** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087403/0001213900-25-087403-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925090456/0001104659-25-090456-index.htm)
+
 - **PRE 14A** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525203589/0001193125-25-203589-index.htm)
 
