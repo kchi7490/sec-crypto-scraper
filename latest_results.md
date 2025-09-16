@@ -33,6 +33,12 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825006960/0001683168-25-006960-index.htm)
 
+- **S-1** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025088171/0001213900-25-088171-index.htm)
+
+- **8-K** | Angel Studios, Inc.  (ANGX, PORT, PORTU, PORTW)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925090427/0001104659-25-090427-index.htm)
+
 - **S-3** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225013411/0001493152-25-013411-index.htm)
 
@@ -68,6 +74,9 @@
 
 - **DEF 14A** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925029014/0001437749-25-029014-index.htm)
+
+- **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025088180/0001213900-25-088180-index.htm)
 
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025087717/0001213900-25-087717-index.htm)
