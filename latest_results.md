@@ -57,6 +57,9 @@
 - **S-3ASR** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025087372/0001213900-25-087372-index.htm)
 
+- **DEF 14C** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013553/0001493152-25-013553-index.htm)
+
 - **424B5** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089776/0001104659-25-089776-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225013614/0001493152-25-013614-index.htm)
+
+- **DEFM14A** | GSR III Acquisition Corp.  (GSRT, GSRTR, GSRTU)  (CIK 0002029023)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029023/000121390025087991/0001213900-25-087991-index.htm)
 
 - **424B3** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025087981/0001213900-25-087981-index.htm)
