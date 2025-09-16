@@ -138,6 +138,9 @@
 - **S-8** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087446/0001213900-25-087446-index.htm)
 
+- **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025088036/0001213900-25-088036-index.htm)
+
 - **485APOS** | LEGG MASON PARTNERS INSTITUTIONAL TRUST  (CIK 0000889512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/889512/000119312525203245/0001193125-25-203245-index.htm)
 
