@@ -135,6 +135,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225013614/0001493152-25-013614-index.htm)
 
+- **S-4/A** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000114036125035263/0001140361-25-035263-index.htm)
+
 - **DEFM14A** | GSR III Acquisition Corp.  (GSRT, GSRTR, GSRTU)  (CIK 0002029023)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029023/000121390025087991/0001213900-25-087991-index.htm)
 
@@ -155,6 +158,9 @@
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925090456/0001104659-25-090456-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000117184325005942/0001171843-25-005942-index.htm)
 
 - **PRE 14A** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525203589/0001193125-25-203589-index.htm)
@@ -182,6 +188,9 @@
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001680/0001640334-25-001680-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925090870/0001104659-25-090870-index.htm)
 
 - **6-K** | Super Group (SGHC) Ltd  (SGHC)  (CIK 0001878057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878057/000187805725000020/0001878057-25-000020-index.htm)
