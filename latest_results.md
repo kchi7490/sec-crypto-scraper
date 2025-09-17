@@ -24,6 +24,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013641/0001493152-25-013641-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225013913/0001493152-25-013913-index.htm)
+
 - **S-1/A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025088239/0001213900-25-088239-index.htm)
 
@@ -267,11 +270,11 @@
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088250/0001213900-25-088250-index.htm)
 
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088255/0001213900-25-088255-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087673/0001213900-25-087673-index.htm)
@@ -281,6 +284,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
+
+- **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925090878/0001104659-25-090878-index.htm)
 
 - **1-A/A** | STARTENGINE CROWDFUNDING, INC.  (CIK 0001661779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1661779/000110465925090379/0001104659-25-090379-index.htm)
