@@ -117,6 +117,9 @@
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
 
+- **DEF 14A** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/0001104659-25-090866-index.htm)
+
 - **DEFM14A** | GLOBALINK INVESTMENT INC.  (GLLI, GLLIR, GLLIU, GLLIW)  (CIK 0001888734)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888734/000149315225013865/0001493152-25-013865-index.htm)
 
