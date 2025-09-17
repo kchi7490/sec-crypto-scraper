@@ -30,6 +30,9 @@
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089778/0001104659-25-089778-index.htm)
 
+- **S-3ASR** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007043/0001683168-25-007043-index.htm)
+
 - **S-3** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025087680/0001213900-25-087680-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **424B5** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925089776/0001104659-25-089776-index.htm)
+
+- **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025088333/0001213900-25-088333-index.htm)
 
 - **S-1** | Angel Studios, Inc.  (ANGX, PORT, PORTU, PORTW)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925090129/0001104659-25-090129-index.htm)
@@ -138,6 +144,9 @@
 - **10-K** | NITCHES INC  (CIK 0000772263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/772263/000077226325000003/0000772263-25-000003-index.htm)
 
+- **424B4** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025088319/0001213900-25-088319-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825006963/0001683168-25-006963-index.htm)
 
@@ -186,6 +195,15 @@
 - **485BPOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064225006067/0001580642-25-006067-index.htm)
 
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088304/0001213900-25-088304-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088308/0001213900-25-088308-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088302/0001213900-25-088302-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025087840/0001213900-25-087840-index.htm)
 
@@ -203,6 +221,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088250/0001213900-25-088250-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088255/0001213900-25-088255-index.htm)
