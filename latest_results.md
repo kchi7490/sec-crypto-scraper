@@ -105,6 +105,9 @@
 - **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025088180/0001213900-25-088180-index.htm)
 
+- **424B3** | Bio Green Med Solution, Inc.  (BGMS, CYCC, BGMSP, CYCCP)  (CIK 0001130166)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1130166/000149315225013882/0001493152-25-013882-index.htm)
+
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025087717/0001213900-25-087717-index.htm)
 
@@ -156,6 +159,9 @@
 - **S-1/A** | American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525203772/0001193125-25-203772-index.htm)
 
+- **10-Q** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025088547/0001213900-25-088547-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013380/0001493152-25-013380-index.htm)
 
@@ -173,6 +179,9 @@
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001680/0001640334-25-001680-index.htm)
+
+- **6-K** | Super Group (SGHC) Ltd  (SGHC)  (CIK 0001878057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878057/000187805725000020/0001878057-25-000020-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000102/0001383395-25-000102-index.htm)
@@ -246,14 +255,17 @@
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088250/0001213900-25-088250-index.htm)
 
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088255/0001213900-25-088255-index.htm)
-
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088255/0001213900-25-088255-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087673/0001213900-25-087673-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088567/0001213900-25-088567-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
