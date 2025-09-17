@@ -93,6 +93,9 @@
 - **DEF 14A** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925029014/0001437749-25-029014-index.htm)
 
+- **S-1/A** | FutureCrest Acquisition Corp.  (FCRS)  (CIK 0002074697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074697/000121390025088487/0001213900-25-088487-index.htm)
+
 - **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025088180/0001213900-25-088180-index.htm)
 
@@ -104,6 +107,12 @@
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225013515/0001493152-25-013515-index.htm)
+
+- **DEFM14A** | GLOBALINK INVESTMENT INC.  (GLLI, GLLIR, GLLIU, GLLIW)  (CIK 0001888734)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888734/000149315225013865/0001493152-25-013865-index.htm)
+
+- **424B3** | Alps Global Holding Pubco  (CIK 0002025774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025774/000149315225013864/0001493152-25-013864-index.htm)
 
 - **424B3** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525205149/0001193125-25-205149-index.htm)
