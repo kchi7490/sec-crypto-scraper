@@ -45,6 +45,9 @@
 - **8-K** | MongoDB, Inc.  (MDB)  (CIK 0001441816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1441816/000144181625000197/0001441816-25-000197-index.htm)
 
+- **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000005/0001813744-25-000005-index.htm)
+
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025088333/0001213900-25-088333-index.htm)
 
@@ -113,6 +116,9 @@
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006832/0001477932-25-006832-index.htm)
+
+- **424B2** | FS KKR Capital Corp  (FSK)  (CIK 0001422183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1422183/000110465925091082/0001104659-25-091082-index.htm)
 
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025088757/0001213900-25-088757-index.htm)
