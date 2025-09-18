@@ -66,6 +66,9 @@
 - **424B3** | Bio Green Med Solution, Inc.  (BGMS, CYCC, BGMSP, CYCCP)  (CIK 0001130166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1130166/000149315225013882/0001493152-25-013882-index.htm)
 
+- **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025088927/0001213900-25-088927-index.htm)
+
 - **DEF 14A** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/0001104659-25-090866-index.htm)
 
@@ -203,6 +206,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
+
+- **S-3/A** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525207266/0001193125-25-207266-index.htm)
 
 - **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925090878/0001104659-25-090878-index.htm)
