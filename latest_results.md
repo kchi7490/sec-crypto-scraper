@@ -39,6 +39,9 @@
 - **S-1** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925029275/0001437749-25-029275-index.htm)
 
+- **S-3/A** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525207266/0001193125-25-207266-index.htm)
+
 - **8-K** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025087919/0001213900-25-087919-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000005/0001813744-25-000005-index.htm)
+
+- **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000008/0001813744-25-000008-index.htm)
 
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025088333/0001213900-25-088333-index.htm)
@@ -206,9 +212,6 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025087954/0001213900-25-087954-index.htm)
-
-- **S-3/A** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525207266/0001193125-25-207266-index.htm)
 
 - **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925090878/0001104659-25-090878-index.htm)
