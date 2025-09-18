@@ -153,6 +153,9 @@
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000039/0001690639-25-000039-index.htm)
 
+- **487** | FT 12434  (CIK 0002070328)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070328/000144554625006190/0001445546-25-006190-index.htm)
+
 - **SCHEDULE 13D** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087881/0001213900-25-087881-index.htm)
 
