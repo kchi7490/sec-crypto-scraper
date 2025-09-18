@@ -6,6 +6,9 @@
 - **8-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025087946/0001213900-25-087946-index.htm)
 
+- **8-K/A** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013995/0001493152-25-013995-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013641/0001493152-25-013641-index.htm)
 
@@ -122,6 +125,9 @@
 
 - **6-K** | Super Group (SGHC) Ltd  (SGHC)  (CIK 0001878057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878057/000187805725000020/0001878057-25-000020-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001018/0001279569-25-001018-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025087929/0001213900-25-087929-index.htm)
