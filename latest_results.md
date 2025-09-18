@@ -12,6 +12,9 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225013913/0001493152-25-013913-index.htm)
 
+- **8-K** | Grayscale Digital Large Cap Fund LLC  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525206857/0001193125-25-206857-index.htm)
+
 - **S-1/A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025088239/0001213900-25-088239-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **424B3** | Terra Innovatum Global S.R.L.  (NKLR)  (CIK 0002067627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067627/000121390025087981/0001213900-25-087981-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525206860/0001193125-25-206860-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025087749/0001213900-25-087749-index.htm)
