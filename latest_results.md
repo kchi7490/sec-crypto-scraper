@@ -54,6 +54,9 @@
 - **S-3/A** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525207266/0001193125-25-207266-index.htm)
 
+- **S-1** | Silicon Valley Acquisition Corp.  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025089082/0001213900-25-089082-index.htm)
+
 - **8-K** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390025087919/0001213900-25-087919-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000008/0001813744-25-000008-index.htm)
+
+- **S-4** | ProCap Financial, Inc.  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025089078/0001213900-25-089078-index.htm)
 
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025088333/0001213900-25-088333-index.htm)
@@ -159,6 +165,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925090870/0001104659-25-090870-index.htm)
 
+- **6-K** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390025089075/0001213900-25-089075-index.htm)
+
 - **6-K** | AIRNET TECHNOLOGY INC.  (ANTE)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025088752/0001213900-25-088752-index.htm)
 
@@ -199,10 +208,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025088036/0001213900-25-088036-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
 
 - **1-A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225006771/0001477932-25-006771-index.htm)
