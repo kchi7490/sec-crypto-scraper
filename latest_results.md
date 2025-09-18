@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **S-3/A** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525207393/0001193125-25-207393-index.htm)
+
+- **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225014057/0001493152-25-014057-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225013634/0001493152-25-013634-index.htm)
 
@@ -39,6 +45,9 @@
 - **S-1** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925029275/0001437749-25-029275-index.htm)
 
+- **SCHEDULE 13D** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000208670125000004/0002086701-25-000004-index.htm)
+
 - **S-3/A** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525207266/0001193125-25-207266-index.htm)
 
@@ -74,6 +83,9 @@
 
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025088927/0001213900-25-088927-index.htm)
+
+- **S-4** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465925091249/0001104659-25-091249-index.htm)
 
 - **DEF 14A** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/0001104659-25-090866-index.htm)
@@ -114,6 +126,9 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000117184325005942/0001171843-25-005942-index.htm)
 
+- **S-8** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007107/0001683168-25-007107-index.htm)
+
 - **10-Q** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025088547/0001213900-25-088547-index.htm)
 
@@ -122,6 +137,9 @@
 
 - **424B4** | Chenghe Acquisition III Co.  (CHEC)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390025088319/0001213900-25-088319-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025088983/0001213900-25-088983-index.htm)
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225006832/0001477932-25-006832-index.htm)
@@ -161,6 +179,9 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063925000039/0001690639-25-000039-index.htm)
+
+- **6-K** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465925091233/0001104659-25-091233-index.htm)
 
 - **487** | FT 12434  (CIK 0002070328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070328/000144554625006190/0001445546-25-006190-index.htm)
@@ -212,6 +233,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088994/0001213900-25-088994-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088567/0001213900-25-088567-index.htm)
