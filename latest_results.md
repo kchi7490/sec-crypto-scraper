@@ -189,6 +189,9 @@
 - **487** | FT 12434  (CIK 0002070328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070328/000144554625006190/0001445546-25-006190-index.htm)
 
+- **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825009822/0001133228-25-009822-index.htm)
+
 - **SCHEDULE 13D** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025087881/0001213900-25-087881-index.htm)
 
@@ -196,10 +199,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025088036/0001213900-25-088036-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
 
 - **1-A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225006771/0001477932-25-006771-index.htm)
