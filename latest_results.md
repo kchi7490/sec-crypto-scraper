@@ -9,6 +9,9 @@
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925091281/0001104659-25-091281-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225014150/0001493152-25-014150-index.htm)
+
 - **8-K/A** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225013995/0001493152-25-013995-index.htm)
 
@@ -21,6 +24,9 @@
 - **S-3ASR** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007043/0001683168-25-007043-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007128/0001683168-25-007128-index.htm)
+
 - **S-1** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925029275/0001437749-25-029275-index.htm)
 
@@ -32,6 +38,9 @@
 
 - **S-1** | Silicon Valley Acquisition Corp.  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025089082/0001213900-25-089082-index.htm)
+
+- **424B3** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525208205/0001193125-25-208205-index.htm)
 
 - **8-K** | MongoDB, Inc.  (MDB)  (CIK 0001441816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1441816/000144181625000197/0001441816-25-000197-index.htm)
@@ -50,6 +59,9 @@
 
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025088333/0001213900-25-088333-index.htm)
+
+- **S-3ASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007127/0001683168-25-007127-index.htm)
 
 - **424B5** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000110465925090626/0001104659-25-090626-index.htm)
