@@ -264,3 +264,6 @@
 - **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925090878/0001104659-25-090878-index.htm)
 
+- **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315225014341/0001493152-25-014341-index.htm)
+
