@@ -36,6 +36,9 @@
 - **8-K** | MongoDB, Inc.  (MDB)  (CIK 0001441816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1441816/000144181625000197/0001441816-25-000197-index.htm)
 
+- **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390025089153/0001213900-25-089153-index.htm)
+
 - **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000005/0001813744-25-000005-index.htm)
 
@@ -51,6 +54,9 @@
 - **424B5** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000110465925090626/0001104659-25-090626-index.htm)
 
+- **F-1/A** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525208098/0001193125-25-208098-index.htm)
+
 - **S-1/A** | FutureCrest Acquisition Corp.  (FCRS)  (CIK 0002074697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074697/000121390025088487/0001213900-25-088487-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025088927/0001213900-25-088927-index.htm)
+
+- **S-4/A** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925091368/0001104659-25-091368-index.htm)
 
 - **S-4** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465925091249/0001104659-25-091249-index.htm)
@@ -117,11 +126,20 @@
 - **6-K** | Super Group (SGHC) Ltd  (SGHC)  (CIK 0001878057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878057/000187805725000020/0001878057-25-000020-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325015716/0001062993-25-015716-index.htm)
+
+- **6-K/A** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390025089187/0001213900-25-089187-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001018/0001279569-25-001018-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025088368/0001213900-25-088368-index.htm)
+
+- **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925091396/0001104659-25-091396-index.htm)
 
 - **6-K** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465925091233/0001104659-25-091233-index.htm)
@@ -131,6 +149,9 @@
 
 - **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825009822/0001133228-25-009822-index.htm)
+
+- **N-2/A** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125013586/0001999371-25-013586-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
@@ -146,6 +167,9 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088302/0001213900-25-088302-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025089149/0001213900-25-089149-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088658/0001213900-25-088658-index.htm)
