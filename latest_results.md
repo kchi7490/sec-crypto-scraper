@@ -99,6 +99,9 @@
 - **S-4/A** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000114036125035263/0001140361-25-035263-index.htm)
 
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000597/0001137360-25-000597-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525206860/0001193125-25-206860-index.htm)
 
@@ -178,10 +181,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125013586/0001999371-25-013586-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088304/0001213900-25-088304-index.htm)
