@@ -3,6 +3,9 @@
 - **S-3/A** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525207393/0001193125-25-207393-index.htm)
 
+- **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315225014264/0001493152-25-014264-index.htm)
+
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525209085/0001193125-25-209085-index.htm)
 
@@ -183,6 +186,9 @@
 - **6-K/A** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390025089187/0001213900-25-089187-index.htm)
 
+- **6-K** | Huachen AI Parking Management Technology Holding Co., Ltd  (HCAI)  (CIK 0001958399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1958399/000121390025089570/0001213900-25-089570-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001018/0001279569-25-001018-index.htm)
 
@@ -233,6 +239,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025088323/0001213900-25-088323-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025089568/0001213900-25-089568-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025088994/0001213900-25-088994-index.htm)
