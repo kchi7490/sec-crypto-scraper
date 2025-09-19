@@ -108,6 +108,9 @@
 - **S-8** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007107/0001683168-25-007107-index.htm)
 
+- **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025089387/0001213900-25-089387-index.htm)
+
 - **10-Q** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025088547/0001213900-25-088547-index.htm)
 
