@@ -141,6 +141,9 @@
 - **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025089387/0001213900-25-089387-index.htm)
 
+- **10-K** | B. Riley Financial, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000146479025000011/0001464790-25-000011-index.htm)
+
 - **10-Q** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390025088547/0001213900-25-088547-index.htm)
 
