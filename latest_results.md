@@ -27,6 +27,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007128/0001683168-25-007128-index.htm)
 
+- **8-K** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315225014165/0001493152-25-014165-index.htm)
+
 - **S-1** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925029275/0001437749-25-029275-index.htm)
 
