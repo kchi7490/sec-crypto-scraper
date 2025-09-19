@@ -108,6 +108,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525206860/0001193125-25-206860-index.htm)
 
+- **8-K/A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007143/0001683168-25-007143-index.htm)
+
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000117184325005942/0001171843-25-005942-index.htm)
 
@@ -180,14 +183,17 @@
 - **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825009822/0001133228-25-009822-index.htm)
 
+- **N-14** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825009844/0001133228-25-009844-index.htm)
+
 - **N-2/A** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125013586/0001999371-25-013586-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025088304/0001213900-25-088304-index.htm)
