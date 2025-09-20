@@ -169,10 +169,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125013586/0001999371-25-013586-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013556/0001999371-25-013556-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125013554/0001999371-25-013554-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002692/0001592900-25-002692-index.htm)
