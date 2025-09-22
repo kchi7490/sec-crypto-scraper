@@ -18,6 +18,9 @@
 - **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225014385/0001493152-25-014385-index.htm)
 
+- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125013724/0001999371-25-013724-index.htm)
+
 - **S-3ASR** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225014357/0001493152-25-014357-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE, CYFRF)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015734/0001062993-25-015734-index.htm)
+
+- **487** | FT 12435  (CIK 0002070327)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070327/000144554625006354/0001445546-25-006354-index.htm)
 
 - **253G2** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825007163/0001683168-25-007163-index.htm)
