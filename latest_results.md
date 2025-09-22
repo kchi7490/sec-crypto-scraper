@@ -6,6 +6,9 @@
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225014360/0001493152-25-014360-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225014392/0001493152-25-014392-index.htm)
+
 - **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225014385/0001493152-25-014385-index.htm)
 
@@ -21,6 +24,9 @@
 - **F-1/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625007553/0001829126-25-007553-index.htm)
 
+- **424B5** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225014391/0001493152-25-014391-index.htm)
+
 - **S-1/A** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025089693/0001213900-25-089693-index.htm)
 
@@ -30,8 +36,14 @@
 - **20-F** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315225014353/0001493152-25-014353-index.htm)
 
+- **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925091854/0001104659-25-091854-index.htm)
+
 - **S-3ASR** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925091789/0001104659-25-091789-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010965/0001654954-25-010965-index.htm)
 
 - **253G2** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825007163/0001683168-25-007163-index.htm)
