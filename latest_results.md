@@ -15,6 +15,9 @@
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225014360/0001493152-25-014360-index.htm)
 
+- **8-K** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000149315225014514/0001493152-25-014514-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225014392/0001493152-25-014392-index.htm)
 
@@ -63,6 +66,12 @@
 - **10-K/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033425001693/0001640334-25-001693-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092186/0001104659-25-092186-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011965/0000950103-25-011965-index.htm)
+
 - **20-F** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315225014353/0001493152-25-014353-index.htm)
 
@@ -84,6 +93,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525210048/0001193125-25-210048-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092188/0001104659-25-092188-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011966/0000950103-25-011966-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025042251/0001628280-25-042251-index.htm)
 
@@ -96,11 +111,17 @@
 - **S-3ASR** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925091789/0001104659-25-091789-index.htm)
 
+- **424B2** | FS KKR Capital Corp  (FSK)  (CIK 0001422183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1422183/000110465925092179/0001104659-25-092179-index.htm)
+
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001321/0001193805-25-001321-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425010965/0001654954-25-010965-index.htm)
+
+- **PRE 14A** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125035738/0001140361-25-035738-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE, CYFRF)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015732/0001062993-25-015732-index.htm)
