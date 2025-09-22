@@ -90,6 +90,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE, CYFRF)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015734/0001062993-25-015734-index.htm)
 
+- **DOS** | Finanxai, Inc.  (CIK 0002086788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086788/000208678825000001/0002086788-25-000001-index.htm)
+
 - **487** | FT 12435  (CIK 0002070327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070327/000144554625006354/0001445546-25-006354-index.htm)
 
@@ -114,6 +117,9 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025089677/0001213900-25-089677-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090117/0001213900-25-090117-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025089812/0001213900-25-089812-index.htm)
 
@@ -125,4 +131,7 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025089667/0001213900-25-089667-index.htm)
+
+- **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000119312525211357/0001193125-25-211357-index.htm)
 
