@@ -1,107 +1,47 @@
 ## 📁 Other Filings
 
-- **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315225014264/0001493152-25-014264-index.htm)
+- **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225014360/0001493152-25-014360-index.htm)
 
-- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525209085/0001193125-25-209085-index.htm)
+- **S-3ASR** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225014357/0001493152-25-014357-index.htm)
 
-- **8-K** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315225014298/0001493152-25-014298-index.htm)
+- **S-1/A** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225014355/0001493152-25-014355-index.htm)
 
-- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225014206/0001493152-25-014206-index.htm)
+- **424B3** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000110465925091795/0001104659-25-091795-index.htm)
 
-- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525209074/0001193125-25-209074-index.htm)
+- **F-1/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625007553/0001829126-25-007553-index.htm)
 
-- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225014150/0001493152-25-014150-index.htm)
+- **S-1/A** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025089693/0001213900-25-089693-index.htm)
 
-- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007128/0001683168-25-007128-index.htm)
+- **10-K/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033425001693/0001640334-25-001693-index.htm)
 
-- **8-K** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315225014165/0001493152-25-014165-index.htm)
+- **20-F** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315225014353/0001493152-25-014353-index.htm)
 
-- **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525209070/0001193125-25-209070-index.htm)
+- **S-3ASR** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925091789/0001104659-25-091789-index.htm)
 
-- **424B3** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025089539/0001213900-25-089539-index.htm)
+- **10-Q/A** | HNO International, Inc.  (HNOI)  (CIK 0001342916)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1342916/000198570525000035/0001985705-25-000035-index.htm)
 
-- **424B3** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525208205/0001193125-25-208205-index.htm)
+- **10-Q** | HNO International, Inc.  (HNOI)  (CIK 0001342916)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1342916/000198570525000036/0001985705-25-000036-index.htm)
 
-- **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390025089153/0001213900-25-089153-index.htm)
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025089674/0001213900-25-089674-index.htm)
 
-- **S-3ASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007127/0001683168-25-007127-index.htm)
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025089677/0001213900-25-089677-index.htm)
 
-- **F-1/A** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525208098/0001193125-25-208098-index.htm)
+- **PRE 14A** | Two Hands Corp  (TWOH)  (CIK 0001494413)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1494413/000149441325000006/0001494413-25-000006-index.htm)
 
-- **S-4/A** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925091368/0001104659-25-091368-index.htm)
-
-- **497** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000601/0001137360-25-000601-index.htm)
-
-- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000597/0001137360-25-000597-index.htm)
-
-- **S-1** | USBC, Inc.  (USBC)  (CIK 0001074828)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425010951/0001654954-25-010951-index.htm)
-
-- **8-K/A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007143/0001683168-25-007143-index.htm)
-
-- **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025089387/0001213900-25-089387-index.htm)
-
-- **10-K** | B. Riley Financial, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000146479025000011/0001464790-25-000011-index.htm)
-
-- **SCHEDULE 13D** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002596/0000921895-25-002596-index.htm)
-
-- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225014157/0001493152-25-014157-index.htm)
-
-- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325015716/0001062993-25-015716-index.htm)
-
-- **6-K/A** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390025089187/0001213900-25-089187-index.htm)
-
-- **6-K** | Huachen AI Parking Management Technology Holding Co., Ltd  (HCAI)  (CIK 0001958399)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1958399/000121390025089570/0001213900-25-089570-index.htm)
-
-- **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925091396/0001104659-25-091396-index.htm)
-
-- **F-3ASR** | Yueda Digital Holding  (ANTE)  (CIK 0001413745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390025089634/0001213900-25-089634-index.htm)
-
-- **S-1** | BITGO HOLDINGS, INC.  (CIK 0001740604)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025042203/0001628280-25-042203-index.htm)
-
-- **N-14** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322825009844/0001133228-25-009844-index.htm)
-
-- **N-2/A** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125013586/0001999371-25-013586-index.htm)
-
-- **485BPOS** | EA Series Trust  (CIK 0001592900)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002692/0001592900-25-002692-index.htm)
-
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025089149/0001213900-25-089149-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025089568/0001213900-25-089568-index.htm)
-
-- **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315225014341/0001493152-25-014341-index.htm)
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025089667/0001213900-25-089667-index.htm)
 
