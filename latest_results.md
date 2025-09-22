@@ -84,6 +84,9 @@
 - **253G2** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316825007163/0001683168-25-007163-index.htm)
 
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002701/0001592900-25-002701-index.htm)
+
 - **10-Q/A** | HNO International, Inc.  (HNOI)  (CIK 0001342916)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1342916/000198570525000035/0001985705-25-000035-index.htm)
 
