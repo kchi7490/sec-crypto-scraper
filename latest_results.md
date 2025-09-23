@@ -63,6 +63,9 @@
 - **10-Q** | World Scan Project, Inc.  (WDSP)  (CIK 0001813744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1813744/000181374425000013/0001813744-25-000013-index.htm)
 
+- **DEF 14A** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225014624/0001493152-25-014624-index.htm)
+
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225014563/0001493152-25-014563-index.htm)
 
@@ -154,16 +157,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011992/0000950103-25-011992-index.htm)
@@ -176,6 +173,12 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012001/0000950103-25-012001-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
@@ -314,6 +317,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025090604/0001213900-25-090604-index.htm)
+
+- **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525213457/0001193125-25-213457-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025089812/0001213900-25-089812-index.htm)
