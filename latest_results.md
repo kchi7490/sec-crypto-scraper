@@ -405,6 +405,9 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025089677/0001213900-25-089677-index.htm)
 
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525215044/0001193125-25-215044-index.htm)
+
 - **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036825009124/0001410368-25-009124-index.htm)
 
