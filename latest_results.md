@@ -181,6 +181,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011990/0000950103-25-011990-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012064/0000950103-25-012064-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011998/0000950103-25-011998-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -188,12 +194,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012074/0000950103-25-012074-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012064/0000950103-25-012064-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012051/0000950103-25-012051-index.htm)
@@ -359,6 +359,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090670/0001213900-25-090670-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000564/0000945908-25-000564-index.htm)
 
 - **487** | FT 12435  (CIK 0002070327)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070327/000144554625006354/0001445546-25-006354-index.htm)
