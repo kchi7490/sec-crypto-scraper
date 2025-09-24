@@ -157,10 +157,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315225014353/0001493152-25-014353-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925091936/0001104659-25-091936-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012040/0000950103-25-012040-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012040/0000950103-25-012040-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925091936/0001104659-25-091936-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325011928/0000950103-25-011928-index.htm)
@@ -190,10 +190,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012145/0000950103-25-012145-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012150/0000950103-25-012150-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012062/0000950103-25-012062-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012062/0000950103-25-012062-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012150/0000950103-25-012150-index.htm)
 
 - **8-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025090139/0001213900-25-090139-index.htm)
@@ -238,10 +238,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012051/0000950103-25-012051-index.htm)
@@ -253,25 +253,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011992/0000950103-25-011992-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012071/0000950103-25-012071-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011978/0000950103-25-011978-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012075/0000950103-25-012075-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012075/0000950103-25-012075-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011978/0000950103-25-011978-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011995/0000950103-25-011995-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012001/0000950103-25-012001-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
@@ -281,9 +281,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012141/0000950103-25-012141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011997/0000950103-25-011997-index.htm)
@@ -298,10 +295,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011988/0000950103-25-011988-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012141/0000950103-25-012141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012060/0000950103-25-012060-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011988/0000950103-25-011988-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011999/0000950103-25-011999-index.htm)
