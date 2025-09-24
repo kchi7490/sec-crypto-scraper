@@ -391,6 +391,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002705/0001592900-25-002705-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002730/0001592900-25-002730-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002711/0001592900-25-002711-index.htm)
 
 - **10-Q/A** | HNO International, Inc.  (HNOI)  (CIK 0001342916)  
