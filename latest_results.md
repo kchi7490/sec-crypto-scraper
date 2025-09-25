@@ -133,10 +133,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012074/0000950103-25-012074-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012064/0000950103-25-012064-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012064/0000950103-25-012064-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
@@ -154,19 +154,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011992/0000950103-25-011992-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012071/0000950103-25-012071-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012075/0000950103-25-012075-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011978/0000950103-25-011978-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011978/0000950103-25-011978-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012075/0000950103-25-012075-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011995/0000950103-25-011995-index.htm)
@@ -175,13 +169,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012001/0000950103-25-012001-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011979/0000950103-25-011979-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011996/0000950103-25-011996-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012056/0000950103-25-012056-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011997/0000950103-25-011997-index.htm)
@@ -191,9 +194,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011977/0000950103-25-011977-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012141/0000950103-25-012141-index.htm)
@@ -263,4 +263,97 @@
 
 - **N-2** | Golub Capital Private Credit Fund  (CIK 0001930087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465925092673/0001104659-25-092673-index.htm)
+
+- **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925092335/0001104659-25-092335-index.htm)
+
+- **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001283/0001731122-25-001283-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025090335/0001213900-25-090335-index.htm)
+
+- **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225014731/0001493152-25-014731-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001045/0001279569-25-001045-index.htm)
+
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000119380525001336/0001193805-25-001336-index.htm)
+
+- **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025090878/0001213900-25-090878-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225014547/0001493152-25-014547-index.htm)
+
+- **6-K** | Smart Digital Group Ltd  (SDM)  (CIK 0002014955)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2014955/000121390025090606/0001213900-25-090606-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001038/0001279569-25-001038-index.htm)
+
+- **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525213328/0001193125-25-213328-index.htm)
+
+- **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001265/0001185185-25-001265-index.htm)
+
+- **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525213553/0001193125-25-213553-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE, CYFRF)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015779/0001062993-25-015779-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090670/0001213900-25-090670-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025091174/0001213900-25-091174-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000564/0000945908-25-000564-index.htm)
+
+- **NPORT-P** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000207169125001612/0002071691-25-001612-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002730/0001592900-25-002730-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002711/0001592900-25-002711-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025002733/0001592900-25-002733-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525215044/0001193125-25-215044-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425018481/0001398344-25-018481-index.htm)
+
+- **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036825009124/0001410368-25-009124-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090669/0001213900-25-090669-index.htm)
+
+- **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025090962/0001213900-25-090962-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090705/0001213900-25-090705-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025091173/0001213900-25-091173-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025090604/0001213900-25-090604-index.htm)
+
+- **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525213457/0001193125-25-213457-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025090285/0001213900-25-090285-index.htm)
 
