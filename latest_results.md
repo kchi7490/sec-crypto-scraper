@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091386/0001213900-25-091386-index.htm)
+
+- **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091382/0001213900-25-091382-index.htm)
+
 - **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091156/0001213900-25-091156-index.htm)
 
@@ -10,6 +16,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000116/0001627282-25-000116-index.htm)
 
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091390/0001213900-25-091390-index.htm)
+
+- **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091161/0001213900-25-091161-index.htm)
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -17,6 +26,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
+
+- **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225014866/0001493152-25-014866-index.htm)
 
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091151/0001213900-25-091151-index.htm)
@@ -29,6 +41,9 @@
 
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525213437/0001193125-25-213437-index.htm)
+
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225014864/0001493152-25-014864-index.htm)
 
 - **10-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006996/0001477932-25-006996-index.htm)
@@ -99,6 +114,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092270/0001104659-25-092270-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525216457/0001193125-25-216457-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012156/0000950103-25-012156-index.htm)
 
@@ -154,10 +172,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011994/0000950103-25-011994-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011993/0000950103-25-011993-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012051/0000950103-25-012051-index.htm)
@@ -190,13 +208,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012001/0000950103-25-012001-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012056/0000950103-25-012056-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012141/0000950103-25-012141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011997/0000950103-25-011997-index.htm)
@@ -211,13 +232,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012141/0000950103-25-012141-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011988/0000950103-25-011988-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012060/0000950103-25-012060-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011988/0000950103-25-011988-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012147/0000950103-25-012147-index.htm)
@@ -362,6 +380,9 @@
 
 - **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036825009124/0001410368-25-009124-index.htm)
+
+- **DEFA14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225014865/0001493152-25-014865-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025090669/0001213900-25-090669-index.htm)
