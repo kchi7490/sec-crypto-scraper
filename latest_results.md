@@ -33,6 +33,12 @@
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091151/0001213900-25-091151-index.htm)
 
+- **8-K/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025091640/0001213900-25-091640-index.htm)
+
+- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025091645/0001213900-25-091645-index.htm)
+
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390025090310/0001213900-25-090310-index.htm)
 
@@ -120,11 +126,11 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092270/0001104659-25-092270-index.htm)
 
-- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525216457/0001193125-25-216457-index.htm)
-
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012156/0000950103-25-012156-index.htm)
+
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525216457/0001193125-25-216457-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012142/0000950103-25-012142-index.htm)
@@ -163,19 +169,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011990/0000950103-25-011990-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011998/0000950103-25-011998-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011987/0000950103-25-011987-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012074/0000950103-25-012074-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012064/0000950103-25-012064-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012003/0000950103-25-012003-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012074/0000950103-25-012074-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011998/0000950103-25-011998-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011987/0000950103-25-011987-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012051/0000950103-25-012051-index.htm)
@@ -214,13 +220,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012001/0000950103-25-012001-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012056/0000950103-25-012056-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012077/0000950103-25-012077-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011983/0000950103-25-011983-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011997/0000950103-25-011997-index.htm)
@@ -233,9 +242,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011977/0000950103-25-011977-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011985/0000950103-25-011985-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325011988/0000950103-25-011988-index.htm)
@@ -273,6 +279,9 @@
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000119312525216393/0001193125-25-216393-index.htm)
 
+- **DEF 14A** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525217457/0001193125-25-217457-index.htm)
+
 - **PRE 14C** | Tribal Rides International Corp.  (CIK 0001624985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825007230/0001683168-25-007230-index.htm)
 
@@ -285,11 +294,8 @@
 - **S-1/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025090296/0001213900-25-090296-index.htm)
 
-- **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029822/0001437749-25-029822-index.htm)
-
-- **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029821/0001437749-25-029821-index.htm)
+- **S-1** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025091637/0001213900-25-091637-index.htm)
 
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525215463/0001193125-25-215463-index.htm)
@@ -377,6 +383,12 @@
 
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000564/0000945908-25-000564-index.htm)
+
+- **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029822/0001437749-25-029822-index.htm)
+
+- **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029821/0001437749-25-029821-index.htm)
 
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325000478/0001099263-25-000478-index.htm)
