@@ -24,11 +24,11 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092624/0001104659-25-092624-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
-
 - **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, DNQUF, DNQWF)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525220455/0001193125-25-220455-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225014866/0001493152-25-014866-index.htm)
@@ -54,8 +54,14 @@
 - **8-K** | I-ON Digital Corp.  (IONI)  (CIK 0001580490)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580490/000149315225015719/0001493152-25-015719-index.htm)
 
+- **S-1/A** | CoinShares Solana Staking ETF  (CIK 0002073298)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073298/000199937125014084/0001999371-25-014084-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007245/0001683168-25-007245-index.htm)
+
+- **8-K** | Q/C TECHNOLOGIES, INC.  (TNFA)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225015774/0001493152-25-015774-index.htm)
 
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225014864/0001493152-25-014864-index.htm)
@@ -96,6 +102,9 @@
 - **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925093828/0001104659-25-093828-index.htm)
 
+- **S-1/A** | Bitwise Solana ETF  (CIK 0002045872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025092427/0001213900-25-092427-index.htm)
+
 - **PRER14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225015671/0001493152-25-015671-index.htm)
 
@@ -110,6 +119,9 @@
 
 - **10-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312525220421/0001193125-25-220421-index.htm)
+
+- **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025092408/0001213900-25-092408-index.htm)
 
 - **F-1/A** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525213968/0001193125-25-213968-index.htm)
@@ -128,6 +140,9 @@
 
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525220479/0001193125-25-220479-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012314/0000950103-25-012314-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012223/0000950103-25-012223-index.htm)
@@ -178,6 +193,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225015742/0001493152-25-015742-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925093910/0001104659-25-093910-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925093030/0001104659-25-093030-index.htm)
 
 - **SCHEDULE 13D** | Semnur, Inc.  (CIK 0001584541)  
@@ -205,10 +223,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012213/0000950103-25-012213-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012143/0000950103-25-012143-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012311/0000950103-25-012311-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012222/0000950103-25-012222-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012143/0000950103-25-012143-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012216/0000950103-25-012216-index.htm)
@@ -217,16 +235,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012220/0000950103-25-012220-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012222/0000950103-25-012222-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012225/0000950103-25-012225-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012211/0000950103-25-012211-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012309/0000950103-25-012309-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012221/0000950103-25-012221-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012227/0000950103-25-012227-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012310/0000950103-25-012310-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012217/0000950103-25-012217-index.htm)
@@ -242,6 +269,12 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012232/0000950103-25-012232-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012316/0000950103-25-012316-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012317/0000950103-25-012317-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012147/0000950103-25-012147-index.htm)
@@ -327,6 +360,9 @@
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925093862/0001104659-25-093862-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025092443/0001213900-25-092443-index.htm)
+
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025090878/0001213900-25-090878-index.htm)
 
@@ -341,6 +377,9 @@
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225014876/0001493152-25-014876-index.htm)
+
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025092446/0001213900-25-092446-index.htm)
 
 - **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006071/0001171843-25-006071-index.htm)
@@ -386,6 +425,9 @@
 
 - **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029821/0001437749-25-029821-index.htm)
+
+- **8-A12B** | Bitwise Solana Staking ETF  (CIK 0002045872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025092433/0001213900-25-092433-index.htm)
 
 - **485BPOS** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000110465925093888/0001104659-25-093888-index.htm)
