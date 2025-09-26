@@ -27,8 +27,14 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
 
+- **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, DNQUF, DNQWF)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525220455/0001193125-25-220455-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225014866/0001493152-25-014866-index.htm)
+
+- **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525220446/0001193125-25-220446-index.htm)
 
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091151/0001213900-25-091151-index.htm)
@@ -44,6 +50,9 @@
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025092085/0001213900-25-092085-index.htm)
+
+- **8-K** | I-ON Digital Corp.  (IONI)  (CIK 0001580490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580490/000149315225015719/0001493152-25-015719-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007245/0001683168-25-007245-index.htm)
@@ -90,6 +99,12 @@
 - **S-3** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025091217/0001213900-25-091217-index.htm)
 
+- **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225015721/0001493152-25-015721-index.htm)
+
+- **10-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312525220421/0001193125-25-220421-index.htm)
+
 - **F-1/A** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525213968/0001193125-25-213968-index.htm)
 
@@ -104,6 +119,9 @@
 
 - **S-4/A** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000114036125036118/0001140361-25-036118-index.htm)
+
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525220479/0001193125-25-220479-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012223/0000950103-25-012223-index.htm)
@@ -138,14 +156,23 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012150/0000950103-25-012150-index.htm)
 
+- **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525220481/0001193125-25-220481-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012229/0000950103-25-012229-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525220464/0001193125-25-220464-index.htm)
 
 - **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312525216371/0001193125-25-216371-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925093030/0001104659-25-093030-index.htm)
+
+- **SCHEDULE 13D** | Semnur, Inc.  (CIK 0001584541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1584541/000119312525220480/0001193125-25-220480-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325012168/0000950103-25-012168-index.htm)
@@ -234,6 +261,9 @@
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000119312525218502/0001193125-25-218502-index.htm)
 
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525220476/0001193125-25-220476-index.htm)
+
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925093831/0001104659-25-093831-index.htm)
 
@@ -246,18 +276,6 @@
 - **PRE 14C** | Tribal Rides International Corp.  (CIK 0001624985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825007230/0001683168-25-007230-index.htm)
 
-- **424B5** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925092753/0001104659-25-092753-index.htm)
-
-- **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225014748/0001493152-25-014748-index.htm)
-
-- **S-1** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025091637/0001213900-25-091637-index.htm)
-
-- **S-1/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025091745/0001213900-25-091745-index.htm)
-
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525215463/0001193125-25-215463-index.htm)
 
@@ -267,8 +285,14 @@
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525215454/0001193125-25-215454-index.htm)
 
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525220483/0001193125-25-220483-index.htm)
+
 - **DEFA14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025091121/0001213900-25-091121-index.htm)
+
+- **424B5** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925092753/0001104659-25-092753-index.htm)
 
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925093161/0001104659-25-093161-index.htm)
@@ -288,8 +312,14 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001045/0001279569-25-001045-index.htm)
 
+- **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390025092324/0001213900-25-092324-index.htm)
+
 - **SUPPL** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025091979/0001213900-25-091979-index.htm)
+
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925093862/0001104659-25-093862-index.htm)
 
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025090878/0001213900-25-090878-index.htm)
@@ -336,6 +366,15 @@
 - **487** | FT 12437  (CIK 0002070325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070325/000144554625006449/0001445546-25-006449-index.htm)
 
+- **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225014748/0001493152-25-014748-index.htm)
+
+- **S-1** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025091637/0001213900-25-091637-index.htm)
+
+- **S-1/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025091745/0001213900-25-091745-index.htm)
+
 - **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029822/0001437749-25-029822-index.htm)
 
@@ -345,8 +384,14 @@
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325000478/0001099263-25-000478-index.htm)
 
+- **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001583/0001096906-25-001583-index.htm)
+
 - **NPORT-P** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000104916925000371/0001049169-25-000371-index.htm)
+
+- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041325003075/0000930413-25-003075-index.htm)
 
 - **N-CSR** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000110465925093260/0001104659-25-093260-index.htm)
@@ -374,6 +419,9 @@
 
 - **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036825009124/0001410368-25-009124-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025092352/0001213900-25-092352-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025091774/0001213900-25-091774-index.htm)
