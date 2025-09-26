@@ -24,11 +24,11 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092624/0001104659-25-092624-index.htm)
 
-- **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, DNQUF, DNQWF)  (CIK 0001913577)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525220455/0001193125-25-220455-index.htm)
-
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
+
+- **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, DNQUF, DNQWF)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525220455/0001193125-25-220455-index.htm)
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225014866/0001493152-25-014866-index.htm)
@@ -84,6 +84,9 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007000/0001477932-25-007000-index.htm)
 
+- **S-3ASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225015751/0001493152-25-015751-index.htm)
+
 - **S-1** | Bitwise Hyperliquid ETF  (CIK 0002088139)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000121390025091720/0001213900-25-091720-index.htm)
 
@@ -95,6 +98,9 @@
 
 - **PRER14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225015671/0001493152-25-015671-index.htm)
+
+- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525220733/0001193125-25-220733-index.htm)
 
 - **S-3** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025091217/0001213900-25-091217-index.htm)
@@ -193,10 +199,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012214/0000950103-25-012214-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012213/0000950103-25-012213-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012224/0000950103-25-012224-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012224/0000950103-25-012224-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012213/0000950103-25-012213-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012143/0000950103-25-012143-index.htm)
@@ -275,9 +281,6 @@
 
 - **8-K** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225014993/0001493152-25-014993-index.htm)
-
-- **PRE 14C** | Tribal Rides International Corp.  (CIK 0001624985)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825007230/0001683168-25-007230-index.htm)
 
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525215463/0001193125-25-215463-index.htm)
@@ -390,6 +393,12 @@
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325000478/0001099263-25-000478-index.htm)
 
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025092383/0001213900-25-092383-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025092395/0001213900-25-092395-index.htm)
+
 - **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001583/0001096906-25-001583-index.htm)
 
@@ -441,6 +450,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025091742/0001213900-25-091742-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025092381/0001213900-25-092381-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025091173/0001213900-25-091173-index.htm)
 
@@ -458,6 +470,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025091354/0001213900-25-091354-index.htm)
+
+- **PRE 14C** | Tribal Rides International Corp.  (CIK 0001624985)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316825007230/0001683168-25-007230-index.htm)
 
 - **FWP** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025091398/0001213900-25-091398-index.htm)
