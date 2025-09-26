@@ -276,6 +276,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001045/0001279569-25-001045-index.htm)
 
+- **SUPPL** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390025091979/0001213900-25-091979-index.htm)
+
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025090878/0001213900-25-090878-index.htm)
 
