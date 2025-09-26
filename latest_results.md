@@ -48,11 +48,11 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225014864/0001493152-25-014864-index.htm)
 
-- **10-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006996/0001477932-25-006996-index.htm)
-
 - **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125014019/0001999371-25-014019-index.htm)
+
+- **10-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006996/0001477932-25-006996-index.htm)
 
 - **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774925029874/0001437749-25-029874-index.htm)
@@ -74,6 +74,9 @@
 
 - **S-1** | Bitwise Hyperliquid ETF  (CIK 0002088139)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000121390025091720/0001213900-25-091720-index.htm)
+
+- **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000017/0002028541-25-000017-index.htm)
 
 - **S-3** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390025091217/0001213900-25-091217-index.htm)
@@ -148,10 +151,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012214/0000950103-25-012214-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012213/0000950103-25-012213-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012224/0000950103-25-012224-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012224/0000950103-25-012224-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012213/0000950103-25-012213-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012143/0000950103-25-012143-index.htm)
