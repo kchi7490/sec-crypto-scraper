@@ -24,11 +24,11 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092624/0001104659-25-092624-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
-
 - **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, DNQUF, DNQWF)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525220455/0001193125-25-220455-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925092625/0001104659-25-092625-index.htm)
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225014866/0001493152-25-014866-index.htm)
@@ -60,11 +60,11 @@
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225014864/0001493152-25-014864-index.htm)
 
-- **10-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006996/0001477932-25-006996-index.htm)
-
 - **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125014019/0001999371-25-014019-index.htm)
+
+- **10-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225006996/0001477932-25-006996-index.htm)
 
 - **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774925029874/0001437749-25-029874-index.htm)
@@ -167,6 +167,9 @@
 
 - **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312525216371/0001193125-25-216371-index.htm)
+
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225015742/0001493152-25-015742-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925093030/0001104659-25-093030-index.htm)
@@ -381,6 +384,9 @@
 - **S-1** | Texas Precious Metals Trust  (CIK 0002087989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774925029821/0001437749-25-029821-index.htm)
 
+- **485BPOS** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000110465925093888/0001104659-25-093888-index.htm)
+
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325000478/0001099263-25-000478-index.htm)
 
@@ -444,11 +450,11 @@
 - **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125036270/0001140361-25-036270-index.htm)
 
-- **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125036261/0001140361-25-036261-index.htm)
-
 - **424B8** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125036263/0001140361-25-036263-index.htm)
+
+- **424B2** | Jefferies Financial Group Inc.  (JEF)  (CIK 0000096223)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/96223/000114036125036261/0001140361-25-036261-index.htm)
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025091354/0001213900-25-091354-index.htm)
