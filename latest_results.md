@@ -30,9 +30,30 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012331/0000950103-25-012331-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525221772/0001193125-25-221772-index.htm)
+
+- **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225015892/0001493152-25-015892-index.htm)
+
+- **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925094134/0001104659-25-094134-index.htm)
+
 - **S-3/A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925093962/0001104659-25-093962-index.htm)
 
+- **424B4** | American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525221814/0001193125-25-221814-index.htm)
+
 - **F-1** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025092560/0001213900-25-092560-index.htm)
+
+- **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025092633/0001213900-25-092633-index.htm)
+
+- **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
+
+- **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
 
