@@ -54,11 +54,17 @@
 - **PRER14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225015903/0001493152-25-015903-index.htm)
 
+- **10-K** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925094578/0001104659-25-094578-index.htm)
+
 - **424B4** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225015899/0001493152-25-015899-index.htm)
 
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025093122/0001213900-25-093122-index.htm)
+
+- **10-K** | IDT CORP  (IDT)  (CIK 0001005731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1005731/000149315225016071/0001493152-25-016071-index.htm)
 
 - **10-12G/A** | EQT Private Equity Co LLC  (CIK 0002032020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032020/000119312525223380/0001193125-25-223380-index.htm)
@@ -88,10 +94,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -129,6 +135,9 @@
 - **6-K** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025093168/0001213900-25-093168-index.htm)
 
+- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925094589/0001104659-25-094589-index.htm)
+
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
 
@@ -153,6 +162,9 @@
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010294/0001133228-25-010294-index.htm)
 
+- **N-14** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010317/0001133228-25-010317-index.htm)
+
 - **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
 
@@ -167,4 +179,7 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
+
+- **485BPOS** | Kurv ETF Trust  (CIK 0001782952)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000199937125014190/0001999371-25-014190-index.htm)
 
