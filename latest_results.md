@@ -66,6 +66,9 @@
 - **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025092633/0001213900-25-092633-index.htm)
 
+- **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092847/0001213900-25-092847-index.htm)
+
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
 
