@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225015879/0001493152-25-015879-index.htm)
 
+- **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006119/0001171843-25-006119-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225015882/0001493152-25-015882-index.htm)
 
@@ -10,10 +13,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
 - **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025092667/0001213900-25-092667-index.htm)
