@@ -12,6 +12,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225015882/0001493152-25-015882-index.htm)
 
+- **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925094465/0001104659-25-094465-index.htm)
+
 - **10-K** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000034/0001882781-25-000034-index.htm)
 
@@ -78,6 +81,12 @@
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
 
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025093050/0001213900-25-093050-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025093073/0001213900-25-093073-index.htm)
+
 - **424B5** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092809/0001213900-25-092809-index.htm)
 
@@ -96,6 +105,12 @@
 - **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
 
+- **1-SA** | XY Labs, Inc.  (XYLB)  (CIK 0001577351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1577351/000110465925094469/0001104659-25-094469-index.htm)
+
 - **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
+
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
 
