@@ -12,6 +12,9 @@
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006119/0001171843-25-006119-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225016041/0001493152-25-016041-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225015882/0001493152-25-015882-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025092667/0001213900-25-092667-index.htm)
+
+- **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325015843/0001062993-25-015843-index.htm)
 
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/0001213900-25-092490-index.htm)
@@ -54,6 +60,12 @@
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025093122/0001213900-25-093122-index.htm)
 
+- **10-12G/A** | EQT Private Equity Co LLC  (CIK 0002032020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2032020/000119312525223380/0001193125-25-223380-index.htm)
+
+- **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625007725/0001829126-25-007725-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025092532/0001213900-25-092532-index.htm)
 
@@ -62,6 +74,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525221772/0001193125-25-221772-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925094571/0001104659-25-094571-index.htm)
 
 - **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225015892/0001493152-25-015892-index.htm)
@@ -87,6 +102,9 @@
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225007111/0001477932-25-007111-index.htm)
 
+- **DEFA14A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225007166/0001477932-25-007166-index.htm)
+
 - **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025093106/0001213900-25-093106-index.htm)
 
@@ -99,11 +117,17 @@
 - **F-1** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025092560/0001213900-25-092560-index.htm)
 
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925094565/0001104659-25-094565-index.htm)
+
 - **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025092633/0001213900-25-092633-index.htm)
 
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092847/0001213900-25-092847-index.htm)
+
+- **6-K** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025093168/0001213900-25-093168-index.htm)
 
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
@@ -137,6 +161,9 @@
 
 - **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
+
+- **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880425000007/0001688804-25-000007-index.htm)
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
