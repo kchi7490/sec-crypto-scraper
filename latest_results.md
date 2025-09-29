@@ -9,6 +9,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225015882/0001493152-25-015882-index.htm)
 
+- **10-K** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000034/0001882781-25-000034-index.htm)
+
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
