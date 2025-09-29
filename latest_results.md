@@ -81,6 +81,9 @@
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225015919/0001493152-25-015919-index.htm)
 
+- **10-Q** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000149315225015962/0001493152-25-015962-index.htm)
+
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010284/0001133228-25-010284-index.htm)
 
