@@ -69,6 +69,9 @@
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
 
+- **424B5** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092809/0001213900-25-092809-index.htm)
+
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225015919/0001493152-25-015919-index.htm)
 
