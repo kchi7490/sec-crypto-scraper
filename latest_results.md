@@ -45,6 +45,9 @@
 - **424B4** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225015899/0001493152-25-015899-index.htm)
 
+- **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025093122/0001213900-25-093122-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025092532/0001213900-25-092532-index.htm)
 
@@ -57,11 +60,17 @@
 - **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225015892/0001493152-25-015892-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925094134/0001104659-25-094134-index.htm)
 
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225007111/0001477932-25-007111-index.htm)
+
+- **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025093106/0001213900-25-093106-index.htm)
 
 - **S-3/A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925093962/0001104659-25-093962-index.htm)
