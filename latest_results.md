@@ -15,6 +15,9 @@
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
+- **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025092667/0001213900-25-092667-index.htm)
+
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/0001213900-25-092490-index.htm)
 
@@ -23,6 +26,12 @@
 
 - **S-4** | StableCoinX Inc.  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025092592/0001213900-25-092592-index.htm)
+
+- **PRER14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225015903/0001493152-25-015903-index.htm)
+
+- **424B4** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225015899/0001493152-25-015899-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025092532/0001213900-25-092532-index.htm)
