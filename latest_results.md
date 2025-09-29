@@ -93,3 +93,6 @@
 - **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
 
+- **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
+
