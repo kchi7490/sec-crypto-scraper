@@ -252,6 +252,9 @@
 - **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880425000007/0001688804-25-000007-index.htm)
 
+- **485BPOS** | INCOME FUND OF AMERICA  (CIK 0000050013)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/50013/000005193125001072/0000051931-25-001072-index.htm)
+
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
 
