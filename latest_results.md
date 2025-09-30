@@ -45,6 +45,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225016179/0001493152-25-016179-index.htm)
 
+- **424B4** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007256/0001477932-25-007256-index.htm)
+
 - **10-K** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000034/0001882781-25-000034-index.htm)
 
@@ -252,6 +255,9 @@
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225016198/0001493152-25-016198-index.htm)
 
+- **424B3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016381/0001493152-25-016381-index.htm)
+
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025093050/0001213900-25-093050-index.htm)
 
@@ -317,6 +323,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025093414/0001213900-25-093414-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094040/0001213900-25-094040-index.htm)
 
 - **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315225016283/0001493152-25-016283-index.htm)
