@@ -3,8 +3,14 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225015879/0001493152-25-015879-index.htm)
 
+- **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006154/0001171843-25-006154-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225016022/0001493152-25-016022-index.htm)
+
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025093359/0001213900-25-093359-index.htm)
 
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
@@ -33,6 +39,9 @@
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025093290/0001213900-25-093290-index.htm)
+
 - **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025092667/0001213900-25-092667-index.htm)
 
@@ -41,6 +50,9 @@
 
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/0001213900-25-092490-index.htm)
+
+- **1-A/A** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225016111/0001493152-25-016111-index.htm)
 
 - **10-K** | Global Arena Holding, Inc.  (CIK 0001138724)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1138724/000149315225015825/0001493152-25-015825-index.htm)
@@ -51,11 +63,17 @@
 - **S-4** | StableCoinX Inc.  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025092592/0001213900-25-092592-index.htm)
 
+- **DEF 14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225016087/0001493152-25-016087-index.htm)
+
 - **PRER14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225015903/0001493152-25-015903-index.htm)
 
 - **10-K** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925094578/0001104659-25-094578-index.htm)
+
+- **10-K/A** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925094655/0001104659-25-094655-index.htm)
 
 - **424B4** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225015899/0001493152-25-015899-index.htm)
@@ -65,6 +83,9 @@
 
 - **10-K** | IDT CORP  (IDT)  (CIK 0001005731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1005731/000149315225016071/0001493152-25-016071-index.htm)
+
+- **10-K/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225007184/0001477932-25-007184-index.htm)
 
 - **10-12G/A** | EQT Private Equity Co LLC  (CIK 0002032020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032020/000119312525223380/0001193125-25-223380-index.htm)
@@ -141,6 +162,9 @@
 - **POS AM** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025092637/0001213900-25-092637-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000105/0001383395-25-000105-index.htm)
+
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025093050/0001213900-25-093050-index.htm)
 
@@ -152,6 +176,9 @@
 
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225015919/0001493152-25-015919-index.htm)
+
+- **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025093354/0001213900-25-093354-index.htm)
 
 - **10-Q** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000149315225015962/0001493152-25-015962-index.htm)
