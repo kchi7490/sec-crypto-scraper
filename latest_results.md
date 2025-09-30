@@ -18,6 +18,9 @@
 - **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025093411/0001213900-25-093411-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025094097/0001213900-25-094097-index.htm)
+
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
+
+- **8-K** | ReposiTrak, Inc.  (TRAK)  (CIK 0000050471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/50471/000143774925030128/0001437749-25-030128-index.htm)
 
 - **DEFA14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225016197/0001493152-25-016197-index.htm)
@@ -231,6 +237,9 @@
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092847/0001213900-25-092847-index.htm)
 
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625007784/0001829126-25-007784-index.htm)
+
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016201/0001493152-25-016201-index.htm)
 
@@ -257,6 +266,12 @@
 
 - **424B3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016381/0001493152-25-016381-index.htm)
+
+- **424B5** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016384/0001493152-25-016384-index.htm)
+
+- **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016392/0001493152-25-016392-index.htm)
 
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025093050/0001213900-25-093050-index.htm)
