@@ -249,6 +249,9 @@
 - **1-SA** | XY Labs, Inc.  (XYLB)  (CIK 0001577351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1577351/000110465925094469/0001104659-25-094469-index.htm)
 
+- **497** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025093707/0001213900-25-093707-index.htm)
+
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014222/0001999371-25-014222-index.htm)
 
