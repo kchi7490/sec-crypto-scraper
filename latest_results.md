@@ -183,6 +183,9 @@
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025093448/0001213900-25-093448-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001069/0001279569-25-001069-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025093457/0001213900-25-093457-index.htm)
 
