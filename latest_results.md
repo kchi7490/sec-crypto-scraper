@@ -198,6 +198,9 @@
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016201/0001493152-25-016201-index.htm)
 
+- **18-K** | REPUBLIC OF TURKEY  (CIK 0000869687)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/869687/000119312525224762/0001193125-25-224762-index.htm)
+
 - **6-K** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025093168/0001213900-25-093168-index.htm)
 
