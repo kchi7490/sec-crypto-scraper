@@ -36,6 +36,9 @@
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925094465/0001104659-25-094465-index.htm)
 
+- **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
+
 - **DEFA14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225016197/0001493152-25-016197-index.htm)
 
@@ -123,6 +126,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012331/0000950103-25-012331-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012577/0000950103-25-012577-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525221772/0001193125-25-221772-index.htm)
 
@@ -152,6 +158,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012570/0000950103-25-012570-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012576/0000950103-25-012576-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225038/0001193125-25-225038-index.htm)
