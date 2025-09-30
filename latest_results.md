@@ -159,6 +159,12 @@
 - **424B4** | American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525221814/0001193125-25-221814-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000614/0001137360-25-000614-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000615/0001137360-25-000615-index.htm)
+
 - **F-1** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025092560/0001213900-25-092560-index.htm)
 
@@ -174,8 +180,20 @@
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425011205/0001654954-25-011205-index.htm)
 
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025093448/0001213900-25-093448-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025093457/0001213900-25-093457-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925094773/0001104659-25-094773-index.htm)
+
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092847/0001213900-25-092847-index.htm)
+
+- **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016201/0001493152-25-016201-index.htm)
 
 - **6-K** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390025093168/0001213900-25-093168-index.htm)
@@ -188,6 +206,9 @@
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000105/0001383395-25-000105-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225016198/0001493152-25-016198-index.htm)
 
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025093050/0001213900-25-093050-index.htm)
