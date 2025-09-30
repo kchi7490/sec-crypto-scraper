@@ -133,6 +133,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225015892/0001493152-25-015892-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012575/0000950103-25-012575-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012444/0000950103-25-012444-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -146,6 +149,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012570/0000950103-25-012570-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225038/0001193125-25-225038-index.htm)
@@ -170,6 +176,9 @@
 
 - **S-3/A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925093962/0001104659-25-093962-index.htm)
+
+- **424B3** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025093998/0001213900-25-093998-index.htm)
 
 - **424B4** | American Exceptionalism Acquisition Corp. A  (AEXA)  (CIK 0002079173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079173/000119312525221814/0001193125-25-221814-index.htm)
@@ -213,6 +222,9 @@
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016201/0001493152-25-016201-index.htm)
 
+- **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025093980/0001213900-25-093980-index.htm)
+
 - **18-K** | REPUBLIC OF TURKEY  (CIK 0000869687)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/869687/000119312525224762/0001193125-25-224762-index.htm)
 
@@ -236,6 +248,9 @@
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025093073/0001213900-25-093073-index.htm)
+
+- **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125036791/0001140361-25-036791-index.htm)
 
 - **424B5** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092809/0001213900-25-092809-index.htm)
@@ -287,6 +302,9 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425018696/0001398344-25-018696-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025093414/0001213900-25-093414-index.htm)
