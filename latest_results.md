@@ -27,6 +27,9 @@
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925094465/0001104659-25-094465-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225016179/0001493152-25-016179-index.htm)
+
 - **10-K** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000034/0001882781-25-000034-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **10-K** | IDT CORP  (IDT)  (CIK 0001005731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1005731/000149315225016071/0001493152-25-016071-index.htm)
+
+- **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001749/0001640334-25-001749-index.htm)
 
 - **10-K/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225007184/0001477932-25-007184-index.htm)
