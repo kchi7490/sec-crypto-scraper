@@ -243,6 +243,9 @@
 - **1-SA** | XY Labs, Inc.  (XYLB)  (CIK 0001577351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1577351/000110465925094469/0001104659-25-094469-index.htm)
 
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014222/0001999371-25-014222-index.htm)
+
 - **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
 
