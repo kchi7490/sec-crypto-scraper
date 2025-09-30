@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001325/0001731122-25-001325-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225015879/0001493152-25-015879-index.htm)
 
@@ -11,6 +14,9 @@
 
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025093359/0001213900-25-093359-index.htm)
+
+- **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025093411/0001213900-25-093411-index.htm)
 
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
@@ -24,8 +30,14 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225015882/0001493152-25-015882-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225016196/0001493152-25-016196-index.htm)
+
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925094465/0001104659-25-094465-index.htm)
+
+- **DEFA14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225016197/0001493152-25-016197-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225016179/0001493152-25-016179-index.htm)
@@ -153,6 +165,9 @@
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925094565/0001104659-25-094565-index.htm)
 
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000062/0001815776-25-000062-index.htm)
+
 - **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025092633/0001213900-25-092633-index.htm)
 
@@ -215,6 +230,9 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003064/0001592900-25-003064-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025093414/0001213900-25-093414-index.htm)
 
 - **485BPOS** | Kurv ETF Trust  (CIK 0001782952)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000199937125014190/0001999371-25-014190-index.htm)
