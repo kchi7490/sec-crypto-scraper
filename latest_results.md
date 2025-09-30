@@ -147,6 +147,15 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225038/0001193125-25-225038-index.htm)
+
+- **424B4** | BTC Development Corp.  (BDCI)  (CIK 0002042292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025093944/0001213900-25-093944-index.htm)
+
+- **424B4** | BTC Development Corp.  (BDCI)  (CIK 0002042292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025093940/0001213900-25-093940-index.htm)
+
 - **8-K** | HELIUS MEDICAL TECHNOLOGIES, INC.  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925094134/0001104659-25-094134-index.htm)
 
@@ -269,6 +278,9 @@
 
 - **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880425000007/0001688804-25-000007-index.htm)
+
+- **485APOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041325003160/0000930413-25-003160-index.htm)
 
 - **485BPOS** | INCOME FUND OF AMERICA  (CIK 0000050013)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50013/000005193125001072/0000051931-25-001072-index.htm)
