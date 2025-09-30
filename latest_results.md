@@ -84,6 +84,9 @@
 - **PRER14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225015903/0001493152-25-015903-index.htm)
 
+- **S-1** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390025093762/0001213900-25-093762-index.htm)
+
 - **10-K** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925094578/0001104659-25-094578-index.htm)
 
@@ -254,6 +257,9 @@
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014222/0001999371-25-014222-index.htm)
+
+- **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025093766/0001213900-25-093766-index.htm)
 
 - **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
