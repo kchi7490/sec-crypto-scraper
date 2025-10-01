@@ -193,13 +193,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012444/0000950103-25-012444-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012648/0000950103-25-012648-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -344,6 +347,9 @@
 
 - **6-K** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000149315225016430/0001493152-25-016430-index.htm)
+
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525226728/0001193125-25-226728-index.htm)
 
 - **424B5** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092809/0001213900-25-092809-index.htm)
