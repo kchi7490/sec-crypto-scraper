@@ -243,6 +243,9 @@
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025093448/0001213900-25-093448-index.htm)
 
+- **6-K/A** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025094344/0001213900-25-094344-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001069/0001279569-25-001069-index.htm)
 
@@ -311,6 +314,9 @@
 
 - **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025093354/0001213900-25-093354-index.htm)
+
+- **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025094341/0001213900-25-094341-index.htm)
 
 - **10-Q** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000149315225015962/0001493152-25-015962-index.htm)
