@@ -82,10 +82,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
 - **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125036776/0001140361-25-036776-index.htm)
@@ -196,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -293,6 +293,9 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025094368/0001213900-25-094368-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001077/0001279569-25-001077-index.htm)
 
 - **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025093980/0001213900-25-093980-index.htm)
