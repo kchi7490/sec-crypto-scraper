@@ -3,11 +3,17 @@
 - **8-K** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001325/0001731122-25-001325-index.htm)
 
+- **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094186/0001213900-25-094186-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225015879/0001493152-25-015879-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006154/0001171843-25-006154-index.htm)
+
+- **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094185/0001213900-25-094185-index.htm)
 
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225016022/0001493152-25-016022-index.htm)
@@ -23,6 +29,9 @@
 
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
+
+- **8-K** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315225016453/0001493152-25-016453-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006119/0001171843-25-006119-index.htm)
@@ -54,6 +63,9 @@
 - **424B4** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007256/0001477932-25-007256-index.htm)
 
+- **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025094101/0001213900-25-094101-index.htm)
+
 - **10-K** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000034/0001882781-25-000034-index.htm)
 
@@ -61,10 +73,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
 - **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125036776/0001140361-25-036776-index.htm)
@@ -111,6 +123,9 @@
 - **424B4** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225015899/0001493152-25-015899-index.htm)
 
+- **S-1/A** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625007791/0001829126-25-007791-index.htm)
+
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025093122/0001213900-25-093122-index.htm)
 
@@ -119,6 +134,9 @@
 
 - **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001749/0001640334-25-001749-index.htm)
+
+- **S-4/A** | Roth CH Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625007793/0001829126-25-007793-index.htm)
 
 - **10-K/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225007184/0001477932-25-007184-index.htm)
@@ -157,10 +175,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -282,6 +300,9 @@
 - **6-K** | Murano Global Investments Plc  (MRNO, MRNOW)  (CIK 0001988776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1988776/000114036125036791/0001140361-25-036791-index.htm)
 
+- **6-K** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000149315225016430/0001493152-25-016430-index.htm)
+
 - **424B5** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025092809/0001213900-25-092809-index.htm)
 
@@ -335,6 +356,9 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425018696/0001398344-25-018696-index.htm)
+
+- **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465925095162/0001104659-25-095162-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025093414/0001213900-25-093414-index.htm)
