@@ -27,6 +27,9 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025094097/0001213900-25-094097-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225904/0001193125-25-225904-index.htm)
+
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
 
@@ -156,6 +159,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012331/0000950103-25-012331-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525225908/0001193125-25-225908-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012577/0000950103-25-012577-index.htm)
 
@@ -178,10 +184,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -212,6 +218,9 @@
 
 - **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025093106/0001213900-25-093106-index.htm)
+
+- **424B3** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025094369/0001213900-25-094369-index.htm)
 
 - **S-3/A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925093962/0001104659-25-093962-index.htm)
@@ -249,6 +258,9 @@
 - **6-K/A** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025094344/0001213900-25-094344-index.htm)
 
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025094378/0001213900-25-094378-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001069/0001279569-25-001069-index.htm)
 
@@ -266,6 +278,9 @@
 
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225016201/0001493152-25-016201-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025094368/0001213900-25-094368-index.htm)
 
 - **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025093980/0001213900-25-093980-index.htm)
@@ -317,6 +332,9 @@
 
 - **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025093354/0001213900-25-093354-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015858/0001062993-25-015858-index.htm)
 
 - **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025094341/0001213900-25-094341-index.htm)
