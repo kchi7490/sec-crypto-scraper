@@ -372,6 +372,9 @@
 - **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
 
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425017418/0001888524-25-017418-index.htm)
+
 - **1-SA** | XY Labs, Inc.  (XYLB)  (CIK 0001577351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1577351/000110465925094469/0001104659-25-094469-index.htm)
 
