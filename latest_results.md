@@ -87,6 +87,9 @@
 - **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025092667/0001213900-25-092667-index.htm)
 
+- **424B3** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525225897/0001193125-25-225897-index.htm)
+
 - **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325015843/0001062993-25-015843-index.htm)
 
