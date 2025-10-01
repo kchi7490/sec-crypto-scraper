@@ -82,10 +82,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
 - **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125036776/0001140361-25-036776-index.htm)
@@ -371,6 +371,9 @@
 
 - **N-14** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010317/0001133228-25-010317-index.htm)
+
+- **S-1/A** | DMINT, Inc.  (CIK 0001996450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390025094636/0001213900-25-094636-index.htm)
 
 - **DEFC14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004209/0000902664-25-004209-index.htm)
