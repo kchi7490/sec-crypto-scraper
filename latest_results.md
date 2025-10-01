@@ -111,6 +111,9 @@
 - **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325015843/0001062993-25-015843-index.htm)
 
+- **S-1/A** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025094793/0001213900-25-094793-index.htm)
+
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/0001213900-25-092490-index.htm)
 
@@ -149,6 +152,9 @@
 
 - **S-1/A** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625007791/0001829126-25-007791-index.htm)
+
+- **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025094778/0001213900-25-094778-index.htm)
 
 - **424B5** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025093122/0001213900-25-093122-index.htm)
@@ -275,6 +281,9 @@
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000062/0001815776-25-000062-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001766/0001640334-25-001766-index.htm)
 
 - **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025092633/0001213900-25-092633-index.htm)
