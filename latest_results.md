@@ -36,6 +36,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225904/0001193125-25-225904-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000126/0001627282-25-000126-index.htm)
+
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001734/0001640334-25-001734-index.htm)
 
@@ -82,10 +85,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221020/0001193125-25-221020-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
 
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221018/0001193125-25-221018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525221022/0001193125-25-221022-index.htm)
 
 - **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125036776/0001140361-25-036776-index.htm)
@@ -159,6 +162,9 @@
 - **10-K/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225007184/0001477932-25-007184-index.htm)
 
+- **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225016546/0001493152-25-016546-index.htm)
+
 - **10-12G/A** | EQT Private Equity Co LLC  (CIK 0002032020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032020/000119312525223380/0001193125-25-223380-index.htm)
 
@@ -186,6 +192,9 @@
 - **F-3** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225015892/0001493152-25-015892-index.htm)
 
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525226833/0001193125-25-226833-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012575/0000950103-25-012575-index.htm)
 
@@ -199,10 +208,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012442/0000950103-25-012442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012446/0000950103-25-012446-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012437/0000950103-25-012437-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012440/0000950103-25-012440-index.htm)
@@ -400,6 +409,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390025093707/0001213900-25-093707-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014439/0001999371-25-014439-index.htm)
+
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014222/0001999371-25-014222-index.htm)
 
 - **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
@@ -407,6 +419,9 @@
 
 - **1-SA** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285925000014/0001812859-25-000014-index.htm)
+
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014436/0001999371-25-014436-index.htm)
 
 - **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880425000007/0001688804-25-000007-index.htm)
