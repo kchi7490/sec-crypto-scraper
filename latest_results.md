@@ -45,11 +45,17 @@
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025094755/0001213900-25-094755-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225016619/0001493152-25-016619-index.htm)
+
 - **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025094951/0001213900-25-094951-index.htm)
+
+- **8-K** | Heritage Distilling Holding Company, Inc.  (CASK, IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000159/0001788230-25-000159-index.htm)
 
 - **8-K** | ReposiTrak, Inc.  (TRAK)  (CIK 0000050471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50471/000143774925030128/0001437749-25-030128-index.htm)
@@ -126,6 +132,9 @@
 - **10-K/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225007184/0001477932-25-007184-index.htm)
 
+- **DEFR14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001354/0001185185-25-001354-index.htm)
+
 - **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225016546/0001493152-25-016546-index.htm)
 
@@ -164,6 +173,9 @@
 
 - **424B4** | BTC Development Corp.  (BDCI)  (CIK 0002042292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025093940/0001213900-25-093940-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325012713/0000950103-25-012713-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525227152/0001193125-25-227152-index.htm)
@@ -327,6 +339,15 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094040/0001213900-25-094040-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094977/0001213900-25-094977-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094982/0001213900-25-094982-index.htm)
+
 - **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315225016283/0001493152-25-016283-index.htm)
+
+- **FWP** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094979/0001213900-25-094979-index.htm)
 
