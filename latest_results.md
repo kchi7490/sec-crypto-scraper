@@ -93,6 +93,9 @@
 - **424B5** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025094384/0001213900-25-094384-index.htm)
 
+- **DEF 14A** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225016603/0001493152-25-016603-index.htm)
+
 - **DEF 14A** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225016087/0001493152-25-016087-index.htm)
 
@@ -263,6 +266,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015870/0001062993-25-015870-index.htm)
+
+- **ARS** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225016604/0001493152-25-016604-index.htm)
 
 - **S-1/A** | DMINT, Inc.  (CIK 0001996450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390025094636/0001213900-25-094636-index.htm)
