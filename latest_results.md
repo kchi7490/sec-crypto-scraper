@@ -150,6 +150,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525225038/0001193125-25-225038-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325012712/0000950103-25-012712-index.htm)
+
 - **424B4** | BTC Development Corp.  (BDCI)  (CIK 0002042292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025093944/0001213900-25-093944-index.htm)
 
