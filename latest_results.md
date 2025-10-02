@@ -135,6 +135,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012577/0000950103-25-012577-index.htm)
 
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925095884/0001104659-25-095884-index.htm)
+
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525226833/0001193125-25-226833-index.htm)
 
@@ -270,6 +273,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325015870/0001062993-25-015870-index.htm)
 
+- **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225016610/0001493152-25-016610-index.htm)
+
 - **ARS** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225016604/0001493152-25-016604-index.htm)
 
@@ -308,6 +314,9 @@
 
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465925095162/0001104659-25-095162-index.htm)
+
+- **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390025094972/0001213900-25-094972-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025093414/0001213900-25-093414-index.htm)
