@@ -48,11 +48,11 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225016619/0001493152-25-016619-index.htm)
 
-- **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
-
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025094951/0001213900-25-094951-index.htm)
+
+- **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
 
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK, IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000159/0001788230-25-000159-index.htm)
@@ -90,11 +90,17 @@
 - **424B3** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525225897/0001193125-25-225897-index.htm)
 
+- **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312525228678/0001193125-25-228678-index.htm)
+
 - **S-1/A** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025094793/0001213900-25-094793-index.htm)
 
 - **1-A/A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225016111/0001493152-25-016111-index.htm)
+
+- **S-1/A** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000149315225016741/0001493152-25-016741-index.htm)
 
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007283/0001477932-25-007283-index.htm)
@@ -239,6 +245,9 @@
 
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000615/0001137360-25-000615-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025095533/0001213900-25-095533-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000062/0001815776-25-000062-index.htm)
@@ -401,6 +410,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094977/0001213900-25-094977-index.htm)
+
+- **425** | Spring Valley Acquisition Corp. II  (SVII, SVIIR, SVIIU, SVIIW)  (CIK 0001843477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843477/000110465925096175/0001104659-25-096175-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094982/0001213900-25-094982-index.htm)
