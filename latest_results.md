@@ -60,6 +60,9 @@
 - **8-K** | ReposiTrak, Inc.  (TRAK)  (CIK 0000050471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50471/000143774925030128/0001437749-25-030128-index.htm)
 
+- **8-K** | GROOVY COMPANY, INC.  (CIK 0001499275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927525000005/0001499275-25-000005-index.htm)
+
 - **DEFA14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225016197/0001493152-25-016197-index.htm)
 
@@ -290,6 +293,9 @@
 
 - **ARS** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225016604/0001493152-25-016604-index.htm)
+
+- **487** | FT 12481  (CIK 0002075413)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075413/000144554625006555/0001445546-25-006555-index.htm)
 
 - **S-1/A** | DMINT, Inc.  (CIK 0001996450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390025094636/0001213900-25-094636-index.htm)
