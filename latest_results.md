@@ -33,6 +33,9 @@
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000126/0001627282-25-000126-index.htm)
 
+- **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025094940/0001213900-25-094940-index.htm)
+
 - **8-K** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315225016453/0001493152-25-016453-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793225007253/0001477932-25-007253-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025094951/0001213900-25-094951-index.htm)
 
 - **8-K** | ReposiTrak, Inc.  (TRAK)  (CIK 0000050471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50471/000143774925030128/0001437749-25-030128-index.htm)
@@ -78,6 +84,12 @@
 - **1-A/A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225016111/0001493152-25-016111-index.htm)
 
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007283/0001477932-25-007283-index.htm)
+
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007282/0001477932-25-007282-index.htm)
+
 - **424B5** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025094384/0001213900-25-094384-index.htm)
 
@@ -89,6 +101,9 @@
 
 - **10-K/A** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925094655/0001104659-25-094655-index.htm)
+
+- **F-1** | Wealth Management System Inc.  (CIK 0002074158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074158/000149315225016578/0001493152-25-016578-index.htm)
 
 - **S-1/A** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625007791/0001829126-25-007791-index.htm)
@@ -140,6 +155,12 @@
 
 - **424B4** | BTC Development Corp.  (BDCI)  (CIK 0002042292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025093940/0001213900-25-093940-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525227152/0001193125-25-227152-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525227165/0001193125-25-227165-index.htm)
 
 - **424B3** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025094369/0001213900-25-094369-index.htm)
