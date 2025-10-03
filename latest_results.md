@@ -75,6 +75,9 @@
 - **DEF 14A** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225016603/0001493152-25-016603-index.htm)
 
+- **S-3ASR** | GameStop Corp.  (GME)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000081/0001326380-25-000081-index.htm)
+
 - **8-K** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025095401/0001213900-25-095401-index.htm)
 
@@ -121,16 +124,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012648/0000950103-25-012648-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012776/0000950103-25-012776-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012775/0000950103-25-012775-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012770/0000950103-25-012770-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012776/0000950103-25-012776-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012767/0000950103-25-012767-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012770/0000950103-25-012770-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012769/0000950103-25-012769-index.htm)
@@ -227,6 +230,15 @@
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014439/0001999371-25-014439-index.htm)
+
+- **485BPOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937125014560/0001999371-25-014560-index.htm)
+
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025095543/0001213900-25-095543-index.htm)
+
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025095542/0001213900-25-095542-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014436/0001999371-25-014436-index.htm)
