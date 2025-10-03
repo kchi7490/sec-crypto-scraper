@@ -3,6 +3,9 @@
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094186/0001213900-25-094186-index.htm)
 
+- **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001352/0001731122-25-001352-index.htm)
+
 - **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094185/0001213900-25-094185-index.htm)
 
@@ -126,6 +129,9 @@
 - **8-K/A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525230192/0001193125-25-230192-index.htm)
 
+- **8-K** | BTC Development Corp.  (BDCI, BDCIU)  (CIK 0002042292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390025096131/0001213900-25-096131-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012648/0000950103-25-012648-index.htm)
 
@@ -165,6 +171,9 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925095864/0001104659-25-095864-index.htm)
 
+- **DEF 14A** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225016864/0001493152-25-016864-index.htm)
+
 - **424B3** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025094369/0001213900-25-094369-index.htm)
 
@@ -182,6 +191,9 @@
 
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025094378/0001213900-25-094378-index.htm)
+
+- **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025096117/0001213900-25-096117-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925096049/0001104659-25-096049-index.htm)
