@@ -124,10 +124,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012648/0000950103-25-012648-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012776/0000950103-25-012776-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012775/0000950103-25-012775-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012775/0000950103-25-012775-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012776/0000950103-25-012776-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012767/0000950103-25-012767-index.htm)
@@ -255,6 +255,9 @@
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125014436/0001999371-25-014436-index.htm)
 
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525229677/0001193125-25-229677-index.htm)
+
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465925095162/0001104659-25-095162-index.htm)
 
@@ -284,6 +287,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025094982/0001213900-25-094982-index.htm)
+
+- **485APOS** | ETF Series Solutions  (CIK 0001540305)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1540305/000089418925010699/0000894189-25-010699-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325012807/0000950103-25-012807-index.htm)
