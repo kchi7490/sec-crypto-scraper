@@ -3,6 +3,9 @@
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025094186/0001213900-25-094186-index.htm)
 
+- **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225016923/0001493152-25-016923-index.htm)
+
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001352/0001731122-25-001352-index.htm)
 
@@ -39,6 +42,9 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (CASK, IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000159/0001788230-25-000159-index.htm)
 
+- **8-K** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225016927/0001493152-25-016927-index.htm)
+
 - **S-1** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007345/0001477932-25-007345-index.htm)
 
@@ -47,6 +53,12 @@
 
 - **424B3** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000121390025094758/0001213900-25-094758-index.htm)
+
+- **10-12G** | BTCS Labs Inc.  (CIK 0002089189)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089189/000149315225016938/0001493152-25-016938-index.htm)
+
+- **S-4/A** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316825007407/0001683168-25-007407-index.htm)
 
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001369/0001185185-25-001369-index.htm)
@@ -194,6 +206,9 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007346/0001477932-25-007346-index.htm)
+
+- **SCHEDULE 13D/A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002691/0000921895-25-002691-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001766/0001640334-25-001766-index.htm)
