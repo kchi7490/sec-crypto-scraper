@@ -24,11 +24,20 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525230977/0001193125-25-230977-index.htm)
 
+- **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525232098/0001193125-25-232098-index.htm)
+
+- **DEFA14A** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000110465925097170/0001104659-25-097170-index.htm)
+
 - **N-CSR** | PROFESSIONALLY MANAGED PORTFOLIOS  (CIK 0000811030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/811030/000113322825010512/0001133228-25-010512-index.htm)
 
 - **DEF 14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225017071/0001493152-25-017071-index.htm)
+
+- **S-1/A** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025096648/0001213900-25-096648-index.htm)
 
 - **S-4/A** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225017093/0001493152-25-017093-index.htm)
@@ -45,8 +54,17 @@
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000095/0001819989-25-000095-index.htm)
 
+- **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225017121/0001493152-25-017121-index.htm)
+
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096239/0001213900-25-096239-index.htm)
+
+- **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225017119/0001493152-25-017119-index.htm)
+
+- **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925014673/0001214659-25-014673-index.htm)
 
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525231015/0001193125-25-231015-index.htm)
@@ -95,6 +113,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525232075/0001193125-25-232075-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096308/0001213900-25-096308-index.htm)
