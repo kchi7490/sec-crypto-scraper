@@ -12,8 +12,14 @@
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925096966/0001104659-25-096966-index.htm)
 
+- **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/0001213900-25-096483-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525230977/0001193125-25-230977-index.htm)
+
+- **N-CSR** | PROFESSIONALLY MANAGED PORTFOLIOS  (CIK 0000811030)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/811030/000113322825010512/0001133228-25-010512-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
