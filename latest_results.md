@@ -21,6 +21,9 @@
 - **N-CSR** | PROFESSIONALLY MANAGED PORTFOLIOS  (CIK 0000811030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/811030/000113322825010512/0001133228-25-010512-index.htm)
 
+- **DEF 14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225017071/0001493152-25-017071-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
 
@@ -45,11 +48,17 @@
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025096307/0001213900-25-096307-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001091/0001279569-25-001091-index.htm)
+
 - **6-K** | Kaixin Holdings  (KXIN)  (CIK 0001713539)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1713539/000110465925096934/0001104659-25-096934-index.htm)
 
 - **6-K** | ZOOZ Power Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225017027/0001493152-25-017027-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001090/0001279569-25-001090-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025096297/0001213900-25-096297-index.htm)
