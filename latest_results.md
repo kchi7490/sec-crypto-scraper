@@ -51,6 +51,9 @@
 - **6-K/A** | Critical Metals Corp.  (CRML, CRMLW, CRTMF)  (CIK 0001951089)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951089/000121390025096252/0001213900-25-096252-index.htm)
 
+- **487** | FT 12482  (CIK 0002075414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075414/000144554625006571/0001445546-25-006571-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096308/0001213900-25-096308-index.htm)
 
