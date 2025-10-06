@@ -30,6 +30,9 @@
 - **DEF 14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225017071/0001493152-25-017071-index.htm)
 
+- **S-4/A** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225017093/0001493152-25-017093-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
 
@@ -86,6 +89,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096308/0001213900-25-096308-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096570/0001213900-25-096570-index.htm)
 
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096279/0001213900-25-096279-index.htm)
