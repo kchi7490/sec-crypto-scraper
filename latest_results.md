@@ -78,11 +78,20 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025096297/0001213900-25-096297-index.htm)
 
+- **POS EX** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525232066/0001193125-25-232066-index.htm)
+
+- **DEF 14A** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037383/0001140361-25-037383-index.htm)
+
 - **6-K/A** | Critical Metals Corp.  (CRML, CRMLW, CRTMF)  (CIK 0001951089)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951089/000121390025096252/0001213900-25-096252-index.htm)
 
 - **487** | FT 12482  (CIK 0002075414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075414/000144554625006571/0001445546-25-006571-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425018916/0001398344-25-018916-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
