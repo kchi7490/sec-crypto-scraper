@@ -9,6 +9,12 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025096236/0001213900-25-096236-index.htm)
 
+- **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925097097/0001104659-25-097097-index.htm)
+
+- **S-3ASR** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025096539/0001213900-25-096539-index.htm)
+
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925096966/0001104659-25-096966-index.htm)
 
@@ -32,6 +38,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017009/0001493152-25-017009-index.htm)
+
+- **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000095/0001819989-25-000095-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096239/0001213900-25-096239-index.htm)
@@ -68,6 +77,9 @@
 
 - **487** | FT 12482  (CIK 0002075414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075414/000144554625006571/0001445546-25-006571-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096308/0001213900-25-096308-index.htm)
