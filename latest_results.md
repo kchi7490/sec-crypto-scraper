@@ -6,6 +6,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007415/0001683168-25-007415-index.htm)
 
+- **8-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225017222/0001493152-25-017222-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025096236/0001213900-25-096236-index.htm)
 
