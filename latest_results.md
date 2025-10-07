@@ -12,6 +12,9 @@
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925097097/0001104659-25-097097-index.htm)
 
+- **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225017162/0001493152-25-017162-index.htm)
+
 - **S-3ASR** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025096539/0001213900-25-096539-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525230977/0001193125-25-230977-index.htm)
+
+- **S-1/A** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225017148/0001493152-25-017148-index.htm)
 
 - **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525232098/0001193125-25-232098-index.htm)
@@ -81,6 +87,9 @@
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025096307/0001213900-25-096307-index.htm)
 
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225017136/0001493152-25-017136-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001091/0001279569-25-001091-index.htm)
 
@@ -108,8 +117,14 @@
 - **487** | FT 12482  (CIK 0002075414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075414/000144554625006571/0001445546-25-006571-index.htm)
 
+- **424B5** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000199937125014759/0001999371-25-014759-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425018916/0001398344-25-018916-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025096772/0001213900-25-096772-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
@@ -125,4 +140,7 @@
 
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096279/0001213900-25-096279-index.htm)
+
+- **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925014681/0001214659-25-014681-index.htm)
 
