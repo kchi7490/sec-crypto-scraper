@@ -15,8 +15,20 @@
 - **8-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225017222/0001493152-25-017222-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012940/0000950103-25-012940-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025096236/0001213900-25-096236-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012944/0000950103-25-012944-index.htm)
 
 - **8-K** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315225017234/0001493152-25-017234-index.htm)
@@ -119,6 +131,9 @@
 
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225017121/0001493152-25-017121-index.htm)
+
+- **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025097114/0001213900-25-097114-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096239/0001213900-25-096239-index.htm)
