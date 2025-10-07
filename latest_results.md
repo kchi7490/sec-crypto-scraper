@@ -48,6 +48,9 @@
 - **S-4/A** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225017093/0001493152-25-017093-index.htm)
 
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096801/0001213900-25-096801-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
 
