@@ -60,6 +60,12 @@
 - **S-1/A** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025096648/0001213900-25-096648-index.htm)
 
+- **424B2** | GameStop Corp.  (GME)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000092/0001326380-25-000092-index.htm)
+
+- **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125014847/0001999371-25-014847-index.htm)
+
 - **S-4/A** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225017093/0001493152-25-017093-index.htm)
 
@@ -75,6 +81,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330125000087/0001083301-25-000087-index.htm)
 
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037488/0001140361-25-037488-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017009/0001493152-25-017009-index.htm)
 
@@ -87,11 +96,17 @@
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096239/0001213900-25-096239-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325012929/0000950103-25-012929-index.htm)
+
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225017119/0001493152-25-017119-index.htm)
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125014827/0001999371-25-014827-index.htm)
+
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001397/0001185185-25-001397-index.htm)
 
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925014673/0001214659-25-014673-index.htm)
@@ -125,6 +140,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001090/0001279569-25-001090-index.htm)
+
+- **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025097024/0001213900-25-097024-index.htm)
 
 - **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025096803/0001213900-25-096803-index.htm)
@@ -161,6 +179,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025097038/0001213900-25-097038-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025096821/0001213900-25-096821-index.htm)
