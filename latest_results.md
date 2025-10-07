@@ -39,17 +39,29 @@
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925096966/0001104659-25-096966-index.htm)
 
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025097100/0001213900-25-097100-index.htm)
+
+- **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025097093/0001213900-25-097093-index.htm)
+
 - **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/0001213900-25-096483-index.htm)
 
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
 
+- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
+
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525230977/0001193125-25-230977-index.htm)
+
+- **S-1/A** | Canary Litecoin ETF  (CIK 0002039461)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125014861/0001999371-25-014861-index.htm)
 
 - **S-1/A** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225017148/0001493152-25-017148-index.htm)
@@ -80,6 +92,9 @@
 
 - **S-4/A** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225017093/0001493152-25-017093-index.htm)
+
+- **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033425001793/0001640334-25-001793-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096801/0001213900-25-096801-index.htm)
@@ -122,9 +137,6 @@
 
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925014673/0001214659-25-014673-index.htm)
-
-- **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033425001793/0001640334-25-001793-index.htm)
 
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525231015/0001193125-25-231015-index.htm)
@@ -215,6 +227,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096570/0001213900-25-096570-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525233626/0001193125-25-233626-index.htm)
 
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096279/0001213900-25-096279-index.htm)
