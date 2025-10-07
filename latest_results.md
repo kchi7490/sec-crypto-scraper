@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225017302/0001493152-25-017302-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225017019/0001493152-25-017019-index.htm)
 
@@ -119,6 +122,9 @@
 
 - **8-K** | Connexa Sports Technologies Inc.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315225017016/0001493152-25-017016-index.htm)
+
+- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225017301/0001493152-25-017301-index.htm)
 
 - **S-1/A** | Iron Horse Acquisition II Corp.  (IRHO)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025096551/0001213900-25-096551-index.htm)
