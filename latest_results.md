@@ -150,6 +150,9 @@
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025096772/0001213900-25-096772-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096885/0001213900-25-096885-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025096544/0001213900-25-096544-index.htm)
 
