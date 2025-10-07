@@ -90,6 +90,9 @@
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225017119/0001493152-25-017119-index.htm)
 
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125014827/0001999371-25-014827-index.htm)
+
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925014673/0001214659-25-014673-index.htm)
 
