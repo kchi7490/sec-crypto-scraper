@@ -21,6 +21,9 @@
 - **8-K** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315225017234/0001493152-25-017234-index.htm)
 
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125014855/0001999371-25-014855-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017219/0001493152-25-017219-index.htm)
 
@@ -42,6 +45,9 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
 
+- **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525230977/0001193125-25-230977-index.htm)
 
@@ -56,6 +62,9 @@
 
 - **N-CSR** | PROFESSIONALLY MANAGED PORTFOLIOS  (CIK 0000811030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/811030/000113322825010512/0001133228-25-010512-index.htm)
+
+- **S-1/A** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025097069/0001213900-25-097069-index.htm)
 
 - **DEF 14A** | Safety Shot, Inc.  (SHOT, SHOTW)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225017071/0001493152-25-017071-index.htm)
@@ -114,6 +123,9 @@
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925014673/0001214659-25-014673-index.htm)
 
+- **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033425001793/0001640334-25-001793-index.htm)
+
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525231015/0001193125-25-231015-index.htm)
 
@@ -155,6 +167,9 @@
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025096297/0001213900-25-096297-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925097532/0001104659-25-097532-index.htm)
 
 - **POS EX** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525232066/0001193125-25-232066-index.htm)
