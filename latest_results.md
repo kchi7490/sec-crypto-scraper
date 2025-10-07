@@ -9,6 +9,9 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025096236/0001213900-25-096236-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017219/0001493152-25-017219-index.htm)
+
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925097097/0001104659-25-097097-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001090/0001279569-25-001090-index.htm)
+
+- **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025096803/0001213900-25-096803-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025096297/0001213900-25-096297-index.htm)
