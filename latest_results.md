@@ -16,10 +16,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225017222/0001493152-25-017222-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012940/0000950103-25-012940-index.htm)
@@ -66,11 +66,14 @@
 - **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/0001213900-25-096483-index.htm)
 
-- **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
+- **8-K** | Cadre Holdings, Inc.  (CDRE)  (CIK 0001860543)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860543/000110465925097750/0001104659-25-097750-index.htm)
 
 - **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
+
+- **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
 
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
@@ -119,6 +122,9 @@
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025096801/0001213900-25-096801-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525234052/0001193125-25-234052-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
@@ -180,6 +186,9 @@
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225017301/0001493152-25-017301-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025097242/0001213900-25-097242-index.htm)
+
 - **S-1/A** | Iron Horse Acquisition II Corp.  (IRHO)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025096551/0001213900-25-096551-index.htm)
 
@@ -239,6 +248,9 @@
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025096772/0001213900-25-096772-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025097229/0001213900-25-097229-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096885/0001213900-25-096885-index.htm)
