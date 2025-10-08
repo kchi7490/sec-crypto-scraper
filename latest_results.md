@@ -16,10 +16,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225017222/0001493152-25-017222-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012940/0000950103-25-012940-index.htm)
@@ -60,11 +60,11 @@
 - **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/0001213900-25-096483-index.htm)
 
-- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
-
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
+
+- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
 
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
