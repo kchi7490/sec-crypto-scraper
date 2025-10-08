@@ -19,10 +19,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225017381/0001493152-25-017381-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006348/0001171843-25-006348-index.htm)
