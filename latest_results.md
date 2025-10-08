@@ -93,6 +93,9 @@
 - **N-CSR** | PROFESSIONALLY MANAGED PORTFOLIOS  (CIK 0000811030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/811030/000113322825010512/0001133228-25-010512-index.htm)
 
+- **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
+
 - **S-1/A** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025097069/0001213900-25-097069-index.htm)
 
@@ -119,6 +122,9 @@
 
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000121390025096276/0001213900-25-096276-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233985/0001193125-25-233985-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017204/0001493152-25-017204-index.htm)
