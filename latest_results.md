@@ -18,6 +18,9 @@
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315225017428/0001493152-25-017428-index.htm)
 
+- **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025097483/0001213900-25-097483-index.htm)
+
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225017242/0001493152-25-017242-index.htm)
 
@@ -169,10 +172,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017009/0001493152-25-017009-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000095/0001819989-25-000095-index.htm)
@@ -266,6 +269,9 @@
 
 - **6-K/A** | Critical Metals Corp.  (CRML, CRMLW, CRTMF)  (CIK 0001951089)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951089/000121390025096252/0001213900-25-096252-index.htm)
+
+- **424B3** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025097486/0001213900-25-097486-index.htm)
 
 - **487** | FT 12482  (CIK 0002075414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075414/000144554625006571/0001445546-25-006571-index.htm)
