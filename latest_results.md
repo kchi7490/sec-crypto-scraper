@@ -12,6 +12,9 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525234538/0001193125-25-234538-index.htm)
 
+- **DEFA14A** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315225017538/0001493152-25-017538-index.htm)
+
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525235127/0001193125-25-235127-index.htm)
 
@@ -177,6 +180,12 @@
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225017136/0001493152-25-017136-index.htm)
 
+- **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/0001171843-25-006363-index.htm)
+
+- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925098013/0001104659-25-098013-index.htm)
+
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025097024/0001213900-25-097024-index.htm)
 
@@ -188,12 +197,6 @@
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000110465925097532/0001104659-25-097532-index.htm)
-
-- **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/0001171843-25-006363-index.htm)
-
-- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925098013/0001104659-25-098013-index.htm)
 
 - **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025097578/0001213900-25-097578-index.htm)
