@@ -9,6 +9,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225017515/0001493152-25-017515-index.htm)
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525236063/0001193125-25-236063-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525234538/0001193125-25-234538-index.htm)
 
@@ -43,10 +46,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225017381/0001493152-25-017381-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006348/0001171843-25-006348-index.htm)
@@ -96,14 +99,20 @@
 - **8-K** | Cadre Holdings, Inc.  (CDRE)  (CIK 0001860543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860543/000110465925097750/0001104659-25-097750-index.htm)
 
-- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
-
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
 
+- **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
+
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525236056/0001193125-25-236056-index.htm)
+
+- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
 
 - **S-1/A** | Canary Litecoin ETF  (CIK 0002039461)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125014861/0001999371-25-014861-index.htm)
@@ -123,6 +132,9 @@
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000068/0001144879-25-000068-index.htm)
 
+- **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525236053/0001193125-25-236053-index.htm)
+
 - **424B2** | GameStop Corp.  (GME)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000092/0001326380-25-000092-index.htm)
 
@@ -131,6 +143,9 @@
 
 - **424B5** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025097615/0001213900-25-097615-index.htm)
+
+- **S-3** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017639/0001493152-25-017639-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125014847/0001999371-25-014847-index.htm)
@@ -160,22 +175,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017204/0001493152-25-017204-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037488/0001140361-25-037488-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037753/0001140361-25-037753-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037753/0001140361-25-037753-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037488/0001140361-25-037488-index.htm)
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025097141/0001213900-25-097141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
 
 - **424B3** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025097114/0001213900-25-097114-index.htm)
+
+- **10-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825007480/0001683168-25-007480-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325012929/0000950103-25-012929-index.htm)
@@ -185,6 +203,12 @@
 
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001397/0001185185-25-001397-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525236058/0001193125-25-236058-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525236066/0001193125-25-236066-index.htm)
 
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225017301/0001493152-25-017301-index.htm)
@@ -249,6 +273,9 @@
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025096772/0001213900-25-096772-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025097847/0001213900-25-097847-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025097229/0001213900-25-097229-index.htm)
 
@@ -272,6 +299,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015065/0001999371-25-015065-index.htm)
+
+- **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774925030797/0001437749-25-030797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525233626/0001193125-25-233626-index.htm)
