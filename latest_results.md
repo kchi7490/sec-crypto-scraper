@@ -219,6 +219,9 @@
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000585/0000945908-25-000585-index.htm)
 
+- **485APOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312525235718/0001193125-25-235718-index.htm)
+
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025097444/0001213900-25-097444-index.htm)
 
@@ -236,6 +239,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025096885/0001213900-25-096885-index.htm)
+
+- **425** | StableCoinX Inc.  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025097760/0001213900-25-097760-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025097420/0001213900-25-097420-index.htm)
