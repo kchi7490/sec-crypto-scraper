@@ -6,6 +6,9 @@
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025097488/0001213900-25-097488-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225017515/0001493152-25-017515-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525234538/0001193125-25-234538-index.htm)
 
@@ -31,10 +34,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225017381/0001493152-25-017381-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
 
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012943/0000950103-25-012943-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325012941/0000950103-25-012941-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006348/0001171843-25-006348-index.htm)
@@ -75,11 +78,11 @@
 - **8-K** | Cadre Holdings, Inc.  (CDRE)  (CIK 0001860543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860543/000110465925097750/0001104659-25-097750-index.htm)
 
-- **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
-
 - **S-1/A** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/0001999371-25-014860-index.htm)
+
+- **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001417/0001193805-25-001417-index.htm)
 
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
@@ -121,6 +124,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017204/0001493152-25-017204-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037753/0001140361-25-037753-index.htm)
+
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037488/0001140361-25-037488-index.htm)
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
@@ -159,6 +165,12 @@
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225017136/0001493152-25-017136-index.htm)
 
+- **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/0001171843-25-006363-index.htm)
+
+- **N-2/A** | USVC Venture Capital Access Fund  (CIK 0001858660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000110465925098013/0001104659-25-098013-index.htm)
+
 - **424B3** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025097024/0001213900-25-097024-index.htm)
 
@@ -173,6 +185,9 @@
 
 - **424B3** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025097486/0001213900-25-097486-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025097520/0001213900-25-097520-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025097444/0001213900-25-097444-index.htm)
@@ -203,6 +218,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525233626/0001193125-25-233626-index.htm)
+
+- **485APOS** | Investment Managers Series Trust II  (CIK 0001587982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025097512/0001213900-25-097512-index.htm)
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925014681/0001214659-25-014681-index.htm)
