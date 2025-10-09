@@ -108,6 +108,9 @@
 - **S-1/A** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025097067/0001213900-25-097067-index.htm)
 
+- **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312525236069/0001193125-25-236069-index.htm)
+
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525236056/0001193125-25-236056-index.htm)
 
@@ -141,6 +144,9 @@
 - **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000069/0001144879-25-000069-index.htm)
 
+- **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025097860/0001213900-25-097860-index.htm)
+
 - **424B5** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025097615/0001213900-25-097615-index.htm)
 
@@ -161,6 +167,12 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525234052/0001193125-25-234052-index.htm)
+
+- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525236072/0001193125-25-236072-index.htm)
+
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525236071/0001193125-25-236071-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017534/0001493152-25-017534-index.htm)
