@@ -63,6 +63,9 @@
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025097213/0001213900-25-097213-index.htm)
 
+- **S-1/A** | Canary XRP ETF  (CIK 0002039505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937125015164/0001999371-25-015164-index.htm)
+
 - **8-K** | Cadre Holdings, Inc.  (CDRE)  (CIK 0001860543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860543/000110465925097750/0001104659-25-097750-index.htm)
 
@@ -130,10 +133,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025097141/0001213900-25-097141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
 
 - **10-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825007480/0001683168-25-007480-index.htm)
