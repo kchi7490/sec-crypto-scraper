@@ -234,6 +234,9 @@
 - **10-K** | Accenture plc  (ACN)  (CIK 0001467373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/0001467373-25-000217-index.htm)
 
+- **497** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015176/0001999371-25-015176-index.htm)
+
 - **485APOS** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025097512/0001213900-25-097512-index.htm)
 
