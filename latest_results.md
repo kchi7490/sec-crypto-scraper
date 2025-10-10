@@ -102,6 +102,9 @@
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
 
+- **S-4** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125037963/0001140361-25-037963-index.htm)
+
 - **S-1/A** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025097494/0001213900-25-097494-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525236053/0001193125-25-236053-index.htm)
+
+- **10-12G** | Grayscale Bittensor Trust (TAO)  (CIK 0002029297)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525237238/0001193125-25-237238-index.htm)
 
 - **485APOS** | ONEFUND Trust  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125015187/0001999371-25-015187-index.htm)
@@ -137,6 +143,9 @@
 
 - **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025098135/0001213900-25-098135-index.htm)
+
+- **PRE 14A** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225017816/0001493152-25-017816-index.htm)
 
 - **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025098141/0001213900-25-098141-index.htm)
@@ -216,6 +225,9 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925098564/0001104659-25-098564-index.htm)
 
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525237242/0001193125-25-237242-index.htm)
+
 - **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025097913/0001213900-25-097913-index.htm)
 
@@ -257,6 +269,9 @@
 
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010815/0001133228-25-010815-index.htm)
+
+- **DFAN14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004376/0000902664-25-004376-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015084/0001999371-25-015084-index.htm)
