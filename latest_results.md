@@ -111,11 +111,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225017534/0001493152-25-017534-index.htm)
 
-- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233985/0001193125-25-233985-index.htm)
-
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925098100/0001104659-25-098100-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233985/0001193125-25-233985-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037753/0001140361-25-037753-index.htm)
@@ -149,6 +149,9 @@
 
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925098488/0001104659-25-098488-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925098564/0001104659-25-098564-index.htm)
 
 - **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025097913/0001213900-25-097913-index.htm)
