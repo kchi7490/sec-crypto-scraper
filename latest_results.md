@@ -63,11 +63,11 @@
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312525236069/0001193125-25-236069-index.htm)
 
-- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
-
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525236056/0001193125-25-236056-index.htm)
+
+- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
 
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
@@ -121,10 +121,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025097141/0001213900-25-097141-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012964/0000950103-25-012964-index.htm)
 
 - **10-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825007480/0001683168-25-007480-index.htm)
