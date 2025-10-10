@@ -63,11 +63,11 @@
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312525236069/0001193125-25-236069-index.htm)
 
-- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
-
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525236056/0001193125-25-236056-index.htm)
+
+- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
 
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
@@ -92,6 +92,9 @@
 
 - **S-3** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017639/0001493152-25-017639-index.htm)
+
+- **S-3/A** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017677/0001493152-25-017677-index.htm)
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225017609/0001493152-25-017609-index.htm)
@@ -143,6 +146,12 @@
 
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390025097397/0001213900-25-097397-index.htm)
+
+- **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925098488/0001104659-25-098488-index.htm)
+
+- **6-K** | VisionSys AI Inc  (VSA)  (CIK 0001592560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592560/000121390025097913/0001213900-25-097913-index.htm)
 
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/0001171843-25-006363-index.htm)
