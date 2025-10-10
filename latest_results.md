@@ -78,6 +78,9 @@
 - **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
 
+- **S-1/A** | Grayscale XRP Trust  (GXRP)  (CIK 0002037427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312525237096/0001193125-25-237096-index.htm)
+
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
 
@@ -114,6 +117,9 @@
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225017609/0001493152-25-017609-index.htm)
 
+- **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025098135/0001213900-25-098135-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525234052/0001193125-25-234052-index.htm)
 
@@ -135,6 +141,9 @@
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125037753/0001140361-25-037753-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000231/0001099910-25-000231-index.htm)
+
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025097141/0001213900-25-097141-index.htm)
 
@@ -143,6 +152,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325012963/0000950103-25-012963-index.htm)
+
+- **424B7** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125037938/0001140361-25-037938-index.htm)
 
 - **10-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825007480/0001683168-25-007480-index.htm)
@@ -231,11 +243,17 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025097229/0001213900-25-097229-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025098129/0001213900-25-098129-index.htm)
+
 - **425** | StableCoinX Inc.  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025097760/0001213900-25-097760-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025097420/0001213900-25-097420-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025098130/0001213900-25-098130-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015075/0001999371-25-015075-index.htm)
@@ -248,6 +266,9 @@
 
 - **10-K** | Accenture plc  (ACN)  (CIK 0001467373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/0001467373-25-000217-index.htm)
+
+- **485APOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312525237051/0001193125-25-237051-index.htm)
 
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015176/0001999371-25-015176-index.htm)
