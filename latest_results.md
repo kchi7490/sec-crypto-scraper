@@ -63,11 +63,11 @@
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312525236069/0001193125-25-236069-index.htm)
 
-- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
-
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525236056/0001193125-25-236056-index.htm)
+
+- **8-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525236055/0001193125-25-236055-index.htm)
 
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
