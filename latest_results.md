@@ -90,6 +90,9 @@
 - **S-1/A** | Grayscale Solana Trust (SOL)  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525236053/0001193125-25-236053-index.htm)
 
+- **485APOS** | ONEFUND Trust  (CIK 0001345125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125015187/0001999371-25-015187-index.htm)
+
 - **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000069/0001144879-25-000069-index.htm)
 
@@ -215,6 +218,12 @@
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015084/0001999371-25-015084-index.htm)
+
+- **N-2/A** | RiverNorth Short Prime Unicorn Fund 2027, Inc.  (CIK 0002077697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077697/000139834425019073/0001398344-25-019073-index.htm)
+
+- **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000119312525236859/0001193125-25-236859-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025097847/0001213900-25-097847-index.htm)
