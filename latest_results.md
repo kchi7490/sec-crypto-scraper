@@ -48,6 +48,12 @@
 - **8-K** | TRANSUITE.ORG INC.  (TRSO)  (CIK 0001758699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758699/000164033425001807/0001640334-25-001807-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013085/0000950103-25-013085-index.htm)
+
+- **S-3/A** | StableX Technologies, Inc.  (SBLX)  (CIK 0001086745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000149315225017788/0001493152-25-017788-index.htm)
+
 - **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025097321/0001213900-25-097321-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **S-1/A** | Grayscale XRP Trust  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312525237096/0001193125-25-237096-index.htm)
+
+- **S-1/A** | Bitwise XRP ETF  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000121390025098171/0001213900-25-098171-index.htm)
 
 - **424B5** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525233979/0001193125-25-233979-index.htm)
@@ -198,6 +207,9 @@
 - **6-K** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025097956/0001213900-25-097956-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325006395/0001171843-25-006395-index.htm)
+
 - **6-K** | BIT Mining Ltd  (BTCM)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925098488/0001104659-25-098488-index.htm)
 
@@ -218,6 +230,9 @@
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025097957/0001213900-25-097957-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025098186/0001213900-25-098186-index.htm)
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225017701/0001493152-25-017701-index.htm)
