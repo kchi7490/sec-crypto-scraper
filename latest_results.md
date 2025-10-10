@@ -204,6 +204,9 @@
 - **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774925030797/0001437749-25-030797-index.htm)
 
+- **10-K** | Accenture plc  (ACN)  (CIK 0001467373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/0001467373-25-000217-index.htm)
+
 - **485APOS** | Investment Managers Series Trust II  (CIK 0001587982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587982/000121390025097512/0001213900-25-097512-index.htm)
 
