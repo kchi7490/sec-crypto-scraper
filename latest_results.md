@@ -66,6 +66,9 @@
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025097213/0001213900-25-097213-index.htm)
 
+- **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000210/0002071844-25-000210-index.htm)
+
 - **S-1/A** | Canary XRP ETF  (CIK 0002039505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937125015164/0001999371-25-015164-index.htm)
 
@@ -128,6 +131,9 @@
 
 - **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025098141/0001213900-25-098141-index.htm)
+
+- **S-1/A** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025098162/0001213900-25-098162-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525234052/0001193125-25-234052-index.htm)
