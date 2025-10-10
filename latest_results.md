@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **S-3/A** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525237141/0001193125-25-237141-index.htm)
+
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025097488/0001213900-25-097488-index.htm)
 
@@ -69,6 +72,9 @@
 - **8-K** | Cadre Holdings, Inc.  (CDRE)  (CIK 0001860543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860543/000110465925097750/0001104659-25-097750-index.htm)
 
+- **S-1/A** | WisdomTree XRP Fund  (CIK 0002046791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046791/000121465925014860/0001214659-25-014860-index.htm)
+
 - **8-K** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312525236069/0001193125-25-236069-index.htm)
 
@@ -119,6 +125,9 @@
 
 - **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025098135/0001213900-25-098135-index.htm)
+
+- **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025098141/0001213900-25-098141-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525234052/0001193125-25-234052-index.htm)
