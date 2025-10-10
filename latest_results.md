@@ -105,6 +105,9 @@
 - **S-3/A** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225017677/0001493152-25-017677-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225057440/0001839882-25-057440-index.htm)
+
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225017609/0001493152-25-017609-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **S-1** | Alussa Energy Acquisition Corp. II  (CIK 0002041493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041493/000121390025098029/0001213900-25-098029-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000623/0001137360-25-000623-index.htm)
 
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525236058/0001193125-25-236058-index.htm)
