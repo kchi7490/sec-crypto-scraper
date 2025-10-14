@@ -27,6 +27,9 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098838/0001213900-25-098838-index.htm)
 
+- **S-3ASR** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225018058/0001493152-25-018058-index.htm)
+
 - **S-1/A** | CoinShares XRP ETF  (CIK 0002048583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048583/000199937125015232/0001999371-25-015232-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **10-K** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390025098514/0001213900-25-098514-index.htm)
+
+- **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525238132/0001193125-25-238132-index.htm)
@@ -106,10 +112,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
@@ -138,11 +144,11 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098811/0001213900-25-098811-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
-
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
@@ -180,6 +186,12 @@
 - **N-CEN** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000141036825014335/0001410368-25-014335-index.htm)
 
+- **425** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025098873/0001213900-25-098873-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025098868/0001213900-25-098868-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098242/0001213900-25-098242-index.htm)
 
@@ -188,4 +200,7 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525239165/0001193125-25-239165-index.htm)
 
