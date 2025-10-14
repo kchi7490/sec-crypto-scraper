@@ -46,8 +46,8 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098242/0001213900-25-098242-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098330/0001213900-25-098330-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098330/0001213900-25-098330-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
 
