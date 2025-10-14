@@ -36,6 +36,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
 
+- **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001432/0001185185-25-001432-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925098857/0001104659-25-098857-index.htm)
 
