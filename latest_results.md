@@ -54,6 +54,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925099020/0001104659-25-099020-index.htm)
 
+- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997325001601/0001079973-25-001601-index.htm)
+
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025098402/0001213900-25-098402-index.htm)
 
