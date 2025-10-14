@@ -21,6 +21,9 @@
 - **S-1/A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025098409/0001213900-25-098409-index.htm)
 
+- **8-K** | Tianci International, Inc.  (CIIT)  (CIK 0001557798)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557798/000168316825007534/0001683168-25-007534-index.htm)
+
 - **S-1/A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025098405/0001213900-25-098405-index.htm)
 
