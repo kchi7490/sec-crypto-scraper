@@ -31,10 +31,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013116/0000950103-25-013116-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925098857/0001104659-25-098857-index.htm)
@@ -47,4 +47,7 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098330/0001213900-25-098330-index.htm)
 
