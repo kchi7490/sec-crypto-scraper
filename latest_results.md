@@ -57,6 +57,9 @@
 - **S-1** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465925099424/0001104659-25-099424-index.htm)
 
+- **10-Q/A** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315225018121/0001493152-25-018121-index.htm)
+
 - **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
 
