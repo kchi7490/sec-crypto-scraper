@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025099177/0001213900-25-099177-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225017868/0001493152-25-017868-index.htm)
 
@@ -12,8 +15,14 @@
 - **8-K** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425011797/0001654954-25-011797-index.htm)
 
+- **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025099181/0001213900-25-099181-index.htm)
+
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225018008/0001493152-25-018008-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038207/0001140361-25-038207-index.htm)
 
 - **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315225017878/0001493152-25-017878-index.htm)
@@ -26,6 +35,9 @@
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007518/0001683168-25-007518-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038209/0001140361-25-038209-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098810/0001213900-25-098810-index.htm)
@@ -94,6 +106,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013112/0000950103-25-013112-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013227/0000950103-25-013227-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013113/0000950103-25-013113-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -133,10 +148,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
