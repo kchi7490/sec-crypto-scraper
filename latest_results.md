@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225017868/0001493152-25-017868-index.htm)
 
+- **8-K** | Unicoin Inc.  (CIK 0001740742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008130/0001829126-25-008130-index.htm)
+
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525239052/0001193125-25-239052-index.htm)
 
@@ -219,6 +222,9 @@
 - **DFAN14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004391/0000902664-25-004391-index.htm)
 
+- **8-A12B** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025099141/0001213900-25-099141-index.htm)
+
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418925011256/0000894189-25-011256-index.htm)
 
@@ -236,6 +242,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098242/0001213900-25-098242-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025099144/0001213900-25-099144-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098330/0001213900-25-098330-index.htm)
