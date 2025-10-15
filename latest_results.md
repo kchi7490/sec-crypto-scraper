@@ -51,6 +51,9 @@
 - **10-K** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390025098514/0001213900-25-098514-index.htm)
 
+- **S-1** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465925099424/0001104659-25-099424-index.htm)
+
 - **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
 
@@ -82,10 +85,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013116/0000950103-25-013116-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925099020/0001104659-25-099020-index.htm)
@@ -112,10 +115,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
@@ -144,14 +147,17 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098811/0001213900-25-098811-index.htm)
 
-- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
 
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
+
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
+
+- **6-K** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025098921/0001213900-25-098921-index.htm)
 
 - **6-K** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025098402/0001213900-25-098402-index.htm)
@@ -165,11 +171,17 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925098857/0001104659-25-098857-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025098957/0001213900-25-098957-index.htm)
+
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025098777/0001213900-25-098777-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025098365/0001213900-25-098365-index.htm)
+
+- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315225018080/0001493152-25-018080-index.htm)
 
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000594/0000945908-25-000594-index.htm)
