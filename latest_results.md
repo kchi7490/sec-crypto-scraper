@@ -121,10 +121,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
@@ -200,6 +200,9 @@
 
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000594/0000945908-25-000594-index.htm)
+
+- **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010865/0001133228-25-010865-index.htm)
 
 - **DFAN14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004391/0000902664-25-004391-index.htm)
