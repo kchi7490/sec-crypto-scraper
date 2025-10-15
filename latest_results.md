@@ -57,6 +57,9 @@
 - **8-K** | Tianci International, Inc.  (CIIT)  (CIK 0001557798)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557798/000168316825007534/0001683168-25-007534-index.htm)
 
+- **424B5** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225018187/0001493152-25-018187-index.htm)
+
 - **S-1/A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025098405/0001213900-25-098405-index.htm)
 
@@ -132,6 +135,9 @@
 - **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997325001601/0001079973-25-001601-index.htm)
 
+- **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025099234/0001213900-25-099234-index.htm)
+
 - **S-1/A** | Cantor Equity Partners V, Inc.  (CEPV)  (CIK 0002034266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034266/000121390025098721/0001213900-25-098721-index.htm)
 
@@ -148,10 +154,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
@@ -180,11 +186,11 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098811/0001213900-25-098811-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
-
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
