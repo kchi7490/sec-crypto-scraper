@@ -91,10 +91,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013116/0000950103-25-013116-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925099020/0001104659-25-099020-index.htm)
@@ -153,11 +153,11 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098811/0001213900-25-098811-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
-
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
@@ -242,6 +242,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
+
+- **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793225007574/0001477932-25-007574-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312525239165/0001193125-25-239165-index.htm)
