@@ -159,6 +159,12 @@
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
 
+- **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025098968/0001213900-25-098968-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025098969/0001213900-25-098969-index.htm)
+
 - **6-K** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025098921/0001213900-25-098921-index.htm)
 
@@ -215,6 +221,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098330/0001213900-25-098330-index.htm)
+
+- **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925099537/0001104659-25-099537-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025098243/0001213900-25-098243-index.htm)
