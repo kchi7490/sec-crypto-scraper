@@ -63,6 +63,9 @@
 - **10-Q/A** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315225018121/0001493152-25-018121-index.htm)
 
+- **F-3** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025099160/0001213900-25-099160-index.htm)
+
 - **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
 
@@ -117,6 +120,9 @@
 - **S-1/A** | Cantor Equity Partners V, Inc.  (CEPV)  (CIK 0002034266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034266/000121390025098721/0001213900-25-098721-index.htm)
 
+- **PRE 14A** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925099754/0001104659-25-099754-index.htm)
+
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098843/0001213900-25-098843-index.htm)
 
@@ -159,11 +165,11 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098811/0001213900-25-098811-index.htm)
 
-- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
