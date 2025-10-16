@@ -48,6 +48,9 @@
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098810/0001213900-25-098810-index.htm)
 
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001459/0001185185-25-001459-index.htm)
+
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098838/0001213900-25-098838-index.htm)
 
@@ -102,8 +105,14 @@
 - **F-3** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025099160/0001213900-25-099160-index.htm)
 
+- **10-K/A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025099542/0001213900-25-099542-index.htm)
+
 - **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
+
+- **S-1** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225018310/0001493152-25-018310-index.htm)
 
 - **20-F** | Recon Technology, Ltd  (RCON)  (CIK 0001442620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1442620/000110465925099502/0001104659-25-099502-index.htm)
@@ -210,17 +219,20 @@
 - **S-1** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025099307/0001213900-25-099307-index.htm)
 
-- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
-
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
 
 - **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025098968/0001213900-25-098968-index.htm)
+
+- **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100076/0001104659-25-100076-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025099344/0001213900-25-099344-index.htm)
@@ -270,6 +282,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025098365/0001213900-25-098365-index.htm)
 
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225018305/0001493152-25-018305-index.htm)
+
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625008159/0001829126-25-008159-index.htm)
 
@@ -311,6 +326,9 @@
 
 - **N-CEN** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000141036825014335/0001410368-25-014335-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003224/0001592900-25-003224-index.htm)
 
 - **425** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025098873/0001213900-25-098873-index.htm)
