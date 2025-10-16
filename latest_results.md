@@ -57,6 +57,9 @@
 - **S-3ASR** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225018058/0001493152-25-018058-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013285/0000950103-25-013285-index.htm)
+
 - **S-1/A** | CoinShares XRP ETF  (CIK 0002048583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048583/000199937125015232/0001999371-25-015232-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **S-1/A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025098405/0001213900-25-098405-index.htm)
+
+- **S-1** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000162828025045249/0001628280-25-045249-index.htm)
 
 - **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025044937/0001628280-25-044937-index.htm)
@@ -108,11 +114,11 @@
 - **F-3** | Solowin Holdings, Ltd.  (SWIN)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025099160/0001213900-25-099160-index.htm)
 
-- **10-K/A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025099542/0001213900-25-099542-index.htm)
-
 - **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025098882/0001213900-25-098882-index.htm)
+
+- **10-K/A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025099542/0001213900-25-099542-index.htm)
 
 - **S-1** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225018310/0001493152-25-018310-index.htm)
@@ -228,11 +234,11 @@
 - **S-1** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025099307/0001213900-25-099307-index.htm)
 
-- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525239043/0001193125-25-239043-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525239037/0001193125-25-239037-index.htm)
 
 - **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525239046/0001193125-25-239046-index.htm)
