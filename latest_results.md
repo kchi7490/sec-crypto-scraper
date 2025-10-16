@@ -72,6 +72,9 @@
 - **10-K** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390025098514/0001213900-25-098514-index.htm)
 
+- **8-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610425000060/0000036104-25-000060-index.htm)
+
 - **S-1** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465925099424/0001104659-25-099424-index.htm)
 
@@ -160,10 +163,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098833/0001213900-25-098833-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098840/0001213900-25-098840-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098845/0001213900-25-098845-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025098835/0001213900-25-098835-index.htm)
