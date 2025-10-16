@@ -139,10 +139,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013116/0000950103-25-013116-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013114/0000950103-25-013114-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013115/0000950103-25-013115-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925099020/0001104659-25-099020-index.htm)
