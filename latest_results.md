@@ -87,6 +87,9 @@
 - **424B4** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525240757/0001193125-25-240757-index.htm)
 
+- **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025100042/0001213900-25-100042-index.htm)
+
 - **S-1/A** | Heritage Distilling Holding Company, Inc.  (CASK, IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000121390025099309/0001213900-25-099309-index.htm)
 
