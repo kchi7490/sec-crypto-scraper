@@ -57,6 +57,9 @@
 - **PRE 14A** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006461/0001171843-25-006461-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225058885/0001839882-25-058885-index.htm)
+
 - **8-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610425000060/0000036104-25-000060-index.htm)
 
