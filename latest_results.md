@@ -24,6 +24,9 @@
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038209/0001140361-25-038209-index.htm)
 
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013304/0000950103-25-013304-index.htm)
+
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001459/0001185185-25-001459-index.htm)
 
@@ -66,6 +69,9 @@
 - **10-K/A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390025099542/0001213900-25-099542-index.htm)
 
+- **S-1** | Aeon Acquisition I Corp.  (CIK 0002082526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315225018352/0001493152-25-018352-index.htm)
+
 - **S-1** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225018310/0001493152-25-018310-index.htm)
 
@@ -75,11 +81,17 @@
 - **S-3/A** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225018322/0001493152-25-018322-index.htm)
 
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025099694/0001213900-25-099694-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013227/0000950103-25-013227-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925100142/0001104659-25-100142-index.htm)
+
+- **424B5** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025099693/0001213900-25-099693-index.htm)
 
 - **S-1/A** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025099234/0001213900-25-099234-index.htm)
@@ -135,6 +147,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025099301/0001213900-25-099301-index.htm)
 
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025099699/0001213900-25-099699-index.htm)
+
 - **6-K** | MingZhu Logistics Holdings Ltd  (YGMZ)  (CIK 0001782037)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1782037/000121390025099626/0001213900-25-099626-index.htm)
 
@@ -158,6 +173,9 @@
 
 - **8-A12B** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025099141/0001213900-25-099141-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019234/0001398344-25-019234-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003224/0001592900-25-003224-index.htm)
