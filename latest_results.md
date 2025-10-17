@@ -12,6 +12,9 @@
 - **8-K** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425011797/0001654954-25-011797-index.htm)
 
+- **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025099991/0001213900-25-099991-index.htm)
+
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025099181/0001213900-25-099181-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **424B5** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225018377/0001493152-25-018377-index.htm)
+
+- **PREM14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225018488/0001493152-25-018488-index.htm)
 
 - **S-3/A** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315225018367/0001493152-25-018367-index.htm)
