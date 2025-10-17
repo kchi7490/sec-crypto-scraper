@@ -84,6 +84,9 @@
 - **S-1** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225018310/0001493152-25-018310-index.htm)
 
+- **485APOS** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325000923/0000088053-25-000923-index.htm)
+
 - **20-F** | Recon Technology, Ltd  (RCON)  (CIK 0001442620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1442620/000110465925099502/0001104659-25-099502-index.htm)
 
@@ -179,6 +182,9 @@
 
 - **487** | FT 12485  (CIK 0002075417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075417/000144554625006845/0001445546-25-006845-index.htm)
+
+- **S-1** | Gloo Holdings, Inc.  (CIK 0002069785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2069785/000119312525242216/0001193125-25-242216-index.htm)
 
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010865/0001133228-25-010865-index.htm)
