@@ -39,6 +39,12 @@
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013285/0000950103-25-013285-index.htm)
 
+- **8-K/A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225018475/0001493152-25-018475-index.htm)
+
+- **S-1/A** | Canary SUI ETF  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937125015628/0001999371-25-015628-index.htm)
+
 - **8-K** | AUDDIA INC.  (AUUD, AUUDW)  (CIK 0001554818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554818/000168316825007609/0001683168-25-007609-index.htm)
 
@@ -140,6 +146,9 @@
 
 - **8-K** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025099344/0001213900-25-099344-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001856/0001640334-25-001856-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025098969/0001213900-25-098969-index.htm)
