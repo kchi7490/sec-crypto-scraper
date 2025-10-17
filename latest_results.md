@@ -156,6 +156,9 @@
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001856/0001640334-25-001856-index.htm)
 
+- **SCHEDULE 13D/A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002763/0000921895-25-002763-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025098969/0001213900-25-098969-index.htm)
 
@@ -231,11 +234,26 @@
 - **8-A12B** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025099141/0001213900-25-099141-index.htm)
 
+- **ABS-15G** | EFMT Depositor LLC  (CIK 0001946154)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946154/000199937125015635/0001999371-25-015635-index.htm)
+
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025099954/0001213900-25-099954-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025099949/0001213900-25-099949-index.htm)
+
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025100006/0001213900-25-100006-index.htm)
+
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025100001/0001213900-25-100001-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019287/0001398344-25-019287-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019285/0001398344-25-019285-index.htm)
 
 - **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465925100381/0001104659-25-100381-index.htm)
@@ -243,8 +261,14 @@
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019234/0001398344-25-019234-index.htm)
 
+- **485APOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003226/0001592900-25-003226-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003224/0001592900-25-003224-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100023/0001213900-25-100023-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025099952/0001213900-25-099952-index.htm)
@@ -258,6 +282,9 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015617/0001999371-25-015617-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100029/0001213900-25-100029-index.htm)
+
 - **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465925099537/0001104659-25-099537-index.htm)
 
@@ -269,4 +296,7 @@
 
 - **10-12G/A** | Warburg Pincus Access Fund, L.P.  (CIK 0002082826)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082826/000119312525240555/0001193125-25-240555-index.htm)
+
+- **DFAN14A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000090266425004458/0000902664-25-004458-index.htm)
 
