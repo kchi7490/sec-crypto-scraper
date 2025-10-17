@@ -42,6 +42,9 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001464/0001193805-25-001464-index.htm)
 
+- **S-3/A** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315225018367/0001493152-25-018367-index.htm)
+
 - **S-1** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000162828025045249/0001628280-25-045249-index.htm)
 
