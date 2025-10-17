@@ -144,6 +144,9 @@
 - **6-K** | Primech Holdings Ltd  (PMEC)  (CIK 0001891944)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1891944/000121390025099336/0001213900-25-099336-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001124/0001279569-25-001124-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025098957/0001213900-25-098957-index.htm)
 
