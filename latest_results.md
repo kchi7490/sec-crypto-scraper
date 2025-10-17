@@ -198,6 +198,9 @@
 - **8-A12B** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025099141/0001213900-25-099141-index.htm)
 
+- **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465925100381/0001104659-25-100381-index.htm)
+
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019234/0001398344-25-019234-index.htm)
 
