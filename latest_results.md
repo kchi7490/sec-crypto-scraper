@@ -21,6 +21,9 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038207/0001140361-25-038207-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013335/0000950103-25-013335-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007584/0001683168-25-007584-index.htm)
 
@@ -53,6 +56,9 @@
 
 - **S-1** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000162828025045249/0001628280-25-045249-index.htm)
+
+- **S-4/A** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025099972/0001213900-25-099972-index.htm)
 
 - **PRE 14A** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006461/0001171843-25-006461-index.htm)
@@ -93,11 +99,17 @@
 - **20-F** | Recon Technology, Ltd  (RCON)  (CIK 0001442620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1442620/000110465925099502/0001104659-25-099502-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000155485925000057/0001554859-25-000057-index.htm)
+
 - **S-3/A** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225018322/0001493152-25-018322-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025099694/0001213900-25-099694-index.htm)
+
+- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325016177/0001062993-25-016177-index.htm)
 
 - **8-K** | Kartoon Studios, Inc.  (TOON)  (CIK 0001355848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355848/000168316825007617/0001683168-25-007617-index.htm)
@@ -137,6 +149,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925099928/0001104659-25-099928-index.htm)
+
+- **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025099950/0001213900-25-099950-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925099511/0001104659-25-099511-index.htm)
@@ -195,8 +210,17 @@
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825010865/0001133228-25-010865-index.htm)
 
+- **PRE 14A** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495425011929/0001654954-25-011929-index.htm)
+
 - **8-A12B** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025099141/0001213900-25-099141-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025099954/0001213900-25-099954-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025099949/0001213900-25-099949-index.htm)
 
 - **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465925100381/0001104659-25-100381-index.htm)
@@ -206,6 +230,9 @@
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003224/0001592900-25-003224-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025099952/0001213900-25-099952-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025099627/0001213900-25-099627-index.htm)
