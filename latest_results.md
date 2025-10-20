@@ -21,6 +21,12 @@
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225018597/0001493152-25-018597-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100435/0001213900-25-100435-index.htm)
+
+- **424B3** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/0001193805-25-001475-index.htm)
+
 - **F-3ASR** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001471/0001193805-25-001471-index.htm)
 
@@ -33,14 +39,38 @@
 - **S-1** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000070/0001859392-25-000070-index.htm)
 
+- **S-1/A** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125038679/0001140361-25-038679-index.htm)
+
+- **S-1/A** | Grayscale Cardano Trust ETF  (GADA)  (CIK 0002083106)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083106/000119312525243710/0001193125-25-243710-index.htm)
+
+- **S-1/A** | Grayscale Polkadot Trust ETF  (DOT)  (CIK 0002083137)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/0001193125-25-243718-index.htm)
+
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007661/0001477932-25-007661-index.htm)
+
+- **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007662/0001477932-25-007662-index.htm)
+
+- **S-4/A** | ProCap Financial, Inc.  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025100431/0001213900-25-100431-index.htm)
+
 - **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018592/0001493152-25-018592-index.htm)
+
+- **S-3ASR** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000119312525243615/0001193125-25-243615-index.htm)
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243106/0001193125-25-243106-index.htm)
 
 - **S-1** | 21Shares Injective ETF  (CIK 0002061622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061622/000121390025100111/0001213900-25-100111-index.htm)
+
+- **DEF 14A** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225018665/0001493152-25-018665-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525243049/0001193125-25-243049-index.htm)
@@ -60,6 +90,9 @@
 - **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025100109/0001213900-25-100109-index.htm)
 
+- **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001409/0001731122-25-001409-index.htm)
+
 - **487** | FT 12487  (CIK 0002075419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075419/000144554625006912/0001445546-25-006912-index.htm)
 
@@ -68,6 +101,9 @@
 
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000015/0001479844-25-000015-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100409/0001213900-25-100409-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015666/0001999371-25-015666-index.htm)
