@@ -9,17 +9,32 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225018552/0001493152-25-018552-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007650/0001683168-25-007650-index.htm)
+
 - **8-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000182912625008237/0001829126-25-008237-index.htm)
 
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525242750/0001193125-25-242750-index.htm)
 
+- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225018597/0001493152-25-018597-index.htm)
+
+- **F-3ASR** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001471/0001193805-25-001471-index.htm)
+
+- **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
+
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
 
 - **S-1** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000070/0001859392-25-000070-index.htm)
+
+- **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018592/0001493152-25-018592-index.htm)
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243106/0001193125-25-243106-index.htm)
@@ -39,8 +54,20 @@
 - **F-3** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025100102/0001213900-25-100102-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025100181/0001213900-25-100181-index.htm)
+
 - **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025100109/0001213900-25-100109-index.htm)
+
+- **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025100246/0001213900-25-100246-index.htm)
+
+- **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000015/0001479844-25-000015-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015666/0001999371-25-015666-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100154/0001213900-25-100154-index.htm)
