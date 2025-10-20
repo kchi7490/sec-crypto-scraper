@@ -45,6 +45,9 @@
 - **F-3** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025100102/0001213900-25-100102-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025100181/0001213900-25-100181-index.htm)
+
 - **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025100109/0001213900-25-100109-index.htm)
 
