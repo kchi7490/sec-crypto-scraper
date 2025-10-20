@@ -9,8 +9,20 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225018552/0001493152-25-018552-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825007650/0001683168-25-007650-index.htm)
+
+- **8-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000182912625008237/0001829126-25-008237-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525242750/0001193125-25-242750-index.htm)
+
+- **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
+
+- **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
 
 - **S-1** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000070/0001859392-25-000070-index.htm)
