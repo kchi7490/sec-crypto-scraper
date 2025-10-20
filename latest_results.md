@@ -27,9 +27,6 @@
 - **S-1** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000070/0001859392-25-000070-index.htm)
 
-- **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018592/0001493152-25-018592-index.htm)
-
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243106/0001193125-25-243106-index.htm)
 
