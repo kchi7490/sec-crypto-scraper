@@ -21,6 +21,9 @@
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225018597/0001493152-25-018597-index.htm)
 
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000073/0001859392-25-000073-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100435/0001213900-25-100435-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025045560/0001628280-25-045560-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225018719/0001493152-25-018719-index.htm)
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
