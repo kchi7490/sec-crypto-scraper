@@ -114,8 +114,14 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225018719/0001493152-25-018719-index.htm)
 
+- **8-K** | Kartoon Studios, Inc.  (TOON)  (CIK 0001355848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355848/000168316825007700/0001683168-25-007700-index.htm)
+
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
+
+- **424B5** | Kartoon Studios, Inc.  (TOON)  (CIK 0001355848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355848/000168316825007698/0001683168-25-007698-index.htm)
 
 - **S-1/A** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025100507/0001213900-25-100507-index.htm)
@@ -162,8 +168,14 @@
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015708/0001999371-25-015708-index.htm)
 
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425019474/0001398344-25-019474-index.htm)
+
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000015/0001479844-25-000015-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019480/0001398344-25-019480-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100468/0001213900-25-100468-index.htm)
