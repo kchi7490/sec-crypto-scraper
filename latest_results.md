@@ -90,6 +90,9 @@
 - **DEF 14A** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225018665/0001493152-25-018665-index.htm)
 
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025100690/0001213900-25-100690-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525243049/0001193125-25-243049-index.htm)
 
