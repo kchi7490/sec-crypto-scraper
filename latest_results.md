@@ -60,6 +60,9 @@
 - **S-1/A** | Grayscale Cardano Trust ETF  (GADA)  (CIK 0002083106)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083106/000119312525243710/0001193125-25-243710-index.htm)
 
+- **10-K** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025100566/0001213900-25-100566-index.htm)
+
 - **S-1/A** | Grayscale Polkadot Trust ETF  (DOT)  (CIK 0002083137)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/0001193125-25-243718-index.htm)
 
