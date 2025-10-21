@@ -78,6 +78,9 @@
 - **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018592/0001493152-25-018592-index.htm)
 
+- **DEFR14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018759/0001493152-25-018759-index.htm)
+
 - **S-3ASR** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000119312525243615/0001193125-25-243615-index.htm)
 
