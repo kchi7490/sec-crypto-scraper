@@ -168,3 +168,6 @@
 - **1-A POS** | Nowigence Inc.  (NOWG)  (CIK 0001761911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761911/000110465925100941/0001104659-25-100941-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000191870425017759/0001918704-25-017759-index.htm)
+
