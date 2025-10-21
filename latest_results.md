@@ -138,6 +138,9 @@
 - **S-3ASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100503/0001104659-25-100503-index.htm)
 
+- **SCHEDULE 13D/A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002780/0000921895-25-002780-index.htm)
+
 - **6-K** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315225018573/0001493152-25-018573-index.htm)
 
