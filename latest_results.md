@@ -36,6 +36,9 @@
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100448/0001213900-25-100448-index.htm)
+
 - **S-1** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000070/0001859392-25-000070-index.htm)
 
@@ -75,6 +78,18 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525243049/0001193125-25-243049-index.htm)
 
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025045560/0001628280-25-045560-index.htm)
+
+- **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
+
+- **S-1/A** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025100507/0001213900-25-100507-index.htm)
+
+- **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100920/0001104659-25-100920-index.htm)
+
 - **S-3ASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100503/0001104659-25-100503-index.htm)
 
@@ -96,14 +111,26 @@
 - **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001409/0001731122-25-001409-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000110465925100992/0001104659-25-100992-index.htm)
+
 - **487** | FT 12487  (CIK 0002075419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075419/000144554625006912/0001445546-25-006912-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025100246/0001213900-25-100246-index.htm)
 
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015708/0001999371-25-015708-index.htm)
+
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000015/0001479844-25-000015-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100468/0001213900-25-100468-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100469/0001213900-25-100469-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100409/0001213900-25-100409-index.htm)
@@ -113,4 +140,7 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100154/0001213900-25-100154-index.htm)
+
+- **1-A POS** | Nowigence Inc.  (NOWG)  (CIK 0001761911)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761911/000110465925100941/0001104659-25-100941-index.htm)
 
