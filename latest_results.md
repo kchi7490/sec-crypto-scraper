@@ -90,8 +90,14 @@
 - **S-1** | 21Shares Injective ETF  (CIK 0002061622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061622/000121390025100111/0001213900-25-100111-index.htm)
 
+- **S-1** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525245178/0001193125-25-245178-index.htm)
+
 - **DEF 14A** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225018665/0001493152-25-018665-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525245112/0001193125-25-245112-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025100690/0001213900-25-100690-index.htm)
@@ -164,6 +170,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100409/0001213900-25-100409-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100818/0001213900-25-100818-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015666/0001999371-25-015666-index.htm)
