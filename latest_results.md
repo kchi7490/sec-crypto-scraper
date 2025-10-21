@@ -48,6 +48,9 @@
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
 
+- **S-1** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225018819/0001493152-25-018819-index.htm)
+
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243106/0001193125-25-243106-index.htm)
+
+- **S-4/A** | Roth CH Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625008317/0001829126-25-008317-index.htm)
 
 - **S-1** | 21Shares Injective ETF  (CIK 0002061622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061622/000121390025100111/0001213900-25-100111-index.htm)
@@ -167,6 +173,9 @@
 
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015708/0001999371-25-015708-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019484/0001398344-25-019484-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425019474/0001398344-25-019474-index.htm)
