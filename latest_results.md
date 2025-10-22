@@ -105,6 +105,9 @@
 - **S-1** | 21Shares Injective ETF  (CIK 0002061622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061622/000121390025100111/0001213900-25-100111-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225059781/0001839882-25-059781-index.htm)
+
 - **S-1** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525245178/0001193125-25-245178-index.htm)
 
