@@ -60,8 +60,14 @@
 - **S-1** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225018819/0001493152-25-018819-index.htm)
 
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038945/0001140361-25-038945-index.htm)
+
 - **DEFA14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245857/0001193125-25-245857-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038946/0001140361-25-038946-index.htm)
 
 - **424B4** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025101062/0001213900-25-101062-index.htm)
@@ -266,6 +272,9 @@
 
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984425000015/0001479844-25-000015-index.htm)
+
+- **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937125015861/0001999371-25-015861-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019480/0001398344-25-019480-index.htm)
