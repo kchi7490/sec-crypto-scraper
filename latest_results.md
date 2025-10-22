@@ -48,6 +48,9 @@
 - **PRE 14A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225018798/0001493152-25-018798-index.htm)
 
+- **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025045861/0001628280-25-045861-index.htm)
+
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
 
@@ -171,6 +174,9 @@
 - **SCHEDULE 13D/A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002780/0000921895-25-002780-index.htm)
 
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000139/0001726978-25-000139-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016255/0001062993-25-016255-index.htm)
 
@@ -206,6 +212,9 @@
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000110465925100992/0001104659-25-100992-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025101210/0001213900-25-101210-index.htm)
 
 - **6-K/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000187643125000016/0001876431-25-000016-index.htm)
