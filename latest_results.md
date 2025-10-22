@@ -15,6 +15,9 @@
 - **8-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000182912625008237/0001829126-25-008237-index.htm)
 
+- **S-3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006604/0001171843-25-006604-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525242750/0001193125-25-242750-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100435/0001213900-25-100435-index.htm)
+
+- **S-3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006603/0001171843-25-006603-index.htm)
 
 - **424B3** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380525001475/0001193805-25-001475-index.htm)
@@ -53,6 +59,9 @@
 
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
+
+- **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013529/0000950103-25-013529-index.htm)
 
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245822/0001193125-25-245822-index.htm)
@@ -104,6 +113,9 @@
 
 - **S-4/A** | ProCap Financial, Inc.  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025100431/0001213900-25-100431-index.htm)
+
+- **S-1** | Osprey Solana Trust  (OSOL)  (CIK 0001868282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868282/000149315225018952/0001493152-25-018952-index.htm)
 
 - **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315225018592/0001493152-25-018592-index.htm)
