@@ -126,11 +126,17 @@
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
 
+- **424B5** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225018839/0001493152-25-018839-index.htm)
+
 - **424B5** | Kartoon Studios, Inc.  (TOON)  (CIK 0001355848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355848/000168316825007698/0001683168-25-007698-index.htm)
 
 - **S-1/A** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025100507/0001213900-25-100507-index.htm)
+
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025100953/0001213900-25-100953-index.htm)
 
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100920/0001104659-25-100920-index.htm)
@@ -170,6 +176,30 @@
 
 - **487** | FT 12487  (CIK 0002075419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075419/000144554625006912/0001445546-25-006912-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011061/0001133228-25-011061-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011053/0001133228-25-011053-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011057/0001133228-25-011057-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011059/0001133228-25-011059-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011051/0001133228-25-011051-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011049/0001133228-25-011049-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011063/0001133228-25-011063-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011055/0001133228-25-011055-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025100246/0001213900-25-100246-index.htm)
