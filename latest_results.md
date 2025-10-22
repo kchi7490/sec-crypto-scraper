@@ -159,6 +159,9 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025100953/0001213900-25-100953-index.htm)
 
+- **S-1** | Idea Acquisition Corp.  (CIK 0002091176)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465925101509/0001104659-25-101509-index.htm)
+
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925100920/0001104659-25-100920-index.htm)
 
