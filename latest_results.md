@@ -24,6 +24,9 @@
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000073/0001859392-25-000073-index.htm)
 
+- **S-1** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/0001999371-25-015832-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100435/0001213900-25-100435-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **DEFA14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245857/0001193125-25-245857-index.htm)
+
+- **424B4** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025101062/0001213900-25-101062-index.htm)
 
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
@@ -167,6 +173,9 @@
 
 - **F-3** | Prestige Wealth Inc.  (PWM)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390025100102/0001213900-25-100102-index.htm)
+
+- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259725000009/0001132597-25-000009-index.htm)
 
 - **F-1** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001494/0001185185-25-001494-index.htm)
