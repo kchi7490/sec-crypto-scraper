@@ -99,6 +99,9 @@
 - **S-1/A** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007662/0001477932-25-007662-index.htm)
 
+- **S-1** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225018936/0001493152-25-018936-index.htm)
+
 - **S-4/A** | ProCap Financial, Inc.  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025100431/0001213900-25-100431-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **S-3ASR** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000119312525243615/0001193125-25-243615-index.htm)
+
+- **PRE 14A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025101311/0001213900-25-101311-index.htm)
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243106/0001193125-25-243106-index.htm)
@@ -128,6 +134,9 @@
 
 - **DEF 14A** | Q/C TECHNOLOGIES, INC.  (QCLS, TNFA)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225018665/0001493152-25-018665-index.htm)
+
+- **F-1/A** | Bend NovaTech Group Ltd  (BENN)  (CIK 0002072315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2072315/000121390025101276/0001213900-25-101276-index.htm)
 
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525245112/0001193125-25-245112-index.htm)
@@ -288,11 +297,17 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100469/0001213900-25-100469-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025101304/0001213900-25-101304-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100409/0001213900-25-100409-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100818/0001213900-25-100818-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101277/0001213900-25-101277-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100986/0001213900-25-100986-index.htm)
