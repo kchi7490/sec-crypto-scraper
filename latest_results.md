@@ -183,6 +183,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001137/0001279569-25-001137-index.htm)
 
+- **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025101244/0001213900-25-101244-index.htm)
+
 - **6-K** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315225018573/0001493152-25-018573-index.htm)
 
