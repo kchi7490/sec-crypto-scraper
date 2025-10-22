@@ -144,6 +144,9 @@
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000076/0001144879-25-000076-index.htm)
 
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774925031490/0001437749-25-031490-index.htm)
+
 - **424B5** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225018839/0001493152-25-018839-index.htm)
 
@@ -206,6 +209,9 @@
 
 - **487** | FT 12487  (CIK 0002075419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075419/000144554625006912/0001445546-25-006912-index.htm)
+
+- **487** | FT 12488  (CIK 0002075420)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075420/000144554625006984/0001445546-25-006984-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011061/0001133228-25-011061-index.htm)
