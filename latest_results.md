@@ -126,6 +126,9 @@
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
 
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000076/0001144879-25-000076-index.htm)
+
 - **424B5** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225018839/0001493152-25-018839-index.htm)
 
@@ -147,6 +150,9 @@
 - **SCHEDULE 13D/A** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000092189525002780/0000921895-25-002780-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016255/0001062993-25-016255-index.htm)
+
 - **6-K** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315225018573/0001493152-25-018573-index.htm)
 
@@ -164,6 +170,9 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025100538/0001213900-25-100538-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025100990/0001213900-25-100990-index.htm)
 
 - **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001409/0001731122-25-001409-index.htm)
@@ -231,11 +240,17 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025100818/0001213900-25-100818-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100986/0001213900-25-100986-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125015666/0001999371-25-015666-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100154/0001213900-25-100154-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100987/0001213900-25-100987-index.htm)
 
 - **1-A POS** | Nowigence Inc.  (NOWG)  (CIK 0001761911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761911/000110465925100941/0001104659-25-100941-index.htm)
