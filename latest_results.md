@@ -48,8 +48,14 @@
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525243103/0001193125-25-243103-index.htm)
 
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245822/0001193125-25-245822-index.htm)
+
 - **S-1** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225018819/0001493152-25-018819-index.htm)
+
+- **DEFA14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245857/0001193125-25-245857-index.htm)
 
 - **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925100646/0001104659-25-100646-index.htm)
