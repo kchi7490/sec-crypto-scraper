@@ -72,6 +72,12 @@
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007689/0001477932-25-007689-index.htm)
 
+- **S-3** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225019099/0001493152-25-019099-index.htm)
+
+- **S-1/A** | 21Shares Sui ETF  (CIK 0002061626)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390025101707/0001213900-25-101707-index.htm)
+
 - **10-K** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025100566/0001213900-25-100566-index.htm)
 
@@ -101,6 +107,9 @@
 
 - **F-1/A** | Bend NovaTech Group Ltd  (BENN)  (CIK 0002072315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2072315/000121390025101276/0001213900-25-101276-index.htm)
+
+- **S-4/A** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925101841/0001104659-25-101841-index.htm)
 
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525245112/0001193125-25-245112-index.htm)
@@ -258,6 +267,9 @@
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425019474/0001398344-25-019474-index.htm)
 
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425019672/0001398344-25-019672-index.htm)
+
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937125015861/0001999371-25-015861-index.htm)
 
@@ -282,6 +294,9 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100469/0001213900-25-100469-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101702/0001213900-25-101702-index.htm)
+
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025101304/0001213900-25-101304-index.htm)
 
@@ -290,6 +305,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101277/0001213900-25-101277-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101701/0001213900-25-101701-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100986/0001213900-25-100986-index.htm)
