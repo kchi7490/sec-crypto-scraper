@@ -63,6 +63,9 @@
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.htm)
 
+- **S-3** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025101730/0001213900-25-101730-index.htm)
+
 - **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925101630/0001104659-25-101630-index.htm)
 
