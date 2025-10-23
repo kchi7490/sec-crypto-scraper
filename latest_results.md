@@ -1,10 +1,19 @@
 ## 📁 Other Filings
 
+- **8-K** | Kaya Holdings, Inc.  (KAYS)  (CIK 0001530746)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1530746/000190359625000499/0001903596-25-000499-index.htm)
+
+- **8-K** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000165495425012084/0001654954-25-012084-index.htm)
+
 - **S-3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006604/0001171843-25-006604-index.htm)
 
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000073/0001859392-25-000073-index.htm)
+
+- **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025101418/0001213900-25-101418-index.htm)
 
 - **S-1** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/0001999371-25-015832-index.htm)
@@ -143,6 +152,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016255/0001062993-25-016255-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001143/0001279569-25-001143-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001137/0001279569-25-001137-index.htm)
