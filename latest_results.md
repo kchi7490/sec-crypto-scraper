@@ -231,6 +231,9 @@
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425019484/0001398344-25-019484-index.htm)
 
+- **13F-HR** | Steigerwald, Gordon & Koch Inc.  (CIK 0001731876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731876/000173187625000002/0001731876-25-000002-index.htm)
+
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834425019474/0001398344-25-019474-index.htm)
 
