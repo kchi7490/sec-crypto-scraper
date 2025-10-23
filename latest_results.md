@@ -238,6 +238,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937125015861/0001999371-25-015861-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003253/0001592900-25-003253-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003236/0001592900-25-003236-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
