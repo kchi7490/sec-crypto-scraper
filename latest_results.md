@@ -27,6 +27,9 @@
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025045861/0001628280-25-045861-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025101333/0001213900-25-101333-index.htm)
+
 - **425** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000095010325013529/0000950103-25-013529-index.htm)
 
@@ -48,8 +51,17 @@
 - **424B4** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025101062/0001213900-25-101062-index.htm)
 
+- **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.htm)
+
+- **8-K** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925101630/0001104659-25-101630-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025100448/0001213900-25-100448-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007689/0001477932-25-007689-index.htm)
 
 - **10-K** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025100566/0001213900-25-100566-index.htm)
@@ -95,6 +107,9 @@
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025100443/0001213900-25-100443-index.htm)
+
+- **PRE 14A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025101330/0001213900-25-101330-index.htm)
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487925000076/0001144879-25-000076-index.htm)
@@ -202,6 +217,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100468/0001213900-25-100468-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025101383/0001213900-25-101383-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100469/0001213900-25-100469-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
@@ -224,4 +242,7 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000191870425017759/0001918704-25-017759-index.htm)
+
+- **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000141/0001726978-25-000141-index.htm)
 
