@@ -96,6 +96,9 @@
 - **S-1** | Semnur Pharmaceuticals, Inc.  (SMNR, DNQAF, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525245178/0001193125-25-245178-index.htm)
 
+- **S-4** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000207709625000174/0002077096-25-000174-index.htm)
+
 - **F-1/A** | Bend NovaTech Group Ltd  (BENN)  (CIK 0002072315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2072315/000121390025101276/0001213900-25-101276-index.htm)
 
@@ -168,6 +171,9 @@
 - **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039023/0001140361-25-039023-index.htm)
 
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025101664/0001213900-25-101664-index.htm)
+
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006622/0001171843-25-006622-index.htm)
 
@@ -205,10 +211,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011053/0001133228-25-011053-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011057/0001133228-25-011057-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011059/0001133228-25-011059-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011059/0001133228-25-011059-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011057/0001133228-25-011057-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011051/0001133228-25-011051-index.htm)
@@ -221,6 +227,21 @@
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011055/0001133228-25-011055-index.htm)
+
+- **SCHEDULE 13D** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225019072/0001493152-25-019072-index.htm)
+
+- **SCHEDULE 13D/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225019073/0001493152-25-019073-index.htm)
+
+- **SCHEDULE 13D/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225019075/0001493152-25-019075-index.htm)
+
+- **SCHEDULE 13D/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225019070/0001493152-25-019070-index.htm)
+
+- **SCHEDULE 13D/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225019069/0001493152-25-019069-index.htm)
 
 - **8-A12B/A** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025101434/0001213900-25-101434-index.htm)
