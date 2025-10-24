@@ -138,6 +138,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025101210/0001213900-25-101210-index.htm)
 
+- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225019184/0001493152-25-019184-index.htm)
+
 - **N-CSRS** | FIDELITY CONCORD STREET TRUST  (CIK 0000819118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/819118/000081911825000386/0000819118-25-000386-index.htm)
 
