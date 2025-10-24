@@ -54,6 +54,9 @@
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828025045968/0001628280-25-045968-index.htm)
 
+- **S-1** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225007747/0001477932-25-007747-index.htm)
+
 - **S-3** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025101730/0001213900-25-101730-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102140/0001213900-25-102140-index.htm)
+
+- **F-1** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390025102214/0001213900-25-102214-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102141/0001213900-25-102141-index.htm)
@@ -157,10 +163,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102124/0001213900-25-102124-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102151/0001213900-25-102151-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102137/0001213900-25-102137-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102137/0001213900-25-102137-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102151/0001213900-25-102151-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102153/0001213900-25-102153-index.htm)
@@ -181,13 +187,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102186/0001213900-25-102186-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102175/0001213900-25-102175-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102128/0001213900-25-102128-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102156/0001213900-25-102156-index.htm)
@@ -196,19 +202,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102138/0001213900-25-102138-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102126/0001213900-25-102126-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102187/0001213900-25-102187-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102146/0001213900-25-102146-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102159/0001213900-25-102159-index.htm)
@@ -240,6 +246,9 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000139/0001726978-25-000139-index.htm)
 
+- **N-14 8C** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465925102162/0001104659-25-102162-index.htm)
+
 - **N-CSR/A** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000119312525248295/0001193125-25-248295-index.htm)
 
@@ -260,6 +269,9 @@
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025101664/0001213900-25-101664-index.htm)
+
+- **6-K** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312525250021/0001193125-25-250021-index.htm)
 
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184325006622/0001171843-25-006622-index.htm)
@@ -377,6 +389,12 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025101304/0001213900-25-101304-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102208/0001213900-25-102208-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102207/0001213900-25-102207-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101277/0001213900-25-101277-index.htm)
