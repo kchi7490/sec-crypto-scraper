@@ -186,6 +186,9 @@
 - **8-A12B/A** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025101434/0001213900-25-101434-index.htm)
 
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125015958/0001999371-25-015958-index.htm)
+
 - **13F-HR** | Steigerwald, Gordon & Koch Inc.  (CIK 0001731876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731876/000173187625000002/0001731876-25-000002-index.htm)
 
@@ -218,6 +221,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025101701/0001213900-25-101701-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025101881/0001213900-25-101881-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025100986/0001213900-25-100986-index.htm)
