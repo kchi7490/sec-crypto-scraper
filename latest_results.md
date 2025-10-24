@@ -202,10 +202,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102175/0001213900-25-102175-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102128/0001213900-25-102128-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102128/0001213900-25-102128-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102156/0001213900-25-102156-index.htm)
@@ -214,28 +214,28 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102138/0001213900-25-102138-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102187/0001213900-25-102187-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102126/0001213900-25-102126-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102146/0001213900-25-102146-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102129/0001213900-25-102129-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102159/0001213900-25-102159-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102184/0001213900-25-102184-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102129/0001213900-25-102129-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102182/0001213900-25-102182-index.htm)
@@ -318,8 +318,14 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025101210/0001213900-25-101210-index.htm)
 
+- **SCHEDULE 13D** | Gold Royalty Corp.  (GROY, GROY-WT)  (CIK 0001834026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1834026/000110465925102218/0001104659-25-102218-index.htm)
+
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225019184/0001493152-25-019184-index.htm)
+
+- **SCHEDULE 13D** | Metalla Royalty & Streaming Ltd.  (MTA)  (CIK 0001722606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722606/000110465925102219/0001104659-25-102219-index.htm)
 
 - **N-CSRS** | FIDELITY CONCORD STREET TRUST  (CIK 0000819118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/819118/000081911825000386/0000819118-25-000386-index.htm)
