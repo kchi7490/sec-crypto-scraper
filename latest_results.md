@@ -81,6 +81,9 @@
 - **S-4/A** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925101841/0001104659-25-101841-index.htm)
 
+- **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS, IRS-WT)  (CIK 0000933267)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495425012190/0001654954-25-012190-index.htm)
+
 - **PRE 14A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025101330/0001213900-25-101330-index.htm)
 
