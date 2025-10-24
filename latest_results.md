@@ -84,6 +84,9 @@
 - **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS, IRS-WT)  (CIK 0000933267)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495425012190/0001654954-25-012190-index.htm)
 
+- **20-F** | CRESUD INC  (CRESW, CRESY)  (CIK 0001034957)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1034957/000165495425012195/0001654954-25-012195-index.htm)
+
 - **PRE 14A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025101330/0001213900-25-101330-index.htm)
 
@@ -146,6 +149,9 @@
 
 - **N-CSRS** | FIDELITY CONCORD STREET TRUST  (CIK 0000819118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/819118/000081911825000386/0000819118-25-000386-index.htm)
+
+- **487** | FT 12489  (CIK 0002075421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075421/000144554625007136/0001445546-25-007136-index.htm)
 
 - **487** | FT 12488  (CIK 0002075420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075420/000144554625006984/0001445546-25-006984-index.htm)
