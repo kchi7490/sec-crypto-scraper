@@ -199,10 +199,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102186/0001213900-25-102186-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102175/0001213900-25-102175-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102175/0001213900-25-102175-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102128/0001213900-25-102128-index.htm)
@@ -214,10 +214,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102138/0001213900-25-102138-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102187/0001213900-25-102187-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102187/0001213900-25-102187-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
