@@ -39,6 +39,9 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525245822/0001193125-25-245822-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728225000138/0001627282-25-000138-index.htm)
+
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125038945/0001140361-25-038945-index.htm)
 
@@ -163,10 +166,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102124/0001213900-25-102124-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102137/0001213900-25-102137-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102151/0001213900-25-102151-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102151/0001213900-25-102151-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102137/0001213900-25-102137-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102153/0001213900-25-102153-index.htm)
@@ -187,13 +190,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102186/0001213900-25-102186-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102175/0001213900-25-102175-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102128/0001213900-25-102128-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102168/0001213900-25-102168-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102156/0001213900-25-102156-index.htm)
@@ -202,28 +205,28 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102138/0001213900-25-102138-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102126/0001213900-25-102126-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102187/0001213900-25-102187-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102133/0001213900-25-102133-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102126/0001213900-25-102126-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102146/0001213900-25-102146-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102120/0001213900-25-102120-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102129/0001213900-25-102129-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102159/0001213900-25-102159-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102184/0001213900-25-102184-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102129/0001213900-25-102129-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102182/0001213900-25-102182-index.htm)
@@ -251,6 +254,9 @@
 
 - **N-CSR/A** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000119312525248295/0001193125-25-248295-index.htm)
+
+- **N-2/A** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465925102179/0001104659-25-102179-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016255/0001062993-25-016255-index.htm)
@@ -322,10 +328,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011053/0001133228-25-011053-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011057/0001133228-25-011057-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011059/0001133228-25-011059-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011059/0001133228-25-011059-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322825011057/0001133228-25-011057-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322825011051/0001133228-25-011051-index.htm)
@@ -419,4 +425,7 @@
 
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697825000141/0001726978-25-000141-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010325013626/0000950103-25-013626-index.htm)
 
