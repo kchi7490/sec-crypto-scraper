@@ -18,8 +18,14 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225019549/0001493152-25-019549-index.htm)
 
+- **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225019747/0001493152-25-019747-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
+
+- **424B3** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225019757/0001493152-25-019757-index.htm)
 
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046314/0001628280-25-046314-index.htm)
@@ -65,6 +71,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000191870425018099/0001918704-25-018099-index.htm)
+
+- **DEFM14A** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000149315225019759/0001493152-25-019759-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001880/0001640334-25-001880-index.htm)
