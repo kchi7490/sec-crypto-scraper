@@ -24,6 +24,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
 
+- **DEFM14A** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000149315225019759/0001493152-25-019759-index.htm)
+
 - **424B3** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000149315225019757/0001493152-25-019757-index.htm)
 
@@ -72,9 +75,6 @@
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000191870425018099/0001918704-25-018099-index.htm)
 
-- **DEFM14A** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000149315225019759/0001493152-25-019759-index.htm)
-
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001880/0001640334-25-001880-index.htm)
 
@@ -99,6 +99,9 @@
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000631/0000945908-25-000631-index.htm)
 
+- **486BPOS** | ARK Venture Fund  (CIK 0001905088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390025102648/0001213900-25-102648-index.htm)
+
 - **485APOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937125016093/0001999371-25-016093-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025102360/0001213900-25-102360-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102646/0001213900-25-102646-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016122/0001999371-25-016122-index.htm)
