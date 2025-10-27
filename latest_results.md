@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
 
