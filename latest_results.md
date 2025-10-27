@@ -3,6 +3,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
 
+- **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046314/0001628280-25-046314-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **425** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000110465925102245/0001104659-25-102245-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001154/0001279569-25-001154-index.htm)
 
 - **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025102293/0001213900-25-102293-index.htm)
