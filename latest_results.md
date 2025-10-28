@@ -39,6 +39,9 @@
 - **425** | Yorkville Acquisition Corp.  (MCGA, MCGAU, MCGAW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125039597/0001140361-25-039597-index.htm)
 
+- **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125016304/0001999371-25-016304-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125039596/0001140361-25-039596-index.htm)
 
@@ -59,6 +62,9 @@
 
 - **424B3** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102689/0001213900-25-102689-index.htm)
+
+- **424B4** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025103160/0001213900-25-103160-index.htm)
 
 - **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925103157/0001104659-25-103157-index.htm)
@@ -109,16 +115,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013740/0000950103-25-013740-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013746/0000950103-25-013746-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013638/0000950103-25-013638-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013641/0000950103-25-013641-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
@@ -133,10 +142,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013639/0000950103-25-013639-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013637/0000950103-25-013637-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013637/0000950103-25-013637-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013633/0000950103-25-013633-index.htm)
@@ -199,10 +208,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039398/0001140361-25-039398-index.htm)
@@ -259,7 +268,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016122/0001999371-25-016122-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025103148/0001213900-25-103148-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102660/0001213900-25-102660-index.htm)
+
+- **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000196/0001633917-25-000196-index.htm)
 
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025102785/0001213900-25-102785-index.htm)
