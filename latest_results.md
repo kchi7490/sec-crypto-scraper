@@ -75,20 +75,11 @@
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046314/0001628280-25-046314-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013686/0000950103-25-013686-index.htm)
-
-- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013688/0000950103-25-013688-index.htm)
-
 - **S-1** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225019770/0001493152-25-019770-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525250751/0001193125-25-250751-index.htm)
-
-- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/0001104659-25-102858-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
@@ -135,9 +126,6 @@
 - **DEF 14A** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925102657/0001104659-25-102657-index.htm)
 
-- **POS EX** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102687/0001213900-25-102687-index.htm)
-
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001880/0001640334-25-001880-index.htm)
 
@@ -180,11 +168,17 @@
 - **DEF 14A** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495425012247/0001654954-25-012247-index.htm)
 
+- **POS EX** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102687/0001213900-25-102687-index.htm)
+
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340125000037/0000783401-25-000037-index.htm)
 
 - **497** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312525250969/0001193125-25-250969-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003298/0001592900-25-003298-index.htm)
 
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390025102283/0001213900-25-102283-index.htm)
@@ -212,4 +206,10 @@
 
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312525251177/0001193125-25-251177-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013686/0000950103-25-013686-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013688/0000950103-25-013688-index.htm)
 
