@@ -6,6 +6,9 @@
 - **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025102560/0001213900-25-102560-index.htm)
 
+- **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025102783/0001213900-25-102783-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025102696/0001213900-25-102696-index.htm)
 
@@ -21,8 +24,14 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225019549/0001493152-25-019549-index.htm)
 
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000194/0001633917-25-000194-index.htm)
+
 - **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225019747/0001493152-25-019747-index.htm)
+
+- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000204/0001818874-25-000204-index.htm)
 
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125016204/0001999371-25-016204-index.htm)
@@ -47,6 +56,12 @@
 
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046314/0001628280-25-046314-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013686/0000950103-25-013686-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013688/0000950103-25-013688-index.htm)
 
 - **S-1** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225019770/0001493152-25-019770-index.htm)
@@ -118,10 +133,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025102293/0001213900-25-102293-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039398/0001140361-25-039398-index.htm)
@@ -161,6 +176,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102660/0001213900-25-102660-index.htm)
+
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025102785/0001213900-25-102785-index.htm)
 
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312525251177/0001193125-25-251177-index.htm)
