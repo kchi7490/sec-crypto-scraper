@@ -36,6 +36,12 @@
 - **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225019747/0001493152-25-019747-index.htm)
 
+- **425** | Yorkville Acquisition Corp.  (MCGA, MCGAU, MCGAW)  (CIK 0002064658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125039597/0001140361-25-039597-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125039596/0001140361-25-039596-index.htm)
+
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000204/0001818874-25-000204-index.htm)
 
@@ -45,11 +51,17 @@
 - **424B3** | Canary Litecoin ETF  (CIK 0002039461)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125016206/0001999371-25-016206-index.htm)
 
+- **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/0000008818-25-000049-index.htm)
+
 - **S-1/A** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025046488/0001628280-25-046488-index.htm)
 
 - **424B3** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102689/0001213900-25-102689-index.htm)
+
+- **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925103157/0001104659-25-103157-index.htm)
 
 - **DEF 14A** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006678/0001171843-25-006678-index.htm)
@@ -141,6 +153,9 @@
 - **POS EX** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102687/0001213900-25-102687-index.htm)
 
+- **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000062/0001500217-25-000062-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001880/0001640334-25-001880-index.htm)
 
@@ -186,6 +201,9 @@
 - **DEF 14A** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495425012247/0001654954-25-012247-index.htm)
 
+- **8-A12B** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525253454/0001193125-25-253454-index.htm)
+
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340125000037/0000783401-25-000037-index.htm)
 
@@ -227,4 +245,7 @@
 
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312525251177/0001193125-25-251177-index.htm)
+
+- **485BPOS** | Simplify Exchange Traded Funds  (CIK 0001810747)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000182912625008485/0001829126-25-008485-index.htm)
 
