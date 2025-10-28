@@ -135,6 +135,9 @@
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046342/0001628280-25-046342-index.htm)
 
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225019845/0001493152-25-019845-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001154/0001279569-25-001154-index.htm)
 
