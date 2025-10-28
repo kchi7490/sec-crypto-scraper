@@ -42,6 +42,9 @@
 - **S-1/A** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125016304/0001999371-25-016304-index.htm)
 
+- **S-1** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025103170/0001213900-25-103170-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125039596/0001140361-25-039596-index.htm)
 
@@ -121,13 +124,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013638/0000950103-25-013638-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013641/0000950103-25-013641-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
