@@ -66,6 +66,9 @@
 - **DEF 14A** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325006678/0001171843-25-006678-index.htm)
 
+- **DEF 14A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316825007811/0001683168-25-007811-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
 
@@ -159,6 +162,9 @@
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001880/0001640334-25-001880-index.htm)
 
+- **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312525253637/0001193125-25-253637-index.htm)
+
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525252165/0001193125-25-252165-index.htm)
 
@@ -221,6 +227,9 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003306/0001592900-25-003306-index.htm)
+
+- **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874525000643/0000898745-25-000643-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025102566/0001213900-25-102566-index.htm)
