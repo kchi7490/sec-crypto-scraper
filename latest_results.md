@@ -147,6 +147,9 @@
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525254934/0001193125-25-254934-index.htm)
 
+- **8-K** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937125016422/0001999371-25-016422-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925103317/0001104659-25-103317-index.htm)
 
@@ -277,10 +280,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039398/0001140361-25-039398-index.htm)
@@ -299,6 +302,9 @@
 
 - **DEF 14A** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495425012247/0001654954-25-012247-index.htm)
+
+- **1-A/A** | Immersed Inc.  (CIK 0001817417)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925103805/0001104659-25-103805-index.htm)
 
 - **8-A12B** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525253454/0001193125-25-253454-index.htm)
