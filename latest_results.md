@@ -126,6 +126,9 @@
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046314/0001628280-25-046314-index.htm)
 
+- **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000063/0001475841-25-000063-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013686/0000950103-25-013686-index.htm)
 
@@ -248,6 +251,9 @@
 
 - **6-K** | Medirom Healthcare Technologies Inc.  (MRM)  (CIK 0001819704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819704/000110465925103570/0001104659-25-103570-index.htm)
+
+- **6-K** | OceanPal Inc.  (OP)  (CIK 0001869467)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957425006305/0000919574-25-006305-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001154/0001279569-25-001154-index.htm)
