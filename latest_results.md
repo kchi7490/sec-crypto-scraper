@@ -54,6 +54,9 @@
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125016204/0001999371-25-016204-index.htm)
 
+- **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255392/0001193125-25-255392-index.htm)
+
 - **8-K** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025103260/0001213900-25-103260-index.htm)
 
@@ -62,6 +65,9 @@
 
 - **424B3** | Canary Litecoin ETF  (CIK 0002039461)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125016206/0001999371-25-016206-index.htm)
+
+- **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255398/0001193125-25-255398-index.htm)
 
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/0000008818-25-000049-index.htm)
@@ -148,28 +154,28 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013638/0000950103-25-013638-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013641/0000950103-25-013641-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013631/0000950103-25-013631-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013632/0000950103-25-013632-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013636/0000950103-25-013636-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013639/0000950103-25-013639-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013636/0000950103-25-013636-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013639/0000950103-25-013639-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013637/0000950103-25-013637-index.htm)
@@ -237,6 +243,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ, BTQQF)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001154/0001279569-25-001154-index.htm)
 
+- **6-K** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950825000047/0001159508-25-000047-index.htm)
+
 - **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025102293/0001213900-25-102293-index.htm)
 
@@ -247,10 +256,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039398/0001140361-25-039398-index.htm)
