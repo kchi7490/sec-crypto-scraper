@@ -48,6 +48,9 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125039596/0001140361-25-039596-index.htm)
 
+- **S-1/A** | Fidelity Solana Fund  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525256647/0001193125-25-256647-index.htm)
+
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000204/0001818874-25-000204-index.htm)
 
@@ -274,10 +277,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046327/0001628280-25-046327-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046305/0001628280-25-046305-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036125039398/0001140361-25-039398-index.htm)
@@ -353,6 +356,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102660/0001213900-25-102660-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025103542/0001213900-25-103542-index.htm)
 
 - **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000196/0001633917-25-000196-index.htm)
