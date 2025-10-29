@@ -319,6 +319,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102646/0001213900-25-102646-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016415/0001999371-25-016415-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016122/0001999371-25-016122-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
