@@ -54,6 +54,9 @@
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125016204/0001999371-25-016204-index.htm)
 
+- **S-1** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025103188/0001213900-25-103188-index.htm)
+
 - **424B3** | Canary Litecoin ETF  (CIK 0002039461)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937125016206/0001999371-25-016206-index.htm)
 
@@ -81,6 +84,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225019484/0001493152-25-019484-index.htm)
 
+- **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103174/0001213900-25-103174-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225060913/0001839882-25-060913-index.htm)
 
@@ -92,6 +98,9 @@
 
 - **6-K** | OceanPal Inc.  (OP)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957425006268/0000919574-25-006268-index.htm)
+
+- **S-1** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/0001213900-25-103237-index.htm)
 
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046671/0001628280-25-046671-index.htm)
@@ -110,6 +119,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525250751/0001193125-25-250751-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925103317/0001104659-25-103317-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/0001104659-25-102858-index.htm)
@@ -133,10 +145,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013641/0000950103-25-013641-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013632/0000950103-25-013632-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013632/0000950103-25-013632-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013636/0000950103-25-013636-index.htm)
@@ -194,6 +206,12 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046342/0001628280-25-046342-index.htm)
+
+- **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000106299325016341/0001062993-25-016341-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925103380/0001104659-25-103380-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225019845/0001493152-25-019845-index.htm)
@@ -272,6 +290,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025103148/0001213900-25-103148-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025103229/0001213900-25-103229-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025102660/0001213900-25-102660-index.htm)
