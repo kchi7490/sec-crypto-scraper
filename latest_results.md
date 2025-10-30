@@ -81,6 +81,9 @@
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/0000008818-25-000049-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525258690/0001193125-25-258690-index.htm)
+
 - **424B3** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102689/0001213900-25-102689-index.htm)
 
@@ -302,6 +305,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025102699/0001213900-25-102699-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025104175/0001213900-25-104175-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025103759/0001213900-25-103759-index.htm)
