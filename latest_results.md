@@ -148,10 +148,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
 
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103772/0001213900-25-103772-index.htm)
@@ -228,6 +228,9 @@
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340125000037/0000783401-25-000037-index.htm)
 
+- **N-CSRS** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322825011515/0001133228-25-011515-index.htm)
+
 - **1-A** | Real Trading Research Inc.  (CIK 0002089835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089835/000121390025103616/0001213900-25-103616-index.htm)
 
@@ -242,6 +245,9 @@
 
 - **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874525000643/0000898745-25-000643-index.htm)
+
+- **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322825011521/0001133228-25-011521-index.htm)
 
 - **N-CSR** | FRANKLIN STRATEGIC SERIES  (CIK 0000872625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/872625/000113322825011464/0001133228-25-011464-index.htm)
