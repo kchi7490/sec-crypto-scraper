@@ -147,6 +147,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
 
+- **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103772/0001213900-25-103772-index.htm)
+
 - **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001574/0001185185-25-001574-index.htm)
 
