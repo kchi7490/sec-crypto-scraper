@@ -267,6 +267,9 @@
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828025047437/0001628280-25-047437-index.htm)
 
+- **20-F** | VivoPower International PLC  (VVPR)  (CIK 0001681348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315225020269/0001493152-25-020269-index.htm)
+
 - **424B5** | OceanPal Inc.  (OP)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000114036125039711/0001140361-25-039711-index.htm)
 
@@ -377,4 +380,7 @@
 
 - **NT 10-K** | RHINO BITCOIN INC.  (PXPC)  (CIK 0001785493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225020009/0001493152-25-020009-index.htm)
+
+- **10-Q** | iRhythm Technologies, Inc.  (IRTC)  (CIK 0001388658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865825000217/0001388658-25-000217-index.htm)
 
