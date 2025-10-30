@@ -156,6 +156,9 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804-index.htm)
 
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/0001140361-25-039808-index.htm)
+
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103772/0001213900-25-103772-index.htm)
 
@@ -230,6 +233,9 @@
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340125000037/0000783401-25-000037-index.htm)
+
+- **N-CSRS** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000113322825011525/0001133228-25-011525-index.htm)
 
 - **N-CSRS** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322825011515/0001133228-25-011515-index.htm)
