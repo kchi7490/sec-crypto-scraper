@@ -9,11 +9,17 @@
 - **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025102783/0001213900-25-102783-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225020157/0001493152-25-020157-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025102696/0001213900-25-102696-index.htm)
 
 - **S-1** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925103871/0001104659-25-103871-index.htm)
+
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225020153/0001493152-25-020153-index.htm)
 
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225019832/0001493152-25-019832-index.htm)
@@ -206,6 +212,9 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
+
+- **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
 
 - **N-CSR** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060725000307/0001710607-25-000307-index.htm)
