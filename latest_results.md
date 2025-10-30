@@ -1,7 +1,13 @@
 ## 📁 Other Filings
 
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000207/0001679788-25-000207-index.htm)
+
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525256744/0001193125-25-256744-index.htm)
+
+- **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/0001679788-25-000208-index.htm)
 
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225019828/0001493152-25-019828-index.htm)
@@ -54,6 +60,9 @@
 - **424B4** | Insight Digital Partners II  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025103579/0001213900-25-103579-index.htm)
 
+- **DEFM14A** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225020232/0001493152-25-020232-index.htm)
+
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255392/0001193125-25-255392-index.htm)
 
@@ -75,6 +84,9 @@
 - **424B3** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000121390025102689/0001213900-25-102689-index.htm)
 
+- **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/0001065088-25-000127-index.htm)
+
 - **424B4** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025103160/0001213900-25-103160-index.htm)
 
@@ -93,6 +105,9 @@
 - **DEF 14A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316825007811/0001683168-25-007811-index.htm)
 
+- **10-Q** | PRO DEX INC  (PDEX)  (CIK 0000788920)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/788920/000107997325001655/0001079973-25-001655-index.htm)
+
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103174/0001213900-25-103174-index.htm)
 
@@ -104,6 +119,9 @@
 
 - **6-K** | OceanPal Inc.  (OP)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957425006268/0000919574-25-006268-index.htm)
+
+- **10-Q** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000051/0001099590-25-000051-index.htm)
 
 - **S-1** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/0001213900-25-103237-index.htm)
@@ -155,6 +173,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039864/0001140361-25-039864-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804-index.htm)
@@ -227,6 +248,9 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046720/0001628280-25-046720-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025104116/0001213900-25-104116-index.htm)
 
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
@@ -305,6 +329,12 @@
 
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025102785/0001213900-25-102785-index.htm)
+
+- **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238625000149/0001592386-25-000149-index.htm)
+
+- **10-Q** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312425000247/0000073124-25-000247-index.htm)
 
 - **DEF 14A** | Two Hands Corp  (TWOH)  (CIK 0001494413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1494413/000149441325000009/0001494413-25-000009-index.htm)
