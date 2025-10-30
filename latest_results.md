@@ -27,6 +27,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225020153/0001493152-25-020153-index.htm)
 
+- **PRE 14A** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925104435/0001104659-25-104435-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225019832/0001493152-25-019832-index.htm)
 
@@ -132,6 +135,9 @@
 - **424B5** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025046671/0001628280-25-046671-index.htm)
 
+- **424B4** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025104187/0001213900-25-104187-index.htm)
+
 - **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000063/0001475841-25-000063-index.htm)
 
@@ -194,6 +200,12 @@
 
 - **DEFA14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001575/0001185185-25-001575-index.htm)
+
+- **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104188/0001213900-25-104188-index.htm)
+
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104203/0001213900-25-104203-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225006784/0001580642-25-006784-index.htm)
