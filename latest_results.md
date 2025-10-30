@@ -129,6 +129,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925103317/0001104659-25-103317-index.htm)
 
+- **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322825011538/0001133228-25-011538-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103439/0001104659-25-103439-index.htm)
 
