@@ -156,9 +156,6 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804-index.htm)
 
-- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/0001140361-25-039808-index.htm)
-
 - **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103772/0001213900-25-103772-index.htm)
 
@@ -296,4 +293,7 @@
 
 - **NT 10-K** | RHINO BITCOIN INC.  (PXPC)  (CIK 0001785493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225020009/0001493152-25-020009-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/0001140361-25-039808-index.htm)
 
