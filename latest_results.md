@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525256744/0001193125-25-256744-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225019828/0001493152-25-019828-index.htm)
 
@@ -9,11 +12,17 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025102696/0001213900-25-102696-index.htm)
 
+- **S-1** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925103871/0001104659-25-103871-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225019832/0001493152-25-019832-index.htm)
 
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391725000194/0001633917-25-000194-index.htm)
+
+- **8-K** | Unicoin Inc.  (CIK 0001740742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008538/0001829126-25-008538-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (MCGA, MCGAU, MCGAW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000114036125039597/0001140361-25-039597-index.htm)
@@ -35,6 +44,9 @@
 
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125016204/0001999371-25-016204-index.htm)
+
+- **424B4** | Insight Digital Partners II  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390025103579/0001213900-25-103579-index.htm)
 
 - **8-K** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255392/0001193125-25-255392-index.htm)
@@ -65,6 +77,9 @@
 
 - **424B3** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525254707/0001193125-25-254707-index.htm)
+
+- **424B5** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000121390025103705/0001213900-25-103705-index.htm)
 
 - **424B7** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525256344/0001193125-25-256344-index.htm)
@@ -114,6 +129,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/0001104659-25-102858-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103923/0001104659-25-103923-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013740/0000950103-25-013740-index.htm)
 
@@ -124,10 +142,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
+
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001574/0001185185-25-001574-index.htm)
+
+- **DEFA14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001575/0001185185-25-001575-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225006784/0001580642-25-006784-index.htm)
@@ -143,6 +167,9 @@
 
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000062/0001500217-25-000062-index.htm)
+
+- **DEF 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793225007803/0001477932-25-007803-index.htm)
 
 - **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312525253637/0001193125-25-253637-index.htm)
@@ -188,6 +215,9 @@
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340125000037/0000783401-25-000037-index.htm)
+
+- **1-A** | Real Trading Research Inc.  (CIK 0002089835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089835/000121390025103616/0001213900-25-103616-index.htm)
 
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937125016273/0001999371-25-016273-index.htm)
