@@ -153,9 +153,6 @@
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013688/0000950103-25-013688-index.htm)
 
-- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925104461/0001104659-25-104461-index.htm)
-
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525254934/0001193125-25-254934-index.htm)
 
@@ -164,9 +161,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925103317/0001104659-25-103317-index.htm)
-
-- **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322825011538/0001133228-25-011538-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103439/0001104659-25-103439-index.htm)
@@ -187,13 +181,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013741/0000950103-25-013741-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013744/0000950103-25-013744-index.htm)
 
-- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039864/0001140361-25-039864-index.htm)
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325013745/0000950103-25-013745-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804-index.htm)
@@ -209,15 +200,6 @@
 
 - **DEFA14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001575/0001185185-25-001575-index.htm)
-
-- **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104188/0001213900-25-104188-index.htm)
-
-- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104203/0001213900-25-104203-index.htm)
-
-- **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225006784/0001580642-25-006784-index.htm)
@@ -287,6 +269,9 @@
 
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
+
+- **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
 
 - **487** | FT 12492  (CIK 0002075424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075424/000144554625007193/0001445546-25-007193-index.htm)
@@ -378,8 +363,20 @@
 - **485BPOS** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000182912625008485/0001829126-25-008485-index.htm)
 
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925104461/0001104659-25-104461-index.htm)
+
 - **NT 10-K** | RHINO BITCOIN INC.  (PXPC)  (CIK 0001785493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225020009/0001493152-25-020009-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039864/0001140361-25-039864-index.htm)
+
+- **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104188/0001213900-25-104188-index.htm)
+
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104203/0001213900-25-104203-index.htm)
 
 - **10-Q** | iRhythm Technologies, Inc.  (IRTC)  (CIK 0001388658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865825000217/0001388658-25-000217-index.htm)
