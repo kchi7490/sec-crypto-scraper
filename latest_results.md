@@ -84,6 +84,9 @@
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881825000049/0000008818-25-000049-index.htm)
 
+- **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/0001628280-25-047581-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525258690/0001193125-25-258690-index.htm)
 
@@ -123,6 +126,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225060913/0001839882-25-060913-index.htm)
 
+- **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/0001104659-25-104466-index.htm)
+
 - **6-K** | OceanPal Inc.  (OP)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957425006268/0000919574-25-006268-index.htm)
 
@@ -146,6 +152,9 @@
 
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010325013688/0000950103-25-013688-index.htm)
+
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925104461/0001104659-25-104461-index.htm)
 
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525254934/0001193125-25-254934-index.htm)
@@ -207,6 +216,9 @@
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104203/0001213900-25-104203-index.htm)
 
+- **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
+
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225006784/0001580642-25-006784-index.htm)
 
@@ -248,6 +260,9 @@
 
 - **6-K** | OceanPal Inc.  (OP)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957425006305/0000919574-25-006305-index.htm)
+
+- **6-K** | SAIHEAT Ltd  (SAIH, SAIHW)  (CIK 0001847075)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847075/000121390025104212/0001213900-25-104212-index.htm)
 
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828025047437/0001628280-25-047437-index.htm)
