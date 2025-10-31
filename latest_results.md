@@ -237,6 +237,9 @@
 - **485BPOS** | American Funds U.S. Small & Mid Cap Equity Fund  (CIK 0002026099)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026099/000005193125001192/0000051931-25-001192-index.htm)
 
+- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193125001201/0000051931-25-001201-index.htm)
+
 - **485BPOS** | Short-Term Bond Fund of America  (CIK 0001368040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1368040/000005193125001195/0000051931-25-001195-index.htm)
 
