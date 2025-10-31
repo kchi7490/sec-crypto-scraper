@@ -24,6 +24,9 @@
 - **8-K** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008538/0001829126-25-008538-index.htm)
 
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925104662/0001104659-25-104662-index.htm)
+
 - **S-1/A** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525256647/0001193125-25-256647-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255398/0001193125-25-255398-index.htm)
+
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925015638/0001214659-25-015638-index.htm)
 
 - **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/0001628280-25-047581-index.htm)
@@ -143,6 +149,9 @@
 
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925103714/0001104659-25-103714-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL, ATLEW)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425001930/0001640334-25-001930-index.htm)
 
 - **DEF 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793225007803/0001477932-25-007803-index.htm)
@@ -254,6 +263,9 @@
 
 - **DEF 14A** | Two Hands Corp  (TWOH)  (CIK 0001494413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1494413/000149441325000009/0001494413-25-000009-index.htm)
+
+- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828025047680/0001628280-25-047680-index.htm)
 
 - **497** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000182912625008617/0001829126-25-008617-index.htm)
