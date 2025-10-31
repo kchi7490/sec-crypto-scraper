@@ -268,6 +268,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/721994/000072199425000228/0000721994-25-000228-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016653/0001999371-25-016653-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016415/0001999371-25-016415-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
