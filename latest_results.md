@@ -198,6 +198,9 @@
 - **6-K** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950825000047/0001159508-25-000047-index.htm)
 
+- **424B3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025104469/0001213900-25-104469-index.htm)
+
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025104116/0001213900-25-104116-index.htm)
 
@@ -230,6 +233,9 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025104246/0001213900-25-104246-index.htm)
+
+- **485BPOS** | INTERMEDIATE BOND FUND OF AMERICA  (CIK 0000826813)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826813/000005193125001187/0000051931-25-001187-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003476/0001592900-25-003476-index.htm)
