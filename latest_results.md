@@ -24,9 +24,6 @@
 - **8-K** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008538/0001829126-25-008538-index.htm)
 
-- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925104662/0001104659-25-104662-index.htm)
-
 - **S-1/A** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525256647/0001193125-25-256647-index.htm)
 
@@ -47,9 +44,6 @@
 
 - **425** | Armada Acquisition Corp. II  (AACI, AACIU, AACIW)  (CIK 0002044009)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044009/000119312525255398/0001193125-25-255398-index.htm)
-
-- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925015638/0001214659-25-015638-index.htm)
 
 - **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/0001628280-25-047581-index.htm)
@@ -75,9 +69,6 @@
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103174/0001213900-25-103174-index.htm)
 
-- **N-14** | FIRST TRUST SERIES FUND  (CIK 0001497778)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1497778/000144554625007210/0001445546-25-007210-index.htm)
-
 - **1-K** | Sparx Holdings Group, Inc.  (SHGI)  (CIK 0001874138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1874138/000187413825000003/0001874138-25-000003-index.htm)
 
@@ -89,9 +80,6 @@
 
 - **S-1** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/0001213900-25-103237-index.htm)
-
-- **10-Q** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077725000159/0001390777-25-000159-index.htm)
 
 - **424B4** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025104187/0001213900-25-104187-index.htm)
@@ -120,6 +108,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103923/0001104659-25-103923-index.htm)
 
+- **N-14** | FIRST TRUST SERIES FUND  (CIK 0001497778)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1497778/000144554625007210/0001445546-25-007210-index.htm)
+
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039864/0001140361-25-039864-index.htm)
 
@@ -138,6 +129,9 @@
 - **DEFA14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001575/0001185185-25-001575-index.htm)
 
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925015638/0001214659-25-015638-index.htm)
+
 - **8-K** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104188/0001213900-25-104188-index.htm)
 
@@ -146,6 +140,12 @@
 
 - **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
+
+- **10-Q** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077725000159/0001390777-25-000159-index.htm)
+
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925104662/0001104659-25-104662-index.htm)
 
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925104700/0001104659-25-104700-index.htm)
@@ -234,6 +234,18 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025104246/0001213900-25-104246-index.htm)
 
+- **485BPOS** | American Funds U.S. Small & Mid Cap Equity Fund  (CIK 0002026099)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026099/000005193125001192/0000051931-25-001192-index.htm)
+
+- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193125001201/0000051931-25-001201-index.htm)
+
+- **485BPOS** | Short-Term Bond Fund of America  (CIK 0001368040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1368040/000005193125001195/0000051931-25-001195-index.htm)
+
+- **485BPOS** | INTERMEDIATE BOND FUND OF AMERICA  (CIK 0000826813)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826813/000005193125001187/0000051931-25-001187-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003476/0001592900-25-003476-index.htm)
 
@@ -242,9 +254,6 @@
 
 - **N-CSR** | FRANKLIN STRATEGIC SERIES  (CIK 0000872625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/872625/000113322825011464/0001133228-25-011464-index.htm)
-
-- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193125001201/0000051931-25-001201-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025104175/0001213900-25-104175-index.htm)
