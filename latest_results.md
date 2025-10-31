@@ -75,6 +75,9 @@
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025103174/0001213900-25-103174-index.htm)
 
+- **N-14** | FIRST TRUST SERIES FUND  (CIK 0001497778)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1497778/000144554625007210/0001445546-25-007210-index.htm)
+
 - **1-K** | Sparx Holdings Group, Inc.  (SHGI)  (CIK 0001874138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1874138/000187413825000003/0001874138-25-000003-index.htm)
 
