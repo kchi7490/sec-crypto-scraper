@@ -264,6 +264,9 @@
 - **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238625000149/0001592386-25-000149-index.htm)
 
+- **10-Q** | COLGATE PALMOLIVE CO  (CL)  (CIK 0000021665)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/21665/000002166525000053/0000021665-25-000053-index.htm)
+
 - **10-Q** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312425000247/0000073124-25-000247-index.htm)
 
