@@ -144,6 +144,9 @@
 - **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
 
+- **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925104700/0001104659-25-104700-index.htm)
+
 - **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525254710/0001193125-25-254710-index.htm)
 
@@ -164,6 +167,9 @@
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425012368/0001654954-25-012368-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925104699/0001104659-25-104699-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925103380/0001104659-25-103380-index.htm)
