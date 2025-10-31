@@ -66,6 +66,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525258690/0001193125-25-258690-index.htm)
 
+- **S-1/A** | VanEck JitoSOL ETF  (CIK 0002082189)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082189/000162828025047866/0001628280-25-047866-index.htm)
+
+- **8-K** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025104760/0001213900-25-104760-index.htm)
+
 - **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508825000127/0001065088-25-000127-index.htm)
 
@@ -95,6 +101,9 @@
 
 - **1-K** | Sparx Holdings Group, Inc.  (SHGI)  (CIK 0001874138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1874138/000187413825000003/0001874138-25-000003-index.htm)
+
+- **S-3ASR** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025104745/0001213900-25-104745-index.htm)
 
 - **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925104466/0001104659-25-104466-index.htm)
@@ -219,6 +228,9 @@
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828025047437/0001628280-25-047437-index.htm)
 
+- **20-F** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315225020434/0001493152-25-020434-index.htm)
+
 - **20-F** | VivoPower International PLC  (VVPR)  (CIK 0001681348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315225020269/0001493152-25-020269-index.htm)
 
@@ -233,6 +245,9 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025104116/0001213900-25-104116-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025104738/0001213900-25-104738-index.htm)
 
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
@@ -371,6 +386,9 @@
 
 - **NT 10-K** | RHINO BITCOIN INC.  (PXPC)  (CIK 0001785493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225020009/0001493152-25-020009-index.htm)
+
+- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315225020422/0001493152-25-020422-index.htm)
 
 - **N-PX/A** | JPMORGAN TRUST II  (CIK 0000763852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763852/000143893425002854/0001438934-25-002854-index.htm)
