@@ -234,18 +234,6 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390025104246/0001213900-25-104246-index.htm)
 
-- **485BPOS** | American Funds U.S. Small & Mid Cap Equity Fund  (CIK 0002026099)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2026099/000005193125001192/0000051931-25-001192-index.htm)
-
-- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193125001201/0000051931-25-001201-index.htm)
-
-- **485BPOS** | Short-Term Bond Fund of America  (CIK 0001368040)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1368040/000005193125001195/0000051931-25-001195-index.htm)
-
-- **485BPOS** | INTERMEDIATE BOND FUND OF AMERICA  (CIK 0000826813)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/826813/000005193125001187/0000051931-25-001187-index.htm)
-
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003476/0001592900-25-003476-index.htm)
 
@@ -254,6 +242,9 @@
 
 - **N-CSR** | FRANKLIN STRATEGIC SERIES  (CIK 0000872625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/872625/000113322825011464/0001133228-25-011464-index.htm)
+
+- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193125001201/0000051931-25-001201-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025104175/0001213900-25-104175-index.htm)
