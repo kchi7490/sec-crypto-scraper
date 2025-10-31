@@ -216,6 +216,9 @@
 - **487** | FT 12492  (CIK 0002075424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075424/000144554625007193/0001445546-25-007193-index.htm)
 
+- **N-4** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000113322825011601/0001133228-25-011601-index.htm)
+
 - **N-CSR** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060725000307/0001710607-25-000307-index.htm)
 
