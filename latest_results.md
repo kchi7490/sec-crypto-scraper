@@ -24,6 +24,9 @@
 - **8-K** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008538/0001829126-25-008538-index.htm)
 
+- **S-3/A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025104679/0001213900-25-104679-index.htm)
+
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925104662/0001104659-25-104662-index.htm)
 
@@ -69,6 +72,9 @@
 - **424B7** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525256344/0001193125-25-256344-index.htm)
 
+- **S-3ASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225020389/0001493152-25-020389-index.htm)
+
 - **10-Q** | PRO DEX INC  (PDEX)  (CIK 0000788920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/788920/000107997325001655/0001079973-25-001655-index.htm)
 
@@ -111,8 +117,14 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925103317/0001104659-25-103317-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925104928/0001104659-25-104928-index.htm)
+
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322825011538/0001133228-25-011538-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525260795/0001193125-25-260795-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103439/0001104659-25-103439-index.htm)
@@ -120,11 +132,17 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465925103923/0001104659-25-103923-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014075/0000950103-25-014075-index.htm)
+
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039864/0001140361-25-039864-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039804/0001140361-25-039804-index.htm)
+
+- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020377/0001493152-25-020377-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/0001140361-25-039808-index.htm)
@@ -210,17 +228,26 @@
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
 
+- **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390025104686/0001213900-25-104686-index.htm)
+
 - **10-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793225007836/0001477932-25-007836-index.htm)
 
 - **487** | FT 12492  (CIK 0002075424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075424/000144554625007193/0001445546-25-007193-index.htm)
 
+- **N-4** | Transamerica Financial Life Insurance Co  (CIK 0001571931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571931/000113322825011603/0001133228-25-011603-index.htm)
+
 - **N-4** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000113322825011601/0001133228-25-011601-index.htm)
 
 - **N-CSR** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060725000307/0001710607-25-000307-index.htm)
+
+- **N-PX/A** | J.P. Morgan Exchange-Traded Fund Trust  (CIK 0001485894)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1485894/000143893425002860/0001438934-25-002860-index.htm)
 
 - **1-A/A** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925103805/0001104659-25-103805-index.htm)
@@ -261,6 +288,12 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003476/0001592900-25-003476-index.htm)
 
+- **N-PX/A** | JPMorgan Trust I  (CIK 0001217286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002861/0001438934-25-002861-index.htm)
+
+- **N-PX/A** | JPMORGAN TRUST IV  (CIK 0001659326)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000143893425002862/0001438934-25-002862-index.htm)
+
 - **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322825011521/0001133228-25-011521-index.htm)
 
@@ -278,6 +311,9 @@
 
 - **10-Q** | LAKELAND FINANCIAL CORP  (LKFN)  (CIK 0000721994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/721994/000072199425000228/0000721994-25-000228-index.htm)
+
+- **10-Q** | FEDERATED HERMES, INC.  (FHI)  (CIK 0001056288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1056288/000105628825000030/0001056288-25-000030-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125016653/0001999371-25-016653-index.htm)
