@@ -27,6 +27,9 @@
 - **8-K** | Unicoin Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912625008538/0001829126-25-008538-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (CASK, IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000168/0001788230-25-000168-index.htm)
+
 - **S-3/A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025104679/0001213900-25-104679-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **S-3ASR** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225020389/0001493152-25-020389-index.htm)
+
+- **DEF 14A** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312525260889/0001193125-25-260889-index.htm)
 
 - **10-Q** | PRO DEX INC  (PDEX)  (CIK 0000788920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/788920/000107997325001655/0001079973-25-001655-index.htm)
@@ -335,6 +341,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025104280/0001213900-25-104280-index.htm)
+
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104728/0001213900-25-104728-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025103542/0001213900-25-103542-index.htm)
