@@ -66,8 +66,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525258690/0001193125-25-258690-index.htm)
 
+- **S-1/A** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000407/0002071844-25-000407-index.htm)
+
 - **S-1/A** | VanEck JitoSOL ETF  (CIK 0002082189)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082189/000162828025047866/0001628280-25-047866-index.htm)
+
+- **S-1/A** | Bitwise XRP ETF  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000121390025104765/0001213900-25-104765-index.htm)
 
 - **8-K** | Dynamix Corp III  (DNMX)  (CIK 0002081125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081125/000121390025104760/0001213900-25-104760-index.htm)
@@ -180,6 +186,9 @@
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104203/0001213900-25-104203-index.htm)
 
+- **DEF 14A** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225020465/0001493152-25-020465-index.htm)
+
 - **485APOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225006853/0001580642-25-006853-index.htm)
 
@@ -200,6 +209,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925104604/0001104659-25-104604-index.htm)
+
+- **20-F** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465925105009/0001104659-25-105009-index.htm)
 
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000106299325016341/0001062993-25-016341-index.htm)
@@ -251,6 +263,9 @@
 
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390025103801/0001213900-25-103801-index.htm)
+
+- **424B5** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000175392625001676/0001753926-25-001676-index.htm)
 
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390025104686/0001213900-25-104686-index.htm)
@@ -356,6 +371,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025104280/0001213900-25-104280-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025104767/0001213900-25-104767-index.htm)
 
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025104728/0001213900-25-104728-index.htm)
