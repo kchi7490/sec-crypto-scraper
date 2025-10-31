@@ -318,6 +318,9 @@
 - **N-PX/A** | JPMORGAN TRUST II  (CIK 0000763852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763852/000143893425002854/0001438934-25-002854-index.htm)
 
+- **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021725000066/0001500217-25-000066-index.htm)
+
 - **10-Q** | iRhythm Technologies, Inc.  (IRTC)  (CIK 0001388658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865825000217/0001388658-25-000217-index.htm)
 
