@@ -9,6 +9,9 @@
 - **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000208/0001679788-25-000208-index.htm)
 
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025047840/0001628280-25-047840-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225020157/0001493152-25-020157-index.htm)
 
@@ -231,6 +234,9 @@
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390025104686/0001213900-25-104686-index.htm)
 
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025104703/0001213900-25-104703-index.htm)
+
 - **10-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793225007836/0001477932-25-007836-index.htm)
 
@@ -332,6 +338,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025103542/0001213900-25-103542-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025104722/0001213900-25-104722-index.htm)
 
 - **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238625000149/0001592386-25-000149-index.htm)
