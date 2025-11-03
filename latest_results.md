@@ -84,6 +84,9 @@
 - **424B3** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225020505/0001493152-25-020505-index.htm)
 
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825011636/0001133228-25-011636-index.htm)
+
 - **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025104943/0001213900-25-104943-index.htm)
 
@@ -92,4 +95,7 @@
 
 - **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000181/0000060086-25-000181-index.htm)
+
+- **10-Q** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000125/0001823144-25-000125-index.htm)
 
