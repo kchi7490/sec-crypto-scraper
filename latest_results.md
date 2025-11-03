@@ -24,6 +24,9 @@
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/0001193125-25-262568-index.htm)
 
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000067/0001475841-25-000067-index.htm)
+
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
 
@@ -95,6 +98,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016417/0001062993-25-016417-index.htm)
+
+- **F-1/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001610/0001185185-25-001610-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025104911/0001213900-25-104911-index.htm)
