@@ -21,11 +21,20 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
+- **424B3** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025105278/0001213900-25-105278-index.htm)
+
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/0001193125-25-262568-index.htm)
 
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000067/0001475841-25-000067-index.htm)
+
+- **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315225020618/0001493152-25-020618-index.htm)
+
+- **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262811/0001193125-25-262811-index.htm)
 
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
@@ -75,6 +84,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925105540/0001104659-25-105540-index.htm)
 
+- **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262757/0001193125-25-262757-index.htm)
+
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000241/0001099910-25-000241-index.htm)
 
@@ -102,6 +114,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016417/0001062993-25-016417-index.htm)
 
+- **F-3** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025105280/0001213900-25-105280-index.htm)
+
 - **F-1/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001610/0001185185-25-001610-index.htm)
 
@@ -123,6 +138,9 @@
 - **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525262698/0001193125-25-262698-index.htm)
 
+- **497** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825011679/0001133228-25-011679-index.htm)
+
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825011636/0001133228-25-011636-index.htm)
 
@@ -143,4 +161,7 @@
 
 - **10-Q** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000125/0001823144-25-000125-index.htm)
+
+- **DFAN14A** | STAAR SURGICAL CO  (STAA)  (CIK 0000718937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/718937/000121390025105253/0001213900-25-105253-index.htm)
 
