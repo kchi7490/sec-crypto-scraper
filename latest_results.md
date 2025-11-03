@@ -21,6 +21,9 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
+- **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/0001193125-25-262568-index.htm)
+
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
 
@@ -66,11 +69,20 @@
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/0001140361-25-040072-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925105540/0001104659-25-105540-index.htm)
+
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000241/0001099910-25-000241-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040095/0001140361-25-040095-index.htm)
+
+- **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020586/0001493152-25-020586-index.htm)
+
+- **PRE 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793225007872/0001477932-25-007872-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225020550/0001493152-25-020550-index.htm)
@@ -107,6 +119,9 @@
 
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000030/0001765048-25-000030-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025105200/0001213900-25-105200-index.htm)
 
 - **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000181/0000060086-25-000181-index.htm)
