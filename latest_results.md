@@ -96,6 +96,9 @@
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825011636/0001133228-25-011636-index.htm)
 
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425019460/0001888524-25-019460-index.htm)
+
 - **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025104943/0001213900-25-104943-index.htm)
 
