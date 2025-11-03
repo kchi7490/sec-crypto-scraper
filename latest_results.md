@@ -21,11 +21,20 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
+- **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007923/0001683168-25-007923-index.htm)
+
 - **424B3** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025105278/0001213900-25-105278-index.htm)
 
+- **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525262827/0001193125-25-262827-index.htm)
+
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/0001193125-25-262568-index.htm)
+
+- **S-1/A** | Grayscale XRP Trust  (GXRP)  (CIK 0002037427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312525262826/0001193125-25-262826-index.htm)
 
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000067/0001475841-25-000067-index.htm)
@@ -74,6 +83,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525261714/0001193125-25-261714-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262819/0001193125-25-262819-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/0001819989-25-000110-index.htm)
