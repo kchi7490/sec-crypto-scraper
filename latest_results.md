@@ -12,6 +12,9 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025104873/0001213900-25-104873-index.htm)
 
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/0001140361-25-040072-index.htm)
+
 - **6-K** | Ferrari N.V.  (RACE)  (CIK 0001648416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1648416/000164841625000108/0001648416-25-000108-index.htm)
 
