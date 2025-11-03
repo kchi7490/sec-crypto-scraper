@@ -9,8 +9,17 @@
 - **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000122/0001823144-25-000122-index.htm)
 
+- **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105255/0001104659-25-105255-index.htm)
+
+- **8-K** | Resolute Holdings Management, Inc.  (RHLD)  (CIK 0002039497)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039497/000110465925105256/0001104659-25-105256-index.htm)
+
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025104873/0001213900-25-104873-index.htm)
+
+- **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/0001819989-25-000110-index.htm)
 
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/0001140361-25-040072-index.htm)
@@ -23,4 +32,7 @@
 
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000030/0001765048-25-000030-index.htm)
+
+- **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000181/0000060086-25-000181-index.htm)
 
