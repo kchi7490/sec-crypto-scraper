@@ -27,6 +27,9 @@
 - **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105255/0001104659-25-105255-index.htm)
 
+- **FWP** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040102/0001140361-25-040102-index.htm)
+
 - **DEFA14A** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105276/0001104659-25-105276-index.htm)
 
@@ -36,14 +39,17 @@
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
 
+- **10-Q** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000112/0001819989-25-000112-index.htm)
+
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040099/0001140361-25-040099-index.htm)
 
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525261714/0001193125-25-261714-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025104873/0001213900-25-104873-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525261714/0001193125-25-261714-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/0001819989-25-000110-index.htm)
@@ -53,6 +59,9 @@
 
 - **424B5** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040095/0001140361-25-040095-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225020550/0001493152-25-020550-index.htm)
 
 - **6-K** | Ferrari N.V.  (RACE)  (CIK 0001648416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1648416/000164841625000108/0001648416-25-000108-index.htm)
@@ -65,6 +74,9 @@
 
 - **424B3** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225020505/0001493152-25-020505-index.htm)
+
+- **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390025104943/0001213900-25-104943-index.htm)
 
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000030/0001765048-25-000030-index.htm)
