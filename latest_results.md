@@ -81,6 +81,9 @@
 - **424B5** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040095/0001140361-25-040095-index.htm)
 
+- **DEF 14A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025105225/0001213900-25-105225-index.htm)
+
 - **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020586/0001493152-25-020586-index.htm)
 
@@ -113,6 +116,12 @@
 
 - **487** | FT 12533  (CIK 0002079496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079496/000144554625007251/0001445546-25-007251-index.htm)
+
+- **N-CSRS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525262687/0001193125-25-262687-index.htm)
+
+- **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525262698/0001193125-25-262698-index.htm)
 
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322825011636/0001133228-25-011636-index.htm)
