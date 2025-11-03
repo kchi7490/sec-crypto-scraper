@@ -84,6 +84,9 @@
 - **424B3** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225020505/0001493152-25-020505-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001173/0001279569-25-001173-index.htm)
+
 - **487** | FT 12533  (CIK 0002079496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079496/000144554625007251/0001445546-25-007251-index.htm)
 
