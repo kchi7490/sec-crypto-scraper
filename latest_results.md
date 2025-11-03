@@ -42,6 +42,9 @@
 - **8-K** | Resolute Holdings Management, Inc.  (RHLD)  (CIK 0002039497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039497/000110465925105256/0001104659-25-105256-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063019/0001839882-25-063019-index.htm)
+
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
 
