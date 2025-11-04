@@ -21,6 +21,9 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
+- **10-Q/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001469/0001731122-25-001469-index.htm)
+
 - **POS AM** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937125016766/0001999371-25-016766-index.htm)
 
@@ -54,6 +57,9 @@
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262811/0001193125-25-262811-index.htm)
 
+- **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315225020723/0001493152-25-020723-index.htm)
+
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315225020539/0001493152-25-020539-index.htm)
+
+- **10-Q** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000028/0001507605-25-000028-index.htm)
 
 - **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105255/0001104659-25-105255-index.htm)
@@ -89,6 +98,9 @@
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925105874/0001104659-25-105874-index.htm)
+
+- **10-Q** | Upstart Holdings, Inc.  (UPST)  (CIK 0001647639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1647639/000164763925000134/0001647639-25-000134-index.htm)
 
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
@@ -174,6 +186,9 @@
 - **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020586/0001493152-25-020586-index.htm)
 
+- **424B4** | Cantor Equity Partners V, Inc.  (CEPV)  (CIK 0002034266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034266/000121390025106079/0001213900-25-106079-index.htm)
+
 - **424B3** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025105468/0001213900-25-105468-index.htm)
 
@@ -197,6 +212,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925105985/0001104659-25-105985-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925106295/0001104659-25-106295-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225020543/0001493152-25-020543-index.htm)
@@ -257,6 +275,9 @@
 
 - **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504825000030/0001765048-25-000030-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025105200/0001213900-25-105200-index.htm)
