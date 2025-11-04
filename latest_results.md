@@ -30,8 +30,14 @@
 - **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007923/0001683168-25-007923-index.htm)
 
+- **8-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925033045/0001437749-25-033045-index.htm)
+
 - **424B3** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025105278/0001213900-25-105278-index.htm)
+
+- **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312525264886/0001193125-25-264886-index.htm)
 
 - **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525262827/0001193125-25-262827-index.htm)
@@ -86,6 +92,9 @@
 
 - **8-K** | Resolute Holdings Management, Inc.  (RHLD)  (CIK 0002039497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039497/000110465925105256/0001104659-25-105256-index.htm)
+
+- **8-K** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025106192/0001213900-25-106192-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063019/0001839882-25-063019-index.htm)
