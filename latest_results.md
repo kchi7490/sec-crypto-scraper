@@ -142,6 +142,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325014195/0000950103-25-014195-index.htm)
 
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263759/0001193125-25-263759-index.htm)
+
+- **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263746/0001193125-25-263746-index.htm)
+
+- **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263719/0001193125-25-263719-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
