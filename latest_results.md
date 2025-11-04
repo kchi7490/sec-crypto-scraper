@@ -42,6 +42,9 @@
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584125000067/0001475841-25-000067-index.htm)
 
+- **424B5** | APPLIED DNA SCIENCES INC  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925105958/0001104659-25-105958-index.htm)
+
 - **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315225020618/0001493152-25-020618-index.htm)
 
@@ -122,6 +125,9 @@
 
 - **424B5** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040095/0001140361-25-040095-index.htm)
+
+- **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325014194/0000950103-25-014194-index.htm)
 
 - **DEF 14A** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025105225/0001213900-25-105225-index.htm)
