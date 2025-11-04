@@ -78,6 +78,9 @@
 - **DEF 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465925105795/0001104659-25-105795-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063540/0001839882-25-063540-index.htm)
+
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925105874/0001104659-25-105874-index.htm)
 
@@ -191,6 +194,9 @@
 
 - **F-3** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025105280/0001213900-25-105280-index.htm)
+
+- **6-K** | Ferrari N.V.  (RACE)  (CIK 0001648416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1648416/000164841625000113/0001648416-25-000113-index.htm)
 
 - **F-1/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001610/0001185185-25-001610-index.htm)
