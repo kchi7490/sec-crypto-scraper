@@ -75,6 +75,9 @@
 - **10-Q** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998925000112/0001819989-25-000112-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040098/0001140361-25-040098-index.htm)
+
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040099/0001140361-25-040099-index.htm)
 
