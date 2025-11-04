@@ -21,6 +21,9 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
+- **POS AM** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937125016766/0001999371-25-016766-index.htm)
+
 - **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825007923/0001683168-25-007923-index.htm)
 
@@ -69,6 +72,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063019/0001839882-25-063019-index.htm)
 
+- **DEF 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465925105795/0001104659-25-105795-index.htm)
+
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
 
@@ -114,6 +120,9 @@
 - **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020586/0001493152-25-020586-index.htm)
 
+- **424B3** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025105468/0001213900-25-105468-index.htm)
+
 - **PRE 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793225007872/0001477932-25-007872-index.htm)
 
@@ -134,6 +143,15 @@
 
 - **F-1/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001610/0001185185-25-001610-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000112/0001383395-25-000112-index.htm)
+
+- **6-K/A** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000114/0001383395-25-000114-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339525000116/0001383395-25-000116-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025104911/0001213900-25-104911-index.htm)
