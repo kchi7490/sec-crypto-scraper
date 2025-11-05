@@ -300,6 +300,9 @@
 - **424B5** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/0001104659-25-106149-index.htm)
 
+- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003793/0001292814-25-003793-index.htm)
+
 - **F-1/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518525001610/0001185185-25-001610-index.htm)
 
