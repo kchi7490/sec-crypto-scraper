@@ -72,11 +72,11 @@
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262811/0001193125-25-262811-index.htm)
 
-- **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000150/0001335258-25-000150-index.htm)
-
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315225020723/0001493152-25-020723-index.htm)
+
+- **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000150/0001335258-25-000150-index.htm)
 
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
@@ -266,6 +266,9 @@
 
 - **6-K** | Ferrari N.V.  (RACE)  (CIK 0001648416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1648416/000164841625000108/0001648416-25-000108-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016474/0001062993-25-016474-index.htm)
 
 - **SCHEDULE 13D/A** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225020796/0001493152-25-020796-index.htm)
