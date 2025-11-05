@@ -63,11 +63,11 @@
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
 
-- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
-
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
 
 - **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525262827/0001193125-25-262827-index.htm)
@@ -137,6 +137,9 @@
 
 - **DEFA14A** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105276/0001104659-25-105276-index.htm)
+
+- **DEF 14A** | Lakeside Holding Ltd  (LSH)  (CIK 0001996192)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1996192/000121390025106721/0001213900-25-106721-index.htm)
 
 - **8-K** | Resolute Holdings Management, Inc.  (RHLD)  (CIK 0002039497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039497/000110465925105256/0001104659-25-105256-index.htm)
