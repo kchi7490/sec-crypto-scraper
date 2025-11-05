@@ -42,9 +42,6 @@
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312525264886/0001193125-25-264886-index.htm)
 
-- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225020824/0001493152-25-020824-index.htm)
-
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
 
@@ -72,11 +69,11 @@
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525262811/0001193125-25-262811-index.htm)
 
-- **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000150/0001335258-25-000150-index.htm)
-
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315225020723/0001493152-25-020723-index.htm)
+
+- **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000150/0001335258-25-000150-index.htm)
 
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
@@ -96,9 +93,6 @@
 - **FWP** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125040102/0001140361-25-040102-index.htm)
 
-- **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025106250/0001213900-25-106250-index.htm)
-
 - **DEFA14A** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105276/0001104659-25-105276-index.htm)
 
@@ -113,9 +107,6 @@
 
 - **DEF 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465925105795/0001104659-25-105795-index.htm)
-
-- **DEF 14A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025106441/0001213900-25-106441-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063540/0001839882-25-063540-index.htm)
@@ -243,6 +234,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263914/0001193125-25-263914-index.htm)
 
+- **DEF 14A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025106441/0001213900-25-106441-index.htm)
+
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225007001/0001580642-25-007001-index.htm)
 
@@ -342,6 +336,9 @@
 - **487** | FT 12533  (CIK 0002079496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079496/000144554625007251/0001445546-25-007251-index.htm)
 
+- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225020824/0001493152-25-020824-index.htm)
+
 - **487** | FT 12534  (CIK 0002079498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079498/000144554625007285/0001445546-25-007285-index.htm)
 
@@ -383,6 +380,9 @@
 
 - **10-Q** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000125/0001823144-25-000125-index.htm)
+
+- **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025106250/0001213900-25-106250-index.htm)
 
 - **DFAN14A** | STAAR SURGICAL CO  (STAA)  (CIK 0000718937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/718937/000121390025105253/0001213900-25-105253-index.htm)
