@@ -135,6 +135,9 @@
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
 
+- **424B3** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225020859/0001493152-25-020859-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325016472/0001062993-25-016472-index.htm)
 
