@@ -141,6 +141,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063019/0001839882-25-063019-index.htm)
 
+- **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000053/0000714395-25-000053-index.htm)
+
 - **DEF 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465925105795/0001104659-25-105795-index.htm)
 
@@ -446,9 +449,6 @@
 
 - **10-Q** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000125/0001823144-25-000125-index.htm)
-
-- **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000053/0000714395-25-000053-index.htm)
 
 - **DFAN14A** | STAAR SURGICAL CO  (STAA)  (CIK 0000718937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/718937/000121390025105253/0001213900-25-105253-index.htm)
