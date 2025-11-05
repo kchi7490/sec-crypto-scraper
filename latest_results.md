@@ -21,6 +21,9 @@
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316825007901/0001683168-25-007901-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000309/0001783879-25-000309-index.htm)
+
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925105347/0001104659-25-105347-index.htm)
 
@@ -42,11 +45,20 @@
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312525264886/0001193125-25-264886-index.htm)
 
+- **10-Q** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525266921/0001193125-25-266921-index.htm)
+
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225020824/0001493152-25-020824-index.htm)
 
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
+
+- **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
 
 - **S-1/A** | Grayscale Dogecoin Trust (DOGE)  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312525262827/0001193125-25-262827-index.htm)
@@ -78,14 +90,26 @@
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000150/0001335258-25-000150-index.htm)
 
+- **10-Q** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525266931/0001193125-25-266931-index.htm)
+
 - **10-Q** | WESTERN ALLIANCE BANCORPORATION  (WAL, WAL-PA)  (CIK 0001212545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1212545/000162828025047883/0001628280-25-047883-index.htm)
+
+- **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
 - **8-K** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000182314425000122/0001823144-25-000122-index.htm)
 
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315225020539/0001493152-25-020539-index.htm)
+
+- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
+
+- **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
 
 - **10-Q** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000028/0001507605-25-000028-index.htm)
@@ -98,6 +122,9 @@
 
 - **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025106250/0001213900-25-106250-index.htm)
+
+- **10-K/A** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828025049577/0001628280-25-049577-index.htm)
 
 - **DEFA14A** | CompoSecure, Inc.  (CMPO, CMPOW)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465925105276/0001104659-25-105276-index.htm)
@@ -134,6 +161,12 @@
 
 - **DEF 14A** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925105309/0001104659-25-105309-index.htm)
+
+- **10-Q** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000158/0001381197-25-000158-index.htm)
+
+- **10-Q** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677225000202/0000736772-25-000202-index.htm)
 
 - **424B3** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315225020859/0001493152-25-020859-index.htm)
@@ -219,8 +252,14 @@
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263900/0001193125-25-263900-index.htm)
 
+- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225020873/0001493152-25-020873-index.htm)
+
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325014194/0000950103-25-014194-index.htm)
+
+- **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828025049563/0001628280-25-049563-index.htm)
 
 - **8-K** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025105681/0001213900-25-105681-index.htm)
@@ -272,6 +311,12 @@
 
 - **DEF 14A** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325016455/0001062993-25-016455-index.htm)
+
+- **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000071/0001815776-25-000071-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000016/0001913847-25-000016-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225020550/0001493152-25-020550-index.htm)
@@ -379,7 +424,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
+
+- **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525266911/0001193125-25-266911-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025105200/0001213900-25-105200-index.htm)
+
+- **10-Q** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312525266955/0001193125-25-266955-index.htm)
 
 - **10-Q** | LOEWS CORP  (L)  (CIK 0000060086)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008625000181/0000060086-25-000181-index.htm)
