@@ -336,6 +336,9 @@
 - **487** | FT 12533  (CIK 0002079496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079496/000144554625007251/0001445546-25-007251-index.htm)
 
+- **487** | FT 12534  (CIK 0002079498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079498/000144554625007285/0001445546-25-007285-index.htm)
+
 - **N-CSRS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312525262687/0001193125-25-262687-index.htm)
 
