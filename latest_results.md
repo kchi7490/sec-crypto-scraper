@@ -21,6 +21,9 @@
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000309/0001783879-25-000309-index.htm)
 
+- **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125040702/0001140361-25-040702-index.htm)
+
 - **10-Q/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001469/0001731122-25-001469-index.htm)
 
@@ -63,11 +66,11 @@
 - **8-K** | ACI WORLDWIDE, INC.  (ACIW)  (CIK 0000935036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/935036/000093503625000029/0000935036-25-000029-index.htm)
 
-- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
-
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
 
 - **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025048668/0001628280-25-048668-index.htm)
@@ -93,11 +96,11 @@
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
 
-- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
-
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
+
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
