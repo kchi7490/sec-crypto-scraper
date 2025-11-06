@@ -228,6 +228,9 @@
 - **8-K** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025105681/0001213900-25-105681-index.htm)
 
+- **10-Q** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465925016023/0001214659-25-016023-index.htm)
+
 - **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000051/0000934549-25-000051-index.htm)
 
@@ -330,6 +333,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925033450/0001437749-25-033450-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001186/0001279569-25-001186-index.htm)
+
 - **487** | FT 12534  (CIK 0002079498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079498/000144554625007285/0001445546-25-007285-index.htm)
 
@@ -348,11 +354,11 @@
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000151/0001335258-25-000151-index.htm)
 
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
-
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
 
 - **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525266911/0001193125-25-266911-index.htm)
