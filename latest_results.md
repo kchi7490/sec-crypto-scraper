@@ -90,11 +90,11 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
-- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
-
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
+
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
@@ -332,6 +332,9 @@
 
 - **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025049683/0001628280-25-049683-index.htm)
+
+- **N-PX/A** | JPMorgan Trust I  (CIK 0001217286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002865/0001438934-25-002865-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106213/0001213900-25-106213-index.htm)
