@@ -66,11 +66,11 @@
 - **8-K** | ACI WORLDWIDE, INC.  (ACIW)  (CIK 0000935036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/935036/000093503625000029/0000935036-25-000029-index.htm)
 
-- **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
-
 - **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
+
+- **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
 
 - **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025048668/0001628280-25-048668-index.htm)
@@ -80,6 +80,12 @@
 
 - **8-K** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000110465925107383/0001104659-25-107383-index.htm)
+
+- **10-Q** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828025050175/0001628280-25-050175-index.htm)
+
+- **8-K** | Blink Charging Co.  (BLNK)  (CIK 0001429764)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1429764/000149315225021067/0001493152-25-021067-index.htm)
 
 - **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315225020723/0001493152-25-020723-index.htm)
@@ -93,14 +99,14 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
-- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
-
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
 
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
+
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
@@ -110,6 +116,12 @@
 
 - **S-8** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000149315225020947/0001493152-25-020947-index.htm)
+
+- **10-K** | VISA INC.  (V)  (CIK 0001403161)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/0001403161-25-000089-index.htm)
+
+- **10-Q** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315225021069/0001493152-25-021069-index.htm)
 
 - **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025106250/0001213900-25-106250-index.htm)
@@ -131,6 +143,9 @@
 
 - **DEF 14A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025106441/0001213900-25-106441-index.htm)
+
+- **10-Q** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036125040779/0001140361-25-040779-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063540/0001839882-25-063540-index.htm)
@@ -195,6 +210,12 @@
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000026/0001507605-25-000026-index.htm)
 
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000079/0001878848-25-000079-index.htm)
+
+- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000081/0001878848-25-000081-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107457/0001104659-25-107457-index.htm)
 
@@ -251,6 +272,9 @@
 
 - **10-Q** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/0001193125-25-267043-index.htm)
+
+- **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998025000700/0001929980-25-000700-index.htm)
 
 - **10-Q** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315225020943/0001493152-25-020943-index.htm)
@@ -351,6 +375,9 @@
 - **N-PX/A** | JPMorgan Trust I  (CIK 0001217286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002865/0001438934-25-002865-index.htm)
 
+- **N-CSR** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000139834425020469/0001398344-25-020469-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106213/0001213900-25-106213-index.htm)
 
@@ -360,17 +387,26 @@
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525825000151/0001335258-25-000151-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025107170/0001213900-25-107170-index.htm)
+
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025107149/0001213900-25-107149-index.htm)
+
 - **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525266911/0001193125-25-266911-index.htm)
 
 - **10-Q** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312525266955/0001193125-25-266955-index.htm)
+
+- **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887425000210/0001818874-25-000210-index.htm)
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774925033482/0001437749-25-033482-index.htm)
