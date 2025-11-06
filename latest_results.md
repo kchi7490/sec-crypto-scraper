@@ -313,6 +313,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/0001104659-25-106149-index.htm)
 
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003817/0001292814-25-003817-index.htm)
+
+- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259725000026/0001132597-25-000026-index.htm)
 
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
