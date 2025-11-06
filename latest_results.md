@@ -117,14 +117,14 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
-- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
-
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
+
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
@@ -222,6 +222,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525265793/0001193125-25-265793-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016047/0001214659-25-016047-index.htm)
+
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263731/0001193125-25-263731-index.htm)
 
@@ -246,8 +249,20 @@
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000026/0001507605-25-000026-index.htm)
 
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000079/0001878848-25-000079-index.htm)
+
+- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000081/0001878848-25-000081-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107849/0001104659-25-107849-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107457/0001104659-25-107457-index.htm)
+
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/0001193125-25-269715-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325014401/0000950103-25-014401-index.htm)
@@ -300,8 +315,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263914/0001193125-25-263914-index.htm)
 
+- **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000054/0000934549-25-000054-index.htm)
+
 - **10-Q** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/0001193125-25-267043-index.htm)
+
+- **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998025000700/0001929980-25-000700-index.htm)
 
 - **10-Q** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315225020943/0001493152-25-020943-index.htm)
@@ -402,9 +423,6 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016457/0001062993-25-016457-index.htm)
 
-- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000081/0001878848-25-000081-index.htm)
-
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925033450/0001437749-25-033450-index.htm)
 
@@ -419,9 +437,6 @@
 
 - **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828025049683/0001628280-25-049683-index.htm)
-
-- **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998025000700/0001929980-25-000700-index.htm)
 
 - **N-PX/A** | JPMorgan Trust I  (CIK 0001217286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1217286/000143893425002865/0001438934-25-002865-index.htm)
@@ -441,11 +456,11 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025107170/0001213900-25-107170-index.htm)
 
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025107149/0001213900-25-107149-index.htm)
@@ -461,19 +476,4 @@
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774925033482/0001437749-25-033482-index.htm)
-
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016047/0001214659-25-016047-index.htm)
-
-- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000079/0001878848-25-000079-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107849/0001104659-25-107849-index.htm)
-
-- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/0001193125-25-269715-index.htm)
-
-- **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000054/0000934549-25-000054-index.htm)
 
