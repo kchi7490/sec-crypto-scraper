@@ -36,11 +36,11 @@
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
 
-- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
-
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
 
 - **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828025048668/0001628280-25-048668-index.htm)
