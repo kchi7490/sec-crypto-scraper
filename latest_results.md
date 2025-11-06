@@ -12,6 +12,9 @@
 - **8-K** | AGRIFORCE GROWING SYSTEMS LTD.  (AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225021006/0001493152-25-021006-index.htm)
 
+- **10-Q** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315225021089/0001493152-25-021089-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007931/0001477932-25-007931-index.htm)
 
@@ -24,11 +27,17 @@
 - **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125040702/0001140361-25-040702-index.htm)
 
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518525001637/0001185185-25-001637-index.htm)
+
 - **10-Q/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001469/0001731122-25-001469-index.htm)
 
 - **POS AM** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937125016766/0001999371-25-016766-index.htm)
+
+- **8-K** | BONK, INC.  (SHOT, SHOTW)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225021094/0001493152-25-021094-index.htm)
 
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000310/0001783879-25-000310-index.htm)
@@ -65,6 +74,9 @@
 
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
+
+- **S-3** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000121390025107232/0001213900-25-107232-index.htm)
 
 - **8-K** | ACI WORLDWIDE, INC.  (ACIW)  (CIK 0000935036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/935036/000093503625000029/0000935036-25-000029-index.htm)
@@ -165,6 +177,12 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063815/0001839882-25-063815-index.htm)
 
+- **10-Q** | Funko, Inc.  (FNKO)  (CIK 0001704711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1704711/000170471125000136/0001704711-25-000136-index.htm)
+
+- **S-1/A** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625008903/0001829126-25-008903-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225063611/0001839882-25-063611-index.htm)
 
@@ -173,6 +191,9 @@
 
 - **10-Q** | Upstart Holdings, Inc.  (UPST)  (CIK 0001647639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1647639/000164763925000134/0001647639-25-000134-index.htm)
+
+- **10-K** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000180166125000050/0001801661-25-000050-index.htm)
 
 - **10-Q** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000158/0001381197-25-000158-index.htm)
@@ -227,6 +248,9 @@
 
 - **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884825000081/0001878848-25-000081-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107849/0001104659-25-107849-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107457/0001104659-25-107457-index.htm)
@@ -306,14 +330,23 @@
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225007014/0001580642-25-007014-index.htm)
 
+- **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025107252/0001213900-25-107252-index.htm)
+
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925106730/0001104659-25-106730-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000069/0001815776-25-000069-index.htm)
 
+- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312525270019/0001193125-25-270019-index.htm)
+
 - **SC14D9C** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525263547/0001193125-25-263547-index.htm)
+
+- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312525269992/0001193125-25-269992-index.htm)
 
 - **8-K** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525263544/0001193125-25-263544-index.htm)
@@ -321,8 +354,14 @@
 - **DEF 14A** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325016455/0001062993-25-016455-index.htm)
 
+- **10-Q** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312525270123/0001193125-25-270123-index.htm)
+
 - **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000071/0001815776-25-000071-index.htm)
+
+- **10-Q** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774925033639/0001437749-25-033639-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000016/0001913847-25-000016-index.htm)
