@@ -9,6 +9,9 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007931/0001477932-25-007931-index.htm)
 
+- **10-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125040617/0001140361-25-040617-index.htm)
+
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000309/0001783879-25-000309-index.htm)
 
@@ -17,6 +20,9 @@
 
 - **POS AM** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937125016766/0001999371-25-016766-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000310/0001783879-25-000310-index.htm)
 
 - **8-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925033045/0001437749-25-033045-index.htm)
@@ -30,8 +36,14 @@
 - **10-Q** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525266921/0001193125-25-266921-index.htm)
 
+- **10-Q** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774925033435/0001437749-25-033435-index.htm)
+
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225020824/0001493152-25-020824-index.htm)
+
+- **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774925033432/0001437749-25-033432-index.htm)
 
 - **S-1/A** | Franklin XRP Trust  (CIK 0002059438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059438/000207184425000415/0002071844-25-000415-index.htm)
@@ -63,11 +75,17 @@
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
 
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
+
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
 
 - **10-Q** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760525000028/0001507605-25-000028-index.htm)
+
+- **S-8** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000149315225020947/0001493152-25-020947-index.htm)
 
 - **DEF 14A** | ETHZilla Corp  (ETHZ, ETHZW)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025106250/0001213900-25-106250-index.htm)
@@ -191,6 +209,9 @@
 
 - **10-Q** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/0001193125-25-267043-index.htm)
+
+- **10-Q** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315225020943/0001493152-25-020943-index.htm)
 
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225007001/0001580642-25-007001-index.htm)
