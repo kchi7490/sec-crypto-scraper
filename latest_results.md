@@ -33,6 +33,9 @@
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387925000310/0001783879-25-000310-index.htm)
 
+- **10-Q** | Medalist Diversified REIT, Inc.  (MDRR)  (CIK 0001654595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465925107749/0001104659-25-107749-index.htm)
+
 - **8-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925033045/0001437749-25-033045-index.htm)
 
@@ -99,14 +102,14 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
-- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
-- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
+- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
@@ -132,6 +135,9 @@
 - **DEF 14A** | Lakeside Holding Ltd  (LSH)  (CIK 0001996192)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996192/000121390025106721/0001213900-25-106721-index.htm)
 
+- **10-Q** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000184706425000010/0001847064-25-000010-index.htm)
+
 - **8-K** | Apex Treasury Corp  (APXT)  (CIK 0002079253)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025106192/0001213900-25-106192-index.htm)
 
@@ -140,6 +146,9 @@
 
 - **DEF 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465925105795/0001104659-25-105795-index.htm)
+
+- **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828025050234/0001628280-25-050234-index.htm)
 
 - **DEF 14A** | DeFi Development Corp.  (DFDV)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025106441/0001213900-25-106441-index.htm)
@@ -186,6 +195,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525265793/0001193125-25-265793-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016047/0001214659-25-016047-index.htm)
+
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263731/0001193125-25-263731-index.htm)
 
@@ -218,6 +230,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107457/0001104659-25-107457-index.htm)
+
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312525269715/0001193125-25-269715-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR, CIFRW)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010325014401/0000950103-25-014401-index.htm)
@@ -269,6 +284,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525263914/0001193125-25-263914-index.htm)
+
+- **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000054/0000934549-25-000054-index.htm)
 
 - **10-Q** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312525267043/0001193125-25-267043-index.htm)
@@ -333,6 +351,9 @@
 - **6-K** | Ferrari N.V.  (RACE)  (CIK 0001648416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1648416/000164841625000113/0001648416-25-000113-index.htm)
 
+- **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518525001635/0001185185-25-001635-index.htm)
+
 - **424B5** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925106149/0001104659-25-106149-index.htm)
 
@@ -390,11 +411,11 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025107170/0001213900-25-107170-index.htm)
 
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025106657/0001213900-25-106657-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025106082/0001213900-25-106082-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025107149/0001213900-25-107149-index.htm)
