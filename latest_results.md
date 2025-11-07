@@ -96,6 +96,9 @@
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
 
+- **S-1/A** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315225021228/0001493152-25-021228-index.htm)
+
 - **S-1/A** | Bitwise Dogecoin ETF  (CIK 0002053791)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000121390025107252/0001213900-25-107252-index.htm)
 
@@ -114,14 +117,17 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
-- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
-
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
+
+- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
+
+- **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000213/0001649749-25-000213-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
@@ -200,6 +206,9 @@
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025106289/0001213900-25-106289-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025107574/0001213900-25-107574-index.htm)
 
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107451/0001104659-25-107451-index.htm)
