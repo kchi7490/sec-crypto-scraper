@@ -90,11 +90,11 @@
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225021145/0001493152-25-021145-index.htm)
 
-- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
-
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525266849/0001193125-25-266849-index.htm)
+
+- **10-Q** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525266935/0001193125-25-266935-index.htm)
 
 - **S-1/A** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315225021228/0001493152-25-021228-index.htm)
