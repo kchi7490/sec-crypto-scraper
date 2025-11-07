@@ -99,14 +99,14 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
+- **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
+
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
 
 - **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
-
-- **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
@@ -262,6 +262,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774925033639/0001437749-25-033639-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000019/0001913847-25-000019-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000016/0001913847-25-000016-index.htm)
 
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
@@ -308,6 +311,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001186/0001279569-25-001186-index.htm)
+
+- **10-Q** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000143847225000011/0001438472-25-000011-index.htm)
 
 - **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312525270284/0001193125-25-270284-index.htm)
@@ -356,6 +362,9 @@
 
 - **10-Q** | GIVEMEPOWER CORP  (GMPW)  (CIK 0001064722)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1064722/000149315225021126/0001493152-25-021126-index.htm)
+
+- **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312525271134/0001193125-25-271134-index.htm)
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774925033482/0001437749-25-033482-index.htm)
