@@ -117,6 +117,9 @@
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525266861/0001193125-25-266861-index.htm)
 
+- **10-Q** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225021272/0001493152-25-021272-index.htm)
+
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
@@ -129,6 +132,9 @@
 - **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000213/0001649749-25-000213-index.htm)
 
+- **10-Q** | FULTON FINANCIAL CORP  (FULT, FULTP)  (CIK 0000700564)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/700564/000070056425000057/0000700564-25-000057-index.htm)
+
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525266856/0001193125-25-266856-index.htm)
 
@@ -140,6 +146,9 @@
 
 - **10-Q** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315225021069/0001493152-25-021069-index.htm)
+
+- **10-Q** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000110465925108518/0001104659-25-108518-index.htm)
 
 - **10-K/A** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828025049577/0001628280-25-049577-index.htm)
@@ -176,6 +185,9 @@
 
 - **S-1/A** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625008903/0001829126-25-008903-index.htm)
+
+- **N-CSRS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000113322825011865/0001133228-25-011865-index.htm)
 
 - **10-K** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000180166125000050/0001801661-25-000050-index.htm)
@@ -264,8 +276,8 @@
 - **10-Q/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225021258/0001493152-25-021258-index.htm)
 
-- **10-Q** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315225021272/0001493152-25-021272-index.htm)
+- **10-Q** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312525272407/0001193125-25-272407-index.htm)
 
 - **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454925000054/0000934549-25-000054-index.htm)
@@ -293,6 +305,9 @@
 
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064225007014/0001580642-25-007014-index.htm)
+
+- **S-3** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793225007976/0001477932-25-007976-index.htm)
 
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925106730/0001104659-25-106730-index.htm)
@@ -369,6 +384,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000129281425003793/0001292814-25-003793-index.htm)
 
+- **N-CSR/A** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000113322825011863/0001133228-25-011863-index.htm)
+
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925033450/0001437749-25-033450-index.htm)
 
@@ -428,6 +446,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025107149/0001213900-25-107149-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025107650/0001213900-25-107650-index.htm)
 
 - **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525266911/0001193125-25-266911-index.htm)
