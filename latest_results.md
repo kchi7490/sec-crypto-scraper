@@ -177,6 +177,9 @@
 - **10-Q** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119725000158/0001381197-25-000158-index.htm)
 
+- **10-Q** | NewtekOne, Inc.  (NEWT, NEWTG, NEWTH, NEWTI, NEWTP, NEWTZ)  (CIK 0001587987)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587987/000162828025050582/0001628280-25-050582-index.htm)
+
 - **10-Q** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677225000202/0000736772-25-000202-index.htm)
 
