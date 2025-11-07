@@ -81,6 +81,9 @@
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225021152/0001493152-25-021152-index.htm)
 
+- **S-3** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225007981/0001477932-25-007981-index.htm)
+
 - **S-3** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000121390025107232/0001213900-25-107232-index.htm)
 
@@ -123,11 +126,11 @@
 - **DEFM14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025106817/0001213900-25-106817-index.htm)
 
-- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
-
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025106812/0001213900-25-106812-index.htm)
+
+- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312525266946/0001193125-25-266946-index.htm)
 
 - **10-Q** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974925000213/0001649749-25-000213-index.htm)
@@ -140,6 +143,9 @@
 
 - **10-Q** | Customers Bancorp, Inc.  (CUBB, CUBI, CUBI-PF)  (CIK 0001488813)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1488813/000148881325000101/0001488813-25-000101-index.htm)
+
+- **S-1** | WisdomTree Coindesk 20 Fund  (CIK 0002092551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092551/000121465925016108/0001214659-25-016108-index.htm)
 
 - **S-8** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000149315225020947/0001493152-25-020947-index.htm)
@@ -167,6 +173,9 @@
 
 - **10-Q** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000184706425000010/0001847064-25-000010-index.htm)
+
+- **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025107665/0001213900-25-107665-index.htm)
 
 - **10-Q** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439525000053/0000714395-25-000053-index.htm)
@@ -216,11 +225,11 @@
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325016472/0001062993-25-016472-index.htm)
 
-- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525265793/0001193125-25-265793-index.htm)
-
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016047/0001214659-25-016047-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525265793/0001193125-25-265793-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225020985/0001493152-25-020985-index.htm)
@@ -245,6 +254,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107849/0001104659-25-107849-index.htm)
+
+- **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525272591/0001193125-25-272591-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925107457/0001104659-25-107457-index.htm)
@@ -278,6 +290,9 @@
 
 - **10-Q/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225021258/0001493152-25-021258-index.htm)
+
+- **DEF 14A** | GENERATION INCOME PROPERTIES, INC.  (GIPR, GIPRW)  (CIK 0001651721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1651721/000119312525272581/0001193125-25-272581-index.htm)
 
 - **10-Q** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312525272407/0001193125-25-272407-index.htm)
@@ -315,6 +330,9 @@
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925106730/0001104659-25-106730-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007982/0001477932-25-007982-index.htm)
+
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000069/0001815776-25-000069-index.htm)
 
@@ -348,11 +366,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925108189/0001104659-25-108189-index.htm)
 
-- **6-K** | Mogo Inc.  (MOGO)  (CIK 0001602842)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000147793225007966/0001477932-25-007966-index.htm)
-
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016474/0001062993-25-016474-index.htm)
+
+- **6-K** | Mogo Inc.  (MOGO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000147793225007966/0001477932-25-007966-index.htm)
 
 - **SCHEDULE 13D/A** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225020796/0001493152-25-020796-index.htm)
@@ -419,6 +437,9 @@
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825021498/0001410368-25-021498-index.htm)
+
+- **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315225021309/0001493152-25-021309-index.htm)
 
 - **485APOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312525271896/0001193125-25-271896-index.htm)
