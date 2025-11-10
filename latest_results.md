@@ -19,6 +19,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125041202/0001140361-25-041202-index.htm)
 
 - **424B3** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125041357/0001140361-25-041357-index.htm)
+
+- **424B3** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125041355/0001140361-25-041355-index.htm)
 
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
@@ -41,6 +44,9 @@
 
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007992/0001477932-25-007992-index.htm)
+
+- **10-K** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000003877725000238/0000038777-25-000238-index.htm)
 
 - **10-Q** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868125000139/0001858681-25-000139-index.htm)
