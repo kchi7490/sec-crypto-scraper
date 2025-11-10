@@ -27,6 +27,9 @@
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225021463/0001493152-25-021463-index.htm)
 
+- **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825008141/0001683168-25-008141-index.htm)
+
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925108696/0001104659-25-108696-index.htm)
 
@@ -35,6 +38,9 @@
 
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025050782/0001628280-25-050782-index.htm)
+
+- **8-K** | MYR GROUP INC.  (MYRG)  (CIK 0000700923)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/700923/000070092325000045/0000700923-25-000045-index.htm)
 
 - **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025107926/0001213900-25-107926-index.htm)
@@ -51,6 +57,9 @@
 - **10-Q** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868125000139/0001858681-25-000139-index.htm)
 
+- **10-Q** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000070612925000176/0000706129-25-000176-index.htm)
+
 - **POS AM** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390025107920/0001213900-25-107920-index.htm)
 
@@ -66,14 +75,26 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925108938/0001104659-25-108938-index.htm)
 
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525274190/0001193125-25-274190-index.htm)
+
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925108930/0001104659-25-108930-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525273310/0001193125-25-273310-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525274179/0001193125-25-274179-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330125000096/0001083301-25-000096-index.htm)
+
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041296/0001140361-25-041296-index.htm)
+
+- **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525274308/0001193125-25-274308-index.htm)
 
 - **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
@@ -107,6 +128,12 @@
 
 - **40-17G** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225007168/0001580642-25-007168-index.htm)
+
+- **10-Q** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025108230/0001213900-25-108230-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125017366/0001999371-25-017366-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125017348/0001999371-25-017348-index.htm)
