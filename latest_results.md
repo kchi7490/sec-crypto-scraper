@@ -39,8 +39,20 @@
 - **POS AM** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390025107920/0001213900-25-107920-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041295/0001140361-25-041295-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041298/0001140361-25-041298-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041299/0001140361-25-041299-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525273310/0001193125-25-273310-index.htm)
+
+- **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041296/0001140361-25-041296-index.htm)
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025107846/0001213900-25-107846-index.htm)
