@@ -18,6 +18,9 @@
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007992/0001477932-25-007992-index.htm)
 
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025107825/0001213900-25-107825-index.htm)
+
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025107802/0001213900-25-107802-index.htm)
 
