@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225021429/0001493152-25-021429-index.htm)
 
+- **10-Q** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025107940/0001213900-25-107940-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025107791/0001213900-25-107791-index.htm)
 
@@ -48,6 +51,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107866/0001213900-25-107866-index.htm)
 
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225021438/0001493152-25-021438-index.htm)
+
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025107825/0001213900-25-107825-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **40-17G** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225007168/0001580642-25-007168-index.htm)
+
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390025107930/0001213900-25-107930-index.htm)
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390025107872/0001213900-25-107872-index.htm)
