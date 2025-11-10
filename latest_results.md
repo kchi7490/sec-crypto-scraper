@@ -12,6 +12,9 @@
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925108696/0001104659-25-108696-index.htm)
 
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525273318/0001193125-25-273318-index.htm)
+
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025050782/0001628280-25-050782-index.htm)
 
@@ -21,8 +24,20 @@
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225007992/0001477932-25-007992-index.htm)
 
+- **10-Q** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868125000139/0001858681-25-000139-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525273310/0001193125-25-273310-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025107846/0001213900-25-107846-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107865/0001213900-25-107865-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107866/0001213900-25-107866-index.htm)
 
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025107825/0001213900-25-107825-index.htm)
@@ -35,4 +50,7 @@
 
 - **40-17G** | New Age Alpha Variable Funds Trust  (CIK 0002013968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013968/000158064225007168/0001580642-25-007168-index.htm)
+
+- **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390025107872/0001213900-25-107872-index.htm)
 
