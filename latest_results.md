@@ -72,6 +72,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107866/0001213900-25-107866-index.htm)
 
+- **20-F** | Bioceres Crop Solutions Corp.  (BIOX)  (CIK 0001769484)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769484/000110465925108999/0001104659-25-108999-index.htm)
+
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225021438/0001493152-25-021438-index.htm)
 
