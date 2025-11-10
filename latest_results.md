@@ -138,11 +138,29 @@
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041296/0001140361-25-041296-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014520/0000950103-25-014520-index.htm)
+
 - **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525274308/0001193125-25-274308-index.htm)
 
 - **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
+
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000084/0001859392-25-000084-index.htm)
+
+- **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025108322/0001213900-25-108322-index.htm)
+
+- **425** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025108331/0001213900-25-108331-index.htm)
+
+- **S-1** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025108253/0001213900-25-108253-index.htm)
+
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325007181/0001171843-25-007181-index.htm)
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025107846/0001213900-25-107846-index.htm)
@@ -156,6 +174,9 @@
 - **6-K** | INX Ltd  (CIK 0001725882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725882/000121390025108107/0001213900-25-108107-index.htm)
 
+- **6-K** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315225021536/0001493152-25-021536-index.htm)
+
 - **20-F** | Bioceres Crop Solutions Corp.  (BIOX)  (CIK 0001769484)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769484/000110465925108999/0001104659-25-108999-index.htm)
 
@@ -168,9 +189,6 @@
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025050792/0001628280-25-050792-index.htm)
 
-- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325007181/0001171843-25-007181-index.htm)
-
 - **10-Q** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000119312525274499/0001193125-25-274499-index.htm)
 
@@ -182,9 +200,6 @@
 
 - **10-Q** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312525274506/0001193125-25-274506-index.htm)
-
-- **S-1** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025108253/0001213900-25-108253-index.htm)
 
 - **N-CSR** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554625007473/0001445546-25-007473-index.htm)
@@ -230,9 +245,6 @@
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390025107872/0001213900-25-107872-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014520/0000950103-25-014520-index.htm)
 
 - **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000119312525274461/0001193125-25-274461-index.htm)
