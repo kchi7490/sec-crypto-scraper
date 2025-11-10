@@ -66,6 +66,9 @@
 - **425** | Strive, Inc.  (ASST)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125041296/0001140361-25-041296-index.htm)
 
+- **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025107846/0001213900-25-107846-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107866/0001213900-25-107866-index.htm)
+
+- **6-K** | INX Ltd  (CIK 0001725882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725882/000121390025108107/0001213900-25-108107-index.htm)
 
 - **20-F** | Bioceres Crop Solutions Corp.  (BIOX)  (CIK 0001769484)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769484/000110465925108999/0001104659-25-108999-index.htm)
