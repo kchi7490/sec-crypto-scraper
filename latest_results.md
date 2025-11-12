@@ -180,6 +180,9 @@
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525274179/0001193125-25-274179-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525276014/0001193125-25-276014-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330125000096/0001083301-25-000096-index.htm)
 
@@ -214,13 +217,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014536/0000950103-25-014536-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014535/0000950103-25-014535-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014534/0000950103-25-014534-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014527/0000950103-25-014527-index.htm)
@@ -244,19 +247,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014520/0000950103-25-014520-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014530/0000950103-25-014530-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014531/0000950103-25-014531-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014533/0000950103-25-014533-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014530/0000950103-25-014530-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014539/0000950103-25-014539-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014549/0000950103-25-014549-index.htm)
@@ -265,19 +268,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
 
 - **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525274308/0001193125-25-274308-index.htm)
+
+- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025108787/0001213900-25-108787-index.htm)
 
 - **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
@@ -291,17 +297,20 @@
 - **425** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025108331/0001213900-25-108331-index.htm)
 
-- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390025108787/0001213900-25-108787-index.htm)
-
 - **S-1** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025108253/0001213900-25-108253-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325007181/0001171843-25-007181-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000023/0001913847-25-000023-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390025107846/0001213900-25-107846-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025108796/0001213900-25-108796-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107865/0001213900-25-107865-index.htm)
