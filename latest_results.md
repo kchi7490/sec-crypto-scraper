@@ -96,6 +96,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008167/0001683168-25-008167-index.htm)
 
+- **10-Q** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465925016344/0001214659-25-016344-index.htm)
+
 - **S-1** | Canary MOG ETF  (CIK 0002091595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091595/000199937125017506/0001999371-25-017506-index.htm)
 
@@ -301,10 +304,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014626/0000950103-25-014626-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014552/0000950103-25-014552-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014545/0000950103-25-014545-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014545/0000950103-25-014545-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014552/0000950103-25-014552-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014542/0000950103-25-014542-index.htm)
@@ -399,9 +402,6 @@
 - **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
 
-- **424B5** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925109899/0001104659-25-109899-index.htm)
-
 - **NT 10-Q** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925110338/0001104659-25-110338-index.htm)
 
@@ -482,6 +482,9 @@
 
 - **10-Q** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312525274506/0001193125-25-274506-index.htm)
+
+- **424B5** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925109899/0001104659-25-109899-index.htm)
 
 - **N-CEN** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000094040025005820/0000940400-25-005820-index.htm)
@@ -584,6 +587,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325014590/0000950103-25-014590-index.htm)
+
+- **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025109387/0001213900-25-109387-index.htm)
 
 - **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000119312525274461/0001193125-25-274461-index.htm)
