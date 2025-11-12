@@ -120,6 +120,9 @@
 - **10-Q** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008152/0001683168-25-008152-index.htm)
 
+- **424B3** | Roth CH Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625008996/0001829126-25-008996-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525274345/0001193125-25-274345-index.htm)
 
@@ -238,10 +241,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014528/0000950103-25-014528-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014526/0000950103-25-014526-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014553/0000950103-25-014553-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014553/0000950103-25-014553-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014526/0000950103-25-014526-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014520/0000950103-25-014520-index.htm)
@@ -256,10 +259,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014530/0000950103-25-014530-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014539/0000950103-25-014539-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014539/0000950103-25-014539-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014549/0000950103-25-014549-index.htm)
@@ -288,6 +291,9 @@
 - **10-Q** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925034040/0001437749-25-034040-index.htm)
 
+- **424B5** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925109899/0001104659-25-109899-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000084/0001859392-25-000084-index.htm)
 
@@ -311,6 +317,9 @@
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025108796/0001213900-25-108796-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925109897/0001104659-25-109897-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025107865/0001213900-25-107865-index.htm)
@@ -360,6 +369,9 @@
 - **10-Q** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312525274506/0001193125-25-274506-index.htm)
 
+- **N-CEN** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000094040025005820/0000940400-25-005820-index.htm)
+
 - **N-CSR** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554625007473/0001445546-25-007473-index.htm)
 
@@ -408,11 +420,17 @@
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390025107930/0001213900-25-107930-index.htm)
 
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390025108837/0001213900-25-108837-index.htm)
+
 - **10-Q** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312525274035/0001193125-25-274035-index.htm)
 
 - **10-Q** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465925108932/0001104659-25-108932-index.htm)
+
+- **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604225000047/0001876042-25-000047-index.htm)
 
 - **10-Q** | Flywire Corp  (FLYW)  (CIK 0001580560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000119312525274358/0001193125-25-274358-index.htm)
@@ -425,4 +443,7 @@
 
 - **SCHEDULE 13D/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000119312525274461/0001193125-25-274461-index.htm)
+
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189525002947/0000921895-25-002947-index.htm)
 
