@@ -3,11 +3,11 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225021429/0001493152-25-021429-index.htm)
 
-- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525275602/0001193125-25-275602-index.htm)
-
 - **10-Q** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025107940/0001213900-25-107940-index.htm)
+
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525275602/0001193125-25-275602-index.htm)
 
 - **424B3** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025108047/0001213900-25-108047-index.htm)
@@ -30,11 +30,11 @@
 - **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315225021741/0001493152-25-021741-index.htm)
 
-- **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925109820/0001104659-25-109820-index.htm)
-
 - **424B3** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125041204/0001140361-25-041204-index.htm)
+
+- **8-K** | LEAP THERAPEUTICS, INC.  (LPTX)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925109820/0001104659-25-109820-index.htm)
 
 - **424B3** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125041202/0001140361-25-041202-index.htm)
@@ -214,13 +214,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014537/0000950103-25-014537-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014542/0000950103-25-014542-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014545/0000950103-25-014545-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014552/0000950103-25-014552-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014545/0000950103-25-014545-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014542/0000950103-25-014542-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014536/0000950103-25-014536-index.htm)
@@ -230,9 +233,6 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014534/0000950103-25-014534-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014527/0000950103-25-014527-index.htm)
@@ -277,13 +277,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
