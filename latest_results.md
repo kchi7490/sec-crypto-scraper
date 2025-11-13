@@ -432,6 +432,9 @@
 - **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000149315225022086/0001493152-25-022086-index.htm)
 
+- **10-Q** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315225022223/0001493152-25-022223-index.htm)
+
 - **10-Q** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525279042/0001193125-25-279042-index.htm)
 
