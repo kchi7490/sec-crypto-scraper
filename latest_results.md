@@ -241,13 +241,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
@@ -350,22 +350,4 @@
 
 - **10-Q** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315225021906/0001493152-25-021906-index.htm)
-
-- **10-Q** | Vystar Corp  (VYST)  (CIK 0001308027)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1308027/000149315225021826/0001493152-25-021826-index.htm)
-
-- **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604225000047/0001876042-25-000047-index.htm)
-
-- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325014590/0000950103-25-014590-index.htm)
-
-- **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025109387/0001213900-25-109387-index.htm)
-
-- **497K** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125017406/0001999371-25-017406-index.htm)
-
-- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189525002947/0000921895-25-002947-index.htm)
 
