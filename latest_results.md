@@ -241,13 +241,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
@@ -260,6 +260,9 @@
 
 - **8-K/A** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025109358/0001213900-25-109358-index.htm)
+
+- **SCHEDULE 13D** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000121390025109497/0001213900-25-109497-index.htm)
 
 - **425** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390025109362/0001213900-25-109362-index.htm)
