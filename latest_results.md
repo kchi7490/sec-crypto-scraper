@@ -3,6 +3,9 @@
 - **8-K** | Hashdex Nasdaq Crypto Index US ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390025109236/0001213900-25-109236-index.htm)
 
+- **10-Q** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000143774925035107/0001437749-25-035107-index.htm)
+
 - **10-Q** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315225022359/0001493152-25-022359-index.htm)
 
@@ -198,6 +201,9 @@
 - **10-Q** | IZEA Worldwide, Inc.  (IZEA)  (CIK 0001495231)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495231/000149523125000185/0001495231-25-000185-index.htm)
 
+- **10-Q** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774925035111/0001437749-25-035111-index.htm)
+
 - **S-1** | Subversive Bitcoin Acquisition Corp.  (CIK 0002073545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390025109503/0001213900-25-109503-index.htm)
 
@@ -254,12 +260,6 @@
 
 - **424B3** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925034620/0001437749-25-034620-index.htm)
-
-- **DEFM14A** | Integrated Wellness Acquisition Corp  (WELNF, WELUF, WELWF)  (CIK 0001877557)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877557/000110465925109577/0001104659-25-109577-index.htm)
-
-- **424B3** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925109540/0001104659-25-109540-index.htm)
 
 - **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937125017663/0001999371-25-017663-index.htm)
@@ -328,13 +328,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014542/0000950103-25-014542-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014535/0000950103-25-014535-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014534/0000950103-25-014534-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014540/0000950103-25-014540-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014536/0000950103-25-014536-index.htm)
@@ -343,10 +343,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014527/0000950103-25-014527-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014546/0000950103-25-014546-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014624/0000950103-25-014624-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014528/0000950103-25-014528-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014530/0000950103-25-014530-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014526/0000950103-25-014526-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014627/0000950103-25-014627-index.htm)
@@ -355,16 +364,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014547/0000950103-25-014547-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014546/0000950103-25-014546-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014624/0000950103-25-014624-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014553/0000950103-25-014553-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014526/0000950103-25-014526-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014616/0000950103-25-014616-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014625/0000950103-25-014625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014533/0000950103-25-014533-index.htm)
@@ -382,25 +388,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014628/0000950103-25-014628-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014616/0000950103-25-014616-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014625/0000950103-25-014625-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014549/0000950103-25-014549-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014550/0000950103-25-014550-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
@@ -471,11 +471,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925109897/0001104659-25-109897-index.htm)
 
-- **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025110055/0001213900-25-110055-index.htm)
-
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025109171/0001213900-25-109171-index.htm)
+
+- **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025110055/0001213900-25-110055-index.htm)
 
 - **6-K** | Paysafe Ltd  (PSFE, PSFE-WT)  (CIK 0001833835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1833835/000119312525280228/0001193125-25-280228-index.htm)
@@ -542,6 +542,15 @@
 
 - **487** | FT 12538  (CIK 0002079505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079505/000144554625007530/0001445546-25-007530-index.htm)
+
+- **DEFM14A** | Integrated Wellness Acquisition Corp  (WELNF, WELUF, WELWF)  (CIK 0001877557)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877557/000110465925109577/0001104659-25-109577-index.htm)
+
+- **424B3** | IWAC Holding Co Inc.  (BTAB)  (CIK 0002033522)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033522/000110465925109540/0001104659-25-109540-index.htm)
+
+- **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825008416/0001683168-25-008416-index.htm)
 
 - **10-Q** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000149315225022113/0001493152-25-022113-index.htm)
@@ -680,9 +689,6 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325014590/0000950103-25-014590-index.htm)
-
-- **10-Q** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025109387/0001213900-25-109387-index.htm)
 
 - **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025110000/0001213900-25-110000-index.htm)
