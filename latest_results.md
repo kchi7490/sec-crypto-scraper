@@ -310,10 +310,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014529/0000950103-25-014529-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014538/0000950103-25-014538-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014537/0000950103-25-014537-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014537/0000950103-25-014537-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014538/0000950103-25-014538-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014626/0000950103-25-014626-index.htm)
@@ -343,7 +343,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014527/0000950103-25-014527-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014547/0000950103-25-014547-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014546/0000950103-25-014546-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014624/0000950103-25-014624-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014528/0000950103-25-014528-index.htm)
@@ -352,22 +355,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014530/0000950103-25-014530-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014627/0000950103-25-014627-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014526/0000950103-25-014526-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014546/0000950103-25-014546-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014627/0000950103-25-014627-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014624/0000950103-25-014624-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014547/0000950103-25-014547-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014553/0000950103-25-014553-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014616/0000950103-25-014616-index.htm)
@@ -382,6 +379,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014531/0000950103-25-014531-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014532/0000950103-25-014532-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014539/0000950103-25-014539-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -394,13 +394,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014549/0000950103-25-014549-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014551/0000950103-25-014551-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014548/0000950103-25-014548-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014524/0000950103-25-014524-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014544/0000950103-25-014544-index.htm)
@@ -471,11 +471,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925109897/0001104659-25-109897-index.htm)
 
-- **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025110055/0001213900-25-110055-index.htm)
-
 - **6-K** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390025109171/0001213900-25-109171-index.htm)
+
+- **6-K** | Brera Holdings PLC  (BREA)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025110055/0001213900-25-110055-index.htm)
 
 - **6-K** | Paysafe Ltd  (PSFE, PSFE-WT)  (CIK 0001833835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1833835/000119312525280228/0001193125-25-280228-index.htm)
@@ -533,6 +533,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025110085/0001213900-25-110085-index.htm)
+
+- **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690625001826/0001096906-25-001826-index.htm)
 
 - **10-Q** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315225022191/0001493152-25-022191-index.htm)
