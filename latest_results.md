@@ -93,11 +93,11 @@
 - **10-Q** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518525001752/0001185185-25-001752-index.htm)
 
-- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
-
 - **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225023550/0001493152-25-023550-index.htm)
+
+- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
 
 - **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041325003438/0000930413-25-003438-index.htm)
@@ -207,14 +207,14 @@
 - **10-Q** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025110784/0001213900-25-110784-index.htm)
 
-- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008322/0001477932-25-008322-index.htm)
-
 - **10-Q** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774925035165/0001437749-25-035165-index.htm)
 
 - **10-Q** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315225023573/0001493152-25-023573-index.htm)
+
+- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008322/0001477932-25-008322-index.htm)
 
 - **10-Q** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000110465925111382/0001104659-25-111382-index.htm)
@@ -297,11 +297,11 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025110838/0001213900-25-110838-index.htm)
 
-- **DEFA14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025110909/0001213900-25-110909-index.htm)
-
 - **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025110824/0001213900-25-110824-index.htm)
+
+- **DEFA14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025110909/0001213900-25-110909-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225022111/0001493152-25-022111-index.htm)
