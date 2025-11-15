@@ -93,11 +93,11 @@
 - **10-Q** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518525001752/0001185185-25-001752-index.htm)
 
-- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
-
 - **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225023550/0001493152-25-023550-index.htm)
+
+- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
 
 - **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041325003438/0000930413-25-003438-index.htm)
@@ -297,11 +297,11 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025110838/0001213900-25-110838-index.htm)
 
-- **DEFA14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025110909/0001213900-25-110909-index.htm)
-
 - **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025110824/0001213900-25-110824-index.htm)
+
+- **DEFA14A** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025110909/0001213900-25-110909-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225022111/0001493152-25-022111-index.htm)
@@ -587,45 +587,6 @@
 
 - **10-Q** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390025110870/0001213900-25-110870-index.htm)
-
-- **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036125041932/0001140361-25-041932-index.htm)
-
-- **10-Q** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025110782/0001213900-25-110782-index.htm)
-
-- **NT 10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016704/0001214659-25-016704-index.htm)
-
-- **497K** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125017761/0001999371-25-017761-index.htm)
-
-- **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312525280136/0001193125-25-280136-index.htm)
-
-- **10-Q** | I-ON Digital Corp.  (IONI)  (CIK 0001580490)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1580490/000149315225023551/0001493152-25-023551-index.htm)
-
-- **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036125041936/0001140361-25-041936-index.htm)
-
-- **10-Q** | Sunshine Biopharma Inc.  (SBFM, SBFMW)  (CIK 0001402328)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1402328/000168316825008328/0001683168-25-008328-index.htm)
-
-- **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315225022201/0001493152-25-022201-index.htm)
-
-- **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390025110000/0001213900-25-110000-index.htm)
-
-- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010325014780/0000950103-25-014780-index.htm)
-
-- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010325014690/0000950103-25-014690-index.htm)
-
-- **SCHEDULE 13G/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000101143825000547/0001011438-25-000547-index.htm)
 
 - **SCHEDULE 13G/A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000110465925112625/0001104659-25-112625-index.htm)
