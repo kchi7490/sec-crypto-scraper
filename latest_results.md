@@ -93,11 +93,11 @@
 - **10-Q** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518525001752/0001185185-25-001752-index.htm)
 
-- **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225023550/0001493152-25-023550-index.htm)
-
 - **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
+
+- **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225023550/0001493152-25-023550-index.htm)
 
 - **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041325003438/0000930413-25-003438-index.htm)
