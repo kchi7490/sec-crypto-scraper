@@ -66,11 +66,11 @@
 - **10-Q** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518525001752/0001185185-25-001752-index.htm)
 
-- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
-
 - **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225023550/0001493152-25-023550-index.htm)
+
+- **8-K** | Catheter Precision, Inc.  (VTAK)  (CIK 0001716621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1716621/000143774925035245/0001437749-25-035245-index.htm)
 
 - **424B5** | Forward Industries, Inc.  (FORD)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825008451/0001683168-25-008451-index.htm)
@@ -204,11 +204,11 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925112584/0001104659-25-112584-index.htm)
 
-- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525281570/0001193125-25-281570-index.htm)
-
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925112590/0001104659-25-112590-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525281570/0001193125-25-281570-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025110838/0001213900-25-110838-index.htm)
