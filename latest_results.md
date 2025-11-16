@@ -132,14 +132,14 @@
 - **10-Q** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025110784/0001213900-25-110784-index.htm)
 
-- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008322/0001477932-25-008322-index.htm)
-
 - **10-Q** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774925035165/0001437749-25-035165-index.htm)
 
 - **10-Q** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315225023573/0001493152-25-023573-index.htm)
+
+- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008322/0001477932-25-008322-index.htm)
 
 - **10-Q** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025110383/0001213900-25-110383-index.htm)
@@ -204,11 +204,11 @@
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925112584/0001104659-25-112584-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925112590/0001104659-25-112590-index.htm)
-
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525281570/0001193125-25-281570-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925112590/0001104659-25-112590-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025110838/0001213900-25-110838-index.htm)
