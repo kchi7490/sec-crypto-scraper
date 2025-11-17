@@ -30,6 +30,9 @@
 - **S-1** | Stewards, Inc.  (FAVO)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357725000334/0001663577-25-000334-index.htm)
 
+- **10-Q** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315225023834/0001493152-25-023834-index.htm)
+
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
 
