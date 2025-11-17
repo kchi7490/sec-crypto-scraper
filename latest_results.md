@@ -3,11 +3,17 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225023780/0001493152-25-023780-index.htm)
 
+- **10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016799/0001214659-25-016799-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008475/0001683168-25-008475-index.htm)
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm)
+
+- **8-K** | BNB PLUS CORP.  (APDN)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm)
 
 - **S-3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925112966/0001104659-25-112966-index.htm)
@@ -36,6 +42,9 @@
 - **10-Q** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315225023834/0001493152-25-023834-index.htm)
 
+- **S-1** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025052613/0001628280-25-052613-index.htm)
+
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
 
@@ -44,6 +53,9 @@
 
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925112928/0001104659-25-112928-index.htm)
+
+- **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225023884/0001493152-25-023884-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, STIVP)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125042409/0001140361-25-042409-index.htm)
@@ -59,6 +71,9 @@
 
 - **DEF 14C** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000114036125042404/0001140361-25-042404-index.htm)
+
+- **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008402/0001477932-25-008402-index.htm)
 
 - **SC TO-T** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525283849/0001193125-25-283849-index.htm)
