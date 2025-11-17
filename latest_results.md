@@ -15,6 +15,9 @@
 - **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016895/0001062993-25-016895-index.htm)
+
 - **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000119312525283856/0001193125-25-283856-index.htm)
 
