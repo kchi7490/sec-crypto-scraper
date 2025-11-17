@@ -78,6 +78,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
 
+- **485APOS** | MassMutual Advantage Funds  (CIK 0001859808)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859808/000113322825012328/0001133228-25-012328-index.htm)
+
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225023767/0001493152-25-023767-index.htm)
 
@@ -101,4 +104,7 @@
 
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793225008363/0001477932-25-008363-index.htm)
+
+- **485APOS** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322825012326/0001133228-25-012326-index.htm)
 
