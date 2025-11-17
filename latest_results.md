@@ -27,6 +27,9 @@
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
 
+- **10-Q** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025111516/0001213900-25-111516-index.htm)
+
 - **S-1** | Stewards, Inc.  (FAVO)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357725000334/0001663577-25-000334-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
+
+- **20-F** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025111512/0001213900-25-111512-index.htm)
 
 - **485APOS** | MassMutual Advantage Funds  (CIK 0001859808)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859808/000113322825012328/0001133228-25-012328-index.htm)
