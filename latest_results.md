@@ -1,5 +1,29 @@
 ## 📁 Other Filings
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008475/0001683168-25-008475-index.htm)
+
+- **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm)
+
+- **S-3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925112966/0001104659-25-112966-index.htm)
+
+- **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
+
+- **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000119312525283856/0001193125-25-283856-index.htm)
+
+- **424B3** | VanEck Solana ETF  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025052475/0001628280-25-052475-index.htm)
+
+- **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525283991/0001193125-25-283991-index.htm)
+
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925112928/0001104659-25-112928-index.htm)
 
@@ -11,15 +35,6 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225023755/0001493152-25-023755-index.htm)
-
-- **424B3** | VanEck Solana ETF  (CIK 0002028541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025052475/0001628280-25-052475-index.htm)
-
-- **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
-
-- **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000119312525283856/0001193125-25-283856-index.htm)
 
 - **S-3** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390025111082/0001213900-25-111082-index.htm)
@@ -40,7 +55,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925112896/0001104659-25-112896-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001228/0001279569-25-001228-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225023767/0001493152-25-023767-index.htm)
 
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225023729/0001493152-25-023729-index.htm)
@@ -56,7 +77,4 @@
 
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793225008363/0001477932-25-008363-index.htm)
-
-- **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
 
