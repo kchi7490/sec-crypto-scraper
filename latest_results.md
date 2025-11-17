@@ -34,5 +34,8 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025111181/0001213900-25-111181-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016891/0001062993-25-016891-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016883/0001062993-25-016883-index.htm)
 
