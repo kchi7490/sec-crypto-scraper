@@ -54,6 +54,9 @@
 - **S-1** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025052613/0001628280-25-052613-index.htm)
 
+- **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002154/0001640334-25-002154-index.htm)
+
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
 
@@ -114,6 +117,9 @@
 - **20-F** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025111512/0001213900-25-111512-index.htm)
 
+- **20-F** | CTW Cayman  (CTW)  (CIK 0002047148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047148/000121390025111604/0001213900-25-111604-index.htm)
+
 - **485APOS** | MassMutual Advantage Funds  (CIK 0001859808)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859808/000113322825012328/0001133228-25-012328-index.htm)
 
@@ -143,4 +149,7 @@
 
 - **485APOS** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322825012326/0001133228-25-012326-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
 
