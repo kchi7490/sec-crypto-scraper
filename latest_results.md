@@ -12,6 +12,9 @@
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008493/0001683168-25-008493-index.htm)
 
+- **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559225000013/0002055592-25-000013-index.htm)
+
 - **10-Q** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000175/0001788230-25-000175-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225024002/0001493152-25-024002-index.htm)
 
 - **424B3** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125018022/0001999371-25-018022-index.htm)
@@ -41,6 +47,9 @@
 
 - **424B3** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284937/0001193125-25-284937-index.htm)
+
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016895/0001062993-25-016895-index.htm)
@@ -130,6 +139,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225023799/0001493152-25-023799-index.htm)
 
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225024004/0001493152-25-024004-index.htm)
+
+- **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225023777/0001493152-25-023777-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
@@ -174,6 +186,9 @@
 - **8-A12B** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284098/0001193125-25-284098-index.htm)
 
+- **DEFA14A** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111792/0001213900-25-111792-index.htm)
+
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793225008363/0001477932-25-008363-index.htm)
 
@@ -185,6 +200,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025111729/0001213900-25-111729-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018044/0001999371-25-018044-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
