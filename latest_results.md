@@ -129,6 +129,9 @@
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225023777/0001493152-25-023777-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925113456/0001104659-25-113456-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
 
@@ -140,6 +143,9 @@
 
 - **485APOS** | MassMutual Advantage Funds  (CIK 0001859808)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859808/000113322825012328/0001133228-25-012328-index.htm)
+
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016918/0001062993-25-016918-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225023767/0001493152-25-023767-index.htm)
