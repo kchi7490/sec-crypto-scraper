@@ -42,6 +42,9 @@
 - **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
 
+- **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH, LPTX)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925113698/0001104659-25-113698-index.htm)
+
 - **424B3** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025111783/0001213900-25-111783-index.htm)
 
@@ -62,6 +65,9 @@
 
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
+
+- **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
 
 - **10-Q** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025111516/0001213900-25-111516-index.htm)
@@ -84,6 +90,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525283991/0001193125-25-283991-index.htm)
 
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113666/0001104659-25-113666-index.htm)
+
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925112928/0001104659-25-112928-index.htm)
 
@@ -99,11 +108,17 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225023755/0001493152-25-023755-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016888/0001214659-25-016888-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325014892/0000950103-25-014892-index.htm)
 
 - **S-3** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390025111082/0001213900-25-111082-index.htm)
+
+- **10-Q/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225024067/0001493152-25-024067-index.htm)
 
 - **DEF 14C** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000114036125042404/0001140361-25-042404-index.htm)
@@ -111,8 +126,14 @@
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008402/0001477932-25-008402-index.htm)
 
+- **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113672/0001104659-25-113672-index.htm)
+
 - **POSASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113339/0001104659-25-113339-index.htm)
+
+- **424B5** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025112135/0001213900-25-112135-index.htm)
 
 - **POS EX** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525285770/0001193125-25-285770-index.htm)
@@ -156,6 +177,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
 
+- **F-1** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225024068/0001493152-25-024068-index.htm)
+
 - **20-F** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390025111512/0001213900-25-111512-index.htm)
 
@@ -170,6 +194,9 @@
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315225023767/0001493152-25-023767-index.htm)
+
+- **SUPPL** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025112105/0001213900-25-112105-index.htm)
 
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225023729/0001493152-25-023729-index.htm)
@@ -198,6 +225,9 @@
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793225008363/0001477932-25-008363-index.htm)
 
+- **10-Q** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/0001104659-25-113662-index.htm)
+
 - **485APOS** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322825012326/0001133228-25-012326-index.htm)
 
@@ -212,6 +242,9 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018044/0001999371-25-018044-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025112144/0001213900-25-112144-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
