@@ -36,6 +36,9 @@
 - **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
 
+- **424B3** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025111783/0001213900-25-111783-index.htm)
+
 - **424B3** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284937/0001193125-25-284937-index.htm)
 
