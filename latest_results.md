@@ -111,6 +111,9 @@
 - **POSASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113339/0001104659-25-113339-index.htm)
 
+- **POS EX** | Fidelity Solana Fund  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525285770/0001193125-25-285770-index.htm)
+
 - **SC TO-T** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525283849/0001193125-25-283849-index.htm)
 
