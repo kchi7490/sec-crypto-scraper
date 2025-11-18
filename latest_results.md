@@ -108,6 +108,9 @@
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008402/0001477932-25-008402-index.htm)
 
+- **POSASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113339/0001104659-25-113339-index.htm)
+
 - **SC TO-T** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525283849/0001193125-25-283849-index.htm)
 
@@ -206,7 +209,4 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
-
-- **POSASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113339/0001104659-25-113339-index.htm)
 
