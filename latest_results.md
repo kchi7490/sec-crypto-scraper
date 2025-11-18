@@ -93,6 +93,9 @@
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002154/0001640334-25-002154-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225066184/0001839882-25-066184-index.htm)
+
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014944/0000950103-25-014944-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014952/0000950103-25-014952-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, STIVP)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125042409/0001140361-25-042409-index.htm)
