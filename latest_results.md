@@ -12,6 +12,9 @@
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008493/0001683168-25-008493-index.htm)
 
+- **10-Q** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000175/0001788230-25-000175-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008475/0001683168-25-008475-index.htm)
 
@@ -21,6 +24,9 @@
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm)
 
+- **424B3** | Canary Marinade Solana ETF  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125018022/0001999371-25-018022-index.htm)
+
 - **8-K** | BNB PLUS CORP.  (APDN)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm)
 
@@ -29,6 +35,9 @@
 
 - **8-K** | Qualigen Therapeutics, Inc.  (QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225023728/0001493152-25-023728-index.htm)
+
+- **424B3** | Fidelity Solana Fund  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284937/0001193125-25-284937-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016895/0001062993-25-016895-index.htm)
@@ -87,6 +96,9 @@
 - **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225008402/0001477932-25-008402-index.htm)
 
+- **POSASR** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113339/0001104659-25-113339-index.htm)
+
 - **SC TO-T** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525283849/0001193125-25-283849-index.htm)
 
@@ -95,6 +107,12 @@
 
 - **6-K** | Cre8 Enterprise Ltd  (CRE)  (CIK 0002003977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003977/000121390025111256/0001213900-25-111256-index.htm)
+
+- **424B3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000033/0001913847-25-000033-index.htm)
+
+- **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465925113382/0001104659-25-113382-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925112896/0001104659-25-112896-index.htm)
@@ -132,6 +150,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390025111181/0001213900-25-111181-index.htm)
 
+- **20-F** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000149315225023940/0001493152-25-023940-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016891/0001062993-25-016891-index.htm)
 
@@ -149,6 +170,12 @@
 
 - **485APOS** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322825012326/0001133228-25-012326-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025111648/0001213900-25-111648-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025111729/0001213900-25-111729-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
