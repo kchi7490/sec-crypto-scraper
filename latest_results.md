@@ -318,3 +318,6 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025112287/0001213900-25-112287-index.htm)
 
+- **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315225024204/0001493152-25-024204-index.htm)
+
