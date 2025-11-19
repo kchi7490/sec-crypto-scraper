@@ -69,6 +69,9 @@
 - **S-1/A** | Bitwise Chainlink ETF  (CIK 0002082889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/0001213900-25-112216-index.htm)
 
+- **10-Q** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000119312525286660/0001193125-25-286660-index.htm)
+
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
 
@@ -201,6 +204,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299325016885/0001062993-25-016885-index.htm)
 
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525286870/0001193125-25-286870-index.htm)
+
 - **F-1** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225024068/0001493152-25-024068-index.htm)
 
@@ -246,6 +252,9 @@
 - **8-A12B** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284098/0001193125-25-284098-index.htm)
 
+- **EFFECT** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/999999999525003306/9999999995-25-003306-index.htm)
+
 - **DEFA14A** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111792/0001213900-25-111792-index.htm)
 
@@ -275,4 +284,7 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025112287/0001213900-25-112287-index.htm)
 
