@@ -21,6 +21,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008475/0001683168-25-008475-index.htm)
 
+- **8-K** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495425013270/0001654954-25-013270-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024172/0001493152-25-024172-index.htm)
 
