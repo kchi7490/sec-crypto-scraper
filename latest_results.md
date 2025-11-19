@@ -6,6 +6,9 @@
 - **10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016799/0001214659-25-016799-index.htm)
 
+- **10-Q** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225024255/0001493152-25-024255-index.htm)
+
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008492/0001683168-25-008492-index.htm)
 
@@ -63,8 +66,14 @@
 - **424B3** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284937/0001193125-25-284937-index.htm)
 
+- **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
+
 - **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
+
+- **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000086827825000017/0000868278-25-000017-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016895/0001062993-25-016895-index.htm)
@@ -167,6 +176,9 @@
 
 - **S-3** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390025111082/0001213900-25-111082-index.htm)
+
+- **10-Q** | Lakeside Holding Ltd  (LSH)  (CIK 0001996192)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1996192/000121390025112601/0001213900-25-112601-index.htm)
 
 - **10-Q/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225024067/0001493152-25-024067-index.htm)
@@ -278,6 +290,9 @@
 
 - **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315225023775/0001493152-25-023775-index.htm)
+
+- **10-Q** | Finnovate Acquisition Corp.  (CIK 0001857855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1857855/000121390025112613/0001213900-25-112613-index.htm)
 
 - **8-A12B** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525284098/0001193125-25-284098-index.htm)
