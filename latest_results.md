@@ -105,6 +105,9 @@
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002154/0001640334-25-002154-index.htm)
 
+- **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825008532/0001683168-25-008532-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225066184/0001839882-25-066184-index.htm)
 
