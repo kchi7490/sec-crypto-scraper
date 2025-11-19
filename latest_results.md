@@ -114,6 +114,9 @@
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
 
+- **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014946/0000950103-25-014946-index.htm)
 
