@@ -39,6 +39,9 @@
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007372/0001171843-25-007372-index.htm)
 
+- **10-Q** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025112723/0001213900-25-112723-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225024002/0001493152-25-024002-index.htm)
 
@@ -81,6 +84,12 @@
 - **424B3** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000119312525283856/0001193125-25-283856-index.htm)
 
+- **10-Q** | Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000121390025112690/0001213900-25-112690-index.htm)
+
+- **10-Q** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225024307/0001493152-25-024307-index.htm)
+
 - **424B3** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025052475/0001628280-25-052475-index.htm)
 
@@ -117,8 +126,14 @@
 - **S-1** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828025052613/0001628280-25-052613-index.htm)
 
+- **10-Q** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315225024320/0001493152-25-024320-index.htm)
+
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002154/0001640334-25-002154-index.htm)
+
+- **10-Q** | Entero Therapeutics, Inc.  (ENTO)  (CIK 0001604191)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465925114181/0001104659-25-114181-index.htm)
 
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825008532/0001683168-25-008532-index.htm)
@@ -126,8 +141,14 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225066184/0001839882-25-066184-index.htm)
 
+- **10-Q** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925035751/0001437749-25-035751-index.htm)
+
 - **S-1** | Aperture AC  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390025111383/0001213900-25-111383-index.htm)
+
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024314/0001493152-25-024314-index.htm)
 
 - **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
@@ -149,6 +170,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014944/0000950103-25-014944-index.htm)
@@ -294,6 +318,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016891/0001062993-25-016891-index.htm)
 
+- **F-3ASR** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025112727/0001213900-25-112727-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016883/0001062993-25-016883-index.htm)
 
@@ -346,7 +373,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018044/0001999371-25-018044-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025112677/0001213900-25-112677-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025112144/0001213900-25-112144-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025112701/0001213900-25-112701-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025111608/0001213900-25-111608-index.htm)
