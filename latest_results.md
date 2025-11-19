@@ -45,11 +45,11 @@
 - **424B3** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125018022/0001999371-25-018022-index.htm)
 
-- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm)
-
 - **S-3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925112966/0001104659-25-112966-index.htm)
+
+- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm)
 
 - **10-Q** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113714/0001104659-25-113714-index.htm)
@@ -69,11 +69,11 @@
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
 
-- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
-
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000086827825000017/0000868278-25-000017-index.htm)
+
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016895/0001062993-25-016895-index.htm)
@@ -104,6 +104,9 @@
 
 - **S-1** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357725000334/0001663577-25-000334-index.htm)
+
+- **10-Q** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025112656/0001213900-25-112656-index.htm)
 
 - **10-Q** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315225023834/0001493152-25-023834-index.htm)
@@ -173,6 +176,12 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325014892/0000950103-25-014892-index.htm)
+
+- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001805/0001185185-25-001805-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001807/0001185185-25-001807-index.htm)
 
 - **S-3** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390025111082/0001213900-25-111082-index.htm)
@@ -315,6 +324,12 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025111648/0001213900-25-111648-index.htm)
 
+- **424B3** | Capital Group KKR Core Plus (plus)  (CIK 0002040315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040315/000110465925114114/0001104659-25-114114-index.htm)
+
+- **424B3** | Capital Group KKR Multi-Sector (plus)  (CIK 0002040318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040318/000110465925114112/0001104659-25-114112-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003736/0001592900-25-003736-index.htm)
 
@@ -338,4 +353,10 @@
 
 - **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315225024204/0001493152-25-024204-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001809/0001185185-25-001809-index.htm)
+
+- **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm)
 
