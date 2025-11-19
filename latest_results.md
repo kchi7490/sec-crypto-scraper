@@ -7,10 +7,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925016799/0001214659-25-016799-index.htm)
 
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008493/0001683168-25-008493-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008492/0001683168-25-008492-index.htm)
 
 - **424B3** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008492/0001683168-25-008492-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008493/0001683168-25-008493-index.htm)
 
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559225000013/0002055592-25-000013-index.htm)
@@ -42,7 +42,7 @@
 - **424B3** | Canary Marinade Solana ETF  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125018022/0001999371-25-018022-index.htm)
 
-- **8-K** | BNB PLUS CORP.  (APDN)  (CIK 0000744452)  
+- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925113218/0001104659-25-113218-index.htm)
 
 - **S-3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
@@ -84,16 +84,16 @@
 - **10-Q** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000119312525286660/0001193125-25-286660-index.htm)
 
-- **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
-
 - **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
+
+- **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
 
 - **10-Q** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025111516/0001213900-25-111516-index.htm)
 
-- **S-1** | Stewards, Inc.  (FAVO)  (CIK 0001795851)  
+- **S-1** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357725000334/0001663577-25-000334-index.htm)
 
 - **10-Q** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
@@ -144,10 +144,10 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014952/0000950103-25-014952-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, STIVP)  (CIK 0001920406)  
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125042409/0001140361-25-042409-index.htm)
 
-- **425** | Strive, Inc.  (ASST, STIVP)  (CIK 0001920406)  
+- **425** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125042410/0001140361-25-042410-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
@@ -216,7 +216,7 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925035649/0001437749-25-035649-index.htm)
 
-- **6-K** | Chaince Digital Holdings Inc.  (MFH)  (CIK 0001527762)  
+- **6-K** | Chaince Digital Holdings Inc.  (CD, MFH)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225023799/0001493152-25-023799-index.htm)
 
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
