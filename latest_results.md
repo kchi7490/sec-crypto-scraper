@@ -75,6 +75,9 @@
 - **S-1/A** | Bitwise Chainlink ETF  (CIK 0002082889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/0001213900-25-112216-index.htm)
 
+- **8-K** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225024174/0001493152-25-024174-index.htm)
+
 - **10-Q** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000119312525286660/0001193125-25-286660-index.htm)
 
