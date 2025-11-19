@@ -84,11 +84,11 @@
 - **10-Q** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000119312525286660/0001193125-25-286660-index.htm)
 
-- **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
-
 - **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
+
+- **S-1/A** | 21Shares Solana ETF  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/0001213900-25-111219-index.htm)
 
 - **10-Q** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025111516/0001213900-25-111516-index.htm)
@@ -299,6 +299,9 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025111648/0001213900-25-111648-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003736/0001592900-25-003736-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025111729/0001213900-25-111729-index.htm)
