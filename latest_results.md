@@ -243,6 +243,9 @@
 - **20-F** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000149315225023940/0001493152-25-023940-index.htm)
 
+- **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225024166/0001493152-25-024166-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325016891/0001062993-25-016891-index.htm)
 
