@@ -42,11 +42,11 @@
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
 
-- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
-
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000086827825000017/0000868278-25-000017-index.htm)
+
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
 
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225024328/0001493152-25-024328-index.htm)
@@ -180,6 +180,9 @@
 - **POS EX** | Fidelity Solana Fund  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525285770/0001193125-25-285770-index.htm)
 
+- **DEF 14A** | Streamex Corp.  (STEX)  (CIK 0001530766)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000149315225024449/0001493152-25-024449-index.htm)
+
 - **424B3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000033/0001913847-25-000033-index.htm)
 
@@ -189,8 +192,14 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925035649/0001437749-25-035649-index.htm)
 
+- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025113140/0001213900-25-113140-index.htm)
+
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225024004/0001493152-25-024004-index.htm)
+
+- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390025113142/0001213900-25-113142-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925113456/0001104659-25-113456-index.htm)
@@ -242,6 +251,9 @@
 
 - **DEFA14A** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111792/0001213900-25-111792-index.htm)
+
+- **10-Q** | Kaya Holdings, Inc.  (KAYS)  (CIK 0001530746)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1530746/000190359625000552/0001903596-25-000552-index.htm)
 
 - **10-Q** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/0001104659-25-113662-index.htm)
@@ -302,4 +314,7 @@
 
 - **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm)
+
+- **SCHEDULE 13D/A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025113136/0001213900-25-113136-index.htm)
 
