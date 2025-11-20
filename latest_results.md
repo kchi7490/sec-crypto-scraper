@@ -115,10 +115,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113666/0001104659-25-113666-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014944/0000950103-25-014944-index.htm)
@@ -197,6 +197,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325016918/0001062993-25-016918-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025112843/0001213900-25-112843-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025112200/0001213900-25-112200-index.htm)
