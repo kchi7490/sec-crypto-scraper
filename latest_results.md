@@ -253,10 +253,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025111729/0001213900-25-111729-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112739/0001213900-25-112739-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112750/0001213900-25-112750-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112750/0001213900-25-112750-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112739/0001213900-25-112739-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018052/0001999371-25-018052-index.htm)
