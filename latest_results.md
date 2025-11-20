@@ -42,11 +42,11 @@
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
 
-- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
-
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000086827825000017/0000868278-25-000017-index.htm)
+
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
 
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225024328/0001493152-25-024328-index.htm)
@@ -71,6 +71,9 @@
 
 - **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
+
+- **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738625000148/0001017386-25-000148-index.htm)
 
 - **10-Q** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315225024384/0001493152-25-024384-index.htm)
