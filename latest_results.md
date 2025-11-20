@@ -234,6 +234,9 @@
 - **10-Q** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113662/0001104659-25-113662-index.htm)
 
+- **485APOS** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312525289121/0001193125-25-289121-index.htm)
+
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025111648/0001213900-25-111648-index.htm)
 
@@ -253,10 +256,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025111729/0001213900-25-111729-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112750/0001213900-25-112750-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112739/0001213900-25-112739-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112739/0001213900-25-112739-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112750/0001213900-25-112750-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018052/0001999371-25-018052-index.htm)
