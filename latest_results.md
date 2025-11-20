@@ -118,10 +118,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113666/0001104659-25-113666-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014944/0000950103-25-014944-index.htm)
@@ -224,6 +224,9 @@
 
 - **10-Q** | Finnovate Acquisition Corp.  (CIK 0001857855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1857855/000121390025112613/0001213900-25-112613-index.htm)
+
+- **487** | FT 12542  (CIK 0002079592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079592/000144554625007593/0001445546-25-007593-index.htm)
 
 - **EFFECT** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/999999999525003306/9999999995-25-003306-index.htm)
