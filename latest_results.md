@@ -133,10 +133,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113666/0001104659-25-113666-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014949/0000950103-25-014949-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015032/0000950103-25-015032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014944/0000950103-25-014944-index.htm)
@@ -171,6 +171,9 @@
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001805/0001185185-25-001805-index.htm)
 
+- **10-Q** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000143774925035879/0001437749-25-035879-index.htm)
+
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001807/0001185185-25-001807-index.htm)
 
@@ -203,6 +206,9 @@
 
 - **DEF 14A** | Streamex Corp.  (STEX)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000149315225024449/0001493152-25-024449-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025113192/0001213900-25-113192-index.htm)
 
 - **424B3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000033/0001913847-25-000033-index.htm)
