@@ -72,9 +72,6 @@
 - **424B3** | 21Shares Solana ETF  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025112155/0001213900-25-112155-index.htm)
 
-- **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738625000148/0001017386-25-000148-index.htm)
-
 - **10-Q** | Lottery.com Inc.  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315225024384/0001493152-25-024384-index.htm)
 
@@ -113,6 +110,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325014946/0000950103-25-014946-index.htm)
+
+- **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000020/0001838028-25-000020-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925113666/0001104659-25-113666-index.htm)
@@ -159,8 +159,14 @@
 - **10-Q** | Lakeside Holding Ltd  (LSH)  (CIK 0001996192)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996192/000121390025112601/0001213900-25-112601-index.htm)
 
+- **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738625000148/0001017386-25-000148-index.htm)
+
 - **10-Q/A** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225024067/0001493152-25-024067-index.htm)
+
+- **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000012/0001860788-25-000012-index.htm)
 
 - **8-K** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465925113672/0001104659-25-113672-index.htm)
