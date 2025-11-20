@@ -21,6 +21,9 @@
 - **10-Q** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390025112723/0001213900-25-112723-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000177/0001788230-25-000177-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315225024002/0001493152-25-024002-index.htm)
 
@@ -45,11 +48,11 @@
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
 
-- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
-
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000086827825000017/0000868278-25-000017-index.htm)
+
+- **8-K** | Aditxt, Inc.  (ADTX)  (CIK 0001726711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726711/000121390025111790/0001213900-25-111790-index.htm)
 
 - **10-Q** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315225024328/0001493152-25-024328-index.htm)
