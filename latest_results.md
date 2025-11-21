@@ -195,8 +195,14 @@
 - **10-Q** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278125000042/0001882781-25-000042-index.htm)
 
+- **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000628/0001081400-25-000628-index.htm)
+
 - **10-Q** | Kaya Holdings, Inc.  (KAYS)  (CIK 0001530746)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530746/000190359625000552/0001903596-25-000552-index.htm)
+
+- **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000626/0001081400-25-000626-index.htm)
 
 - **485APOS** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312525289121/0001193125-25-289121-index.htm)
