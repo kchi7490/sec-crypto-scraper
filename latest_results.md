@@ -6,6 +6,9 @@
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525291402/0001193125-25-291402-index.htm)
 
+- **8-K** | AIxCrypto Holdings, Inc.  (QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225024639/0001493152-25-024639-index.htm)
+
 - **10-Q** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225024255/0001493152-25-024255-index.htm)
 
