@@ -15,6 +15,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024172/0001493152-25-024172-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225024549/0001493152-25-024549-index.htm)
+
 - **8-K** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007488/0001171843-25-007488-index.htm)
 
@@ -78,11 +81,17 @@
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825008532/0001683168-25-008532-index.htm)
 
+- **424B3** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925035907/0001437749-25-035907-index.htm)
+
 - **10-Q** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925035751/0001437749-25-035751-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024314/0001493152-25-024314-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525290629/0001193125-25-290629-index.htm)
 
 - **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
