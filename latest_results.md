@@ -117,6 +117,9 @@
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001807/0001185185-25-001807-index.htm)
 
+- **DEF 14A** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390025113229/0001213900-25-113229-index.htm)
+
 - **10-Q** | Lakeside Holding Ltd  (LSH)  (CIK 0001996192)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996192/000121390025112601/0001213900-25-112601-index.htm)
 
@@ -180,6 +183,18 @@
 - **485APOS** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312525289121/0001193125-25-289121-index.htm)
 
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025113216/0001213900-25-113216-index.htm)
+
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025113226/0001213900-25-113226-index.htm)
+
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025113219/0001213900-25-113219-index.htm)
+
+- **485APOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025113222/0001213900-25-113222-index.htm)
+
 - **424B3** | Capital Group KKR Core Plus (plus)  (CIK 0002040315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040315/000110465925114114/0001104659-25-114114-index.htm)
 
@@ -192,11 +207,23 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003741/0001592900-25-003741-index.htm)
 
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025113275/0001213900-25-113275-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025112788/0001213900-25-112788-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025113280/0001213900-25-113280-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025113276/0001213900-25-113276-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025113166/0001213900-25-113166-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025113277/0001213900-25-113277-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025112739/0001213900-25-112739-index.htm)
