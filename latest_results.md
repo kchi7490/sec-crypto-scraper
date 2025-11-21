@@ -270,6 +270,9 @@
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001809/0001185185-25-001809-index.htm)
 
+- **N-PX/A** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322825012619/0001133228-25-012619-index.htm)
+
 - **N-PX/A** | MASSMUTUAL SELECT FUNDS  (CIK 0000916053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916053/000113322825012616/0001133228-25-012616-index.htm)
 
