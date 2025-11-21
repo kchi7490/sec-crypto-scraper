@@ -229,6 +229,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003736/0001592900-25-003736-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003749/0001592900-25-003749-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003741/0001592900-25-003741-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
