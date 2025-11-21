@@ -108,11 +108,11 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525290629/0001193125-25-290629-index.htm)
 
-- **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
-
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525291389/0001193125-25-291389-index.htm)
+
+- **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
 
 - **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000020/0001838028-25-000020-index.htm)
@@ -273,6 +273,9 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025112788/0001213900-25-112788-index.htm)
 
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390025113656/0001213900-25-113656-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025113280/0001213900-25-113280-index.htm)
 
@@ -311,6 +314,9 @@
 
 - **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315225024204/0001493152-25-024204-index.htm)
+
+- **PRE 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024664/0001493152-25-024664-index.htm)
 
 - **10-Q** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390025112670/0001213900-25-112670-index.htm)
