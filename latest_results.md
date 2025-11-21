@@ -270,6 +270,9 @@
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518525001809/0001185185-25-001809-index.htm)
 
+- **N-PX/A** | MASSMUTUAL SELECT FUNDS  (CIK 0000916053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916053/000113322825012616/0001133228-25-012616-index.htm)
+
 - **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/0001045810-25-000230-index.htm)
 
