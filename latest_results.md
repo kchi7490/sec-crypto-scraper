@@ -45,6 +45,15 @@
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX, AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225024469/0001493152-25-024469-index.htm)
 
+- **10-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024679/0001493152-25-024679-index.htm)
+
+- **S-1/A** | Franklin Solana Trust  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000207184425000513/0002071844-25-000513-index.htm)
+
+- **ARS** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024689/0001493152-25-024689-index.htm)
+
 - **10-Q** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024260/0001493152-25-024260-index.htm)
 
@@ -69,6 +78,9 @@
 - **424B3** | Bitwise XRP ETF  (CIK 0002039525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000121390025112749/0001213900-25-112749-index.htm)
 
+- **PRE 14A** | BONK, INC.  (SHOT)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225024596/0001493152-25-024596-index.htm)
+
 - **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738625000148/0001017386-25-000148-index.htm)
 
@@ -87,6 +99,9 @@
 - **S-1/A** | 21Shares XRP ETF  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025112826/0001213900-25-112826-index.htm)
 
+- **S-1** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315225024676/0001493152-25-024676-index.htm)
+
 - **10-Q** | Entero Therapeutics, Inc.  (ENTO)  (CIK 0001604191)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465925114181/0001104659-25-114181-index.htm)
 
@@ -96,11 +111,17 @@
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316825008532/0001683168-25-008532-index.htm)
 
+- **DEF 14A** | Enlightify Inc.  (ENFY)  (CIK 0000857949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857949/000121390025113680/0001213900-25-113680-index.htm)
+
 - **424B3** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925035907/0001437749-25-035907-index.htm)
 
 - **10-Q** | WINDTREE THERAPEUTICS INC /DE/  (WINT, WINTW)  (CIK 0000946486)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946486/000143774925035751/0001437749-25-035751-index.htm)
+
+- **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312525291534/0001193125-25-291534-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225024314/0001493152-25-024314-index.htm)
@@ -108,11 +129,11 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525290629/0001193125-25-290629-index.htm)
 
-- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525291389/0001193125-25-291389-index.htm)
-
 - **8-K** | Entrex Carbon Market, Inc.  (NTRX)  (CIK 0001363598)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1363598/000136359825000009/0001363598-25-000009-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525291389/0001193125-25-291389-index.htm)
 
 - **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000020/0001838028-25-000020-index.htm)
@@ -298,6 +319,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025112677/0001213900-25-112677-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025113690/0001213900-25-113690-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025113167/0001213900-25-113167-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
@@ -335,6 +359,9 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010325015110/0000950103-25-015110-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010325015147/0000950103-25-015147-index.htm)
 
 - **SCHEDULE 13D/A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025113136/0001213900-25-113136-index.htm)
