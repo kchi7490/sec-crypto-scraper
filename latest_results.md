@@ -6,6 +6,9 @@
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525291402/0001193125-25-291402-index.htm)
 
+- **8-K** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315225024713/0001493152-25-024713-index.htm)
+
 - **8-K** | AIxCrypto Holdings, Inc.  (QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225024639/0001493152-25-024639-index.htm)
 
@@ -45,6 +48,9 @@
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX, AGRI)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315225024469/0001493152-25-024469-index.htm)
 
+- **S-3** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225024709/0001493152-25-024709-index.htm)
+
 - **10-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225024679/0001493152-25-024679-index.htm)
 
@@ -65,6 +71,9 @@
 
 - **10-Q** | Allied Gaming & Entertainment Inc.  (AGAE)  (CIK 0001708341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000121390025112690/0001213900-25-112690-index.htm)
+
+- **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828025053634/0001628280-25-053634-index.htm)
 
 - **10-Q** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225024307/0001493152-25-024307-index.htm)
