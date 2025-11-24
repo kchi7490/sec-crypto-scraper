@@ -12,11 +12,11 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525293690/0001193125-25-293690-index.htm)
 
-- **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
-
 - **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
+
+- **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008632/0001683168-25-008632-index.htm)
@@ -39,6 +39,12 @@
 - **424B3** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312525292173/0001193125-25-292173-index.htm)
 
+- **1-A/A** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225024851/0001493152-25-024851-index.htm)
+
+- **S-3** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000110465925115456/0001104659-25-115456-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225067033/0001839882-25-067033-index.htm)
 
@@ -50,6 +56,9 @@
 
 - **DEF 14C** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000227/0001679788-25-000227-index.htm)
+
+- **PREM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225024848/0001493152-25-024848-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525292060/0001193125-25-292060-index.htm)
