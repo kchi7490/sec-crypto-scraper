@@ -57,6 +57,9 @@
 - **424B5** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390025113879/0001213900-25-113879-index.htm)
 
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000707/0000945908-25-000707-index.htm)
+
 - **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133125000038/0001611331-25-000038-index.htm)
 
