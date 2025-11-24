@@ -9,11 +9,11 @@
 - **8-K** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000207184425000522/0002071844-25-000522-index.htm)
 
-- **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
-
 - **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
+
+- **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008632/0001683168-25-008632-index.htm)
@@ -32,6 +32,9 @@
 
 - **424B3** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312525292173/0001193125-25-292173-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225067033/0001839882-25-067033-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225067008/0001839882-25-067008-index.htm)
