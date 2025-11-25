@@ -84,6 +84,9 @@
 - **424B3** | Apollo Debt Solutions BDC  (CIK 0001837532)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312525293676/0001193125-25-293676-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184325007559/0001171843-25-007559-index.htm)
+
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390025113881/0001213900-25-113881-index.htm)
 
