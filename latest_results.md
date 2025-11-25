@@ -69,6 +69,9 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925115183/0001104659-25-115183-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330125000107/0001083301-25-000107-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525293909/0001193125-25-293909-index.htm)
 
@@ -102,6 +105,9 @@
 - **424B5** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390025113879/0001213900-25-113879-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325017010/0001062993-25-017010-index.htm)
+
 - **N-4** | Athene Annuity & Life Co  (CIK 0000837332)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733225000069/0000837332-25-000069-index.htm)
 
@@ -122,6 +128,9 @@
 
 - **485APOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025003757/0001592900-25-003757-index.htm)
+
+- **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025114381/0001213900-25-114381-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025114235/0001213900-25-114235-index.htm)
