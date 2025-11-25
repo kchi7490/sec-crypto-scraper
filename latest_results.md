@@ -18,6 +18,9 @@
 - **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823025000179/0001788230-25-000179-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008632/0001683168-25-008632-index.htm)
 
@@ -129,6 +132,9 @@
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000633/0001081400-25-000633-index.htm)
 
+- **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008592/0001477932-25-008592-index.htm)
+
 - **10-K** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000119312525293672/0001193125-25-293672-index.htm)
 
@@ -152,4 +158,7 @@
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018582/0001999371-25-018582-index.htm)
+
+- **10-Q** | Authentic Holdings, Inc.  (AHRO)  (CIK 0001338929)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1338929/000147793225008590/0001477932-25-008590-index.htm)
 
