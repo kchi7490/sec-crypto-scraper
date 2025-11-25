@@ -12,11 +12,11 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525293690/0001193125-25-293690-index.htm)
 
-- **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
-
 - **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
+
+- **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008632/0001683168-25-008632-index.htm)
@@ -62,6 +62,9 @@
 
 - **PREM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225024848/0001493152-25-024848-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225067339/0001839882-25-067339-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525292060/0001193125-25-292060-index.htm)
