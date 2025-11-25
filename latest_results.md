@@ -72,6 +72,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525292060/0001193125-25-292060-index.htm)
 
+- **8-K** | RHINO BITCOIN INC.  (RHNO)  (CIK 0001785493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225024953/0001493152-25-024953-index.htm)
+
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025114368/0001213900-25-114368-index.htm)
 
