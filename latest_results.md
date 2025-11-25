@@ -12,11 +12,11 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525293690/0001193125-25-293690-index.htm)
 
-- **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
-
 - **8-K/A** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025113796/0001213900-25-113796-index.htm)
+
+- **424B3** | Predictive Oncology Inc.  (POAI)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184325007511/0001171843-25-007511-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008632/0001683168-25-008632-index.htm)
@@ -63,11 +63,20 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525292060/0001193125-25-292060-index.htm)
 
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025114368/0001213900-25-114368-index.htm)
+
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925115183/0001104659-25-115183-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525293909/0001193125-25-293909-index.htm)
+
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525293889/0001193125-25-293889-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312525293910/0001193125-25-293910-index.htm)
 
 - **424B3** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000121390025113787/0001213900-25-113787-index.htm)
