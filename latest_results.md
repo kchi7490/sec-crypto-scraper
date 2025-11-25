@@ -123,6 +123,9 @@
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000707/0000945908-25-000707-index.htm)
 
+- **8-A12B** | Franklin Solana Trust  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000207184425000543/0002071844-25-000543-index.htm)
+
 - **N-CSRS** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000119312525294639/0001193125-25-294639-index.htm)
 
