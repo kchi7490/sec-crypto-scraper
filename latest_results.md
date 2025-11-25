@@ -57,6 +57,9 @@
 - **DEF 14C** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978825000227/0001679788-25-000227-index.htm)
 
+- **DEF 14A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525294577/0001193125-25-294577-index.htm)
+
 - **PREM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225024848/0001493152-25-024848-index.htm)
 
