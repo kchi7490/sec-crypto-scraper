@@ -457,10 +457,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297417/0001193125-25-297417-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297424/0001193125-25-297424-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297393/0001193125-25-297393-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297481/0001193125-25-297481-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297383/0001193125-25-297383-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025114847/0001213900-25-114847-index.htm)
