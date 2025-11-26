@@ -99,11 +99,11 @@
 - **8-K** | RHINO BITCOIN INC.  (RHNO)  (CIK 0001785493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315225024953/0001493152-25-024953-index.htm)
 
-- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025114368/0001213900-25-114368-index.htm)
-
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312525297163/0001193125-25-297163-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025114368/0001213900-25-114368-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925115183/0001104659-25-115183-index.htm)
@@ -457,10 +457,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297417/0001193125-25-297417-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297393/0001193125-25-297393-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297424/0001193125-25-297424-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297383/0001193125-25-297383-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312525297481/0001193125-25-297481-index.htm)
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025114847/0001213900-25-114847-index.htm)
