@@ -87,11 +87,11 @@
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025115071/0001213900-25-115071-index.htm)
 
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013472/0001654954-25-013472-index.htm)
-
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025070/0001493152-25-025070-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013472/0001654954-25-013472-index.htm)
 
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390025115075/0001213900-25-115075-index.htm)
@@ -154,10 +154,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031913/0001410368-25-031913-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031911/0001410368-25-031911-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031871/0001410368-25-031871-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031871/0001410368-25-031871-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031911/0001410368-25-031911-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031918/0001410368-25-031918-index.htm)
@@ -167,9 +167,6 @@
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031869/0001410368-25-031869-index.htm)
-
-- **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031873/0001410368-25-031873-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031910/0001410368-25-031910-index.htm)
@@ -185,6 +182,9 @@
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031904/0001410368-25-031904-index.htm)
+
+- **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031873/0001410368-25-031873-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031882/0001410368-25-031882-index.htm)
