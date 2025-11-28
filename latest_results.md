@@ -36,6 +36,9 @@
 - **S-1/A** | VanEck Avalanche ETF  (CIK 0002060717)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828025054200/0001628280-25-054200-index.htm)
 
+- **S-1/A** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000599/0002071844-25-000599-index.htm)
+
 - **424B3** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390025115503/0001213900-25-115503-index.htm)
 
@@ -134,6 +137,9 @@
 
 - **F-3** | OceanPal Inc.  (OP, SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000114036125043550/0001140361-25-043550-index.htm)
+
+- **20-F** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225025421/0001493152-25-025421-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001246/0001279569-25-001246-index.htm)
@@ -245,6 +251,9 @@
 
 - **485BPOS** | AMERICAN HIGH INCOME TRUST  (CIK 0000823620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/823620/000005193125001308/0000051931-25-001308-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834425021436/0001398344-25-021436-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299801/0001193125-25-299801-index.htm)
@@ -358,13 +367,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299790/0001193125-25-299790-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299813/0001193125-25-299813-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299823/0001193125-25-299823-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299824/0001193125-25-299824-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299813/0001193125-25-299813-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299822/0001193125-25-299822-index.htm)
@@ -404,6 +413,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025115500/0001213900-25-115500-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025116132/0001213900-25-116132-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125018732/0001999371-25-018732-index.htm)
