@@ -15,6 +15,9 @@
 - **8-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000121390025115099/0001213900-25-115099-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390025115740/0001213900-25-115740-index.htm)
+
 - **424B3** | Franklin Solana Trust  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000207184425000549/0002071844-25-000549-index.htm)
 
@@ -39,6 +42,9 @@
 - **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225025158/0001493152-25-025158-index.htm)
 
+- **S-1/A** | Subversive Bitcoin Acquisition Corp.  (SBAQ)  (CIK 0002073545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390025115736/0001213900-25-115736-index.htm)
+
 - **S-1/A** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000110465925116417/0001104659-25-116417-index.htm)
 
@@ -50,6 +56,9 @@
 
 - **F-1/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912625009483/0001829126-25-009483-index.htm)
+
+- **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912625009492/0001829126-25-009492-index.htm)
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025115307/0001213900-25-115307-index.htm)
@@ -121,10 +130,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939052/000119312525299247/0001193125-25-299247-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031891/0001410368-25-031891-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031877/0001410368-25-031877-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031877/0001410368-25-031877-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031891/0001410368-25-031891-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031902/0001410368-25-031902-index.htm)
@@ -157,6 +166,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031869/0001410368-25-031869-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031873/0001410368-25-031873-index.htm)
+
+- **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031910/0001410368-25-031910-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
@@ -167,9 +179,6 @@
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031908/0001410368-25-031908-index.htm)
-
-- **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031873/0001410368-25-031873-index.htm)
 
 - **NPORT-P** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000141036825031904/0001410368-25-031904-index.htm)
@@ -202,7 +211,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299804/0001193125-25-299804-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299792/0001193125-25-299792-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299815/0001193125-25-299815-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299809/0001193125-25-299809-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299779/0001193125-25-299779-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299810/0001193125-25-299810-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299781/0001193125-25-299781-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299797/0001193125-25-299797-index.htm)
@@ -211,25 +232,7 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299820/0001193125-25-299820-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299781/0001193125-25-299781-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299810/0001193125-25-299810-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299779/0001193125-25-299779-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299815/0001193125-25-299815-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299809/0001193125-25-299809-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299788/0001193125-25-299788-index.htm)
-
-- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299814/0001193125-25-299814-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299792/0001193125-25-299792-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299803/0001193125-25-299803-index.htm)
@@ -244,13 +247,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299799/0001193125-25-299799-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299788/0001193125-25-299788-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299814/0001193125-25-299814-index.htm)
+
+- **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299784/0001193125-25-299784-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299821/0001193125-25-299821-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299805/0001193125-25-299805-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299805/0001193125-25-299805-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299821/0001193125-25-299821-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299786/0001193125-25-299786-index.htm)
@@ -277,31 +286,31 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299794/0001193125-25-299794-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299825/0001193125-25-299825-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299827/0001193125-25-299827-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299796/0001193125-25-299796-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299827/0001193125-25-299827-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299825/0001193125-25-299825-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299798/0001193125-25-299798-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299777/0001193125-25-299777-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299807/0001193125-25-299807-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299807/0001193125-25-299807-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299777/0001193125-25-299777-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299819/0001193125-25-299819-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299790/0001193125-25-299790-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299802/0001193125-25-299802-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299802/0001193125-25-299802-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299790/0001193125-25-299790-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299823/0001193125-25-299823-index.htm)
@@ -328,13 +337,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299818/0001193125-25-299818-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299768/0001193125-25-299768-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299772/0001193125-25-299772-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299774/0001193125-25-299774-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299772/0001193125-25-299772-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299768/0001193125-25-299768-index.htm)
 
 - **NPORT-P** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000119312525299816/0001193125-25-299816-index.htm)
