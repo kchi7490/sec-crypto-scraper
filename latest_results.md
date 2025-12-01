@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **PREN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000119380525001679/0001193805-25-001679-index.htm)
+
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525303047/0001193125-25-303047-index.htm)
 
