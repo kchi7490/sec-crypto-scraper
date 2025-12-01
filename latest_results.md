@@ -48,6 +48,9 @@
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025116278/0001213900-25-116278-index.htm)
 
+- **S-1** | Jet.AI Inc.  (JTAI)  (CIK 0001861622)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861622/000149315225025591/0001493152-25-025591-index.htm)
+
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025116428/0001213900-25-116428-index.htm)
 
@@ -74,6 +77,12 @@
 
 - **8-A12B** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009534/0001829126-25-009534-index.htm)
+
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390025116750/0001213900-25-116750-index.htm)
+
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425021000/0001888524-25-021000-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025116226/0001213900-25-116226-index.htm)
