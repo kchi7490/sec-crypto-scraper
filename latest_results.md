@@ -39,6 +39,9 @@
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025116278/0001213900-25-116278-index.htm)
 
+- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025116428/0001213900-25-116428-index.htm)
+
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025498/0001493152-25-025498-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **N-CSRS** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322825012986/0001133228-25-012986-index.htm)
+
+- **8-A12B** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009534/0001829126-25-009534-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025116226/0001213900-25-116226-index.htm)
