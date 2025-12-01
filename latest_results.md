@@ -21,6 +21,9 @@
 - **S-4** | BlockchAIn Digital Infrastructure, Inc.  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390025116271/0001213900-25-116271-index.htm)
 
+- **425** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP)  (CIK 0000049196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000114036125043731/0001140361-25-043731-index.htm)
+
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525303047/0001193125-25-303047-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025498/0001493152-25-025498-index.htm)
+
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525303269/0001193125-25-303269-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025116226/0001213900-25-116226-index.htm)
