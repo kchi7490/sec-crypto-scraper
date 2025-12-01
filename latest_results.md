@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225025501/0001493152-25-025501-index.htm)
 
+- **S-1/A** | Canary American-Made Crypto ETF  (MRCA)  (CIK 0002083119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083119/000199937125019113/0001999371-25-019113-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825008743/0001683168-25-008743-index.htm)
 
@@ -11,6 +14,12 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525303157/0001193125-25-303157-index.htm)
+
+- **8-K** | Soulpower Acquisition Corp.  (SOUL, SOUL-RI, SOUL-UN)  (CIK 0002025608)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025608/000149315225025622/0001493152-25-025622-index.htm)
+
+- **424B3** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000207184425000602/0002071844-25-000602-index.htm)
 
 - **PREN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000119380525001679/0001193805-25-001679-index.htm)
