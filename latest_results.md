@@ -42,6 +42,9 @@
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025498/0001493152-25-025498-index.htm)
 
+- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225025513/0001493152-25-025513-index.htm)
+
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525303269/0001193125-25-303269-index.htm)
 
