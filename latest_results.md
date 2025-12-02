@@ -54,6 +54,9 @@
 - **10-K** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000338/0001663577-25-000338-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225069278/0001839882-25-069278-index.htm)
+
 - **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125043802/0001140361-25-043802-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025004086/0001592900-25-004086-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290025004105/0001592900-25-004105-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025116740/0001213900-25-116740-index.htm)
