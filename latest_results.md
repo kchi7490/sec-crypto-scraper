@@ -123,6 +123,9 @@
 - **425** | Yorkville Acquisition Corp.  (MCGA, MCGAU, MCGAW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925117351/0001104659-25-117351-index.htm)
 
+- **487** | FT 12596  (CIK 0002080239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080239/000144554625007958/0001445546-25-007958-index.htm)
+
 - **497** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312525303896/0001193125-25-303896-index.htm)
 
