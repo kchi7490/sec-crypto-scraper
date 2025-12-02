@@ -78,6 +78,9 @@
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025498/0001493152-25-025498-index.htm)
 
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225025659/0001493152-25-025659-index.htm)
+
 - **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225025631/0001493152-25-025631-index.htm)
 
