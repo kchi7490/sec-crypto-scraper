@@ -60,6 +60,12 @@
 - **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125043802/0001140361-25-043802-index.htm)
 
+- **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025117173/0001213900-25-117173-index.htm)
+
+- **425** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025117176/0001213900-25-117176-index.htm)
+
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008774/0001683168-25-008774-index.htm)
 
