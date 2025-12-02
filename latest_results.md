@@ -93,6 +93,9 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225025659/0001493152-25-025659-index.htm)
 
+- **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312525304603/0001193125-25-304603-index.htm)
+
 - **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225025631/0001493152-25-025631-index.htm)
 
