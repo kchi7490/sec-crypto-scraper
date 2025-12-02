@@ -36,6 +36,9 @@
 - **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525304584/0001193125-25-304584-index.htm)
 
+- **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525304611/0001193125-25-304611-index.htm)
+
 - **8-K** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP)  (CIK 0000049196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000114036125043724/0001140361-25-043724-index.htm)
 
