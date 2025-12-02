@@ -87,11 +87,20 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008713/0001477932-25-008713-index.htm)
 
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925117521/0001104659-25-117521-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025116950/0001213900-25-116950-index.htm)
+
 - **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315225025498/0001493152-25-025498-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225025659/0001493152-25-025659-index.htm)
+
+- **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312525304603/0001193125-25-304603-index.htm)
 
 - **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225025631/0001493152-25-025631-index.htm)
