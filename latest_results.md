@@ -33,6 +33,9 @@
 - **PREN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000119380525001679/0001193805-25-001679-index.htm)
 
+- **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525304584/0001193125-25-304584-index.htm)
+
 - **8-K** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP)  (CIK 0000049196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000114036125043724/0001140361-25-043724-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312525303269/0001193125-25-303269-index.htm)
+
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025116959/0001213900-25-116959-index.htm)
 
 - **N-CSRS** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322825012986/0001133228-25-012986-index.htm)
