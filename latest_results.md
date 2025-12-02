@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925017512/0001214659-25-017512-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225025501/0001493152-25-025501-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **S-1** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008717/0001477932-25-008717-index.htm)
+
+- **S-3/A** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225025789/0001493152-25-025789-index.htm)
 
 - **8-K** | Soulpower Acquisition Corp.  (SOUL, SOUL-RI, SOUL-UN)  (CIK 0002025608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025608/000149315225025622/0001493152-25-025622-index.htm)
@@ -185,6 +191,12 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025117262/0001213900-25-117262-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025117333/0001213900-25-117333-index.htm)
+
+- **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025117345/0001213900-25-117345-index.htm)
 
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025116281/0001213900-25-116281-index.htm)
