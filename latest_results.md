@@ -3,6 +3,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225025866/0001493152-25-025866-index.htm)
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312525306852/0001193125-25-306852-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925017512/0001214659-25-017512-index.htm)
 
@@ -120,6 +123,15 @@
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008774/0001683168-25-008774-index.htm)
 
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525306832/0001193125-25-306832-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525306831/0001193125-25-306831-index.htm)
+
+- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525306844/0001193125-25-306844-index.htm)
+
 - **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/0001838028-25-000030-index.htm)
 
@@ -147,8 +159,20 @@
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025116428/0001213900-25-116428-index.htm)
 
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525306836/0001193125-25-306836-index.htm)
+
+- **8-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312525306835/0001193125-25-306835-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525306842/0001193125-25-306842-index.htm)
+
 - **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm)
+
+- **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525306858/0001193125-25-306858-index.htm)
 
 - **8-K** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000021/0002028541-25-000021-index.htm)
@@ -251,6 +275,9 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025116912/0001213900-25-116912-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025117872/0001213900-25-117872-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025116196/0001213900-25-116196-index.htm)
