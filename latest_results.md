@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225025866/0001493152-25-025866-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925017512/0001214659-25-017512-index.htm)
 
