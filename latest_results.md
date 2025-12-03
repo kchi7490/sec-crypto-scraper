@@ -51,6 +51,9 @@
 - **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525304611/0001193125-25-304611-index.htm)
 
+- **S-1/A** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225025801/0001493152-25-025801-index.htm)
+
 - **DEF 14A** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315225025592/0001493152-25-025592-index.htm)
 
@@ -62,6 +65,9 @@
 
 - **425** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP)  (CIK 0000049196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000114036125043731/0001140361-25-043731-index.htm)
+
+- **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390025117528/0001213900-25-117528-index.htm)
 
 - **10-K** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000338/0001663577-25-000338-index.htm)
@@ -83,6 +89,9 @@
 
 - **425** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025117176/0001213900-25-117176-index.htm)
+
+- **S-4** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025117512/0001213900-25-117512-index.htm)
 
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008774/0001683168-25-008774-index.htm)
@@ -149,6 +158,9 @@
 
 - **10-Q** | TriUnity Business Services Ltd  (TYBB)  (CIK 0002025878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025878/000147793225008730/0001477932-25-008730-index.htm)
+
+- **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025054871/0001628280-25-054871-index.htm)
 
 - **425** | Yorkville Acquisition Corp.  (MCGA, MCGAU, MCGAW)  (CIK 0002064658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064658/000110465925117351/0001104659-25-117351-index.htm)
