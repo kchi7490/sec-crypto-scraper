@@ -90,6 +90,9 @@
 - **10-K** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000338/0001663577-25-000338-index.htm)
 
+- **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025117807/0001213900-25-117807-index.htm)
+
 - **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025117365/0001213900-25-117365-index.htm)
 
@@ -108,11 +111,17 @@
 - **425** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025117176/0001213900-25-117176-index.htm)
 
+- **10-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225025962/0001493152-25-025962-index.htm)
+
 - **S-4** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025117512/0001213900-25-117512-index.htm)
 
 - **8-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316825008774/0001683168-25-008774-index.htm)
+
+- **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/0001838028-25-000030-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm)
@@ -137,6 +146,9 @@
 
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025116428/0001213900-25-116428-index.htm)
+
+- **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm)
 
 - **8-K** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000021/0002028541-25-000021-index.htm)
@@ -242,6 +254,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025116196/0001213900-25-116196-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025117825/0001213900-25-117825-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025116838/0001213900-25-116838-index.htm)
