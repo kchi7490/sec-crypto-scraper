@@ -48,6 +48,9 @@
 - **S-3/A** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315225025789/0001493152-25-025789-index.htm)
 
+- **425** | Soulpower Acquisition Corp.  (SOUL, SOUL-RI, SOUL-UN)  (CIK 0002025608)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025608/000149315225025927/0001493152-25-025927-index.htm)
+
 - **8-K** | Soulpower Acquisition Corp.  (SOUL, SOUL-RI, SOUL-UN)  (CIK 0002025608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025608/000149315225025622/0001493152-25-025622-index.htm)
 
