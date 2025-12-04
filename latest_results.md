@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **S-1** | AIxCrypto Holdings, Inc.  (AIXC, QLGN)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/0001493152-25-026046-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225025866/0001493152-25-025866-index.htm)
 
@@ -33,6 +36,9 @@
 - **S-1** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008717/0001477932-25-008717-index.htm)
 
+- **8-K** | Cantor Equity Partners, Inc.  (CEP)  (CIK 0001865602)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865602/000121390025117941/0001213900-25-117941-index.htm)
+
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315225026011/0001493152-25-026011-index.htm)
 
@@ -41,6 +47,12 @@
 
 - **425** | Soulpower Acquisition Corp.  (SOUL, SOUL-RI, SOUL-UN)  (CIK 0002025608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025608/000149315225025927/0001493152-25-025927-index.htm)
+
+- **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118004/0001213900-25-118004-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118006/0001213900-25-118006-index.htm)
 
 - **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312525304584/0001193125-25-304584-index.htm)
@@ -99,6 +111,9 @@
 - **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/0001838028-25-000030-index.htm)
 
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009670/0001829126-25-009670-index.htm)
+
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm)
 
@@ -137,6 +152,9 @@
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025116950/0001213900-25-116950-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312525307350/0001193125-25-307350-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315225025659/0001493152-25-025659-index.htm)
