@@ -213,6 +213,9 @@
 - **487** | FT 12596  (CIK 0002080239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080239/000144554625007958/0001445546-25-007958-index.htm)
 
+- **487** | FT 12597  (CIK 0002080240)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080240/000144554625007977/0001445546-25-007977-index.htm)
+
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425021386/0001888524-25-021386-index.htm)
 
