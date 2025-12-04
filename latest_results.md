@@ -102,6 +102,9 @@
 - **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225008761/0001477932-25-008761-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525307501/0001193125-25-307501-index.htm)
+
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525306832/0001193125-25-306832-index.htm)
 
@@ -138,6 +141,9 @@
 - **8-K** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000021/0002028541-25-000021-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001275/0001279569-25-001275-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001268/0001279569-25-001268-index.htm)
 
@@ -152,6 +158,9 @@
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925117521/0001104659-25-117521-index.htm)
+
+- **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390025118074/0001213900-25-118074-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025116950/0001213900-25-116950-index.htm)
