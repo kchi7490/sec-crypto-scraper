@@ -171,6 +171,9 @@
 - **F-3/A** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225025631/0001493152-25-025631-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
+
 - **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390025116959/0001213900-25-116959-index.htm)
 
