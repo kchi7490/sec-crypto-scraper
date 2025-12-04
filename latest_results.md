@@ -213,6 +213,9 @@
 - **487** | FT 12596  (CIK 0002080239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080239/000144554625007958/0001445546-25-007958-index.htm)
 
+- **40-F** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/0001193125-25-307982-index.htm)
+
 - **487** | FT 12597  (CIK 0002080240)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080240/000144554625007977/0001445546-25-007977-index.htm)
 
