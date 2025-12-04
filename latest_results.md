@@ -279,6 +279,9 @@
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425021386/0001888524-25-021386-index.htm)
 
+- **485APOS** | MASSMUTUAL SELECT FUNDS  (CIK 0000916053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916053/000113322825013141/0001133228-25-013141-index.htm)
+
 - **N-CSRS** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000119312525306993/0001193125-25-306993-index.htm)
 
