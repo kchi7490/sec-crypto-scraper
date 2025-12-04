@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025118387/0001213900-25-118387-index.htm)
+
 - **S-1** | AIxCrypto Holdings, Inc.  (AIXC, QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/0001493152-25-026046-index.htm)
 
@@ -151,10 +154,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
@@ -258,6 +264,9 @@
 - **487** | FT 12596  (CIK 0002080239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080239/000144554625007958/0001445546-25-007958-index.htm)
 
+- **40-F** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000156276225000289/0001562762-25-000289-index.htm)
+
 - **40-F** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/0001193125-25-307982-index.htm)
 
@@ -332,7 +341,4 @@
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025117345/0001213900-25-117345-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
 
