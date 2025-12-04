@@ -3,6 +3,9 @@
 - **S-1** | AIxCrypto Holdings, Inc.  (AIXC, QLGN)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/0001493152-25-026046-index.htm)
 
+- **S-3/A** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025118321/0001213900-25-118321-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225025866/0001493152-25-025866-index.htm)
 
