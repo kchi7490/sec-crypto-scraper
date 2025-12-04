@@ -54,6 +54,9 @@
 - **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118004/0001213900-25-118004-index.htm)
 
+- **DEF 14C** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025118073/0001213900-25-118073-index.htm)
+
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118006/0001213900-25-118006-index.htm)
 
@@ -123,6 +126,9 @@
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm)
 
+- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025118098/0001213900-25-118098-index.htm)
+
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525306836/0001193125-25-306836-index.htm)
 
@@ -146,6 +152,9 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001268/0001279569-25-001268-index.htm)
+
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025118087/0001213900-25-118087-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384725000039/0001913847-25-000039-index.htm)
