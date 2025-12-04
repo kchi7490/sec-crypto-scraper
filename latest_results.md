@@ -126,60 +126,6 @@
 - **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225008761/0001477932-25-008761-index.htm)
 
-- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525307501/0001193125-25-307501-index.htm)
-
-- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312525306832/0001193125-25-306832-index.htm)
-
-- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312525306831/0001193125-25-306831-index.htm)
-
-- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312525306844/0001193125-25-306844-index.htm)
-
-- **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/0001838028-25-000030-index.htm)
-
-- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009670/0001829126-25-009670-index.htm)
-
-- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015753/0000950103-25-015753-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015745/0000950103-25-015745-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015747/0000950103-25-015747-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015746/0000950103-25-015746-index.htm)
-
-- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225026174/0001493152-25-026174-index.htm)
-
-- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025118098/0001213900-25-118098-index.htm)
-
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525306836/0001193125-25-306836-index.htm)
 
@@ -191,6 +137,9 @@
 
 - **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm)
+
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991025000256/0001099910-25-000256-index.htm)
 
 - **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525306858/0001193125-25-306858-index.htm)
@@ -276,6 +225,12 @@
 - **N-CSR** | Morgan Stanley ETF Trust  (CIK 0001676326)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1676326/000167632625000014/0001676326-25-000014-index.htm)
 
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009670/0001829126-25-009670-index.htm)
+
+- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025118098/0001213900-25-118098-index.htm)
+
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425021386/0001888524-25-021386-index.htm)
 
@@ -341,4 +296,34 @@
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025117345/0001213900-25-117345-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525307501/0001193125-25-307501-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015753/0000950103-25-015753-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015745/0000950103-25-015745-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015747/0000950103-25-015747-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015746/0000950103-25-015746-index.htm)
 
