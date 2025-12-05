@@ -72,11 +72,20 @@
 - **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025117807/0001213900-25-117807-index.htm)
 
+- **424B3** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000342/0001663577-25-000342-index.htm)
+
+- **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225026236/0001493152-25-026236-index.htm)
+
 - **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125044381/0001140361-25-044381-index.htm)
 
 - **10-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225025962/0001493152-25-025962-index.htm)
+
+- **N-CSR** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000113322825013241/0001133228-25-013241-index.htm)
 
 - **S-4** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025117512/0001213900-25-117512-index.htm)
@@ -109,13 +118,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
@@ -147,12 +156,6 @@
 - **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm)
 
-- **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525306858/0001193125-25-306858-index.htm)
-
-- **8-K** | VanEck Solana ETF  (CIK 0002028541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000021/0002028541-25-000021-index.htm)
-
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001275/0001279569-25-001275-index.htm)
 
@@ -180,11 +183,11 @@
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312525307350/0001193125-25-307350-index.htm)
 
-- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025117570/0001213900-25-117570-index.htm)
-
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
+
+- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025117570/0001213900-25-117570-index.htm)
 
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025054871/0001628280-25-054871-index.htm)
@@ -239,4 +242,7 @@
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118203/0001213900-25-118203-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
 
