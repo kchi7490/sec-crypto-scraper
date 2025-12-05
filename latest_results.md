@@ -24,6 +24,9 @@
 - **8-K** | Sonnet BioTherapeutics Holdings, Inc.  (SONN)  (CIK 0001106838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1106838/000149315225025884/0001493152-25-025884-index.htm)
 
+- **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118453/0001213900-25-118453-index.htm)
+
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025117578/0001213900-25-117578-index.htm)
 
@@ -51,6 +54,12 @@
 - **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118004/0001213900-25-118004-index.htm)
 
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118497/0001213900-25-118497-index.htm)
+
+- **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118495/0001213900-25-118495-index.htm)
+
 - **DEF 14C** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390025118073/0001213900-25-118073-index.htm)
 
@@ -63,6 +72,9 @@
 - **S-4/A** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125044213/0001140361-25-044213-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225069797/0001839882-25-069797-index.htm)
+
 - **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390025117528/0001213900-25-117528-index.htm)
 
@@ -72,23 +84,32 @@
 - **424B3** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390025117807/0001213900-25-117807-index.htm)
 
+- **424B3** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000342/0001663577-25-000342-index.htm)
+
+- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
+
+- **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225026236/0001493152-25-026236-index.htm)
+
 - **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036125044381/0001140361-25-044381-index.htm)
 
+- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036125044457/0001140361-25-044457-index.htm)
+
 - **10-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225025962/0001493152-25-025962-index.htm)
+
+- **N-CSR** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000113322825013241/0001133228-25-013241-index.htm)
 
 - **S-4** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025117512/0001213900-25-117512-index.htm)
 
 - **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225008761/0001477932-25-008761-index.htm)
-
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118497/0001213900-25-118497-index.htm)
-
-- **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118495/0001213900-25-118495-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525307501/0001193125-25-307501-index.htm)
@@ -118,10 +139,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
@@ -138,20 +159,11 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015746/0000950103-25-015746-index.htm)
 
-- **N-CSR** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000113322825013241/0001133228-25-013241-index.htm)
-
-- **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118453/0001213900-25-118453-index.htm)
-
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225026174/0001493152-25-026174-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026256/0001493152-25-026256-index.htm)
-
-- **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225026236/0001493152-25-026236-index.htm)
 
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025118098/0001213900-25-118098-index.htm)
@@ -167,9 +179,6 @@
 
 - **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078825000019/0001860788-25-000019-index.htm)
-
-- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225069797/0001839882-25-069797-index.htm)
 
 - **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525306858/0001193125-25-306858-index.htm)
@@ -222,17 +231,11 @@
 - **40-F** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000156276225000289/0001562762-25-000289-index.htm)
 
-- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
-
 - **40-F** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/0001193125-25-307982-index.htm)
 
 - **487** | FT 12597  (CIK 0002080240)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080240/000144554625007977/0001445546-25-007977-index.htm)
-
-- **424B3** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000342/0001663577-25-000342-index.htm)
 
 - **N-CSR** | Morgan Stanley ETF Trust  (CIK 0001676326)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1676326/000167632625000014/0001676326-25-000014-index.htm)
@@ -249,11 +252,11 @@
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026013/0001493152-25-026013-index.htm)
 
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025117872/0001213900-25-117872-index.htm)
-
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025117872/0001213900-25-117872-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025117825/0001213900-25-117825-index.htm)
@@ -281,7 +284,4 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
-
-- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036125044457/0001140361-25-044457-index.htm)
 
