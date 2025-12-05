@@ -142,10 +142,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
@@ -279,9 +279,9 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118203/0001213900-25-118203-index.htm)
 
-- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
-
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
 
