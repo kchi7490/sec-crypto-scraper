@@ -142,10 +142,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
@@ -173,6 +173,9 @@
 
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390025118098/0001213900-25-118098-index.htm)
+
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
 - **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525306836/0001193125-25-306836-index.htm)
@@ -261,11 +264,14 @@
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026013/0001493152-25-026013-index.htm)
 
-- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025117872/0001213900-25-117872-index.htm)
+
+- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025117825/0001213900-25-117825-index.htm)
