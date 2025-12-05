@@ -181,10 +181,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
@@ -276,11 +276,14 @@
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312525307350/0001193125-25-307350-index.htm)
 
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025118508/0001213900-25-118508-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025117570/0001213900-25-117570-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
 
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025054871/0001628280-25-054871-index.htm)
