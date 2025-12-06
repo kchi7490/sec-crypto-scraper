@@ -168,66 +168,33 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
-- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025118087/0001213900-25-118087-index.htm)
-
-- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390025118508/0001213900-25-118508-index.htm)
-
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001275/0001279569-25-001275-index.htm)
-
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
-
-- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026446/0001493152-25-026446-index.htm)
 
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
 
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025118086/0001213900-25-118086-index.htm)
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
 
-- **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001973/0001096906-25-001973-index.htm)
+- **40-F** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000156276225000289/0001562762-25-000289-index.htm)
 
-- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825033585/0001410368-25-033585-index.htm)
+- **40-F** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/0001193125-25-307982-index.htm)
 
-- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm)
+- **487** | FT 12597  (CIK 0002080240)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080240/000144554625007977/0001445546-25-007977-index.htm)
 
-- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
-
-- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025118705/0001213900-25-118705-index.htm)
-
-- **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025118311/0001213900-25-118311-index.htm)
-
-- **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025118309/0001213900-25-118309-index.htm)
+- **N-CSR** | Morgan Stanley ETF Trust  (CIK 0001676326)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1676326/000167632625000014/0001676326-25-000014-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
-
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118203/0001213900-25-118203-index.htm)
-
-- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
-
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
-
-- **10-Q** | Glidelogic Corp.  (GDLG)  (CIK 0001848672)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
 
