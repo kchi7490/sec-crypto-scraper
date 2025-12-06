@@ -55,13 +55,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015748/0000950103-25-015748-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
@@ -75,11 +75,11 @@
 - **DEFM14A** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000114036125044545/0001140361-25-044545-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015746/0000950103-25-015746-index.htm)
-
 - **424B3** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125044540/0001140361-25-044540-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015746/0000950103-25-015746-index.htm)
 
 - **S-4** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118796/0001213900-25-118796-index.htm)
@@ -135,8 +135,8 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
-- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225069797/0001839882-25-069797-index.htm)
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008815/0001477932-25-008815-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001275/0001279569-25-001275-index.htm)
@@ -171,14 +171,29 @@
 - **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001973/0001096906-25-001973-index.htm)
 
+- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
+
+- **424B3** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000342/0001663577-25-000342-index.htm)
+
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825033585/0001410368-25-033585-index.htm)
 
-- **N-CSRS** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312525307632/0001193125-25-307632-index.htm)
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
+
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm)
 
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118203/0001213900-25-118203-index.htm)
@@ -191,40 +206,4 @@
 
 - **425** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025118309/0001213900-25-118309-index.htm)
-
-- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm)
-
-- **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
-
-- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025118705/0001213900-25-118705-index.htm)
-
-- **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225026215/0001493152-25-026215-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
-
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
-
-- **S-3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225026413/0001493152-25-026413-index.htm)
-
-- **10-Q** | Apex Treasury Corp  (APXT, APXTU, APXTW)  (CIK 0002079253)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025118842/0001213900-25-118842-index.htm)
-
-- **10-Q** | Glidelogic Corp.  (GDLG)  (CIK 0001848672)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm)
-
-- **S-3** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225026369/0001493152-25-026369-index.htm)
-
-- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
 
