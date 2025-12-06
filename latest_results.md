@@ -246,11 +246,11 @@
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118203/0001213900-25-118203-index.htm)
 
-- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
-
 - **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
 
 - **10-Q** | Glidelogic Corp.  (GDLG)  (CIK 0001848672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm)
