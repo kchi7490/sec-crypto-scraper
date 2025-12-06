@@ -127,10 +127,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015749/0000950103-25-015749-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015756/0000950103-25-015756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015751/0000950103-25-015751-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015750/0000950103-25-015750-index.htm)
@@ -168,17 +168,17 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
-- **40-F** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000156276225000289/0001562762-25-000289-index.htm)
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001275/0001279569-25-001275-index.htm)
 
-- **40-F** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525307982/0001193125-25-307982-index.htm)
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
 
-- **487** | FT 12597  (CIK 0002080240)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080240/000144554625007977/0001445546-25-007977-index.htm)
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774925036851/0001437749-25-036851-index.htm)
 
-- **N-CSR** | Morgan Stanley ETF Trust  (CIK 0001676326)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1676326/000167632625000014/0001676326-25-000014-index.htm)
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390025118086/0001213900-25-118086-index.htm)
 
 - **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001973/0001096906-25-001973-index.htm)
@@ -188,9 +188,6 @@
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825033585/0001410368-25-033585-index.htm)
-
-- **N-CSRS** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312525307632/0001193125-25-307632-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
@@ -213,21 +210,12 @@
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390025118456/0001213900-25-118456-index.htm)
 
-- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025118705/0001213900-25-118705-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118290/0001213900-25-118290-index.htm)
-
-- **10-Q** | Glidelogic Corp.  (GDLG)  (CIK 0001848672)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm)
-
-- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
 
