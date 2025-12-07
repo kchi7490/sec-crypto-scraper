@@ -66,11 +66,23 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008815/0001477932-25-008815-index.htm)
+
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
+
 - **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001973/0001096906-25-001973-index.htm)
 
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026446/0001493152-25-026446-index.htm)
+
+- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
+
+- **424B3** | AB INTERNATIONAL GROUP CORP.  (ABQQ)  (CIK 0001605331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605331/000166357725000342/0001663577-25-000342-index.htm)
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825033585/0001410368-25-033585-index.htm)
@@ -104,10 +116,4 @@
 
 - **S-3** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225026369/0001493152-25-026369-index.htm)
-
-- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
-
-- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
 
