@@ -30,11 +30,11 @@
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
 
-- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
-
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
 
 - **8-K** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118495/0001213900-25-118495-index.htm)
@@ -75,15 +75,6 @@
 - **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036125044457/0001140361-25-044457-index.htm)
 
-- **424B5** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026274/0001493152-25-026274-index.htm)
-
-- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225026431/0001493152-25-026431-index.htm)
-
-- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
-
-- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008815/0001477932-25-008815-index.htm)
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
 
