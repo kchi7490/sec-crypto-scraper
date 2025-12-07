@@ -66,15 +66,48 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025118670/0001213900-25-118670-index.htm)
 
-- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
+- **1-A POS** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625001973/0001096906-25-001973-index.htm)
 
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026446/0001493152-25-026446-index.htm)
 
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036825033585/0001410368-25-033585-index.htm)
+
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225026341/0001493152-25-026341-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025118705/0001213900-25-118705-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025118723/0001213900-25-118723-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025118713/0001213900-25-118713-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025118406/0001213900-25-118406-index.htm)
+
+- **425** | Columbus Circle Capital Corp. I  (BRR, BRRWU, BRRWW)  (CIK 0002056263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056263/000121390025118472/0001213900-25-118472-index.htm)
+
+- **S-3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225026413/0001493152-25-026413-index.htm)
+
+- **10-Q** | Apex Treasury Corp  (APXT, APXTU, APXTW)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390025118842/0001213900-25-118842-index.htm)
+
+- **10-Q** | Glidelogic Corp.  (GDLG)  (CIK 0001848672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848672/000109690625001969/0001096906-25-001969-index.htm)
+
+- **S-3** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315225026369/0001493152-25-026369-index.htm)
+
+- **DEFM14A** | SONIM TECHNOLOGIES INC  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315225026277/0001493152-25-026277-index.htm)
+
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390025118711/0001213900-25-118711-index.htm)
 
