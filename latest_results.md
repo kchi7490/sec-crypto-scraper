@@ -45,6 +45,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026531/0001493152-25-026531-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013758/0001654954-25-013758-index.htm)
+
 - **F-1** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390025118913/0001213900-25-118913-index.htm)
 
