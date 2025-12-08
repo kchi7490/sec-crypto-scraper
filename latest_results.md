@@ -60,9 +60,6 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325017198/0001062993-25-017198-index.htm)
 
-- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
-
 - **487** | FT 12599  (CIK 0002080242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080242/000144554625008110/0001445546-25-008110-index.htm)
 
