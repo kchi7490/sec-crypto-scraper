@@ -39,9 +39,6 @@
 - **F-1/A** | Wealth Management System Inc.  (CIK 0002074158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074158/000149315225026606/0001493152-25-026606-index.htm)
 
-- **N-CSR** | Valkyrie ETF Trust II  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322825013354/0001133228-25-013354-index.htm)
-
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025118971/0001213900-25-118971-index.htm)
 
@@ -75,24 +72,9 @@
 - **487** | FT 12599  (CIK 0002080242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080242/000144554625008110/0001445546-25-008110-index.htm)
 
-- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311146/0001193125-25-311146-index.htm)
-
-- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311148/0001193125-25-311148-index.htm)
-
-- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
-
-- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
-
-- **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
-
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
 
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119254/0001213900-25-119254-index.htm)
+- **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019803/0001999371-25-019803-index.htm)
 
