@@ -24,6 +24,9 @@
 - **S-4** | Blockfusion Data Centers, Inc.  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518525001952/0001185185-25-001952-index.htm)
 
+- **N-CSR** | Collaborative Investment Series Trust  (CIK 0001719812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000113322825013346/0001133228-25-013346-index.htm)
+
 - **S-1** | Future Money Acquisition Corp  (CIK 0002099232)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315225026481/0001493152-25-026481-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **487** | FT 12599  (CIK 0002080242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080242/000144554625008110/0001445546-25-008110-index.htm)
+
+- **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
