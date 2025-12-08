@@ -60,8 +60,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525310607/0001193125-25-310607-index.htm)
 
+- **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925119358/0001104659-25-119358-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026531/0001493152-25-026531-index.htm)
+
+- **N-CSR** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937125019807/0001999371-25-019807-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
@@ -101,6 +107,9 @@
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
+
+- **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119254/0001213900-25-119254-index.htm)
