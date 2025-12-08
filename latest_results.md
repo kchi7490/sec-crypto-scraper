@@ -9,9 +9,6 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008968/0001683168-25-008968-index.htm)
 
-- **8-K** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312525310714/0001193125-25-310714-index.htm)
-
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008833/0001477932-25-008833-index.htm)
 
@@ -30,6 +27,21 @@
 - **8-K** | Versant Media Group, Inc.  (VSNT)  (CIK 0002067876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067876/000119312525310612/0001193125-25-310612-index.htm)
 
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025118971/0001213900-25-118971-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925118968/0001104659-25-118968-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525310607/0001193125-25-310607-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026531/0001493152-25-026531-index.htm)
+
+- **S-1/A** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025118998/0001213900-25-118998-index.htm)
+
 - **F-1** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390025118913/0001213900-25-118913-index.htm)
 
@@ -44,12 +56,6 @@
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
-
-- **S-1/A** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025118998/0001213900-25-118998-index.htm)
-
-- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025118971/0001213900-25-118971-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
