@@ -45,8 +45,14 @@
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008833/0001477932-25-008833-index.htm)
 
+- **S-1/A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828025056158/0001628280-25-056158-index.htm)
+
 - **S-1/A** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025118998/0001213900-25-118998-index.htm)
+
+- **424B3** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000633/0002071844-25-000633-index.htm)
 
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000097/0001326380-25-000097-index.htm)
@@ -120,11 +126,20 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026531/0001493152-25-026531-index.htm)
 
+- **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025119716/0001213900-25-119716-index.htm)
+
 - **N-CSR** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937125019807/0001999371-25-019807-index.htm)
 
+- **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
+
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
+
+- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013758/0001654954-25-013758-index.htm)
@@ -150,6 +165,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
 
+- **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
+
 - **487** | FT 12599  (CIK 0002080242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080242/000144554625008110/0001445546-25-008110-index.htm)
 
@@ -160,10 +178,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311148/0001193125-25-311148-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
