@@ -84,6 +84,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525310607/0001193125-25-310607-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
+
 - **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925119358/0001104659-25-119358-index.htm)
 
@@ -152,10 +158,4 @@
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
-
-- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
 
