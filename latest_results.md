@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119440/0001213900-25-119440-index.htm)
+
 - **424B3** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119317/0001213900-25-119317-index.htm)
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026540/0001493152-25-026540-index.htm)
+
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525311930/0001193125-25-311930-index.htm)
 
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225026537/0001493152-25-026537-index.htm)
@@ -18,6 +24,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225026690/0001493152-25-026690-index.htm)
 
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025119445/0001213900-25-119445-index.htm)
+
 - **8-K** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312525310714/0001193125-25-310714-index.htm)
 
@@ -29,6 +38,9 @@
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019797/0001999371-25-019797-index.htm)
+
+- **253G2** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315225026771/0001493152-25-026771-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019803/0001999371-25-019803-index.htm)
@@ -65,6 +77,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525310607/0001193125-25-310607-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
 
 - **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925119358/0001104659-25-119358-index.htm)
