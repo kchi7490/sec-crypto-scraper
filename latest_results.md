@@ -12,9 +12,6 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525311930/0001193125-25-311930-index.htm)
 
-- **8-K/A** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525312816/0001193125-25-312816-index.htm)
-
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225026537/0001493152-25-026537-index.htm)
 
@@ -30,32 +27,17 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225026690/0001493152-25-026690-index.htm)
 
-- **10-Q** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000098/0001326380-25-000098-index.htm)
-
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025119445/0001213900-25-119445-index.htm)
 
 - **8-K** | Hyperliquid Strategies Inc  (HYPS)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312525310714/0001193125-25-310714-index.htm)
 
-- **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225026845/0001493152-25-026845-index.htm)
-
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008833/0001477932-25-008833-index.htm)
 
-- **S-1/A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828025056158/0001628280-25-056158-index.htm)
-
 - **S-1/A** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025118998/0001213900-25-118998-index.htm)
-
-- **424B3** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000633/0002071844-25-000633-index.htm)
-
-- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000097/0001326380-25-000097-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019797/0001999371-25-019797-index.htm)
@@ -94,22 +76,7 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322825013354/0001133228-25-013354-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225026862/0001493152-25-026862-index.htm)
-
-- **10-Q** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240825000132/0001412408-25-000132-index.htm)
-
-- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025118971/0001213900-25-118971-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm)
-
-- **425** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045045/0001140361-25-045045-index.htm)
-
-- **8-K** | ALKALINE WATER Co INC  (WTER)  (CIK 0001532390)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1532390/000168316825009019/0001683168-25-009019-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925118968/0001104659-25-118968-index.htm)
@@ -123,26 +90,14 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
 
-- **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045043/0001140361-25-045043-index.htm)
-
-- **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
-
 - **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925119358/0001104659-25-119358-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026531/0001493152-25-026531-index.htm)
 
-- **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025119716/0001213900-25-119716-index.htm)
-
 - **N-CSR** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937125019807/0001999371-25-019807-index.htm)
-
-- **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
@@ -174,8 +129,17 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
 
+- **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
+
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
+
+- **S-1/A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828025056158/0001628280-25-056158-index.htm)
+
+- **424B3** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000633/0002071844-25-000633-index.htm)
 
 - **487** | FT 12599  (CIK 0002080242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080242/000144554625008110/0001445546-25-008110-index.htm)
@@ -192,6 +156,15 @@
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
 
+- **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045043/0001140361-25-045043-index.htm)
+
+- **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025119716/0001213900-25-119716-index.htm)
+
+- **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
+
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
 
@@ -204,17 +177,11 @@
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
 
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119254/0001213900-25-119254-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119690/0001213900-25-119690-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
@@ -222,6 +189,24 @@
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119690/0001213900-25-119690-index.htm)
+
+- **8-K/A** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312525312816/0001193125-25-312816-index.htm)
+
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
+
+- **10-Q** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000098/0001326380-25-000098-index.htm)
+
+- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638025000097/0001326380-25-000097-index.htm)
+
+- **10-Q** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240825000132/0001412408-25-000132-index.htm)
 
