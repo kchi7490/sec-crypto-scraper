@@ -81,6 +81,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
 
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
+
 - **8-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465925119358/0001104659-25-119358-index.htm)
 
@@ -121,10 +124,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311148/0001193125-25-311148-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
@@ -137,9 +140,6 @@
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
-
-- **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
