@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **424B3** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119317/0001213900-25-119317-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026540/0001493152-25-026540-index.htm)
 
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225026537/0001493152-25-026537-index.htm)
+
+- **8-K** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000149315225026745/0001493152-25-026745-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316825008968/0001683168-25-008968-index.htm)
@@ -69,9 +75,6 @@
 - **N-CSR** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937125019807/0001999371-25-019807-index.htm)
 
-- **424B3** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119317/0001213900-25-119317-index.htm)
-
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
 
@@ -121,8 +124,8 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
 
