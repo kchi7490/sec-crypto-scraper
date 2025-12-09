@@ -69,6 +69,9 @@
 - **N-CSR** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937125019807/0001999371-25-019807-index.htm)
 
+- **424B3** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119317/0001213900-25-119317-index.htm)
+
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
 
@@ -111,9 +114,6 @@
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
 
-- **424B3** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000121390025119317/0001213900-25-119317-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119254/0001213900-25-119254-index.htm)
 
@@ -121,8 +121,8 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025118908/0001213900-25-118908-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119303/0001213900-25-119303-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
 
