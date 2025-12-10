@@ -111,11 +111,11 @@
 - **10-Q** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240825000132/0001412408-25-000132-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm)
-
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000121390025118971/0001213900-25-118971-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm)
 
 - **425** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045045/0001140361-25-045045-index.htm)
@@ -204,6 +204,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
 
+- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
+
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
@@ -217,10 +220,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311148/0001193125-25-311148-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
