@@ -229,10 +229,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311148/0001193125-25-311148-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311152/0001193125-25-311152-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312525311150/0001193125-25-311150-index.htm)
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
@@ -242,6 +242,12 @@
 
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
+
+- **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
+
+- **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
@@ -266,7 +272,4 @@
 
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
-
-- **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
 
