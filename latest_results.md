@@ -144,6 +144,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925118968/0001104659-25-118968-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015975/0000950103-25-015975-index.htm)
+
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009839/0001829126-25-009839-index.htm)
 
@@ -158,6 +161,9 @@
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045043/0001140361-25-045043-index.htm)
+
+- **424B3** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325017271/0001062993-25-017271-index.htm)
 
 - **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
@@ -297,6 +303,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120097/0001213900-25-120097-index.htm)
 
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025120198/0001213900-25-120198-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119690/0001213900-25-119690-index.htm)
 
@@ -312,14 +321,8 @@
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
 
-- **424B3** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325017271/0001062993-25-017271-index.htm)
-
 - **N-PX** | Members Trust Co  (CIK 0001677560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015975/0000950103-25-015975-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
