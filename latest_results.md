@@ -126,6 +126,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925118968/0001104659-25-118968-index.htm)
 
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009839/0001829126-25-009839-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525310607/0001193125-25-310607-index.htm)
 
@@ -221,9 +224,6 @@
 
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
-
-- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009839/0001829126-25-009839-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
