@@ -240,6 +240,9 @@
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
 
+- **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
+
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
 
