@@ -60,6 +60,12 @@
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225026845/0001493152-25-026845-index.htm)
 
+- **S-1/A** | Canary Staked SEI ETF  (CIK 0002066353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066353/000199937125020023/0001999371-25-020023-index.htm)
+
+- **S-4/A** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316825009045/0001683168-25-009045-index.htm)
+
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225008833/0001477932-25-008833-index.htm)
 
@@ -101,6 +107,9 @@
 
 - **S-1/A** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025118924/0001213900-25-118924-index.htm)
+
+- **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
 
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316825009027/0001683168-25-009027-index.htm)
@@ -150,9 +159,6 @@
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045043/0001140361-25-045043-index.htm)
 
-- **424B3** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325017271/0001062993-25-017271-index.htm)
-
 - **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
 
@@ -176,6 +182,9 @@
 
 - **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
+
+- **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125019801/0001999371-25-019801-index.htm)
@@ -258,9 +267,6 @@
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
 
-- **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
-
 - **8-A12B** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000620/0002071844-25-000620-index.htm)
 
@@ -269,6 +275,9 @@
 
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
+
+- **485BPOS** | 2023 ETF Series Trust  (CIK 0001969674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969674/000199937125020022/0001999371-25-020022-index.htm)
 
 - **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
@@ -303,8 +312,14 @@
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
 
+- **424B3** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325017271/0001062993-25-017271-index.htm)
+
 - **N-PX** | Members Trust Co  (CIK 0001677560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015975/0000950103-25-015975-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
