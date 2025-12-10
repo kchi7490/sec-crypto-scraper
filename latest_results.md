@@ -171,12 +171,6 @@
 - **6-K** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000149315225026794/0001493152-25-026794-index.htm)
 
-- **6-K** | Harrison Global Holdings Inc.  (BLMZ)  (CIK 0001984014)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1984014/000198401425000027/0001984014-25-000027-index.htm)
-
-- **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025118964/0001213900-25-118964-index.htm)
-
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
@@ -197,6 +191,9 @@
 
 - **40-17G** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937125019761/0001999371-25-019761-index.htm)
+
+- **8-A12B** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000620/0002071844-25-000620-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525311449/0001193125-25-311449-index.htm)
