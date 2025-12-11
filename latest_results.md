@@ -66,9 +66,6 @@
 - **10-12G/A** | Grayscale Bittensor Trust (TAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525312006/0001193125-25-312006-index.htm)
 
-- **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
-
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
 
@@ -125,6 +122,9 @@
 
 - **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
+
+- **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
 
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
@@ -212,9 +212,6 @@
 
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
-
-- **N-PX** | Members Trust Co  (CIK 0001677560)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
