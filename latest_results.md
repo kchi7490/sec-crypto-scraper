@@ -66,6 +66,9 @@
 - **10-12G/A** | Grayscale Bittensor Trust (TAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525312006/0001193125-25-312006-index.htm)
 
+- **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
+
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
 
 - **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793225008889/0001477932-25-008889-index.htm)
@@ -159,6 +165,9 @@
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001290/0001279569-25-001290-index.htm)
+
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
@@ -182,6 +191,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025120233/0001213900-25-120233-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120097/0001213900-25-120097-index.htm)
