@@ -153,6 +153,9 @@
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013813/0001654954-25-013813-index.htm)
 
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
+
 - **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025119652/0001213900-25-119652-index.htm)
 
@@ -161,9 +164,6 @@
 
 - **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
-
-- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
 
 - **6-K** | Harrison Global Holdings Inc.  (BLMZ)  (CIK 0001984014)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1984014/000198401425000027/0001984014-25-000027-index.htm)
