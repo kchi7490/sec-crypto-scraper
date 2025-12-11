@@ -120,12 +120,6 @@
 - **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
 
-- **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
-
-- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925119871/0001104659-25-119871-index.htm)
 
@@ -164,6 +158,12 @@
 
 - **POS AM** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525314257/0001193125-25-314257-index.htm)
+
+- **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
+
+- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
 
 - **8-A12B** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000620/0002071844-25-000620-index.htm)
