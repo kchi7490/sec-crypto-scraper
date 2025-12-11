@@ -123,11 +123,41 @@
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
 
-- **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
+- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925119871/0001104659-25-119871-index.htm)
+
+- **6-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225027066/0001493152-25-027066-index.htm)
+
+- **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925119821/0001104659-25-119821-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013802/0001654954-25-013802-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013813/0001654954-25-013813-index.htm)
+
+- **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025119652/0001213900-25-119652-index.htm)
 
 - **6-K** | Freight Technologies, Inc.  (FRGT)  (CIK 0001687542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687542/000149315225026794/0001493152-25-026794-index.htm)
+
+- **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
+
+- **6-K** | Harrison Global Holdings Inc.  (BLMZ)  (CIK 0001984014)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1984014/000198401425000027/0001984014-25-000027-index.htm)
+
+- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225027075/0001493152-25-027075-index.htm)
+
+- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
 
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
@@ -135,17 +165,11 @@
 - **POS AM** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525314257/0001193125-25-314257-index.htm)
 
-- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
-
 - **8-A12B** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000620/0002071844-25-000620-index.htm)
 
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
-
-- **6-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225027066/0001493152-25-027066-index.htm)
 
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
@@ -162,20 +186,23 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120097/0001213900-25-120097-index.htm)
 
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025120198/0001213900-25-120198-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119690/0001213900-25-119690-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025120068/0001213900-25-120068-index.htm)
 
-- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025120198/0001213900-25-120198-index.htm)
-
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
 
-- **425** | ReserveOne Holdings, Inc.  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025119363/0001213900-25-119363-index.htm)
+- **N-PX** | Members Trust Co  (CIK 0001677560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
