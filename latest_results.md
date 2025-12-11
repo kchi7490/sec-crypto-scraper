@@ -96,9 +96,6 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm)
 
-- **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
-
 - **425** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045045/0001140361-25-045045-index.htm)
 
@@ -126,18 +123,6 @@
 - **424B3** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299325017271/0001062993-25-017271-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016033/0000950103-25-016033-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
-
 - **20-F** | ATIF Holdings Ltd  (ZBAI)  (CIK 0001755058)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390025119658/0001213900-25-119658-index.htm)
 
@@ -146,9 +131,6 @@
 
 - **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793225008889/0001477932-25-008889-index.htm)
-
-- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
 
 - **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025119716/0001213900-25-119716-index.htm)
@@ -164,6 +146,15 @@
 
 - **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
+
+- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002308/0001640334-25-002308-index.htm)
+
+- **ARS** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002309/0001640334-25-002309-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025120675/0001213900-25-120675-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925119871/0001104659-25-119871-index.htm)
@@ -222,12 +213,6 @@
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
 
-- **ARS** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002309/0001640334-25-002309-index.htm)
-
-- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025120675/0001213900-25-120675-index.htm)
-
 - **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
@@ -256,9 +241,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390025120198/0001213900-25-120198-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120729/0001213900-25-120729-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025119690/0001213900-25-119690-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
@@ -273,11 +255,14 @@
 - **DEF 14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225026868/0001493152-25-026868-index.htm)
 
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
+
 - **N-PX** | Members Trust Co  (CIK 0001677560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
 
-- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002308/0001640334-25-002308-index.htm)
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120729/0001213900-25-120729-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
