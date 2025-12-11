@@ -103,6 +103,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
