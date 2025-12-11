@@ -30,6 +30,9 @@
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025119866/0001213900-25-119866-index.htm)
 
+- **10-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825009068/0001683168-25-009068-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315225027076/0001493152-25-027076-index.htm)
 
@@ -123,6 +126,9 @@
 - **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793225008889/0001477932-25-008889-index.htm)
 
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
+
 - **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025119716/0001213900-25-119716-index.htm)
 
@@ -174,9 +180,6 @@
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
 
-- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001290/0001279569-25-001290-index.htm)
-
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225027142/0001493152-25-027142-index.htm)
 
@@ -192,6 +195,12 @@
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
 
+- **ARS** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002309/0001640334-25-002309-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025120675/0001213900-25-120675-index.htm)
+
 - **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
@@ -203,6 +212,9 @@
 
 - **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
+
+- **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
