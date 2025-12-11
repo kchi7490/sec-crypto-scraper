@@ -54,6 +54,9 @@
 - **S-1/A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828025056158/0001628280-25-056158-index.htm)
 
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000088/0001859392-25-000088-index.htm)
+
 - **424B3** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000207184425000633/0002071844-25-000633-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **10-12G/A** | Grayscale Bittensor Trust (TAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525312006/0001193125-25-312006-index.htm)
+
+- **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
 
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
@@ -97,6 +103,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315225026774/0001493152-25-026774-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925119501/0001104659-25-119501-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
@@ -123,14 +132,8 @@
 - **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937125019916/0001999371-25-019916-index.htm)
 
-- **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
-
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
-
-- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000088/0001859392-25-000088-index.htm)
 
 - **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/0001999371-25-019915-index.htm)
@@ -149,9 +152,6 @@
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013813/0001654954-25-013813-index.htm)
-
-- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
 
 - **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025119652/0001213900-25-119652-index.htm)
@@ -177,6 +177,9 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225027142/0001493152-25-027142-index.htm)
 
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
+
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
@@ -189,9 +192,6 @@
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
 
-- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
-
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
 
@@ -200,6 +200,9 @@
 
 - **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
+
+- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
