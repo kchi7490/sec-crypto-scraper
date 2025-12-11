@@ -150,15 +150,6 @@
 - **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
 
-- **6-K** | Harrison Global Holdings Inc.  (BLMZ)  (CIK 0001984014)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1984014/000198401425000027/0001984014-25-000027-index.htm)
-
-- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225027075/0001493152-25-027075-index.htm)
-
-- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
-
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
