@@ -153,6 +153,9 @@
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013813/0001654954-25-013813-index.htm)
 
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
+
 - **6-K** | Jeffs' Brands Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390025119652/0001213900-25-119652-index.htm)
 
@@ -177,9 +180,6 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225027142/0001493152-25-027142-index.htm)
 
-- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
-
 - **S-1** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056175/0001628280-25-056175-index.htm)
 
@@ -192,6 +192,9 @@
 - **EFFECT** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/999999999525003596/9999999995-25-003596-index.htm)
 
+- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
+
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
 
@@ -200,9 +203,6 @@
 
 - **1-A/A** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793225008891/0001477932-25-008891-index.htm)
-
-- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025119657/0001213900-25-119657-index.htm)
