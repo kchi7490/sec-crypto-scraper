@@ -96,11 +96,11 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045044/0001140361-25-045044-index.htm)
 
-- **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
-
 - **425** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036125045045/0001140361-25-045045-index.htm)
+
+- **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
 
 - **8-K** | ALKALINE WATER Co INC  (WTER)  (CIK 0001532390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1532390/000168316825009019/0001683168-25-009019-index.htm)
