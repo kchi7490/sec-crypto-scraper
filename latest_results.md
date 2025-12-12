@@ -27,6 +27,9 @@
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316825009073/0001683168-25-009073-index.htm)
 
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025121293/0001213900-25-121293-index.htm)
+
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465925119843/0001104659-25-119843-index.htm)
 
@@ -48,8 +51,14 @@
 - **S-1/A** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225027332/0001493152-25-027332-index.htm)
 
+- **S-1/A** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000121390025121277/0001213900-25-121277-index.htm)
+
 - **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225070839/0001839882-25-070839-index.htm)
 
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
@@ -57,8 +66,14 @@
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316825009027/0001683168-25-009027-index.htm)
 
-- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025121293/0001213900-25-121293-index.htm)
+- **S-1** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225027516/0001493152-25-027516-index.htm)
+
+- **253G2** | McQueen Labs Series, LLC  (CIK 0002025795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225027495/0001493152-25-027495-index.htm)
+
+- **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525002042/0001185185-25-002042-index.htm)
 
 - **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
@@ -107,15 +122,6 @@
 
 - **8-K/A** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025119893/0001213900-25-119893-index.htm)
-
-- **S-1/A** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000121390025121277/0001213900-25-121277-index.htm)
-
-- **S-1** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225027516/0001493152-25-027516-index.htm)
-
-- **253G2** | McQueen Labs Series, LLC  (CIK 0002025795)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225027495/0001493152-25-027495-index.htm)
 
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
@@ -186,6 +192,9 @@
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225027253/0001493152-25-027253-index.htm)
 
+- **F-3** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225027490/0001493152-25-027490-index.htm)
+
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
 
@@ -225,8 +234,8 @@
 - **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
 
-- **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525002042/0001185185-25-002042-index.htm)
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525317538/0001193125-25-317538-index.htm)
 
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
