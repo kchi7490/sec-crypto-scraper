@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315225027355/0001493152-25-027355-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828025056295/0001628280-25-056295-index.htm)
 
@@ -8,6 +11,9 @@
 
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025119871/0001213900-25-119871-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025120806/0001213900-25-120806-index.htm)
 
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025119866/0001213900-25-119866-index.htm)
@@ -35,6 +41,12 @@
 
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939225000088/0001859392-25-000088-index.htm)
+
+- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465925120430/0001104659-25-120430-index.htm)
+
+- **S-1/A** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225027332/0001493152-25-027332-index.htm)
 
 - **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
@@ -84,14 +96,8 @@
 - **8-K/A** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390025119893/0001213900-25-119893-index.htm)
 
-- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390025120806/0001213900-25-120806-index.htm)
-
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025120107/0001213900-25-120107-index.htm)
-
-- **S-1/A** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225027332/0001493152-25-027332-index.htm)
 
 - **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002308/0001640334-25-002308-index.htm)
