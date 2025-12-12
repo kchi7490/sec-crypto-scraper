@@ -51,6 +51,9 @@
 - **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225070839/0001839882-25-070839-index.htm)
+
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
 
@@ -126,14 +129,8 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
 
-- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525316773/0001193125-25-316773-index.htm)
-
 - **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
-
-- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259725000038/0001132597-25-000038-index.htm)
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315225027075/0001493152-25-027075-index.htm)
@@ -150,14 +147,8 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225027142/0001493152-25-027142-index.htm)
 
-- **10-Q** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525317235/0001193125-25-317235-index.htm)
-
 - **POS AM** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525314257/0001193125-25-314257-index.htm)
-
-- **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315225027350/0001493152-25-027350-index.htm)
 
 - **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
@@ -174,6 +165,9 @@
 - **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
 
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025120824/0001213900-25-120824-index.htm)
 
@@ -188,6 +182,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025120729/0001213900-25-120729-index.htm)
+
+- **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315225027350/0001493152-25-027350-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125020036/0001999371-25-020036-index.htm)
