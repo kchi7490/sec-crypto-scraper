@@ -79,10 +79,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
@@ -126,9 +126,6 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025120390/0001213900-25-120390-index.htm)
 
-- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525316773/0001193125-25-316773-index.htm)
-
 - **424B3** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390025119891/0001213900-25-119891-index.htm)
 
@@ -158,6 +155,9 @@
 
 - **485APOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363225001715/0001623632-25-001715-index.htm)
+
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312525316773/0001193125-25-316773-index.htm)
 
 - **485BPOS** | 2023 ETF Series Trust  (CIK 0001969674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969674/000199937125020022/0001999371-25-020022-index.htm)
