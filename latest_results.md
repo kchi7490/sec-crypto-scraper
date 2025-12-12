@@ -78,11 +78,20 @@
 - **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925120646/0001104659-25-120646-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325015975/0000950103-25-015975-index.htm)
 
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009839/0001829126-25-009839-index.htm)
+
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009950/0001829126-25-009950-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925120655/0001104659-25-120655-index.htm)
 
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm)
@@ -97,10 +106,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
@@ -183,9 +192,6 @@
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225027253/0001493152-25-027253-index.htm)
 
-- **F-3** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225027490/0001493152-25-027490-index.htm)
-
 - **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225026980/0001493152-25-026980-index.htm)
 
@@ -224,6 +230,12 @@
 
 - **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
+
+- **F-3** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225027490/0001493152-25-027490-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525317538/0001193125-25-317538-index.htm)
 
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
