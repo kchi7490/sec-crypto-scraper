@@ -51,9 +51,6 @@
 - **424B4** | Meshflow Acquisition Corp  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025120264/0001213900-25-120264-index.htm)
 
-- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225070839/0001839882-25-070839-index.htm)
-
 - **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390025120172/0001213900-25-120172-index.htm)
 
@@ -82,10 +79,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
 
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
@@ -122,9 +119,6 @@
 
 - **6-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225027066/0001493152-25-027066-index.htm)
-
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013902/0001654954-25-013902-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925119821/0001104659-25-119821-index.htm)
@@ -174,6 +168,9 @@
 - **487** | FT 12601  (CIK 0002083330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083330/000144554625008188/0001445546-25-008188-index.htm)
 
+- **S-1** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315225027486/0001493152-25-027486-index.htm)
+
 - **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
@@ -188,6 +185,12 @@
 
 - **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525317538/0001193125-25-317538-index.htm)
+
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025120824/0001213900-25-120824-index.htm)
@@ -210,8 +213,8 @@
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025120068/0001213900-25-120068-index.htm)
 
-- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025121172/0001213900-25-121172-index.htm)
 
 - **N-PX** | Members Trust Co  (CIK 0001677560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
