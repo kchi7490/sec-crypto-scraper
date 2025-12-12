@@ -120,9 +120,6 @@
 - **6-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315225027066/0001493152-25-027066-index.htm)
 
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013902/0001654954-25-013902-index.htm)
-
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465925119821/0001104659-25-119821-index.htm)
 
@@ -207,11 +204,11 @@
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025120068/0001213900-25-120068-index.htm)
 
-- **N-PX** | Members Trust Co  (CIK 0001677560)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
-
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315225027423/0001493152-25-027423-index.htm)
+
+- **N-PX** | Members Trust Co  (CIK 0001677560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1677560/000167756025000011/0001677560-25-000011-index.htm)
 
 - **SCHEDULE 13G/A** | Artec Global Media, Inc.  (CIK 0001561865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1561865/000157927125000002/0001579271-25-000002-index.htm)
