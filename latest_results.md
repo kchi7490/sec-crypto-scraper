@@ -129,6 +129,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001290/0001279569-25-001290-index.htm)
 
+- **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225027142/0001493152-25-027142-index.htm)
+
 - **POS AM** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312525314257/0001193125-25-314257-index.htm)
 
