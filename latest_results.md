@@ -78,6 +78,36 @@
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
 
+- **8-K** | VanEck Solana ETF  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000027/0002028541-25-000027-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577625000077/0001815776-25-000077-index.htm)
+
+- **POS EX** | VanEck Solana ETF  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025056693/0001628280-25-056693-index.htm)
+
+- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002308/0001640334-25-002308-index.htm)
+
+- **424B3** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315225027593/0001493152-25-027593-index.htm)
+
+- **424B3** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315225027586/0001493152-25-027586-index.htm)
+
+- **8-K** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315225027576/0001493152-25-027576-index.htm)
+
+- **ARS** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002309/0001640334-25-002309-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025121191/0001213900-25-121191-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025120675/0001213900-25-120675-index.htm)
+
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013902/0001654954-25-013902-index.htm)
 
@@ -105,32 +135,17 @@
 - **10-Q** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525317235/0001193125-25-317235-index.htm)
 
-- **POS EX** | VanEck Solana ETF  (CIK 0002028541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000162828025056693/0001628280-25-056693-index.htm)
-
-- **ARS** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002309/0001640334-25-002309-index.htm)
-
-- **424B3** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315225027593/0001493152-25-027593-index.htm)
-
-- **424B3** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315225027586/0001493152-25-027586-index.htm)
-
-- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025121191/0001213900-25-121191-index.htm)
-
-- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025120675/0001213900-25-120675-index.htm)
-
-- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
-
 - **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315225027350/0001493152-25-027350-index.htm)
 
+- **487** | FT 12601  (CIK 0002083330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083330/000144554625008188/0001445546-25-008188-index.htm)
+
 - **S-1** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315225027486/0001493152-25-027486-index.htm)
+
+- **253G2** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690625002022/0001096906-25-002022-index.htm)
 
 - **N-4** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062525000038/0001590625-25-000038-index.htm)
@@ -158,7 +173,4 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025121207/0001213900-25-121207-index.htm)
-
-- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033425002308/0001640334-25-002308-index.htm)
 
