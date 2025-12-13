@@ -45,6 +45,39 @@
 - **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518525002042/0001185185-25-002042-index.htm)
 
+- **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
+
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925120646/0001104659-25-120646-index.htm)
+
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625009950/0001829126-25-009950-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925120655/0001104659-25-120655-index.htm)
+
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016033/0000950103-25-016033-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
+
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
+
 - **8-K** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854125000027/0002028541-25-000027-index.htm)
 
@@ -140,28 +173,4 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025121207/0001213900-25-121207-index.htm)
-
-- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925120154/0001104659-25-120154-index.htm)
-
-- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025120310/0001213900-25-120310-index.htm)
-
-- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025056519/0001628280-25-056519-index.htm)
-
-- **10-Q** | ProCap Financial, Inc.  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000121390025120765/0001213900-25-120765-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016033/0000950103-25-016033-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016031/0000950103-25-016031-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016032/0000950103-25-016032-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016030/0000950103-25-016030-index.htm)
 
