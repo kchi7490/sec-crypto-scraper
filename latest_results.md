@@ -69,6 +69,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259725000038/0001132597-25-000038-index.htm)
 
+- **F-3** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225027490/0001493152-25-027490-index.htm)
+
 - **10-Q** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312525317235/0001193125-25-317235-index.htm)
 
@@ -80,9 +83,6 @@
 
 - **S-1** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315225027486/0001493152-25-027486-index.htm)
-
-- **F-3** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315225027490/0001493152-25-027490-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525317538/0001193125-25-317538-index.htm)
