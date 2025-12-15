@@ -21,6 +21,9 @@
 - **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225027703/0001493152-25-027703-index.htm)
 
+- **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225027810/0001493152-25-027810-index.htm)
+
 - **485APOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000093369125001271/0000933691-25-001271-index.htm)
 
@@ -35,6 +38,9 @@
 
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025121708/0001213900-25-121708-index.htm)
+
+- **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001296/0001279569-25-001296-index.htm)
