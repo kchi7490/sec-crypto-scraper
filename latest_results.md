@@ -9,14 +9,17 @@
 - **485APOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000093369125001271/0000933691-25-001271-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828025056878/0001628280-25-056878-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm)
-
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001296/0001279569-25-001296-index.htm)
+
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025121479/0001213900-25-121479-index.htm)
+
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390025121429/0001213900-25-121429-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/0001213900-25-121477-index.htm)
 
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056883/0001628280-25-056883-index.htm)
