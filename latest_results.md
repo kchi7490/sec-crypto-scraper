@@ -36,3 +36,12 @@
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056883/0001628280-25-056883-index.htm)
 
+- **N-CEN** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000089418925016878/0000894189-25-016878-index.htm)
+
+- **N-CEN** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000204825125003448/0002048251-25-003448-index.htm)
+
+- **10-Q** | SCIENTIFIC ENERGY, INC  (SCGY)  (CIK 0001276531)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1276531/000137647425000975/0001376474-25-000975-index.htm)
+
