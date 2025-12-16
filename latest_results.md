@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225027660/0001493152-25-027660-index.htm)
 
+- **10-Q** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/0001140361-25-045680-index.htm)
+
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027898/0001493152-25-027898-index.htm)
 
@@ -17,6 +20,9 @@
 
 - **8-K** | SHARING ECONOMY INTERNATIONAL INC.  (CIK 0000819926)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/819926/000121390025122168/0001213900-25-122168-index.htm)
+
+- **424B3** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312525321177/0001193125-25-321177-index.htm)
 
 - **POS AM** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312525319255/0001193125-25-319255-index.htm)
@@ -63,9 +69,6 @@
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025121708/0001213900-25-121708-index.htm)
 
-- **10-Q** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/0001140361-25-045680-index.htm)
-
 - **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
 
@@ -86,9 +89,6 @@
 
 - **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025121552/0001213900-25-121552-index.htm)
-
-- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325017359/0001062993-25-017359-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/0001213900-25-121477-index.htm)
