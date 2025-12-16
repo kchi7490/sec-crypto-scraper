@@ -63,6 +63,9 @@
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025121708/0001213900-25-121708-index.htm)
 
+- **10-Q** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045680/0001140361-25-045680-index.htm)
+
 - **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
 
@@ -112,13 +115,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025121672/0001213900-25-121672-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122261/0001213900-25-122261-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025121688/0001213900-25-121688-index.htm)
 
 - **10-Q** | SCIENTIFIC ENERGY, INC  (SCGY)  (CIK 0001276531)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1276531/000137647425000975/0001376474-25-000975-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122261/0001213900-25-122261-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122262/0001213900-25-122262-index.htm)
