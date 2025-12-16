@@ -63,12 +63,6 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001296/0001279569-25-001296-index.htm)
 
-- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001303/0001279569-25-001303-index.htm)
-
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013972/0001654954-25-013972-index.htm)
-
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390025121479/0001213900-25-121479-index.htm)
 
@@ -81,11 +75,14 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/0001213900-25-121477-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425013972/0001654954-25-013972-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001303/0001279569-25-001303-index.htm)
+
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056883/0001628280-25-056883-index.htm)
-
-- **487** | FT 12603  (CIK 0002083334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083334/000144554625008208/0001445546-25-008208-index.htm)
 
 - **N-CEN** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000089418925016904/0000894189-25-016904-index.htm)
