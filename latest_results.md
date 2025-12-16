@@ -54,6 +54,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225071381/0001839882-25-071381-index.htm)
+
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225027765/0001493152-25-027765-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **S-1** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690625002059/0001096906-25-002059-index.htm)
+
+- **487** | FT 12603  (CIK 0002083334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083334/000144554625008208/0001445546-25-008208-index.htm)
 
 - **N-CEN** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000089418925016904/0000894189-25-016904-index.htm)
