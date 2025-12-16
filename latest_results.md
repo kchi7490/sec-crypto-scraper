@@ -12,8 +12,14 @@
 - **POS AM** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312525319255/0001193125-25-319255-index.htm)
 
+- **S-1/A** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025121863/0001213900-25-121863-index.htm)
+
 - **S-1/A** | Bitwise Hyperliquid ETF  (CIK 0002088139)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000121390025121386/0001213900-25-121386-index.htm)
+
+- **S-1** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525319720/0001193125-25-319720-index.htm)
 
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225027782/0001493152-25-027782-index.htm)
@@ -24,11 +30,17 @@
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225027810/0001493152-25-027810-index.htm)
 
+- **F-1/A** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225027813/0001493152-25-027813-index.htm)
+
 - **485APOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000093369125001271/0000933691-25-001271-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828025056878/0001628280-25-056878-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm)
