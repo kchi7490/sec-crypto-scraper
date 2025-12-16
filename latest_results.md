@@ -33,6 +33,9 @@
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315225027782/0001493152-25-027782-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225071381/0001839882-25-071381-index.htm)
+
 - **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225027703/0001493152-25-027703-index.htm)
 
