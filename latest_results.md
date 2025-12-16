@@ -3,11 +3,20 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225027660/0001493152-25-027660-index.htm)
 
+- **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027898/0001493152-25-027898-index.htm)
+
 - **8-K** | Meshflow Acquisition Corp  (MESH, MESHU)  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390025121760/0001213900-25-121760-index.htm)
 
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027912/0001493152-25-027912-index.htm)
+
 - **8-K** | Netcapital Inc.  (NCPL, NCPLW)  (CIK 0001414767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414767/000149315225027798/0001493152-25-027798-index.htm)
+
+- **8-K** | SHARING ECONOMY INTERNATIONAL INC.  (CIK 0000819926)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/819926/000121390025122168/0001213900-25-122168-index.htm)
 
 - **POS AM** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312525319255/0001193125-25-319255-index.htm)
@@ -45,20 +54,11 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm)
 
-- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225071381/0001839882-25-071381-index.htm)
-
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225027765/0001493152-25-027765-index.htm)
 
-- **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027898/0001493152-25-027898-index.htm)
-
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025121708/0001213900-25-121708-index.htm)
-
-- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027912/0001493152-25-027912-index.htm)
 
 - **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
@@ -93,6 +93,12 @@
 - **487** | FT 12603  (CIK 0002083334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083334/000144554625008208/0001445546-25-008208-index.htm)
 
+- **N-CEN** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000089418925016904/0000894189-25-016904-index.htm)
+
+- **N-CEN** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000089418925016878/0000894189-25-016878-index.htm)
+
 - **N-CEN** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000204825125003448/0002048251-25-003448-index.htm)
 
@@ -104,4 +110,10 @@
 
 - **10-Q** | SCIENTIFIC ENERGY, INC  (SCGY)  (CIK 0001276531)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1276531/000137647425000975/0001376474-25-000975-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122261/0001213900-25-122261-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122262/0001213900-25-122262-index.htm)
 
