@@ -90,12 +90,6 @@
 - **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390025121552/0001213900-25-121552-index.htm)
 
-- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325017359/0001062993-25-017359-index.htm)
-
-- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/0001213900-25-121477-index.htm)
-
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056883/0001628280-25-056883-index.htm)
 
