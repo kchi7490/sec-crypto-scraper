@@ -96,6 +96,18 @@
 - **424B4** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828025056883/0001628280-25-056883-index.htm)
 
+- **SEC STAFF LETTER** | Finanxai, Inc.  (CIK 0002086788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086788/999999999725003876/9999999997-25-003876-index.htm)
+
+- **S-1** | Boumarang Inc.  (CIK 0002034161)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690625002059/0001096906-25-002059-index.htm)
+
+- **487** | FT 12603  (CIK 0002083334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083334/000144554625008208/0001445546-25-008208-index.htm)
+
+- **18-K** | CANADA  (CIK 0000230098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312525321137/0001193125-25-321137-index.htm)
+
 - **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
 
