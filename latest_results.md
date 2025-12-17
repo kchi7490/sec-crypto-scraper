@@ -84,11 +84,11 @@
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322724/0001193125-25-322724-index.htm)
 
-- **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
-
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
+
+- **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
@@ -195,12 +195,12 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122262/0001213900-25-122262-index.htm)
 
-- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
-
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045729/0001140361-25-045729-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018155/0001214659-25-018155-index.htm)
+
+- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
 
