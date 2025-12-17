@@ -60,17 +60,14 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828025056878/0001628280-25-056878-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525318468/0001193125-25-318468-index.htm)
-
-- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465925121827/0001104659-25-121827-index.htm)
 
 - **8-K** | THUMZUP MEDIA Corp  (TZUP)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315225027765/0001493152-25-027765-index.htm)
@@ -99,9 +96,6 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465925121848/0001104659-25-121848-index.htm)
 
-- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001310/0001279569-25-001310-index.htm)
-
 - **F-3** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925121786/0001104659-25-121786-index.htm)
 
@@ -113,6 +107,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299325017359/0001062993-25-017359-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001310/0001279569-25-001310-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390025121477/0001213900-25-121477-index.htm)
