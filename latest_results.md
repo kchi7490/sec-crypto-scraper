@@ -111,6 +111,9 @@
 - **18-K** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312525321137/0001193125-25-321137-index.htm)
 
+- **F-3** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925121786/0001104659-25-121786-index.htm)
+
 - **N-CEN** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000089418925016904/0000894189-25-016904-index.htm)
 
