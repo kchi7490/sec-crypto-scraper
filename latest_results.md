@@ -24,6 +24,9 @@
 - **8-K** | SHARING ECONOMY INTERNATIONAL INC.  (CIK 0000819926)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/819926/000121390025122168/0001213900-25-122168-index.htm)
 
+- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937125020561/0001999371-25-020561-index.htm)
+
 - **10-K** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315225028195/0001493152-25-028195-index.htm)
 
@@ -97,10 +100,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016247/0000950103-25-016247-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018155/0001214659-25-018155-index.htm)
@@ -117,11 +120,11 @@
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322724/0001193125-25-322724-index.htm)
 
-- **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
-
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
+
+- **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
@@ -209,9 +212,6 @@
 
 - **N-CEN** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000089418925016878/0000894189-25-016878-index.htm)
-
-- **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525322475/0001193125-25-322475-index.htm)
 
 - **N-CEN** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000204825125003448/0002048251-25-003448-index.htm)
