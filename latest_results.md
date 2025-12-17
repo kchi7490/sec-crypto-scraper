@@ -69,6 +69,9 @@
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390025121708/0001213900-25-121708-index.htm)
 
+- **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001296/0001279569-25-001296-index.htm)
 
@@ -108,8 +111,11 @@
 - **18-K** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312525321137/0001193125-25-321137-index.htm)
 
-- **S-1/A** | Launchpad Cadenza Acquisition Corp I  (CIK 0002083728)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390025121767/0001213900-25-121767-index.htm)
+- **N-CEN** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000089418925016904/0000894189-25-016904-index.htm)
+
+- **N-CEN** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000089418925016878/0000894189-25-016878-index.htm)
 
 - **N-CEN** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000204825125003448/0002048251-25-003448-index.htm)
