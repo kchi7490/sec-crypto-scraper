@@ -27,6 +27,9 @@
 - **S-1** | Bitwise Sui ETF  (CIK 0002101730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101730/000121390025123107/0001213900-25-123107-index.htm)
 
+- **S-1/A** | VanEck Avalanche ETF  (CIK 0002060717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/0001628280-25-057913-index.htm)
+
 - **424B3** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312525321177/0001193125-25-321177-index.htm)
 
@@ -35,6 +38,12 @@
 
 - **S-1** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525319720/0001193125-25-319720-index.htm)
+
+- **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025123294/0001213900-25-123294-index.htm)
+
+- **8-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390025123286/0001213900-25-123286-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225071381/0001839882-25-071381-index.htm)
@@ -60,11 +69,11 @@
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225028290/0001493152-25-028290-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925122059/0001104659-25-122059-index.htm)
@@ -90,8 +99,14 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828025057939/0001628280-25-057939-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018155/0001214659-25-018155-index.htm)
+
+- **DEF 14A** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000114036125046026/0001140361-25-046026-index.htm)
 
 - **S-1** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495425014068/0001654954-25-014068-index.htm)
@@ -137,6 +152,9 @@
 
 - **424B4** | Iron Horse Acquisition II Corp.  (IRHO)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025122936/0001213900-25-122936-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390025123283/0001213900-25-123283-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001303/0001279569-25-001303-index.htm)
@@ -192,6 +210,9 @@
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312525322475/0001193125-25-322475-index.htm)
 
+- **485BPOS** | TRUST FOR PROFESSIONAL MANAGERS  (CIK 0001141819)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141819/000089418925017228/0000894189-25-017228-index.htm)
+
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122909/0001213900-25-122909-index.htm)
 
@@ -202,7 +223,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025123042/0001213900-25-123042-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025123288/0001213900-25-123288-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122261/0001213900-25-122261-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025123291/0001213900-25-123291-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122798/0001213900-25-122798-index.htm)
