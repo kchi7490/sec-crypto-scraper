@@ -45,11 +45,11 @@
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225028158/0001493152-25-028158-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925122059/0001104659-25-122059-index.htm)
@@ -67,10 +67,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016247/0000950103-25-016247-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018155/0001214659-25-018155-index.htm)
@@ -81,11 +81,11 @@
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322724/0001193125-25-322724-index.htm)
 
-- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
-
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
+
+- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
