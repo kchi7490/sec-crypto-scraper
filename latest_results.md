@@ -51,20 +51,17 @@
 - **F-1/A** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225027813/0001493152-25-027813-index.htm)
 
-- **485BPOS** | DBX ETF TRUST  (CIK 0001503123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325001098/0000088053-25-001098-index.htm)
-
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225028158/0001493152-25-028158-index.htm)
 
 - **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225028290/0001493152-25-028290-index.htm)
 
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925122059/0001104659-25-122059-index.htm)
@@ -105,11 +102,11 @@
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322724/0001193125-25-322724-index.htm)
 
-- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
-
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
+
+- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
@@ -174,6 +171,9 @@
 - **8-A12B** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225028206/0001493152-25-028206-index.htm)
 
+- **18-K/A** | EUROPEAN INVESTMENT BANK  (CIK 0000033745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/33745/000095015725001010/0000950157-25-001010-index.htm)
+
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122907/0001213900-25-122907-index.htm)
 
@@ -200,6 +200,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122262/0001213900-25-122262-index.htm)
+
+- **485BPOS** | DBX ETF TRUST  (CIK 0001503123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325001098/0000088053-25-001098-index.htm)
 
 - **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
