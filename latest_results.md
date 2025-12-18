@@ -9,9 +9,6 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225028063/0001493152-25-028063-index.htm)
 
-- **424B3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225028245/0001493152-25-028245-index.htm)
-
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225027912/0001493152-25-027912-index.htm)
 
@@ -42,20 +39,20 @@
 - **S-1** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025122877/0001213900-25-122877-index.htm)
 
-- **10-K** | Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1923891/000149315225028285/0001493152-25-028285-index.htm)
-
 - **F-1/A** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225027813/0001493152-25-027813-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225028158/0001493152-25-028158-index.htm)
 
-- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
+- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225028290/0001493152-25-028290-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925121261/0001104659-25-121261-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025122506/0001213900-25-122506-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925122059/0001104659-25-122059-index.htm)
@@ -73,10 +70,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016247/0000950103-25-016247-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018155/0001214659-25-018155-index.htm)
@@ -84,17 +81,20 @@
 - **S-1** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495425014068/0001654954-25-014068-index.htm)
 
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025122990/0001213900-25-122990-index.htm)
+
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322647/0001193125-25-322647-index.htm)
 
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322724/0001193125-25-322724-index.htm)
 
-- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
-
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
+
+- **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
@@ -119,9 +119,6 @@
 
 - **8-K** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525321801/0001193125-25-321801-index.htm)
-
-- **424B4** | Iron Horse Acquisition II Corp.  (IRHO)  (CIK 0002051985)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025122936/0001213900-25-122936-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001303/0001279569-25-001303-index.htm)
@@ -153,11 +150,17 @@
 - **487** | FT 12603  (CIK 0002083334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083334/000144554625008208/0001445546-25-008208-index.htm)
 
+- **10-K** | Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1923891/000149315225028285/0001493152-25-028285-index.htm)
+
 - **18-K** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312525321137/0001193125-25-321137-index.htm)
 
 - **8-A12B** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225028206/0001493152-25-028206-index.htm)
+
+- **424B4** | Iron Horse Acquisition II Corp.  (IRHO)  (CIK 0002051985)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390025122936/0001213900-25-122936-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122907/0001213900-25-122907-index.htm)
@@ -174,12 +177,6 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122908/0001213900-25-122908-index.htm)
 
-- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025122990/0001213900-25-122990-index.htm)
-
-- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025123042/0001213900-25-123042-index.htm)
-
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122261/0001213900-25-122261-index.htm)
 
@@ -189,12 +186,15 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025122262/0001213900-25-122262-index.htm)
 
-- **8-K** | Kindly MD, Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315225028290/0001493152-25-028290-index.htm)
-
 - **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
 
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025123042/0001213900-25-123042-index.htm)
+
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045729/0001140361-25-045729-index.htm)
+
+- **424B3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225028245/0001493152-25-028245-index.htm)
 
