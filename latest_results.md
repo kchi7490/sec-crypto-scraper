@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315225028444/0001493152-25-028444-index.htm)
+
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225028063/0001493152-25-028063-index.htm)
 
@@ -88,10 +91,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016247/0000950103-25-016247-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016337/0000950103-25-016337-index.htm)
