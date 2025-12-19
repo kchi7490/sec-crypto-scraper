@@ -270,6 +270,9 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122908/0001213900-25-122908-index.htm)
 
+- **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225028522/0001493152-25-028522-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025123042/0001213900-25-123042-index.htm)
 
