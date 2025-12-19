@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225028515/0001493152-25-028515-index.htm)
+
 - **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315225028444/0001493152-25-028444-index.htm)
 
@@ -287,6 +290,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025123305/0001213900-25-123305-index.htm)
+
+- **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315225028506/0001493152-25-028506-index.htm)
 
 - **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125046060/0001140361-25-046060-index.htm)
