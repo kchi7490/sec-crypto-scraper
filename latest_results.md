@@ -54,8 +54,17 @@
 - **10-K** | Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1923891/000149315225028285/0001493152-25-028285-index.htm)
 
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000709/0001137360-25-000709-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000707/0001137360-25-000707-index.htm)
+
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125046056/0001140361-25-046056-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000705/0001137360-25-000705-index.htm)
 
 - **485BPOS** | DBX ETF TRUST  (CIK 0001503123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1503123/000008805325001098/0000088053-25-001098-index.htm)
