@@ -18,6 +18,9 @@
 - **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937125020561/0001999371-25-020561-index.htm)
 
+- **424B5** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225028480/0001493152-25-028480-index.htm)
+
 - **10-K** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315225028195/0001493152-25-028195-index.htm)
 
@@ -106,10 +109,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016247/0000950103-25-016247-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016249/0000950103-25-016249-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016246/0000950103-25-016246-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016337/0000950103-25-016337-index.htm)
@@ -137,6 +140,12 @@
 
 - **424B5** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT)  (CIK 0001335105)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315225028431/0001493152-25-028431-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000721/0001137360-25-000721-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736025000722/0001137360-25-000722-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025122990/0001213900-25-122990-index.htm)
