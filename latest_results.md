@@ -9,6 +9,12 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315225028063/0001493152-25-028063-index.htm)
 
+- **424B3** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225009105/0001477932-25-009105-index.htm)
+
+- **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018298/0001214659-25-018298-index.htm)
+
 - **10-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425014138/0001654954-25-014138-index.htm)
 
@@ -17,6 +23,12 @@
 
 - **424B3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315225028245/0001493152-25-028245-index.htm)
+
+- **S-3/A** | StableX Technologies, Inc.  (SBLX)  (CIK 0001086745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000149315225028592/0001493152-25-028592-index.htm)
+
+- **S-1/A** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390025123930/0001213900-25-123930-index.htm)
 
 - **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937125020561/0001999371-25-020561-index.htm)
@@ -44,6 +56,9 @@
 
 - **S-3** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025123365/0001213900-25-123365-index.htm)
+
+- **10-Q** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390025123918/0001213900-25-123918-index.htm)
 
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390025123294/0001213900-25-123294-index.htm)
@@ -252,6 +267,9 @@
 - **EFFECT** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/999999999525003827/9999999995-25-003827-index.htm)
 
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390025123926/0001213900-25-123926-index.htm)
+
 - **10-Q** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000093041325003739/0000930413-25-003739-index.htm)
 
@@ -294,6 +312,9 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122908/0001213900-25-122908-index.htm)
 
+- **10-Q** | PINEAPPLE EXPRESS CANNABIS Co  (PNXP)  (CIK 0001710495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710495/000171049525000010/0001710495-25-000010-index.htm)
+
 - **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225028522/0001493152-25-028522-index.htm)
 
@@ -323,6 +344,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025123305/0001213900-25-123305-index.htm)
+
+- **10-12G** | MADE IN USA INC.  (USDW)  (CIK 0001977837)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1977837/000168316825009285/0001683168-25-009285-index.htm)
 
 - **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315225028506/0001493152-25-028506-index.htm)
