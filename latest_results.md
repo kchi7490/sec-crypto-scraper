@@ -171,6 +171,15 @@
 - **F-3** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925121786/0001104659-25-121786-index.htm)
 
+- **40-F/A** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525321328/0001193125-25-321328-index.htm)
+
+- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797625000110/0002047976-25-000110-index.htm)
+
+- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797625000111/0002047976-25-000111-index.htm)
+
 - **8-A12B** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225028206/0001493152-25-028206-index.htm)
 
@@ -182,12 +191,6 @@
 
 - **N-4** | JACKSON NATIONAL LIFE INSURANCE CO OF NEW YORK  (CIK 0001128415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1128415/000112841525000060/0001128415-25-000060-index.htm)
-
-- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797625000110/0002047976-25-000110-index.htm)
-
-- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797625000111/0002047976-25-000111-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122907/0001213900-25-122907-index.htm)
@@ -233,7 +236,4 @@
 
 - **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
-
-- **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045729/0001140361-25-045729-index.htm)
 
