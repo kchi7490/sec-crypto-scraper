@@ -27,6 +27,9 @@
 - **S-1** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390025123331/0001213900-25-123331-index.htm)
 
+- **424B3** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225028450/0001493152-25-028450-index.htm)
+
 - **S-3** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025123365/0001213900-25-123365-index.htm)
 
@@ -133,10 +136,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322695/0001193125-25-322695-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
 
 - **POS AM** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322658/0001193125-25-322658-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322667/0001193125-25-322667-index.htm)
 
 - **S-8 POS** | Evoke Pharma Inc  (EVOK)  (CIK 0001403708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1403708/000119312525322699/0001193125-25-322699-index.htm)
@@ -179,6 +182,9 @@
 
 - **F-3** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925121786/0001104659-25-121786-index.htm)
+
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828025058094/0001628280-25-058094-index.htm)
 
 - **40-F/A** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000119312525321328/0001193125-25-321328-index.htm)
