@@ -111,6 +111,12 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390025122990/0001213900-25-122990-index.htm)
 
+- **8-A12B** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315225028206/0001493152-25-028206-index.htm)
+
+- **8-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925038302/0001437749-25-038302-index.htm)
+
 - **18-K/A** | EUROPEAN INVESTMENT BANK  (CIK 0000033745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/33745/000095015725001010/0000950157-25-001010-index.htm)
 
@@ -125,9 +131,6 @@
 
 - **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797625000111/0002047976-25-000111-index.htm)
-
-- **8-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774925038302/0001437749-25-038302-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025122907/0001213900-25-122907-index.htm)
@@ -182,6 +185,12 @@
 
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465925018236/0001214659-25-018236-index.htm)
+
+- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036125045833/0001140361-25-045833-index.htm)
+
+- **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125045729/0001140361-25-045729-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016338/0000950103-25-016338-index.htm)
