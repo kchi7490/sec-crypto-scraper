@@ -21,3 +21,6 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925123397/0001104659-25-123397-index.htm)
 
+- **SCHEDULE 13D/A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025124157/0001213900-25-124157-index.htm)
+
