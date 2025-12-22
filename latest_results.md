@@ -36,6 +36,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525327598/0001193125-25-327598-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328694/0001193125-25-328694-index.htm)
+
+- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225028762/0001493152-25-028762-index.htm)
+
 - **F-3** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025124096/0001213900-25-124096-index.htm)
 
@@ -48,6 +54,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001326/0001279569-25-001326-index.htm)
 
+- **424B5** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000175392625001935/0001753926-25-001935-index.htm)
+
 - **487** | FT 12605  (CIK 0002083336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083336/000144554625008425/0001445546-25-008425-index.htm)
 
@@ -59,6 +68,12 @@
 
 - **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133125000049/0001611331-25-000049-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025124542/0001213900-25-124542-index.htm)
+
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025124524/0001213900-25-124524-index.htm)
 
 - **SCHEDULE 13D/A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025124157/0001213900-25-124157-index.htm)
