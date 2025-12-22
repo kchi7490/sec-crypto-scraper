@@ -15,6 +15,12 @@
 - **10-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925123342/0001104659-25-123342-index.htm)
 
+- **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328069/0001193125-25-328069-index.htm)
+
+- **DEF 14A** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/0001140361-25-046314-index.htm)
+
 - **S-4** | Movano Inc.  (MOVE)  (CIK 0001734750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000121390025124014/0001213900-25-124014-index.htm)
 
@@ -32,6 +38,9 @@
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925123397/0001104659-25-123397-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001326/0001279569-25-001326-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000671/0001081400-25-000671-index.htm)
