@@ -42,6 +42,12 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001326/0001279569-25-001326-index.htm)
 
+- **487** | FT 12605  (CIK 0002083336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083336/000144554625008425/0001445546-25-008425-index.htm)
+
+- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325005059/0001099263-25-005059-index.htm)
+
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000671/0001081400-25-000671-index.htm)
 
