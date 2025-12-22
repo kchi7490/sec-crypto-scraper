@@ -108,6 +108,9 @@
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025058587/0001628280-25-058587-index.htm)
 
+- **10-Q** | Vocodia Holdings Corp  (VHAI, VHABW, VHAIW)  (CIK 0001880431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1880431/000149315225028842/0001493152-25-028842-index.htm)
+
 - **487** | FT 12605  (CIK 0002083336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083336/000144554625008425/0001445546-25-008425-index.htm)
 
