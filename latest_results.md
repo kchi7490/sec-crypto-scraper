@@ -27,6 +27,9 @@
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625010212/0001829126-25-010212-index.htm)
 
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025124379/0001213900-25-124379-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525327598/0001193125-25-327598-index.htm)
 
