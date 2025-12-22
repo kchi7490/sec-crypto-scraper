@@ -9,6 +9,9 @@
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025124090/0001213900-25-124090-index.htm)
 
+- **8-K** | SharonAI Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625010236/0001829126-25-010236-index.htm)
+
 - **S-4/A** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316825009287/0001683168-25-009287-index.htm)
 
@@ -45,6 +48,12 @@
 - **F-3** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025124096/0001213900-25-124096-index.htm)
 
+- **S-3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009150/0001477932-25-009150-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225028786/0001493152-25-028786-index.htm)
+
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465925123413/0001104659-25-123413-index.htm)
 
@@ -56,6 +65,9 @@
 
 - **424B5** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000175392625001935/0001753926-25-001935-index.htm)
+
+- **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315225028782/0001493152-25-028782-index.htm)
 
 - **487** | FT 12605  (CIK 0002083336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083336/000144554625008425/0001445546-25-008425-index.htm)
