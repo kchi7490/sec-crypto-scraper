@@ -18,6 +18,9 @@
 - **10-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925123342/0001104659-25-123342-index.htm)
 
+- **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225028798/0001493152-25-028798-index.htm)
+
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328069/0001193125-25-328069-index.htm)
 
