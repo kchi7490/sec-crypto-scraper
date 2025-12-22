@@ -18,6 +18,9 @@
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328069/0001193125-25-328069-index.htm)
 
+- **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025124433/0001213900-25-124433-index.htm)
+
 - **DEF 14A** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/0001140361-25-046314-index.htm)
 
@@ -53,6 +56,9 @@
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000671/0001081400-25-000671-index.htm)
+
+- **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133125000049/0001611331-25-000049-index.htm)
 
 - **SCHEDULE 13D/A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000121390025124157/0001213900-25-124157-index.htm)
