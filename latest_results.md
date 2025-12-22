@@ -27,6 +27,12 @@
 - **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390025124433/0001213900-25-124433-index.htm)
 
+- **S-1/A** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315225028813/0001493152-25-028813-index.htm)
+
+- **S-1/A** | 21Shares Dogecoin ETF  (CIK 0002064314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390025124646/0001213900-25-124646-index.htm)
+
 - **DEF 14A** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/0001140361-25-046314-index.htm)
 
@@ -44,6 +50,33 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328694/0001193125-25-328694-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016443/0000950103-25-016443-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016442/0000950103-25-016442-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016445/0000950103-25-016445-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016447/0000950103-25-016447-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016449/0000950103-25-016449-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016438/0000950103-25-016438-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016441/0000950103-25-016441-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016444/0000950103-25-016444-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016439/0000950103-25-016439-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315225028762/0001493152-25-028762-index.htm)
@@ -72,8 +105,14 @@
 - **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315225028782/0001493152-25-028782-index.htm)
 
+- **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828025058587/0001628280-25-058587-index.htm)
+
 - **487** | FT 12605  (CIK 0002083336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083336/000144554625008425/0001445546-25-008425-index.htm)
+
+- **424B3** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315225028817/0001493152-25-028817-index.htm)
 
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926325005059/0001099263-25-005059-index.htm)
@@ -83,6 +122,9 @@
 
 - **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133125000049/0001611331-25-000049-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140025000674/0001081400-25-000674-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025124542/0001213900-25-124542-index.htm)
