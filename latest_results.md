@@ -30,6 +30,12 @@
 - **10-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925123342/0001104659-25-123342-index.htm)
 
+- **8-K** | BOXABL Inc.  (CIK 0001816937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315225029051/0001493152-25-029051-index.htm)
+
+- **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312525331028/0001193125-25-331028-index.htm)
+
 - **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225028798/0001493152-25-028798-index.htm)
 
@@ -44,6 +50,9 @@
 
 - **424B5** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009318/0001683168-25-009318-index.htm)
+
+- **424B5** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225029061/0001493152-25-029061-index.htm)
 
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328069/0001193125-25-328069-index.htm)
@@ -123,8 +132,23 @@
 - **F-3** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025124096/0001213900-25-124096-index.htm)
 
+- **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465925018440/0001214659-25-018440-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525330999/0001193125-25-330999-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525330998/0001193125-25-330998-index.htm)
+
+- **8-K** | Grayscale Ethereum Mini Trust ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312525330994/0001193125-25-330994-index.htm)
+
 - **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525330981/0001193125-25-330981-index.htm)
+
+- **8-K** | Grayscale Solana Trust ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312525331037/0001193125-25-331037-index.htm)
 
 - **S-3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009150/0001477932-25-009150-index.htm)
