@@ -15,6 +15,9 @@
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225028965/0001493152-25-028965-index.htm)
 
+- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315225029023/0001493152-25-029023-index.htm)
+
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025124090/0001213900-25-124090-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **S-1** | SharonAI Holdings, Inc.  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625010249/0001829126-25-010249-index.htm)
+
+- **424B3** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000121390025125341/0001213900-25-125341-index.htm)
 
 - **PRE 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025124837/0001213900-25-124837-index.htm)
@@ -56,6 +62,9 @@
 
 - **DEF 14A** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/0001140361-25-046314-index.htm)
+
+- **424B3** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315225029019/0001493152-25-029019-index.htm)
 
 - **485BPOS** | Elevation Series Trust  (CIK 0001936157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1936157/000199937125021123/0001999371-25-021123-index.htm)
@@ -113,6 +122,9 @@
 
 - **F-3** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390025124096/0001213900-25-124096-index.htm)
+
+- **8-K** | Grayscale Ethereum Trust ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312525330981/0001193125-25-330981-index.htm)
 
 - **S-3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009150/0001477932-25-009150-index.htm)
@@ -173,6 +185,9 @@
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025124524/0001213900-25-124524-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025125319/0001213900-25-125319-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937125021129/0001999371-25-021129-index.htm)
