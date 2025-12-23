@@ -24,6 +24,9 @@
 - **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225028798/0001493152-25-028798-index.htm)
 
+- **S-1** | SharonAI Holdings, Inc.  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912625010249/0001829126-25-010249-index.htm)
+
 - **PRE 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025124837/0001213900-25-124837-index.htm)
 
