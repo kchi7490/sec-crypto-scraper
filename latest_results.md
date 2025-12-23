@@ -105,6 +105,9 @@
 - **S-3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009150/0001477932-25-009150-index.htm)
 
+- **10-K** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390025124968/0001213900-25-124968-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001334/0001279569-25-001334-index.htm)
 
