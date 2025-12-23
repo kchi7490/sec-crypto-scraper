@@ -51,6 +51,9 @@
 - **424B5** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009318/0001683168-25-009318-index.htm)
 
+- **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390025125415/0001213900-25-125415-index.htm)
+
 - **424B5** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225029061/0001493152-25-029061-index.htm)
 
@@ -78,11 +81,20 @@
 - **485BPOS** | Elevation Series Trust  (CIK 0001936157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1936157/000199937125021123/0001999371-25-021123-index.htm)
 
+- **424B3** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025125419/0001213900-25-125419-index.htm)
+
+- **424B3** | Nukkleus Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390025125420/0001213900-25-125420-index.htm)
+
 - **S-4** | Movano Inc.  (MOVE)  (CIK 0001734750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000121390025124014/0001213900-25-124014-index.htm)
 
 - **1-A POS** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793225009173/0001477932-25-009173-index.htm)
+
+- **10-12G** | CVC-PE Global Private Equity Fund, LP  (CIK 0002096330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096330/000119312525331079/0001193125-25-331079-index.htm)
 
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912625010212/0001829126-25-010212-index.htm)
@@ -103,10 +115,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016443/0000950103-25-016443-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016442/0000950103-25-016442-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016445/0000950103-25-016445-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016445/0000950103-25-016445-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016442/0000950103-25-016442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016447/0000950103-25-016447-index.htm)
