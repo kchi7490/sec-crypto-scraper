@@ -21,6 +21,9 @@
 - **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315225028798/0001493152-25-028798-index.htm)
 
+- **PRE 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390025124837/0001213900-25-124837-index.htm)
+
 - **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312525328069/0001193125-25-328069-index.htm)
 
