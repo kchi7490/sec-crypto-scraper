@@ -45,6 +45,9 @@
 - **10-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925123342/0001104659-25-123342-index.htm)
 
+- **424B4** | Silicon Valley Acquisition Corp.  (SVAQ)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390025125489/0001213900-25-125489-index.htm)
+
 - **8-K** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315225029051/0001493152-25-029051-index.htm)
 
@@ -145,16 +148,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016510/0000950103-25-016510-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016445/0000950103-25-016445-index.htm)
-
-- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016442/0000950103-25-016442-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016447/0000950103-25-016447-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016445/0000950103-25-016445-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016438/0000950103-25-016438-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016447/0000950103-25-016447-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016449/0000950103-25-016449-index.htm)
@@ -206,6 +209,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001334/0001279569-25-001334-index.htm)
+
+- **F-3** | VivoPower International PLC  (VVPR)  (CIK 0001681348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315225029110/0001493152-25-029110-index.htm)
 
 - **424B5** | VivoPower International PLC  (VVPR)  (CIK 0001681348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315225029092/0001493152-25-029092-index.htm)
