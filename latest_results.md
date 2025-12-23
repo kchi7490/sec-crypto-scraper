@@ -9,6 +9,9 @@
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009319/0001683168-25-009319-index.htm)
 
+- **8-K/A** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009331/0001683168-25-009331-index.htm)
+
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390025124090/0001213900-25-124090-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **DEF 14A** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/0001140361-25-046314-index.htm)
+
+- **485BPOS** | Elevation Series Trust  (CIK 0001936157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1936157/000199937125021123/0001999371-25-021123-index.htm)
 
 - **S-4** | Movano Inc.  (MOVE)  (CIK 0001734750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000121390025124014/0001213900-25-124014-index.htm)
