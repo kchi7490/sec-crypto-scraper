@@ -6,14 +6,23 @@
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025125876/0001213900-25-125876-index.htm)
 
+- **S-3/A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793225009224/0001477932-25-009224-index.htm)
+
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225029279/0001493152-25-029279-index.htm)
 
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009359/0001683168-25-009359-index.htm)
 
+- **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225029412/0001493152-25-029412-index.htm)
+
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225029232/0001493152-25-029232-index.htm)
+
+- **424B5** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315225029417/0001493152-25-029417-index.htm)
 
 - **10-K** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315225029383/0001493152-25-029383-index.htm)
@@ -33,11 +42,29 @@
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525335407/0001193125-25-335407-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525332296/0001193125-25-332296-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525335377/0001193125-25-335377-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016627/0000950103-25-016627-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016624/0000950103-25-016624-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
@@ -86,6 +113,9 @@
 
 - **10-K** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225009202/0001477932-25-009202-index.htm)
+
+- **DEF 14A** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025126125/0001213900-25-126125-index.htm)
 
 - **N-CSR** | CALAMOS INVESTMENT TRUST/IL  (CIK 0000826732)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826732/000110465925124654/0001104659-25-124654-index.htm)
