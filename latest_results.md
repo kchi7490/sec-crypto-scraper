@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029227/0001493152-25-029227-index.htm)
 
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009359/0001683168-25-009359-index.htm)
+
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225029232/0001493152-25-029232-index.htm)
 
@@ -33,11 +36,17 @@
 - **F-3** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001726/0001731122-25-001726-index.htm)
 
+- **485APOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312525332748/0001193125-25-332748-index.htm)
+
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225029170/0001493152-25-029170-index.htm)
 
 - **485BPOS** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000095013025000314/0000950130-25-000314-index.htm)
+
+- **10-K** | TANICO Inc.  (CIK 0001895939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225009202/0001477932-25-009202-index.htm)
 
 - **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029230/0001493152-25-029230-index.htm)
