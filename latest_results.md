@@ -27,6 +27,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525332296/0001193125-25-332296-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312525335377/0001193125-25-335377-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001338/0001279569-25-001338-index.htm)
 
@@ -60,6 +66,9 @@
 - **485BPOS** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000095013025000314/0000950130-25-000314-index.htm)
 
+- **1-A/A** | Immersed Inc.  (CIK 0001817417)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925124840/0001104659-25-124840-index.htm)
+
 - **N-CSRS** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322825014165/0001133228-25-014165-index.htm)
 
@@ -77,6 +86,9 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025125517/0001213900-25-125517-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025126058/0001213900-25-126058-index.htm)
 
 - **485BPOS** | Symmetry Panoramic Trust  (CIK 0001736078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736078/000139834425022992/0001398344-25-022992-index.htm)
