@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029227/0001493152-25-029227-index.htm)
 
+- **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025125876/0001213900-25-125876-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009359/0001683168-25-009359-index.htm)
 
