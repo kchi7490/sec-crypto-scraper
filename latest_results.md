@@ -15,6 +15,9 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225029232/0001493152-25-029232-index.htm)
 
+- **10-K** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315225029383/0001493152-25-029383-index.htm)
+
 - **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025125608/0001213900-25-125608-index.htm)
 
@@ -23,6 +26,12 @@
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225072613/0001839882-25-072613-index.htm)
+
+- **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525335429/0001193125-25-335429-index.htm)
+
+- **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525335407/0001193125-25-335407-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525332296/0001193125-25-332296-index.htm)
@@ -87,8 +96,14 @@
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025125517/0001213900-25-125517-index.htm)
 
+- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025126083/0001213900-25-126083-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025126058/0001213900-25-126058-index.htm)
+
+- **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036125046755/0001140361-25-046755-index.htm)
 
 - **485BPOS** | Symmetry Panoramic Trust  (CIK 0001736078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736078/000139834425022992/0001398344-25-022992-index.htm)
