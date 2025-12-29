@@ -6,6 +6,9 @@
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025125569/0001213900-25-125569-index.htm)
 
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465925124430/0001104659-25-124430-index.htm)
+
 - **F-3** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112225001726/0001731122-25-001726-index.htm)
 
