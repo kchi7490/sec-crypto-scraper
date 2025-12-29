@@ -54,6 +54,9 @@
 - **10-K** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225009202/0001477932-25-009202-index.htm)
 
+- **N-CSR** | CALAMOS INVESTMENT TRUST/IL  (CIK 0000826732)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826732/000110465925124654/0001104659-25-124654-index.htm)
+
 - **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029230/0001493152-25-029230-index.htm)
 
