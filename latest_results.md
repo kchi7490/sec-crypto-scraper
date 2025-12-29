@@ -54,6 +54,9 @@
 - **485BPOS** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000095013025000314/0000950130-25-000314-index.htm)
 
+- **N-CSRS** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322825014165/0001133228-25-014165-index.htm)
+
 - **10-K** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793225009202/0001477932-25-009202-index.htm)
 
