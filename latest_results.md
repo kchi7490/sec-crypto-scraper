@@ -6,6 +6,9 @@
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025125876/0001213900-25-125876-index.htm)
 
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225029279/0001493152-25-029279-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009359/0001683168-25-009359-index.htm)
 
