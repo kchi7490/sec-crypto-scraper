@@ -48,8 +48,14 @@
 - **6-K** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315225029170/0001493152-25-029170-index.htm)
 
+- **487** | FT 12606  (CIK 0002083337)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083337/000144554625008528/0001445546-25-008528-index.htm)
+
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590825000776/0000945908-25-000776-index.htm)
+
+- **487** | FT 12607  (CIK 0002083338)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083338/000144554625008529/0001445546-25-008529-index.htm)
 
 - **485BPOS** | MORGAN STANLEY PATHWAY FUNDS  (CIK 0000875186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/875186/000095013025000314/0000950130-25-000314-index.htm)
