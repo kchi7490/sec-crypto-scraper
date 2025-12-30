@@ -42,6 +42,15 @@
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525335407/0001193125-25-335407-index.htm)
 
+- **S-4/A** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465925124947/0001104659-25-124947-index.htm)
+
+- **1-A** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000155335025000207/0001553350-25-000207-index.htm)
+
+- **20-F** | EZGO Technologies Ltd.  (EZGO)  (CIK 0001806904)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806904/000121390025126219/0001213900-25-126219-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
 
@@ -58,10 +67,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
@@ -71,6 +80,9 @@
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425014407/0001654954-25-014407-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001338/0001279569-25-001338-index.htm)
@@ -131,6 +143,9 @@
 
 - **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029230/0001493152-25-029230-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025126209/0001213900-25-126209-index.htm)
 
 - **425** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025125884/0001213900-25-125884-index.htm)
