@@ -57,6 +57,9 @@
 - **253G2** | McQueen Labs Series, LLC  (CIK 0002025795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315225029559/0001493152-25-029559-index.htm)
 
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225009247/0001477932-25-009247-index.htm)
+
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525335407/0001193125-25-335407-index.htm)
 
@@ -97,6 +100,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -116,6 +122,9 @@
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425014407/0001654954-25-014407-index.htm)
+
+- **6-K** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465925125278/0001104659-25-125278-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001343/0001279569-25-001343-index.htm)
