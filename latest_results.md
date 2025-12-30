@@ -33,6 +33,9 @@
 - **10-K** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315225029383/0001493152-25-029383-index.htm)
 
+- **424B3** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025126671/0001213900-25-126671-index.htm)
+
 - **S-1** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525335992/0001193125-25-335992-index.htm)
 
@@ -71,6 +74,9 @@
 
 - **F-4** | Great Future Technology Inc.  (CIK 0002062748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2062748/000182912625010333/0001829126-25-010333-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925125272/0001104659-25-125272-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
