@@ -21,6 +21,9 @@
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225029412/0001493152-25-029412-index.htm)
 
+- **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925125039/0001104659-25-125039-index.htm)
+
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000149315225029232/0001493152-25-029232-index.htm)
 
@@ -79,10 +82,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016624/0000950103-25-016624-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016624/0000950103-25-016624-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
