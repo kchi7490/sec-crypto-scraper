@@ -156,6 +156,9 @@
 - **1-A/A** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925124840/0001104659-25-124840-index.htm)
 
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425022438/0001888524-25-022438-index.htm)
+
 - **N-CSRS** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322825014165/0001133228-25-014165-index.htm)
 
