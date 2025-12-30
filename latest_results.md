@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315225029227/0001493152-25-029227-index.htm)
 
+- **424B3** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465925125037/0001104659-25-125037-index.htm)
+
 - **8-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390025125876/0001213900-25-125876-index.htm)
 
@@ -51,6 +54,9 @@
 - **20-F** | EZGO Technologies Ltd.  (EZGO)  (CIK 0001806904)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806904/000121390025126219/0001213900-25-126219-index.htm)
 
+- **F-4** | Great Future Technology Inc.  (CIK 0002062748)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2062748/000182912625010333/0001829126-25-010333-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
 
@@ -84,8 +90,20 @@
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF, ARBKL)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495425014407/0001654954-25-014407-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001343/0001279569-25-001343-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025126324/0001213900-25-126324-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956925001338/0001279569-25-001338-index.htm)
+
+- **6-K** | Earlyworks Co., Ltd.  (ELWS)  (CIK 0001944399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1944399/000121390025126326/0001213900-25-126326-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828025059080/0001628280-25-059080-index.htm)
 
 - **6-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390025125569/0001213900-25-125569-index.htm)
