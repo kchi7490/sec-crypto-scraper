@@ -48,6 +48,9 @@
 - **10-K** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315225029383/0001493152-25-029383-index.htm)
 
+- **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425014437/0001654954-25-014437-index.htm)
+
 - **424B3** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390025126671/0001213900-25-126671-index.htm)
 
@@ -66,6 +69,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225072613/0001839882-25-072613-index.htm)
 
+- **F-1** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029846/0001493152-25-029846-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225073781/0001839882-25-073781-index.htm)
 
@@ -80,6 +86,9 @@
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793225009247/0001477932-25-009247-index.htm)
+
+- **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225029827/0001493152-25-029827-index.htm)
 
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312525335407/0001193125-25-335407-index.htm)
@@ -106,6 +115,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925125272/0001104659-25-125272-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925125655/0001104659-25-125655-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
 
 - **424B5** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
@@ -127,6 +139,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016627/0000950103-25-016627-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016823/0000950103-25-016823-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -139,10 +154,28 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016814/0000950103-25-016814-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016817/0000950103-25-016817-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016624/0000950103-25-016624-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016822/0000950103-25-016822-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016815/0000950103-25-016815-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016818/0000950103-25-016818-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016816/0000950103-25-016816-index.htm)
 
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125047062/0001140361-25-047062-index.htm)
