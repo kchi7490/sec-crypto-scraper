@@ -121,10 +121,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
@@ -219,6 +219,9 @@
 - **1-A/A** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465925124840/0001104659-25-124840-index.htm)
 
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425023111/0001888524-25-023111-index.htm)
+
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852425022438/0001888524-25-022438-index.htm)
 
@@ -251,6 +254,12 @@
 
 - **485BPOS** | American Funds Retirement Income Portfolio Series  (CIK 0001640102)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640102/000005193125001509/0000051931-25-001509-index.htm)
+
+- **485BPOS** | AMERICAN FUNDS GLOBAL BALANCED FUND  (CIK 0001505612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1505612/000005193125001552/0000051931-25-001552-index.htm)
+
+- **485BPOS** | CAPITAL INCOME BUILDER  (CIK 0000811968)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/811968/000005193125001526/0000051931-25-001526-index.htm)
 
 - **N-CSR** | CALAMOS INVESTMENT TRUST/IL  (CIK 0000826732)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826732/000110465925124654/0001104659-25-124654-index.htm)
