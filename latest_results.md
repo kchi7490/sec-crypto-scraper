@@ -21,6 +21,9 @@
 - **8-K** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315225029412/0001493152-25-029412-index.htm)
 
+- **10-K** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112225001750/0001731122-25-001750-index.htm)
+
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465925125039/0001104659-25-125039-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **S-1** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312525335992/0001193125-25-335992-index.htm)
+
+- **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029683/0001493152-25-029683-index.htm)
 
 - **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025125608/0001213900-25-125608-index.htm)
@@ -84,6 +90,9 @@
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925124901/0001104659-25-124901-index.htm)
 
+- **424B5** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/0001104659-25-125315-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525332296/0001193125-25-332296-index.htm)
 
@@ -97,10 +106,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016627/0000950103-25-016627-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
@@ -227,6 +236,9 @@
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390025126602/0001213900-25-126602-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025126717/0001213900-25-126717-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025126549/0001213900-25-126549-index.htm)
