@@ -96,6 +96,9 @@
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390025127134/0001213900-25-127134-index.htm)
 
+- **S-1/A** | Aeon Acquisition I Corp.  (CIK 0002082526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315225029859/0001493152-25-029859-index.htm)
+
 - **S-1** | AMC Robotics Corp  (AMCI, ATMV, ATMVR, ATMVU)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315225029590/0001493152-25-029590-index.htm)
 
@@ -142,10 +145,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016823/0000950103-25-016823-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
@@ -185,6 +188,9 @@
 
 - **DEF 14A** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312525337041/0001193125-25-337041-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009281/0001477932-25-009281-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
@@ -377,4 +383,7 @@
 
 - **485BPOS** | Symmetry Panoramic Trust  (CIK 0001736078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736078/000139834425022992/0001398344-25-022992-index.htm)
+
+- **40-F** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465925125666/0001104659-25-125666-index.htm)
 
