@@ -60,6 +60,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225072613/0001839882-25-072613-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225073781/0001839882-25-073781-index.htm)
+
 - **424B3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312525335429/0001193125-25-335429-index.htm)
 
@@ -128,6 +131,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016624/0000950103-25-016624-index.htm)
+
+- **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225008098/0001580642-25-008098-index.htm)
 
 - **DEF 14A** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312525337041/0001193125-25-337041-index.htm)
@@ -228,11 +234,20 @@
 - **DEF 14A** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390025126125/0001213900-25-126125-index.htm)
 
+- **485BPOS** | AMERICAN MUTUAL FUND  (CIK 0000005506)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5506/000005193125001501/0000051931-25-001501-index.htm)
+
+- **485BPOS** | American Funds Global Insight Fund  (CIK 0001785347)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785347/000005193125001506/0000051931-25-001506-index.htm)
+
 - **485BPOS** | American Funds International Vantage Fund  (CIK 0001785336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785336/000005193125001498/0000051931-25-001498-index.htm)
 
 - **485BPOS** | NEW WORLD FUND INC  (CIK 0001073330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1073330/000005193125001491/0000051931-25-001491-index.htm)
+
+- **485BPOS** | American Funds Retirement Income Portfolio Series  (CIK 0001640102)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640102/000005193125001509/0000051931-25-001509-index.htm)
 
 - **N-CSR** | CALAMOS INVESTMENT TRUST/IL  (CIK 0000826732)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826732/000110465925124654/0001104659-25-124654-index.htm)
