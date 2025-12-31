@@ -18,6 +18,9 @@
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225029279/0001493152-25-029279-index.htm)
 
+- **S-1/A** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316825009444/0001683168-25-009444-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316825009359/0001683168-25-009359-index.htm)
 
@@ -102,6 +105,9 @@
 - **424B5** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465925125315/0001104659-25-125315-index.htm)
 
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925125613/0001104659-25-125613-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312525332296/0001193125-25-332296-index.htm)
 
@@ -112,19 +118,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390025126352/0001213900-25-126352-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016627/0000950103-25-016627-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016685/0000950103-25-016685-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016627/0000950103-25-016627-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016625/0000950103-25-016625-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016626/0000950103-25-016626-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016622/0000950103-25-016622-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016628/0000950103-25-016628-index.htm)
@@ -141,6 +147,12 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793225009212/0001477932-25-009212-index.htm)
 
+- **8-K** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299325017540/0001062993-25-017540-index.htm)
+
+- **10-Q** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025127100/0001213900-25-127100-index.htm)
+
 - **N-2** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312525337297/0001193125-25-337297-index.htm)
 
@@ -155,6 +167,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956925001343/0001279569-25-001343-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225029792/0001493152-25-029792-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025126324/0001213900-25-126324-index.htm)
@@ -197,6 +212,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325017534/0001062993-25-017534-index.htm)
+
+- **S-1** | QumulusAI, Inc.  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774925039073/0001437749-25-039073-index.htm)
 
 - **487** | FT 12606  (CIK 0002083337)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083337/000144554625008528/0001445546-25-008528-index.htm)
@@ -293,6 +311,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390025126549/0001213900-25-126549-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025127121/0001213900-25-127121-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390025126083/0001213900-25-126083-index.htm)
