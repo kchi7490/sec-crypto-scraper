@@ -249,6 +249,9 @@
 - **485BPOS** | NEW WORLD FUND INC  (CIK 0001073330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1073330/000005193125001491/0000051931-25-001491-index.htm)
 
+- **485BPOS** | AMERICAN FUNDS COLLEGE TARGET DATE SERIES  (CIK 0001547011)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547011/000005193125001586/0000051931-25-001586-index.htm)
+
 - **485BPOS** | AMERICAN FUNDS PORTFOLIO SERIES  (CIK 0001537151)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1537151/000005193125001515/0000051931-25-001515-index.htm)
 
