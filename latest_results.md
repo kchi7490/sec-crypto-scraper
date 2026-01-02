@@ -153,6 +153,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025127121/0001213900-25-127121-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000027/0001999371-26-000027-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010325016733/0000950103-25-016733-index.htm)
 
