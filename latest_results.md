@@ -30,6 +30,9 @@
 - **F-1** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029846/0001493152-25-029846-index.htm)
 
+- **F-3ASR** | mF International Ltd  (MFI)  (CIK 0001940941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226000110/0001493152-26-000110-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226000102/0001839882-26-000102-index.htm)
 
@@ -105,6 +108,9 @@
 - **10-Q** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025127100/0001213900-25-127100-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000005/0001640334-26-000005-index.htm)
+
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390025127208/0001213900-25-127208-index.htm)
 
@@ -113,6 +119,9 @@
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225029792/0001493152-25-029792-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026000452/0001213900-26-000452-index.htm)
 
 - **N-CSR** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000113322826000012/0001133228-26-000012-index.htm)
