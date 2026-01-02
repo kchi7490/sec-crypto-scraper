@@ -36,6 +36,9 @@
 - **S-1/A** | Aeon Acquisition I Corp.  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315225029859/0001493152-25-029859-index.htm)
 
+- **S-4** | BT Brands, Inc.  (BTBD, BTBDW)  (CIK 0001718224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1718224/000147793225009283/0001477932-25-009283-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925125655/0001104659-25-125655-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **10-Q** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390025127100/0001213900-25-127100-index.htm)
+
+- **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390025127208/0001213900-25-127208-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025126828/0001213900-25-126828-index.htm)
