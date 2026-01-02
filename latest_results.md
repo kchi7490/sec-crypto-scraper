@@ -81,6 +81,9 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925125613/0001104659-25-125613-index.htm)
 
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926000248/0001104659-26-000248-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226000023/0001493152-26-000023-index.htm)
 
@@ -150,11 +153,17 @@
 - **N-CSR** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000113322826000012/0001133228-26-000012-index.htm)
 
+- **SUPPL** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926000249/0001104659-26-000249-index.htm)
+
 - **6-K** | BitVentures Ltd  (STEC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926000008/0001437749-26-000008-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299325017534/0001062993-25-017534-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926000251/0001104659-26-000251-index.htm)
 
 - **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690625002188/0001096906-25-002188-index.htm)
@@ -206,6 +215,9 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390025126717/0001213900-25-126717-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026000528/0001213900-26-000528-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390025127121/0001213900-25-127121-index.htm)
