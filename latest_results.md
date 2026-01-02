@@ -99,6 +99,9 @@
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315225029792/0001493152-25-029792-index.htm)
 
+- **N-CSR** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000113322826000012/0001133228-26-000012-index.htm)
+
 - **6-K** | BitVentures Ltd  (STEC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926000008/0001437749-26-000008-index.htm)
 
