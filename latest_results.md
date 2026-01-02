@@ -25,6 +25,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029846/0001493152-25-029846-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226000102/0001839882-26-000102-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225073781/0001839882-25-073781-index.htm)
 
 - **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
@@ -119,6 +122,9 @@
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000002/0001081400-26-000002-index.htm)
+
+- **POS AMI** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108796126000001/0001087961-26-000001-index.htm)
 
 - **485BPOS** | AMERICAN MUTUAL FUND  (CIK 0000005506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5506/000005193125001501/0000051931-25-001501-index.htm)
