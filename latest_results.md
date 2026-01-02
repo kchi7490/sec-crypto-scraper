@@ -48,6 +48,9 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465925125613/0001104659-25-125613-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226000023/0001493152-26-000023-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010325016823/0000950103-25-016823-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425023111/0001888524-25-023111-index.htm)
+
+- **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000002/0001081400-26-000002-index.htm)
 
 - **485BPOS** | AMERICAN MUTUAL FUND  (CIK 0000005506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5506/000005193125001501/0000051931-25-001501-index.htm)
