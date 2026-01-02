@@ -36,6 +36,9 @@
 - **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029683/0001493152-25-029683-index.htm)
 
+- **424B5** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315226000153/0001493152-26-000153-index.htm)
+
 - **F-1** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029846/0001493152-25-029846-index.htm)
 
