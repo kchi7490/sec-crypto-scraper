@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **F-3** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026000176/0001628280-26-000176-index.htm)
+
+- **S-3/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926000214/0001104659-26-000214-index.htm)
+
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315225029728/0001493152-25-029728-index.htm)
 
@@ -23,6 +29,9 @@
 
 - **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495425014437/0001654954-25-014437-index.htm)
+
+- **424B3** | iSpecimen Inc.  (ISPC)  (CIK 0001558569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558569/000121390026000463/0001213900-26-000463-index.htm)
 
 - **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315225029683/0001493152-25-029683-index.htm)
@@ -93,6 +102,9 @@
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125047062/0001140361-25-047062-index.htm)
 
+- **8-K** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226000143/0001493152-26-000143-index.htm)
+
 - **485APOS** | Strategy Shares  (CIK 0001506213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226000027/0001580642-26-000027-index.htm)
 
@@ -113,6 +125,9 @@
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390025127208/0001213900-25-127208-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026000462/0001213900-26-000462-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390025126828/0001213900-25-126828-index.htm)
@@ -137,6 +152,9 @@
 
 - **S-1** | QumulusAI, Inc.  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774925039073/0001437749-25-039073-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026000470/0001213900-26-000470-index.htm)
 
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852425023111/0001888524-25-023111-index.htm)
