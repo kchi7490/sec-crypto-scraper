@@ -51,6 +51,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225073781/0001839882-25-073781-index.htm)
 
+- **424B7** | mF International Ltd  (MFI)  (CIK 0001940941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226000168/0001493152-26-000168-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226000326/0001839882-26-000326-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **S-4** | BT Brands, Inc.  (BTBD, BTBDW)  (CIK 0001718224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1718224/000147793225009283/0001477932-25-009283-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926000232/0001104659-26-000232-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465925125655/0001104659-25-125655-index.htm)
