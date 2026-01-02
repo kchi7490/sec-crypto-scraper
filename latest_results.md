@@ -36,6 +36,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988225073781/0001839882-25-073781-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226000326/0001839882-26-000326-index.htm)
+
 - **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315225029827/0001493152-25-029827-index.htm)
 
@@ -86,6 +89,9 @@
 
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036125047062/0001140361-25-047062-index.htm)
+
+- **485APOS** | Strategy Shares  (CIK 0001506213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226000027/0001580642-26-000027-index.htm)
 
 - **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064225008098/0001580642-25-008098-index.htm)
