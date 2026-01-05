@@ -9,6 +9,9 @@
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526001587/0001193125-26-001587-index.htm)
 
+- **424B3** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826000105/0001683168-26-000105-index.htm)
+
 - **S-1/A** | Bitwise Chainlink ETF  (CIK 0002082889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/0001213900-26-001140-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526001589/0001193125-26-001589-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000119312526002668/0001193125-26-002668-index.htm)
 
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526001581/0001193125-26-001581-index.htm)
