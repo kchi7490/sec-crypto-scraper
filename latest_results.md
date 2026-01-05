@@ -18,6 +18,9 @@
 - **S-1** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026000719/0001213900-26-000719-index.htm)
 
+- **497** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226000047/0001580642-26-000047-index.htm)
+
 - **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526001588/0001193125-26-001588-index.htm)
 
