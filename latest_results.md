@@ -36,6 +36,12 @@
 - **N-CSR** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526001460/0001193125-26-001460-index.htm)
 
+- **487** | FT 12689  (CIK 0002093787)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093787/000144554626000013/0001445546-26-000013-index.htm)
+
+- **253G1** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793226000027/0001477932-26-000027-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026000603/0001213900-26-000603-index.htm)
 
