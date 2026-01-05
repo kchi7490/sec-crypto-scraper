@@ -6,6 +6,12 @@
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526001587/0001193125-26-001587-index.htm)
 
+- **S-1/A** | Bitwise Chainlink ETF  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/0001213900-26-001140-index.htm)
+
+- **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926000639/0001104659-26-000639-index.htm)
+
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316826000056/0001683168-26-000056-index.htm)
 
@@ -48,9 +54,15 @@
 - **487** | FT 12689  (CIK 0002093787)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093787/000144554626000013/0001445546-26-000013-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326000113/0000950103-26-000113-index.htm)
+
 - **253G1** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793226000027/0001477932-26-000027-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026000603/0001213900-26-000603-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026001144/0001213900-26-001144-index.htm)
 
