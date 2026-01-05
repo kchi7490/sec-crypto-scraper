@@ -9,6 +9,12 @@
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316826000056/0001683168-26-000056-index.htm)
 
+- **497** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926000062/0000894189-26-000062-index.htm)
+
+- **F-1** | Picpay Holdings Netherlands B.V.  (CIK 0001841644)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026001029/0001213900-26-001029-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026000225/0001628280-26-000225-index.htm)
 
