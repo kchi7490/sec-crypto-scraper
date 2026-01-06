@@ -69,6 +69,9 @@
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926000748/0001104659-26-000748-index.htm)
 
+- **S-1/A** | Idea Acquisition Corp.  (CIK 0002091176)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926001416/0001104659-26-001416-index.htm)
+
 - **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526001589/0001193125-26-001589-index.htm)
 
