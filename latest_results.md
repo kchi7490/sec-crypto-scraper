@@ -24,6 +24,12 @@
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316826000056/0001683168-26-000056-index.htm)
 
+- **S-1** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926000959/0001104659-26-000959-index.htm)
+
+- **S-1** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926000988/0001104659-26-000988-index.htm)
+
 - **497** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926000062/0000894189-26-000062-index.htm)
 
@@ -33,8 +39,14 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026000225/0001628280-26-000225-index.htm)
 
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926000751/0001104659-26-000751-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526001550/0001193125-26-001550-index.htm)
+
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
 
 - **S-1** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026000719/0001213900-26-000719-index.htm)
@@ -63,6 +75,9 @@
 - **6-K** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326000042/0001178913-26-000042-index.htm)
 
+- **20-F** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026001478/0001213900-26-001478-index.htm)
+
 - **N-CSR** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526001460/0001193125-26-001460-index.htm)
 
@@ -74,6 +89,9 @@
 
 - **253G1** | Blackwell 3D Construction Corp.  (BDCC)  (CIK 0001495648)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495648/000147793226000027/0001477932-26-000027-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026001344/0001213900-26-001344-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026000603/0001213900-26-000603-index.htm)
