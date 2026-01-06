@@ -78,6 +78,9 @@
 - **6-K** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326000042/0001178913-26-000042-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926001119/0001104659-26-001119-index.htm)
+
 - **20-F** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026001478/0001213900-26-001478-index.htm)
 
