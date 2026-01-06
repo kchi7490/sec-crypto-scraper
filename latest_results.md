@@ -45,6 +45,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526001550/0001193125-26-001550-index.htm)
 
+- **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026001580/0001213900-26-001580-index.htm)
+
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **20-F** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026001478/0001213900-26-001478-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026000781/0001628280-26-000781-index.htm)
 
 - **N-CSR** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526001460/0001193125-26-001460-index.htm)
