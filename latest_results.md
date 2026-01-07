@@ -33,6 +33,9 @@
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316826000056/0001683168-26-000056-index.htm)
 
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000002/0001144879-26-000002-index.htm)
+
 - **S-1** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926001436/0001104659-26-001436-index.htm)
 
