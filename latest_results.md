@@ -61,6 +61,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526005468/0001193125-26-005468-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926001811/0001104659-26-001811-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926001289/0001104659-26-001289-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -74,6 +77,9 @@
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026001966/0001213900-26-001966-index.htm)
+
+- **8-K** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126000395/0001999371-26-000395-index.htm)
 
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
@@ -105,6 +111,9 @@
 - **DEFA14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000049/0001640334-26-000049-index.htm)
 
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000003/0001815776-26-000003-index.htm)
+
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526001581/0001193125-26-001581-index.htm)
 
@@ -135,8 +144,14 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026001965/0001213900-26-001965-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000100/0001062993-26-000100-index.htm)
+
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026000781/0001628280-26-000781-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026002209/0001213900-26-002209-index.htm)
 
 - **N-CSR** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526001460/0001193125-26-001460-index.htm)
