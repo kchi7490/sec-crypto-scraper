@@ -12,6 +12,9 @@
 - **S-1** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001285/0001213900-26-001285-index.htm)
 
+- **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
+
 - **424B3** | Coeptis Therapeutics Holdings, Inc.  (COEP, COEPW)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826000105/0001683168-26-000105-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **S-1/A** | NEIGHPART INTERNATIONAL CORP.  (CIK 0002011627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011627/000168316826000056/0001683168-26-000056-index.htm)
+
+- **S-1** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926001436/0001104659-26-001436-index.htm)
 
 - **S-1** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926000959/0001104659-26-000959-index.htm)
