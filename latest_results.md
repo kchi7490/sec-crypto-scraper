@@ -45,6 +45,9 @@
 - **497** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926000062/0000894189-26-000062-index.htm)
 
+- **253G2** | aShareX Series LLC  (CIK 0001964674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793226000062/0001477932-26-000062-index.htm)
+
 - **F-1** | Picpay Holdings Netherlands B.V.  (CIK 0001841644)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026001029/0001213900-26-001029-index.htm)
 
