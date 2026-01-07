@@ -4,6 +4,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226000274/0001493152-26-000274-index.htm)
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226000734/0001493152-26-000734-index.htm)
+
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226000391/0001493152-26-000391-index.htm)
 
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
@@ -48,6 +51,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026000225/0001628280-26-000225-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526005468/0001193125-26-005468-index.htm)
+
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926001289/0001104659-26-001289-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026001580/0001213900-26-001580-index.htm)
+
+- **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026001966/0001213900-26-001966-index.htm)
 
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
@@ -102,8 +111,14 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926001119/0001104659-26-001119-index.htm)
 
+- **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026001969/0001213900-26-001969-index.htm)
+
 - **20-F** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026001478/0001213900-26-001478-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026001965/0001213900-26-001965-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026000781/0001628280-26-000781-index.htm)
