@@ -6,6 +6,9 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226000734/0001493152-26-000734-index.htm)
 
+- **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000002/0001788230-26-000002-index.htm)
+
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000002/0001144879-26-000002-index.htm)
+
+- **S-1** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000048/0001096906-26-000048-index.htm)
 
 - **S-1** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926001436/0001104659-26-001436-index.htm)
@@ -60,8 +66,14 @@
 - **8-K** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126000395/0001999371-26-000395-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000006/0001099910-26-000006-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226000891/0001493152-26-000891-index.htm)
+
+- **S-3** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000127/0001062993-26-000127-index.htm)
 
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
@@ -98,6 +110,9 @@
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026002321/0001213900-26-002321-index.htm)
+
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026002526/0001213900-26-002526-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926001119/0001104659-26-001119-index.htm)
@@ -146,6 +161,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026001696/0001213900-26-001696-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026002525/0001213900-26-002525-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026002169/0001213900-26-002169-index.htm)
