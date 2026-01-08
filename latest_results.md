@@ -57,6 +57,9 @@
 - **8-K** | Tidal Commodities Trust I  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126000395/0001999371-26-000395-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226000891/0001493152-26-000891-index.htm)
+
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026001442/0001213900-26-001442-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026000872/0001628280-26-000872-index.htm)
+
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000161/0001654954-26-000161-index.htm)
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026002321/0001213900-26-002321-index.htm)
