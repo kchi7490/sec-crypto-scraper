@@ -18,6 +18,9 @@
 - **424B5** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226000849/0001493152-26-000849-index.htm)
 
+- **PRRN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000092189526000057/0000921895-26-000057-index.htm)
+
 - **424B3** | Bitwise Chainlink ETF  (CIK 0002082889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390026002234/0001213900-26-002234-index.htm)
 
