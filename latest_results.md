@@ -129,6 +129,9 @@
 - **N-CSRS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326000058/0000930413-26-000058-index.htm)
 
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826000434/0001410368-26-000434-index.htm)
+
 - **N-CSRS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000083423726000001/0000834237-26-000001-index.htm)
 
