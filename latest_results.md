@@ -36,6 +36,9 @@
 - **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000006/0001144879-26-000006-index.htm)
 
+- **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774926000902/0001437749-26-000902-index.htm)
+
 - **S-1** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000048/0001096906-26-000048-index.htm)
 
@@ -55,6 +58,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526005468/0001193125-26-005468-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000095010326000281/0000950103-26-000281-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926001811/0001104659-26-001811-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
@@ -62,6 +68,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926000751/0001104659-26-000751-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926002177/0001104659-26-002177-index.htm)
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026001580/0001213900-26-001580-index.htm)
@@ -98,6 +107,9 @@
 
 - **S-1/A** | Idea Acquisition Corp.  (CIK 0002091176)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926001416/0001104659-26-001416-index.htm)
+
+- **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626000050/0001096906-26-000050-index.htm)
 
 - **DEFA14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000049/0001640334-26-000049-index.htm)
@@ -164,6 +176,9 @@
 
 - **485BPOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526007473/0001193125-26-007473-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426000379/0001398344-26-000379-index.htm)
 
 - **253G3** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465926001765/0001104659-26-001765-index.htm)
