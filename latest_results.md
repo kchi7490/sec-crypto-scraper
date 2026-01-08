@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226000088/0001477932-26-000088-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226000734/0001493152-26-000734-index.htm)
 
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
+
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026002315/0001213900-26-002315-index.htm)
 
 - **S-1** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226000623/0001493152-26-000623-index.htm)
