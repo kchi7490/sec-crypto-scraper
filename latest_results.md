@@ -126,8 +126,14 @@
 - **N-CSR** | TRANSAMERICA FUNDS  (CIK 0000787623)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/787623/000119312526004633/0001193125-26-004633-index.htm)
 
+- **N-CSRS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326000058/0000930413-26-000058-index.htm)
+
 - **N-CSRS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000083423726000001/0000834237-26-000001-index.htm)
+
+- **485BPOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526007473/0001193125-26-007473-index.htm)
 
 - **253G3** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465926001765/0001104659-26-001765-index.htm)
