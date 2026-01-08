@@ -144,6 +144,12 @@
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026001969/0001213900-26-001969-index.htm)
 
+- **F-1/A** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226001008/0001493152-26-001008-index.htm)
+
+- **424B5** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026002581/0001213900-26-002581-index.htm)
+
 - **20-F** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026001478/0001213900-26-001478-index.htm)
 
