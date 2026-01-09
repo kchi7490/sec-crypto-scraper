@@ -24,6 +24,9 @@
 - **8-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026002685/0001213900-26-002685-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001088/0001493152-26-001088-index.htm)
+
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
 
@@ -114,6 +117,9 @@
 - **N-CSR** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000113322826000153/0001133228-26-000153-index.htm)
 
+- **N-CSRS** | Cambria ETF Trust  (CIK 0001529390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937126000604/0001999371-26-000604-index.htm)
+
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626000050/0001096906-26-000050-index.htm)
 
@@ -168,6 +174,9 @@
 - **487** | FT 12690  (CIK 0002093786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093786/000144554626000048/0001445546-26-000048-index.htm)
 
+- **DEF 14C** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226001092/0001493152-26-001092-index.htm)
+
 - **N-CSR** | Dimensional ETF Trust  (CIK 0001816125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816125/000113322826000245/0001133228-26-000245-index.htm)
 
@@ -206,4 +215,7 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000546/0001999371-26-000546-index.htm)
+
+- **SCHEDULE 13G** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000116169726000025/0001161697-26-000025-index.htm)
 
