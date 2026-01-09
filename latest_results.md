@@ -159,6 +159,9 @@
 - **N-CSRS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326000058/0000930413-26-000058-index.htm)
 
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000113322826000226/0001133228-26-000226-index.htm)
+
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826000434/0001410368-26-000434-index.htm)
 
