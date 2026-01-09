@@ -30,6 +30,9 @@
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
 
+- **S-3** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226001115/0001493152-26-001115-index.htm)
+
 - **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026002315/0001213900-26-002315-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000002/0001144879-26-000002-index.htm)
+
+- **424B3** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926002496/0001104659-26-002496-index.htm)
 
 - **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000006/0001144879-26-000006-index.htm)
@@ -68,6 +74,9 @@
 
 - **253G2** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793226000062/0001477932-26-000062-index.htm)
+
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000616/0001999371-26-000616-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526005468/0001193125-26-005468-index.htm)
@@ -155,6 +164,9 @@
 
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026001969/0001213900-26-001969-index.htm)
+
+- **6-K** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026002962/0001213900-26-002962-index.htm)
 
 - **F-1/A** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226001008/0001493152-26-001008-index.htm)
