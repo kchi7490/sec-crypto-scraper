@@ -84,6 +84,9 @@
 - **253G2** | aShareX Series LLC  (CIK 0001964674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964674/000147793226000062/0001477932-26-000062-index.htm)
 
+- **S-1** | Lakewood-Amedex Biotherapeutics Inc.  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026003037/0001213900-26-003037-index.htm)
+
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000616/0001999371-26-000616-index.htm)
 
