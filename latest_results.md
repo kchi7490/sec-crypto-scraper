@@ -156,6 +156,9 @@
 - **487** | FT 12690  (CIK 0002093786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093786/000144554626000048/0001445546-26-000048-index.htm)
 
+- **N-CSR** | Dimensional ETF Trust  (CIK 0001816125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816125/000113322826000245/0001133228-26-000245-index.htm)
+
 - **N-CSRS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326000058/0000930413-26-000058-index.htm)
 
