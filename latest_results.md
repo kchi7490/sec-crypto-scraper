@@ -9,8 +9,14 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226000734/0001493152-26-000734-index.htm)
 
+- **8-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426000203/0001654954-26-000203-index.htm)
+
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000002/0001788230-26-000002-index.htm)
+
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026002599/0001213900-26-002599-index.htm)
 
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
@@ -103,10 +109,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000161/0001654954-26-000161-index.htm)
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026002666/0001213900-26-002666-index.htm)
+
+- **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026002321/0001213900-26-002321-index.htm)
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026002526/0001213900-26-002526-index.htm)
+
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026002592/0001213900-26-002592-index.htm)
 
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026001969/0001213900-26-001969-index.htm)
@@ -143,6 +155,9 @@
 
 - **253G3** | Immersed Inc.  (CIK 0001817417)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817417/000110465926001765/0001104659-26-001765-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026002652/0001213900-26-002652-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026002525/0001213900-26-002525-index.htm)
