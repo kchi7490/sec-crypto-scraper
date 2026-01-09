@@ -18,11 +18,17 @@
 - **8-K** | Heritage Distilling Holding Company, Inc.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000002/0001788230-26-000002-index.htm)
 
+- **S-3/A** | StableX Technologies, Inc.  (SBLX)  (CIK 0001086745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000149315226001129/0001493152-26-001129-index.htm)
+
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026002599/0001213900-26-002599-index.htm)
 
 - **8-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026002685/0001213900-26-002685-index.htm)
+
+- **424B3** | StableX Technologies, Inc.  (SBLX)  (CIK 0001086745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086745/000149315226001138/0001493152-26-001138-index.htm)
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001088/0001493152-26-001088-index.htm)
@@ -60,6 +66,9 @@
 - **S-1** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000048/0001096906-26-000048-index.htm)
 
+- **424B3** | 21Shares Dogecoin ETF  (CIK 0002064314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390026003025/0001213900-26-003025-index.htm)
+
 - **S-1** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926001436/0001104659-26-001436-index.htm)
 
@@ -86,6 +95,9 @@
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926001811/0001104659-26-001811-index.htm)
+
+- **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926002539/0001104659-26-002539-index.htm)
 
 - **425** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926002177/0001104659-26-002177-index.htm)
@@ -131,6 +143,9 @@
 
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626000050/0001096906-26-000050-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000137/0001477932-26-000137-index.htm)
 
 - **DEFA14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000049/0001640334-26-000049-index.htm)
@@ -183,6 +198,12 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026002209/0001213900-26-002209-index.htm)
 
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626000180/0001829126-26-000180-index.htm)
+
+- **20-F** | Global Mofy AI Ltd  (GMM)  (CIK 0001913749)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913749/000121390026002984/0001213900-26-002984-index.htm)
+
 - **487** | FT 12690  (CIK 0002093786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093786/000144554626000048/0001445546-26-000048-index.htm)
 
@@ -225,9 +246,15 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026002169/0001213900-26-002169-index.htm)
 
+- **485APOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026003019/0001213900-26-003019-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000546/0001999371-26-000546-index.htm)
 
 - **SCHEDULE 13G** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000116169726000025/0001161697-26-000025-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326000336/0000950103-26-000336-index.htm)
 
