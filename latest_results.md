@@ -165,6 +165,9 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826000434/0001410368-26-000434-index.htm)
 
+- **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000004/0001479844-26-000004-index.htm)
+
 - **485BPOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526007473/0001193125-26-007473-index.htm)
 
