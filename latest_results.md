@@ -18,6 +18,9 @@
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026002599/0001213900-26-002599-index.htm)
 
+- **8-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026002685/0001213900-26-002685-index.htm)
+
 - **424B3** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826000124/0001683168-26-000124-index.htm)
 
@@ -80,6 +83,15 @@
 
 - **S-3** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000127/0001062993-26-000127-index.htm)
+
+- **425** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000094/0001185185-26-000094-index.htm)
+
+- **8-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000092/0001185185-26-000092-index.htm)
+
+- **DEFA14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000096/0001185185-26-000096-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226000802/0001493152-26-000802-index.htm)
