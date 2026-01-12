@@ -60,3 +60,9 @@
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
 
+- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000357/0001214659-26-000357-index.htm)
+
+- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000358/0001214659-26-000358-index.htm)
+
