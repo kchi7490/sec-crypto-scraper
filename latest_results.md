@@ -54,6 +54,9 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526009867/0001193125-26-009867-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026003438/0001213900-26-003438-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000015/0001279569-26-000015-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **253G2** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000107997326000071/0001079973-26-000071-index.htm)
+
+- **485APOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000003/0002040519-26-000003-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
