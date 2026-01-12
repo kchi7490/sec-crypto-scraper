@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001238/0001493152-26-001238-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001237/0001493152-26-001237-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526009830/0001193125-26-009830-index.htm)
 
@@ -11,6 +17,9 @@
 
 - **424B3** | Lafayette Digital Acquisition Corp. I  (ZKP)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026003163/0001213900-26-003163-index.htm)
+
+- **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226001240/0001493152-26-001240-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
