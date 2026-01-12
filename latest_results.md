@@ -57,3 +57,6 @@
 - **487** | FT 12691  (CIK 0002093785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093785/000144554626000228/0001445546-26-000228-index.htm)
 
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
+
