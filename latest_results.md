@@ -39,6 +39,9 @@
 - **10-Q** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626000184/0001829126-26-000184-index.htm)
 
+- **10-K** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226001845/0001493152-26-001845-index.htm)
+
 - **424B3** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000143774926001030/0001437749-26-001030-index.htm)
 
@@ -57,11 +60,20 @@
 - **487** | FT 12691  (CIK 0002093785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093785/000144554626000228/0001445546-26-000228-index.htm)
 
+- **253G2** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000107997326000071/0001079973-26-000071-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003402/0001213900-26-003402-index.htm)
+
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000357/0001214659-26-000357-index.htm)
+
+- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000359/0001214659-26-000359-index.htm)
 
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000358/0001214659-26-000358-index.htm)
