@@ -84,6 +84,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003402/0001213900-26-003402-index.htm)
 
+- **NT-NCSR** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126000700/0001999371-26-000700-index.htm)
+
 - **485APOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926000357/0001214659-26-000357-index.htm)
 
