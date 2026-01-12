@@ -12,6 +12,9 @@
 - **10-Q** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000162828026001793/0001628280-26-001793-index.htm)
 
+- **S-1/A** | Canary Staked CRO ETF  (CIK 0002069288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2069288/000199937126000668/0001999371-26-000668-index.htm)
+
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
 
