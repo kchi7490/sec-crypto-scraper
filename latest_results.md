@@ -18,11 +18,17 @@
 - **S-1** | Cyber Hornet S&P Crypto 10 ETF  (CIK 0002096385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/0001999371-26-000690-index.htm)
 
+- **S-1** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000224/0001683168-26-000224-index.htm)
+
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
 
 - **DEFA14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526009838/0001193125-26-009838-index.htm)
+
+- **S-1** | KRAKacquisition Corp  (CIK 0002082119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126000997/0001140361-26-000997-index.htm)
 
 - **424B3** | Lafayette Digital Acquisition Corp. I  (ZKP)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026003163/0001213900-26-003163-index.htm)
