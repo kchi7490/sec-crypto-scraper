@@ -15,6 +15,9 @@
 - **S-1/A** | Canary Staked CRO ETF  (CIK 0002069288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2069288/000199937126000668/0001999371-26-000668-index.htm)
 
+- **S-1** | Cyber Hornet S&P Crypto 10 ETF  (CIK 0002096385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/0001999371-26-000690-index.htm)
+
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
 
