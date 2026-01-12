@@ -42,3 +42,12 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526009867/0001193125-26-009867-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000015/0001279569-26-000015-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000016/0001279569-26-000016-index.htm)
+
+- **487** | FT 12691  (CIK 0002093785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093785/000144554626000228/0001445546-26-000228-index.htm)
+
