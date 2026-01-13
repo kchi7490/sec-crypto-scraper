@@ -123,6 +123,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003402/0001213900-26-003402-index.htm)
 
+- **40-17G** | AIM ETF Products Trust  (CIK 0001797318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1797318/000113322826000306/0001133228-26-000306-index.htm)
+
 - **NT-NCSR** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126000700/0001999371-26-000700-index.htm)
 
