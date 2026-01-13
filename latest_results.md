@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026003691/0001213900-26-003691-index.htm)
+
 - **DEFA14A** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001238/0001493152-26-001238-index.htm)
 
