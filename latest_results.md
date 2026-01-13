@@ -42,6 +42,9 @@
 - **424B3** | Lafayette Digital Acquisition Corp. I  (ZKP)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026003163/0001213900-26-003163-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026001928/0001628280-26-001928-index.htm)
+
 - **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226001240/0001493152-26-001240-index.htm)
 
@@ -95,6 +98,9 @@
 
 - **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000219/0001171843-26-000219-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000748/0001999371-26-000748-index.htm)
 
 - **487** | FT 12691  (CIK 0002093785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093785/000144554626000228/0001445546-26-000228-index.htm)
