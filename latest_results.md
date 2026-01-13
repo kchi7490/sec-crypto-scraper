@@ -24,6 +24,9 @@
 - **S-1** | Cyber Hornet S&P Crypto 10 ETF  (CIK 0002096385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/0001999371-26-000690-index.htm)
 
+- **10-K** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033426000074/0001640334-26-000074-index.htm)
+
 - **S-1** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000224/0001683168-26-000224-index.htm)
 
