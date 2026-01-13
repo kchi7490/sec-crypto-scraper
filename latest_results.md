@@ -57,6 +57,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226001945/0001493152-26-001945-index.htm)
 
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
 
@@ -114,6 +117,12 @@
 - **253G2** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000107997326000071/0001079973-26-000071-index.htm)
 
+- **S-1** | Liftoff Mobile, Inc.  (CIK 0001850351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526011825/0001193125-26-011825-index.htm)
+
+- **N-CEN** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000089418926000381/0000894189-26-000381-index.htm)
+
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926000366/0000894189-26-000366-index.htm)
 
@@ -122,6 +131,9 @@
 
 - **N-CEN** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000049/0002048251-26-000049-index.htm)
+
+- **N-CEN** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000089418926000385/0000894189-26-000385-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
