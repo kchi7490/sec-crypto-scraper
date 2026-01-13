@@ -54,6 +54,12 @@
 - **424B3** | Lafayette Digital Acquisition Corp. I  (ZKP)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026003163/0001213900-26-003163-index.htm)
 
+- **S-1** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226002093/0001493152-26-002093-index.htm)
+
+- **S-4** | Boost Run Inc.  (CIK 0002090646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226002095/0001493152-26-002095-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026001928/0001628280-26-001928-index.htm)
 
@@ -63,11 +69,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226001945/0001493152-26-001945-index.htm)
 
-- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
-
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
+
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526011043/0001193125-26-011043-index.htm)
