@@ -114,6 +114,9 @@
 - **485APOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000003/0002040519-26-000003-index.htm)
 
+- **N-CEN** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000049/0002048251-26-000049-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
 
