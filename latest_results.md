@@ -33,6 +33,9 @@
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
 
+- **424B3** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226002046/0001493152-26-002046-index.htm)
+
 - **8-K/A** | NextPlat Corp  (NXPL, NXPLW)  (CIK 0001058307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058307/000143774926001144/0001437749-26-001144-index.htm)
 
@@ -125,6 +128,12 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003402/0001213900-26-003402-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003917/0001213900-26-003917-index.htm)
+
+- **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126001089/0001140361-26-001089-index.htm)
 
 - **40-17G** | AIM ETF Products Trust  (CIK 0001797318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1797318/000113322826000306/0001133228-26-000306-index.htm)
