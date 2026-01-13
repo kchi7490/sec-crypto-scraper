@@ -111,6 +111,9 @@
 - **253G2** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000107997326000071/0001079973-26-000071-index.htm)
 
+- **N-CEN** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926000366/0000894189-26-000366-index.htm)
+
 - **485APOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000003/0002040519-26-000003-index.htm)
 
