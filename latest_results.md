@@ -9,6 +9,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226001237/0001493152-26-001237-index.htm)
 
+- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026003695/0001213900-26-003695-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526009830/0001193125-26-009830-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
+
+- **8-K/A** | NextPlat Corp  (NXPL, NXPLW)  (CIK 0001058307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1058307/000143774926001144/0001437749-26-001144-index.htm)
 
 - **DEFA14A** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526009838/0001193125-26-009838-index.htm)
@@ -77,6 +83,9 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000015/0001279569-26-000015-index.htm)
+
+- **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026003704/0001213900-26-003704-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226001955/0001493152-26-001955-index.htm)
