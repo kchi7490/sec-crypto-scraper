@@ -63,11 +63,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226001945/0001493152-26-001945-index.htm)
 
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
-
 - **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526011043/0001193125-26-011043-index.htm)
@@ -108,6 +108,9 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226001955/0001493152-26-001955-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000227/0001062993-26-000227-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000016/0001279569-26-000016-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000748/0001999371-26-000748-index.htm)
+
+- **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002084/0001493152-26-002084-index.htm)
 
 - **487** | FT 12691  (CIK 0002093785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093785/000144554626000228/0001445546-26-000228-index.htm)
@@ -140,6 +146,12 @@
 
 - **N-CEN** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000089418926000385/0000894189-26-000385-index.htm)
+
+- **485APOS** | DoubleLine ETF Trust  (CIK 0001886172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526011902/0001193125-26-011902-index.htm)
+
+- **N-CEN** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000141036826000877/0001410368-26-000877-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026003295/0001213900-26-003295-index.htm)
