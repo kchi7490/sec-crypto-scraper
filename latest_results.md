@@ -24,11 +24,11 @@
 - **S-1/A** | Canary Staked CRO ETF  (CIK 0002069288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2069288/000199937126000668/0001999371-26-000668-index.htm)
 
-- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003960/0001213900-26-003960-index.htm)
-
 - **S-1** | Cyber Hornet S&P Crypto 10 ETF  (CIK 0002096385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/0001999371-26-000690-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003960/0001213900-26-003960-index.htm)
 
 - **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003955/0001213900-26-003955-index.htm)
@@ -105,8 +105,14 @@
 - **S-1/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026003181/0001213900-26-003181-index.htm)
 
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/0001193125-26-012944-index.htm)
+
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526009867/0001193125-26-009867-index.htm)
+
+- **S-3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826000309/0001683168-26-000309-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026003438/0001213900-26-003438-index.htm)
@@ -122,6 +128,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926003577/0001104659-26-003577-index.htm)
+
+- **F-3/A** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226002259/0001493152-26-002259-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226001955/0001493152-26-001955-index.htm)
@@ -141,6 +150,9 @@
 - **F-3** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526000151/0001185185-26-000151-index.htm)
 
+- **424B5** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000059/0001731122-26-000059-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000748/0001999371-26-000748-index.htm)
 
@@ -158,6 +170,9 @@
 
 - **N-CEN** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000089418926000381/0000894189-26-000381-index.htm)
+
+- **N-CEN** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526012900/0001193125-26-012900-index.htm)
 
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926000366/0000894189-26-000366-index.htm)
@@ -181,6 +196,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000141036826000877/0001410368-26-000877-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026004353/0001213900-26-004353-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026004286/0001213900-26-004286-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
@@ -191,6 +209,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026003917/0001213900-26-003917-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026004362/0001213900-26-004362-index.htm)
 
 - **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126001089/0001140361-26-001089-index.htm)
