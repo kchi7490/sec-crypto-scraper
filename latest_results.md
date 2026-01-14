@@ -126,6 +126,9 @@
 - **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000219/0001171843-26-000219-index.htm)
 
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026004179/0001213900-26-004179-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126000748/0001999371-26-000748-index.htm)
 
