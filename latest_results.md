@@ -39,6 +39,9 @@
 - **S-1** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000224/0001683168-26-000224-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000207/0001477932-26-000207-index.htm)
+
 - **S-1/A** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026001756/0001628280-26-001756-index.htm)
 
@@ -221,6 +224,9 @@
 
 - **40-17G** | AIM ETF Products Trust  (CIK 0001797318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1797318/000113322826000306/0001133228-26-000306-index.htm)
+
+- **NT-NCEN** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126000895/0001999371-26-000895-index.htm)
 
 - **NT-NCSR** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126000700/0001999371-26-000700-index.htm)
