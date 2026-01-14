@@ -15,17 +15,20 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526009830/0001193125-26-009830-index.htm)
 
+- **8-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026004200/0001213900-26-004200-index.htm)
+
 - **10-Q** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000162828026001793/0001628280-26-001793-index.htm)
 
 - **S-1/A** | Canary Staked CRO ETF  (CIK 0002069288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2069288/000199937126000668/0001999371-26-000668-index.htm)
 
-- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003960/0001213900-26-003960-index.htm)
-
 - **S-1** | Cyber Hornet S&P Crypto 10 ETF  (CIK 0002096385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/0001999371-26-000690-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003960/0001213900-26-003960-index.htm)
 
 - **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003955/0001213900-26-003955-index.htm)
@@ -69,11 +72,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226001945/0001493152-26-001945-index.htm)
 
-- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
-
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526009811/0001193125-26-009811-index.htm)
+
+- **8-K** | Semler Scientific, Inc.  (SMLR)  (CIK 0001554859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554859/000110465926003354/0001104659-26-003354-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526011043/0001193125-26-011043-index.htm)
@@ -96,6 +99,9 @@
 - **424B3** | ECD Automotive Design, Inc.  (ECDA, ECDAW)  (CIK 0001922858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1922858/000143774926001030/0001437749-26-001030-index.htm)
 
+- **424B4** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026004197/0001213900-26-004197-index.htm)
+
 - **S-1/A** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026003181/0001213900-26-003181-index.htm)
 
@@ -113,6 +119,9 @@
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026003704/0001213900-26-003704-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926003577/0001104659-26-003577-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226001955/0001493152-26-001955-index.htm)
