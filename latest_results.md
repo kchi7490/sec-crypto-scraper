@@ -63,6 +63,9 @@
 - **S-4** | Boost Run Inc.  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226002095/0001493152-26-002095-index.htm)
 
+- **S-1/A** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026004386/0001213900-26-004386-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026001928/0001628280-26-001928-index.htm)
 
