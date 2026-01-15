@@ -42,6 +42,9 @@
 - **S-1** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226002093/0001493152-26-002093-index.htm)
 
+- **F-1** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026004713/0001213900-26-004713-index.htm)
+
 - **S-4** | Boost Run Inc.  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226002095/0001493152-26-002095-index.htm)
 
