@@ -15,6 +15,9 @@
 - **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026003955/0001213900-26-003955-index.htm)
 
+- **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
+
 - **10-K** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033426000074/0001640334-26-000074-index.htm)
 
@@ -48,6 +51,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526011043/0001193125-26-011043-index.htm)
 
+- **424B2** | JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026004457/0001213900-26-004457-index.htm)
+
 - **PRE 14C** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526011025/0001193125-26-011025-index.htm)
 
@@ -77,6 +83,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000227/0001062993-26-000227-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000007/0001383395-26-000007-index.htm)
 
 - **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000219/0001171843-26-000219-index.htm)
@@ -119,6 +128,9 @@
 
 - **485APOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526011902/0001193125-26-011902-index.htm)
+
+- **497** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000107/0001592900-26-000107-index.htm)
 
 - **N-CEN** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000141036826000877/0001410368-26-000877-index.htm)
