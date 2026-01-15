@@ -30,6 +30,9 @@
 - **424B3** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226002046/0001493152-26-002046-index.htm)
 
+- **S-4** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000166/0001185185-26-000166-index.htm)
+
 - **8-K/A** | NextPlat Corp  (NXPL, NXPLW)  (CIK 0001058307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058307/000143774926001144/0001437749-26-001144-index.htm)
 
