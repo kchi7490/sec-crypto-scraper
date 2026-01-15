@@ -129,6 +129,9 @@
 - **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002084/0001493152-26-002084-index.htm)
 
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026004744/0001213900-26-004744-index.htm)
+
 - **S-1** | Liftoff Mobile, Inc.  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526011825/0001193125-26-011825-index.htm)
 
