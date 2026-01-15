@@ -18,6 +18,9 @@
 - **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
 
+- **8-K** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm)
+
 - **10-K** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033426000074/0001640334-26-000074-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026001928/0001628280-26-001928-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226001945/0001493152-26-001945-index.htm)
@@ -83,6 +89,9 @@
 
 - **F-3/A** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226002259/0001493152-26-002259-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226002339/0001493152-26-002339-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226001955/0001493152-26-001955-index.htm)
