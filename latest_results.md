@@ -6,6 +6,9 @@
 - **POS AM** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001047/0001999371-26-001047-index.htm)
 
+- **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001095/0001999371-26-001095-index.htm)
+
 - **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
+
+- **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001097/0001999371-26-001097-index.htm)
 
 - **424B2** | JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026004457/0001213900-26-004457-index.htm)
@@ -113,6 +119,9 @@
 
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000107/0001592900-26-000107-index.htm)
+
+- **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465926004483/0001104659-26-004483-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026005034/0001213900-26-005034-index.htm)
