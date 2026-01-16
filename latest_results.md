@@ -33,6 +33,9 @@
 - **S-1/A** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026004766/0001213900-26-004766-index.htm)
 
+- **S-1/A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226002555/0001493152-26-002555-index.htm)
+
 - **S-1/A** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026004386/0001213900-26-004386-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
+
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/0001104659-26-004551-index.htm)
 
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001097/0001999371-26-001097-index.htm)
@@ -93,6 +99,9 @@
 - **424B5** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000059/0001731122-26-000059-index.htm)
 
+- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026005132/0001213900-26-005132-index.htm)
+
 - **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000101/0001096906-26-000101-index.htm)
 
@@ -134,6 +143,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026004702/0001213900-26-004702-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005151/0001213900-26-005151-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026004362/0001213900-26-004362-index.htm)
