@@ -9,6 +9,9 @@
 - **8-K** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm)
 
+- **S-1/A** | VanEck Avalanche ETF  (CIK 0002060717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/0001628280-26-002244-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000207/0001477932-26-000207-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **S-1/A** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026004386/0001213900-26-004386-index.htm)
+
+- **S-1** | DMINT, Inc.  (CIK 0001996450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390026004793/0001213900-26-004793-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
@@ -74,6 +80,9 @@
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026004744/0001213900-26-004744-index.htm)
+
+- **10-K** | BTCS Labs Inc.  (CIK 0002089189)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089189/000147793226000242/0001477932-26-000242-index.htm)
 
 - **N-CEN** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526012900/0001193125-26-012900-index.htm)
