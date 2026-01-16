@@ -9,6 +9,9 @@
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001095/0001999371-26-001095-index.htm)
 
+- **8-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926001459/0001437749-26-001459-index.htm)
+
 - **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/0001999371-26-001140-index.htm)
 
