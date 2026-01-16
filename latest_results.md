@@ -87,6 +87,9 @@
 - **424B5** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000059/0001731122-26-000059-index.htm)
 
+- **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000101/0001096906-26-000101-index.htm)
+
 - **487** | FT 12694  (CIK 0002093799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093799/000144554626000322/0001445546-26-000322-index.htm)
 
