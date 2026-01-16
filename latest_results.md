@@ -3,6 +3,9 @@
 - **8-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026004200/0001213900-26-004200-index.htm)
 
+- **POS AM** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001047/0001999371-26-001047-index.htm)
+
 - **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
 
