@@ -96,6 +96,9 @@
 - **S-1/A** | Liftoff Mobile, Inc.  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526014813/0001193125-26-014813-index.htm)
 
+- **424B2** | Marex Group plc  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312526015044/0001193125-26-015044-index.htm)
+
 - **10-K** | BTCS Labs Inc.  (CIK 0002089189)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089189/000147793226000242/0001477932-26-000242-index.htm)
 
