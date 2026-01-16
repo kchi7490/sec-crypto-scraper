@@ -9,6 +9,9 @@
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001095/0001999371-26-001095-index.htm)
 
+- **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/0001999371-26-001140-index.htm)
+
 - **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
 
@@ -21,11 +24,17 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000207/0001477932-26-000207-index.htm)
 
+- **S-1** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000376/0001829126-26-000376-index.htm)
+
 - **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926004078/0001104659-26-004078-index.htm)
 
 - **S-4** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000166/0001185185-26-000166-index.htm)
+
+- **PRE 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000375/0001683168-26-000375-index.htm)
 
 - **PREM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026005174/0001213900-26-005174-index.htm)
@@ -78,11 +87,23 @@
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/0001193125-26-012944-index.htm)
 
+- **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626000378/0001829126-26-000378-index.htm)
+
 - **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226002584/0001493152-26-002584-index.htm)
 
 - **S-3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826000309/0001683168-26-000309-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000109/0001640334-26-000109-index.htm)
+
+- **F-3** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226002625/0001493152-26-002625-index.htm)
+
+- **F-1** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226002626/0001493152-26-002626-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000412/0001654954-26-000412-index.htm)
@@ -141,11 +162,26 @@
 - **N-CEN** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526012900/0001193125-26-012900-index.htm)
 
+- **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026005247/0001213900-26-005247-index.htm)
+
 - **N-CEN** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000137887226000052/0001378872-26-000052-index.htm)
 
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026005232/0001213900-26-005232-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026005231/0001213900-26-005231-index.htm)
+
+- **1-K** | DOC.COM INC.  (CIK 0001925674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002635/0001493152-26-002635-index.htm)
+
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000107/0001592900-26-000107-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426000827/0001398344-26-000827-index.htm)
 
 - **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465926004483/0001104659-26-004483-index.htm)
@@ -167,6 +203,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026004362/0001213900-26-004362-index.htm)
+
+- **DEF 14C** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001510/0001140361-26-001510-index.htm)
 
 - **NT-NCEN** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126000895/0001999371-26-000895-index.htm)
