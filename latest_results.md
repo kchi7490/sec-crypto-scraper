@@ -27,6 +27,9 @@
 - **S-4** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000166/0001185185-26-000166-index.htm)
 
+- **PREM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026005174/0001213900-26-005174-index.htm)
+
 - **F-1** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026004713/0001213900-26-004713-index.htm)
 
@@ -57,6 +60,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226002337/0001493152-26-002337-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000581/0001214659-26-000581-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002335/0001493152-26-002335-index.htm)
 
@@ -66,11 +72,17 @@
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/0001193125-26-012944-index.htm)
 
+- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226002584/0001493152-26-002584-index.htm)
+
 - **S-3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826000309/0001683168-26-000309-index.htm)
 
 - **6-K** | Argo Blockchain Plc  (ARBK, ARBKF)  (CIK 0001841675)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000412/0001654954-26-000412-index.htm)
+
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526015456/0001193125-26-015456-index.htm)
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026004077/0001213900-26-004077-index.htm)
