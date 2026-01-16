@@ -48,6 +48,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326000616/0000950103-26-000616-index.htm)
+
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/0001104659-26-004551-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **424B4** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026004197/0001213900-26-004197-index.htm)
+
+- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390026005187/0001213900-26-005187-index.htm)
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526012944/0001193125-26-012944-index.htm)
