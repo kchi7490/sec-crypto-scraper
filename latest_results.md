@@ -57,6 +57,9 @@
 - **S-3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826000309/0001683168-26-000309-index.htm)
 
+- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000412/0001654954-26-000412-index.htm)
+
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026004077/0001213900-26-004077-index.htm)
 
@@ -83,6 +86,9 @@
 
 - **424B5** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000059/0001731122-26-000059-index.htm)
+
+- **487** | FT 12694  (CIK 0002093799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093799/000144554626000322/0001445546-26-000322-index.htm)
 
 - **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026004744/0001213900-26-004744-index.htm)
