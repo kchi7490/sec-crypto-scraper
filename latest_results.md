@@ -58,6 +58,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026004077/0001213900-26-004077-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926004350/0001104659-26-004350-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926003577/0001104659-26-003577-index.htm)
 
 - **F-3/A** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
