@@ -12,23 +12,11 @@
 - **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/0001999371-26-001140-index.htm)
 
-- **S-1** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026004453/0001213900-26-004453-index.htm)
-
-- **8-K** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000089542126000007/0000895421-26-000007-index.htm)
-
 - **S-1/A** | VanEck Avalanche ETF  (CIK 0002060717)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/0001628280-26-002244-index.htm)
 
 - **S-1** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000376/0001829126-26-000376-index.htm)
-
-- **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926004078/0001104659-26-004078-index.htm)
-
-- **S-4** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000166/0001185185-26-000166-index.htm)
 
 - **PRE 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000375/0001683168-26-000375-index.htm)
@@ -36,20 +24,11 @@
 - **PREM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026005174/0001213900-26-005174-index.htm)
 
-- **F-1** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026004713/0001213900-26-004713-index.htm)
-
-- **S-1/A** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026004766/0001213900-26-004766-index.htm)
-
 - **S-1/A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226002555/0001493152-26-002555-index.htm)
 
 - **S-1** | DMINT, Inc.  (CIK 0001996450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390026004793/0001213900-26-004793-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026002115/0001628280-26-002115-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326000616/0000950103-26-000616-index.htm)
@@ -60,17 +39,8 @@
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001097/0001999371-26-001097-index.htm)
 
-- **424B2** | JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026004457/0001213900-26-004457-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226002337/0001493152-26-002337-index.htm)
-
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000581/0001214659-26-000581-index.htm)
-
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002335/0001493152-26-002335-index.htm)
 
 - **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390026005187/0001213900-26-005187-index.htm)
@@ -99,12 +69,6 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926004350/0001104659-26-004350-index.htm)
 
-- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226002339/0001493152-26-002339-index.htm)
-
-- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000007/0001383395-26-000007-index.htm)
-
 - **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026005132/0001213900-26-005132-index.htm)
 
@@ -113,9 +77,6 @@
 
 - **487** | FT 12694  (CIK 0002093799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093799/000144554626000322/0001445546-26-000322-index.htm)
-
-- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026004744/0001213900-26-004744-index.htm)
 
 - **S-1/A** | Liftoff Mobile, Inc.  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526014813/0001193125-26-014813-index.htm)
@@ -138,9 +99,6 @@
 - **1-K** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002635/0001493152-26-002635-index.htm)
 
-- **497** | EA Series Trust  (CIK 0001592900)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000107/0001592900-26-000107-index.htm)
-
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426000827/0001398344-26-000827-index.htm)
 
@@ -149,9 +107,6 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026005034/0001213900-26-005034-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026004702/0001213900-26-004702-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005151/0001213900-26-005151-index.htm)
