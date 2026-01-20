@@ -1,7 +1,13 @@
 ## 📁 Other Filings
 
+- **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005674/0001213900-26-005674-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002762/0001493152-26-002762-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005679/0001213900-26-005679-index.htm)
 
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526016073/0001193125-26-016073-index.htm)
@@ -42,6 +48,9 @@
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526015873/0001193125-26-015873-index.htm)
 
+- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000103/0001079973-26-000103-index.htm)
+
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000615/0001214659-26-000615-index.htm)
 
@@ -54,6 +63,9 @@
 - **6-K** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/0001213900-26-005367-index.htm)
 
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005680/0001213900-26-005680-index.htm)
+
 - **AW** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005666/0001213900-26-005666-index.htm)
 
@@ -63,8 +75,14 @@
 - **485APOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526016617/0001193125-26-016617-index.htm)
 
+- **485APOS** | Transamerica Financial Life Insurance Co  (CIK 0001571931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571931/000113322826000373/0001133228-26-000373-index.htm)
+
 - **485APOS** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000113322826000369/0001133228-26-000369-index.htm)
+
+- **N-CEN/A** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000474/0002048251-26-000474-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005662/0001213900-26-005662-index.htm)
