@@ -3,6 +3,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226002762/0001493152-26-002762-index.htm)
 
+- **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526016073/0001193125-26-016073-index.htm)
+
+- **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
+
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005379/0001213900-26-005379-index.htm)
 
@@ -35,6 +41,9 @@
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226002698/0001493152-26-002698-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226002767/0001493152-26-002767-index.htm)
 
 - **6-K** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/0001213900-26-005367-index.htm)
