@@ -18,6 +18,9 @@
 - **S-1/A** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000107/0001096906-26-000107-index.htm)
 
+- **S-4/A** | Parataxis Holdings Inc.  (PRTX)  (CIK 0002079180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926004871/0001104659-26-004871-index.htm)
+
 - **424B4** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926004766/0001104659-26-004766-index.htm)
 
