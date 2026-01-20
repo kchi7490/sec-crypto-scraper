@@ -24,6 +24,9 @@
 - **424B4** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926004766/0001104659-26-004766-index.htm)
 
+- **S-1** | Clear Street Group Inc.  (CIK 0001881567)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526016568/0001193125-26-016568-index.htm)
+
 - **F-1/A** | Picpay Holdings Netherlands B.V.  (PICS)  (CIK 0001841644)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026005383/0001213900-26-005383-index.htm)
 
@@ -50,6 +53,21 @@
 
 - **6-K** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/0001213900-26-005367-index.htm)
+
+- **AW** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005666/0001213900-26-005666-index.htm)
+
+- **485APOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526016607/0001193125-26-016607-index.htm)
+
+- **485APOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526016617/0001193125-26-016617-index.htm)
+
+- **485APOS** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000113322826000369/0001133228-26-000369-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005662/0001213900-26-005662-index.htm)
 
 - **425** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005384/0001213900-26-005384-index.htm)
