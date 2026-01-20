@@ -6,6 +6,9 @@
 - **424B4** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926004766/0001104659-26-004766-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226002738/0001493152-26-002738-index.htm)
+
 - **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526015873/0001193125-26-015873-index.htm)
 
@@ -14,4 +17,7 @@
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226002698/0001493152-26-002698-index.htm)
+
+- **6-K** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/0001213900-26-005367-index.htm)
 
