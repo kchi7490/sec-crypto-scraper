@@ -27,6 +27,9 @@
 - **424B5** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926001489/0001437749-26-001489-index.htm)
 
+- **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026005760/0001213900-26-005760-index.htm)
+
 - **S-1/A** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000107/0001096906-26-000107-index.htm)
 
@@ -98,4 +101,10 @@
 
 - **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793226000285/0001477932-26-000285-index.htm)
+
+- **NT-NCSR/A** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126001269/0001999371-26-001269-index.htm)
+
+- **NT-NCEN/A** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126001271/0001999371-26-001271-index.htm)
 
