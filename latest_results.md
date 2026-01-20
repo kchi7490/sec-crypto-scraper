@@ -1,116 +1,17 @@
 ## 📁 Other Filings
 
-- **POS AM** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001047/0001999371-26-001047-index.htm)
+- **S-1/A** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000107/0001096906-26-000107-index.htm)
 
-- **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001095/0001999371-26-001095-index.htm)
+- **424B4** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926004766/0001104659-26-004766-index.htm)
 
-- **8-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926001459/0001437749-26-001459-index.htm)
+- **8-K** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526015873/0001193125-26-015873-index.htm)
 
-- **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/0001999371-26-001140-index.htm)
+- **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000615/0001214659-26-000615-index.htm)
 
-- **S-1/A** | VanEck Avalanche ETF  (CIK 0002060717)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/0001628280-26-002244-index.htm)
-
-- **S-1** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000376/0001829126-26-000376-index.htm)
-
-- **PRE 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000375/0001683168-26-000375-index.htm)
-
-- **PREM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026005174/0001213900-26-005174-index.htm)
-
-- **S-1/A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226002555/0001493152-26-002555-index.htm)
-
-- **S-1** | DMINT, Inc.  (CIK 0001996450)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390026004793/0001213900-26-004793-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326000616/0000950103-26-000616-index.htm)
-
-- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/0001104659-26-004551-index.htm)
-
-- **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126001097/0001999371-26-001097-index.htm)
-
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000581/0001214659-26-000581-index.htm)
-
-- **S-1/A** | White Pearl Acquisition Corp.  (CIK 0002081536)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390026005187/0001213900-26-005187-index.htm)
-
-- **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626000378/0001829126-26-000378-index.htm)
-
-- **8-K** | Sharps Technology Inc.  (STSS, STSSW)  (CIK 0001737995)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226002584/0001493152-26-002584-index.htm)
-
-- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000109/0001640334-26-000109-index.htm)
-
-- **F-3** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226002625/0001493152-26-002625-index.htm)
-
-- **F-1** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226002626/0001493152-26-002626-index.htm)
-
-- **6-K** | Argo Blockchain Plc  (ARBK, ARBKF)  (CIK 0001841675)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000165495426000412/0001654954-26-000412-index.htm)
-
-- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526015456/0001193125-26-015456-index.htm)
-
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926004350/0001104659-26-004350-index.htm)
-
-- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026005132/0001213900-26-005132-index.htm)
-
-- **1-A/A** | SpotitEarly, Inc.  (CIK 0002077992)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000101/0001096906-26-000101-index.htm)
-
-- **487** | FT 12694  (CIK 0002093799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093799/000144554626000322/0001445546-26-000322-index.htm)
-
-- **S-1/A** | Liftoff Mobile, Inc.  (CIK 0001850351)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526014813/0001193125-26-014813-index.htm)
-
-- **424B2** | Marex Group plc  (MRX)  (CIK 0001997464)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312526015044/0001193125-26-015044-index.htm)
-
-- **10-K** | BTCS Labs Inc.  (CIK 0002089189)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089189/000147793226000242/0001477932-26-000242-index.htm)
-
-- **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026005247/0001213900-26-005247-index.htm)
-
-- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026005232/0001213900-26-005232-index.htm)
-
-- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026005231/0001213900-26-005231-index.htm)
-
-- **1-K** | DOC.COM INC.  (CIK 0001925674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002635/0001493152-26-002635-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426000827/0001398344-26-000827-index.htm)
-
-- **N-2/A** | Capital Group KKR U.S. Equity (plus)  (CIK 0002078301)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078301/000110465926004483/0001104659-26-004483-index.htm)
-
-- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026005034/0001213900-26-005034-index.htm)
-
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005151/0001213900-26-005151-index.htm)
-
-- **DEF 14C** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001510/0001140361-26-001510-index.htm)
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226002698/0001493152-26-002698-index.htm)
 
