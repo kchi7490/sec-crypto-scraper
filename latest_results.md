@@ -123,11 +123,17 @@
 - **40-APP** | F/m Investments LLC  (CIK 0001834499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1834499/000139834426000957/0001398344-26-000957-index.htm)
 
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000233/0001592900-26-000233-index.htm)
+
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000474/0002048251-26-000474-index.htm)
 
 - **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002944/0001493152-26-002944-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006130/0001213900-26-006130-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005662/0001213900-26-005662-index.htm)
