@@ -18,6 +18,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226003101/0001493152-26-003101-index.htm)
 
+- **8-K** | High Roller Technologies, Inc.  (ROLR)  (CIK 0001947210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947210/000175392626000160/0001753926-26-000160-index.htm)
+
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
 
@@ -69,6 +72,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526016002/0001193125-26-016002-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001875/0001140361-26-001875-index.htm)
+
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026005376/0001213900-26-005376-index.htm)
 
@@ -83,6 +89,9 @@
 
 - **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000103/0001079973-26-000103-index.htm)
+
+- **S-1** | Columbus Circle Capital Corp II  (CIK 0002088805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026006329/0001213900-26-006329-index.htm)
 
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926000615/0001214659-26-000615-index.htm)
@@ -158,4 +167,7 @@
 
 - **NT-NCEN/A** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126001271/0001999371-26-001271-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326000805/0000950103-26-000805-index.htm)
 
