@@ -15,6 +15,9 @@
 - **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026006096/0001213900-26-006096-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226003101/0001493152-26-003101-index.htm)
+
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **424B4** | FG Imperii Acquisition Corp.  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926004766/0001104659-26-004766-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326000792/0000950103-26-000792-index.htm)
 
 - **S-1** | Clear Street Group Inc.  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526016568/0001193125-26-016568-index.htm)
@@ -134,6 +140,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006130/0001213900-26-006130-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026006206/0001213900-26-006206-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005662/0001213900-26-005662-index.htm)
