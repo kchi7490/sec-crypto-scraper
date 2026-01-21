@@ -72,11 +72,17 @@
 - **6-K** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026005367/0001213900-26-005367-index.htm)
 
+- **6-K/A** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000354/0001171843-26-000354-index.htm)
+
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005680/0001213900-26-005680-index.htm)
 
 - **AW** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026005666/0001213900-26-005666-index.htm)
+
+- **10-Q** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315226002942/0001493152-26-002942-index.htm)
 
 - **485APOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526016607/0001193125-26-016607-index.htm)
@@ -92,6 +98,9 @@
 
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000474/0002048251-26-000474-index.htm)
+
+- **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002944/0001493152-26-002944-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026005662/0001213900-26-005662-index.htm)
