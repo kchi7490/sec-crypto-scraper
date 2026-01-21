@@ -12,11 +12,17 @@
 - **424B5** | Bakkt Holdings, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526016073/0001193125-26-016073-index.htm)
 
+- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026006096/0001213900-26-006096-index.htm)
+
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
 
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005379/0001213900-26-005379-index.htm)
+
+- **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000447/0001683168-26-000447-index.htm)
 
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226002901/0001493152-26-002901-index.htm)
@@ -32,6 +38,9 @@
 
 - **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026005984/0001213900-26-005984-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226003555/0001839882-26-003555-index.htm)
 
 - **S-1/A** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000107/0001096906-26-000107-index.htm)
@@ -110,6 +119,9 @@
 
 - **485APOS** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000113322826000369/0001133228-26-000369-index.htm)
+
+- **40-APP** | F/m Investments LLC  (CIK 0001834499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1834499/000139834426000957/0001398344-26-000957-index.htm)
 
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126000474/0002048251-26-000474-index.htm)
