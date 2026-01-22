@@ -27,11 +27,11 @@
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
 
-- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
-
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005379/0001213900-26-005379-index.htm)
+
+- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
 - **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000447/0001683168-26-000447-index.htm)
@@ -71,6 +71,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326000792/0000950103-26-000792-index.htm)
+
+- **S-1** | Spring Valley Acquisition Corp. IV  (CIK 0002098242)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2098242/000110465926005848/0001104659-26-005848-index.htm)
 
 - **S-1** | Clear Street Group Inc.  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526016568/0001193125-26-016568-index.htm)
