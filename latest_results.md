@@ -21,8 +21,14 @@
 - **8-K** | High Roller Technologies, Inc.  (ROLR)  (CIK 0001947210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947210/000175392626000160/0001753926-26-000160-index.htm)
 
+- **ARS** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526019478/0001193125-26-019478-index.htm)
+
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
+
+- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005379/0001213900-26-005379-index.htm)
@@ -47,6 +53,9 @@
 
 - **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026005984/0001213900-26-005984-index.htm)
+
+- **485BPOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001456/0001999371-26-001456-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226003555/0001839882-26-003555-index.htm)
@@ -84,8 +93,14 @@
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026005376/0001213900-26-005376-index.htm)
 
+- **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226003250/0001493152-26-003250-index.htm)
+
 - **F-1/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626000422/0001829126-26-000422-index.htm)
+
+- **DEF 14A** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526019447/0001193125-26-019447-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001919/0001140361-26-001919-index.htm)
@@ -162,11 +177,17 @@
 - **N-1A** | CAPITAL-FORCE ETF TRUST  (CIK 0002104659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104659/000121390026006524/0001213900-26-006524-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026006690/0001213900-26-006690-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006633/0001213900-26-006633-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006130/0001213900-26-006130-index.htm)
+
+- **497K** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001458/0001999371-26-001458-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026006206/0001213900-26-006206-index.htm)
