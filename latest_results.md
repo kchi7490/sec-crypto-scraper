@@ -30,11 +30,11 @@
 - **424B5** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226002773/0001493152-26-002773-index.htm)
 
-- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
-
 - **8-K** | Signing Day Sports, Inc.  (SGN)  (CIK 0001898474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898474/000121390026005379/0001213900-26-005379-index.htm)
+
+- **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
 - **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000447/0001683168-26-000447-index.htm)
