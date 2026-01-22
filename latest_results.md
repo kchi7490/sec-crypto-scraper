@@ -156,6 +156,9 @@
 - **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002944/0001493152-26-002944-index.htm)
 
+- **N-1A** | CAPITAL-FORCE ETF TRUST  (CIK 0002104659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104659/000121390026006524/0001213900-26-006524-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006130/0001213900-26-006130-index.htm)
 
