@@ -30,6 +30,9 @@
 - **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000447/0001683168-26-000447-index.htm)
 
+- **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026006393/0001213900-26-006393-index.htm)
+
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226002901/0001493152-26-002901-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **F-1/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626000422/0001829126-26-000422-index.htm)
+
+- **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001919/0001140361-26-001919-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226002738/0001493152-26-002738-index.htm)
@@ -137,6 +143,9 @@
 
 - **40-APP** | F/m Investments LLC  (CIK 0001834499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1834499/000139834426000957/0001398344-26-000957-index.htm)
+
+- **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026002976/0001628280-26-002976-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000233/0001592900-26-000233-index.htm)
