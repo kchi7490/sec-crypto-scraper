@@ -21,6 +21,9 @@
 - **S-1** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226003323/0001493152-26-003323-index.htm)
 
+- **424B3** | VanEck Avalanche ETF  (CIK 0002060717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000162828026003238/0001628280-26-003238-index.htm)
+
 - **424B4** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026003180/0001628280-26-003180-index.htm)
 
@@ -104,6 +107,12 @@
 
 - **F-3/A** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526000235/0001185185-26-000235-index.htm)
+
+- **S-1** | ARK CoinDesk 20 ex-Bitcoin Crypto ETF  (CIK 0002105930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2105930/000121390026007062/0001213900-26-007062-index.htm)
+
+- **S-1** | ARK CoinDesk 20 Crypto ETF  (CIK 0002106116)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106116/000121390026007058/0001213900-26-007058-index.htm)
 
 - **10-Q** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315226002942/0001493152-26-002942-index.htm)
