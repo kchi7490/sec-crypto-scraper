@@ -130,10 +130,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000205/0001003715-26-000205-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000199/0001003715-26-000199-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000201/0001003715-26-000201-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000201/0001003715-26-000201-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000199/0001003715-26-000199-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000203/0001003715-26-000203-index.htm)
@@ -142,13 +142,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000198/0001003715-26-000198-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
-
-- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000207/0001003715-26-000207-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
+
+- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000206/0001003715-26-000206-index.htm)
@@ -158,6 +158,9 @@
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000045/0001081400-26-000045-index.htm)
+
+- **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000008/0001611331-26-000008-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000048/0001081400-26-000048-index.htm)
