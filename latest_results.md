@@ -18,6 +18,9 @@
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
+- **S-1** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226003323/0001493152-26-003323-index.htm)
+
 - **424B4** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026003180/0001628280-26-003180-index.htm)
 
@@ -87,6 +90,9 @@
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026006770/0001213900-26-006770-index.htm)
 
+- **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026006926/0001213900-26-006926-index.htm)
+
 - **6-K/A** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000354/0001171843-26-000354-index.htm)
 
@@ -98,6 +104,9 @@
 
 - **40-APP** | F/m Investments LLC  (CIK 0001834499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1834499/000139834426000957/0001398344-26-000957-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000045/0001081400-26-000045-index.htm)
 
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026002976/0001628280-26-002976-index.htm)
