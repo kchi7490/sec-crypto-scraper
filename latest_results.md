@@ -142,13 +142,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000198/0001003715-26-000198-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000207/0001003715-26-000207-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000206/0001003715-26-000206-index.htm)
