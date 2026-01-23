@@ -18,6 +18,12 @@
 - **ARS** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526019478/0001193125-26-019478-index.htm)
 
+- **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026007343/0001213900-26-007343-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026007347/0001213900-26-007347-index.htm)
+
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
@@ -178,13 +184,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000198/0001003715-26-000198-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
+
+- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000207/0001003715-26-000207-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
-
-- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000206/0001003715-26-000206-index.htm)
