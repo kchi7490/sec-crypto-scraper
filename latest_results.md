@@ -30,6 +30,12 @@
 - **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026006393/0001213900-26-006393-index.htm)
 
+- **8-K** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP)  (CIK 0000049196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000114036126002118/0001140361-26-002118-index.htm)
+
+- **S-1** | Grayscale BNB ETF  (CIK 0002106762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526020367/0001193125-26-020367-index.htm)
+
 - **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026005984/0001213900-26-005984-index.htm)
 
