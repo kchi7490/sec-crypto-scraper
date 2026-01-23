@@ -39,6 +39,12 @@
 - **S-1** | Grayscale BNB ETF  (CIK 0002106762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526020367/0001193125-26-020367-index.htm)
 
+- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226003381/0001493152-26-003381-index.htm)
+
+- **S-1/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000110/0001731122-26-000110-index.htm)
+
 - **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026005984/0001213900-26-005984-index.htm)
 
@@ -56,6 +62,9 @@
 
 - **10-K** | INTEL CORP  (INTC)  (CIK 0000050863)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/0000050863-26-000011-index.htm)
+
+- **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226003380/0001493152-26-003380-index.htm)
 
 - **424B3** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226003277/0001493152-26-003277-index.htm)
@@ -96,6 +105,9 @@
 - **424B3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826000473/0001683168-26-000473-index.htm)
 
+- **N-2ASR** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526021055/0001193125-26-021055-index.htm)
+
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026006770/0001213900-26-006770-index.htm)
 
@@ -130,10 +142,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000205/0001003715-26-000205-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000199/0001003715-26-000199-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000201/0001003715-26-000201-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000201/0001003715-26-000201-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000199/0001003715-26-000199-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000203/0001003715-26-000203-index.htm)
@@ -142,13 +154,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000198/0001003715-26-000198-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
+
+- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000207/0001003715-26-000207-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
-
-- **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000206/0001003715-26-000206-index.htm)
@@ -206,6 +218,9 @@
 
 - **497K** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001458/0001999371-26-001458-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026007217/0001213900-26-007217-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026006206/0001213900-26-006206-index.htm)
