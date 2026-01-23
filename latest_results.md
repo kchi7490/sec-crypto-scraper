@@ -6,6 +6,9 @@
 - **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026006096/0001213900-26-006096-index.htm)
 
+- **8-K** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226003440/0001493152-26-003440-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226003101/0001493152-26-003101-index.htm)
 
@@ -60,6 +63,9 @@
 - **424B5** | Interactive Strength, Inc.  (TRNR)  (CIK 0001785056)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785056/000119312526021149/0001193125-26-021149-index.htm)
 
+- **S-1/A** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226003446/0001493152-26-003446-index.htm)
+
 - **S-1** | Spring Valley Acquisition Corp. IV  (CIK 0002098242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2098242/000110465926005848/0001104659-26-005848-index.htm)
 
@@ -93,6 +99,9 @@
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126001919/0001140361-26-001919-index.htm)
 
+- **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126002238/0001140361-26-002238-index.htm)
+
 - **DFAN14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000114036126002065/0001140361-26-002065-index.htm)
 
@@ -111,8 +120,14 @@
 - **N-2ASR** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526021055/0001193125-26-021055-index.htm)
 
+- **6-K** | Perpetuals.com Ltd  (ELWS)  (CIK 0001944399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1944399/000121390026007311/0001213900-26-007311-index.htm)
+
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026006770/0001213900-26-006770-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026007292/0001213900-26-007292-index.htm)
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226003402/0001493152-26-003402-index.htm)
@@ -209,6 +224,9 @@
 
 - **N-1A** | CAPITAL-FORCE ETF TRUST  (CIK 0002104659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104659/000121390026006524/0001213900-26-006524-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426001118/0001398344-26-001118-index.htm)
 
 - **N-CSR** | MFS INVESTMENT GRADE MUNICIPAL TRUST  (CXH)  (CIK 0000847411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847411/000119312526020486/0001193125-26-020486-index.htm)
