@@ -18,6 +18,9 @@
 - **8-K** | Tharimmune, Inc.  (THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226003242/0001493152-26-003242-index.htm)
 
+- **424B4** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000162828026003180/0001628280-26-003180-index.htm)
+
 - **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000447/0001683168-26-000447-index.htm)
 
@@ -38,6 +41,12 @@
 
 - **S-1** | Spring Valley Acquisition Corp. IV  (CIK 0002098242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2098242/000110465926005848/0001104659-26-005848-index.htm)
+
+- **10-K** | INTEL CORP  (INTC)  (CIK 0000050863)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/0000050863-26-000011-index.htm)
+
+- **424B3** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226003277/0001493152-26-003277-index.htm)
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226003008/0001493152-26-003008-index.htm)
@@ -62,6 +71,9 @@
 
 - **DFAN14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000114036126002065/0001140361-26-002065-index.htm)
+
+- **DEF 14C** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526020090/0001193125-26-020090-index.htm)
 
 - **S-1** | Columbus Circle Capital Corp II  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026006329/0001213900-26-006329-index.htm)
@@ -93,6 +105,9 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026000233/0001592900-26-000233-index.htm)
 
+- **13F-HR** | Steigerwald, Gordon & Koch Inc.  (CIK 0001731876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731876/000173187626000001/0001731876-26-000001-index.htm)
+
 - **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226002944/0001493152-26-002944-index.htm)
 
@@ -101,6 +116,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026006690/0001213900-26-006690-index.htm)
+
+- **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126002072/0001140361-26-002072-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026006633/0001213900-26-006633-index.htm)
