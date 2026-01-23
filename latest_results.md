@@ -117,6 +117,9 @@
 - **10-Q** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315226002942/0001493152-26-002942-index.htm)
 
+- **487** | FT 12696  (CIK 0002093797)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093797/000144554626000602/0001445546-26-000602-index.htm)
+
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000200/0001003715-26-000200-index.htm)
 
