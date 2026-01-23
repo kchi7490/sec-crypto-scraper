@@ -130,13 +130,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000198/0001003715-26-000198-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000207/0001003715-26-000207-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000202/0001003715-26-000202-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000204/0001003715-26-000204-index.htm)
 
 - **NPORT-P** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000100371526000206/0001003715-26-000206-index.htm)
@@ -146,6 +146,9 @@
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000045/0001081400-26-000045-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000048/0001081400-26-000048-index.htm)
 
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026002976/0001628280-26-002976-index.htm)
