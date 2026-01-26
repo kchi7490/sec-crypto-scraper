@@ -39,3 +39,6 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126001576/0001999371-26-001576-index.htm)
 
+- **485BPOS** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126001640/0001999371-26-001640-index.htm)
+
