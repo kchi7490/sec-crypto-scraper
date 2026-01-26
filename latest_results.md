@@ -6,6 +6,9 @@
 - **S-1** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926001991/0001437749-26-001991-index.htm)
 
+- **DEF 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000507/0001683168-26-000507-index.htm)
+
 - **424B3** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026007465/0001213900-26-007465-index.htm)
 
