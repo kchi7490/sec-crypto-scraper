@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226003536/0001493152-26-003536-index.htm)
+
 - **S-1** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926001991/0001437749-26-001991-index.htm)
 
@@ -14,6 +17,12 @@
 
 - **F-1** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226003489/0001493152-26-003489-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526021726/0001193125-26-021726-index.htm)
+
+- **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026007471/0001213900-26-007471-index.htm)
 
 - **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226003503/0001493152-26-003503-index.htm)
