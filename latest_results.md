@@ -63,6 +63,9 @@
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526022674/0001193125-26-022674-index.htm)
 
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526024805/0001193125-26-024805-index.htm)
+
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826000568/0001683168-26-000568-index.htm)
 
@@ -72,8 +75,14 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826000557/0001683168-26-000557-index.htm)
 
+- **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000448/0001062993-26-000448-index.htm)
+
 - **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
+
+- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226000469/0001580642-26-000469-index.htm)
 
 - **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026007848/0001213900-26-007848-index.htm)
@@ -160,10 +169,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
@@ -201,6 +210,9 @@
 - **485BPOS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000199937126001705/0001999371-26-001705-index.htm)
 
+- **485BPOS** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000119312526024870/0001193125-26-024870-index.htm)
+
 - **485BPOS** | FORUM FUNDS II  (CIK 0001576367)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1576367/000139834426001357/0001398344-26-001357-index.htm)
 
@@ -212,6 +224,9 @@
 
 - **NPORT-P** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000207169126001208/0002071691-26-001208-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
 
 - **497K** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001723/0001999371-26-001723-index.htm)
