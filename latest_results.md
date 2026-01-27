@@ -6,8 +6,14 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226003536/0001493152-26-003536-index.htm)
 
+- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026007841/0001213900-26-007841-index.htm)
+
 - **8-K** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226003620/0001493152-26-003620-index.htm)
+
+- **S-1/A** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926002130/0001437749-26-002130-index.htm)
 
 - **424B5** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226003635/0001493152-26-003635-index.htm)
@@ -23,6 +29,9 @@
 
 - **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526022813/0001193125-26-022813-index.htm)
+
+- **PRER14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026007904/0001213900-26-007904-index.htm)
 
 - **DEF 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000507/0001683168-26-000507-index.htm)
@@ -51,8 +60,14 @@
 - **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
 
+- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026007848/0001213900-26-007848-index.htm)
+
 - **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526022623/0001193125-26-022623-index.htm)
+
+- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026007847/0001213900-26-007847-index.htm)
 
 - **N-14 8C/A** | Oaktree Strategic Credit Fund  (CIK 0001872371)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872371/000119312526022694/0001193125-26-022694-index.htm)
