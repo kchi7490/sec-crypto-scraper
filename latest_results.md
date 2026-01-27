@@ -93,6 +93,9 @@
 - **424B2** | ROYAL BANK OF CANADA  (RY, RYLBF)  (CIK 0001000275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1000275/000095010326000968/0000950103-26-000968-index.htm)
 
+- **487** | FT 12697  (CIK 0002093807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093807/000144554626000643/0001445546-26-000643-index.htm)
+
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126001223/0002071691-26-001223-index.htm)
 
@@ -142,10 +145,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001221/0002071691-26-001221-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
