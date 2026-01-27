@@ -109,10 +109,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001227/0002071691-26-001227-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001229/0002071691-26-001229-index.htm)
@@ -145,10 +145,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
@@ -158,6 +158,9 @@
 
 - **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826000675/0001133228-26-000675-index.htm)
+
+- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
 
 - **485BPOS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000199937126001705/0001999371-26-001705-index.htm)
