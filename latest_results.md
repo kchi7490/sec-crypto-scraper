@@ -87,11 +87,11 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826000557/0001683168-26-000557-index.htm)
 
-- **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
-
 - **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000448/0001062993-26-000448-index.htm)
+
+- **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226000469/0001580642-26-000469-index.htm)
@@ -166,10 +166,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001227/0002071691-26-001227-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001229/0002071691-26-001229-index.htm)
@@ -228,17 +228,20 @@
 - **485BPOS** | Calvert Impact Fund, Inc.  (CIK 0001121624)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121624/000113322826000706/0001133228-26-000706-index.htm)
 
-- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
-
 - **485BPOS** | Calvert World Values Fund, Inc.  (CIK 0000884110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/884110/000113322826000709/0001133228-26-000709-index.htm)
+
+- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
 
 - **485BPOS** | Calvert Fund  (CIK 0000701039)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701039/000113322826000703/0001133228-26-000703-index.htm)
 
 - **485BPOS** | Eaton Vance Municipals Trust  (CIK 0000778365)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/778365/000113322826000714/0001133228-26-000714-index.htm)
+
+- **485BPOS** | 360 Funds  (CIK 0001319067)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1319067/000199937126001869/0001999371-26-001869-index.htm)
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026008327/0001213900-26-008327-index.htm)
@@ -252,6 +255,9 @@
 - **485BPOS** | FORUM FUNDS II  (CIK 0001576367)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1576367/000139834426001357/0001398344-26-001357-index.htm)
 
+- **485BPOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526026922/0001193125-26-026922-index.htm)
+
 - **1-K/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226003503/0001493152-26-003503-index.htm)
 
@@ -263,6 +269,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026008724/0001213900-26-008724-index.htm)
 
 - **497K** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001723/0001999371-26-001723-index.htm)
