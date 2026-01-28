@@ -87,11 +87,11 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826000557/0001683168-26-000557-index.htm)
 
-- **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
-
 - **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000448/0001062993-26-000448-index.htm)
+
+- **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226000469/0001580642-26-000469-index.htm)
@@ -131,6 +131,12 @@
 
 - **6-K** | Birkenstock Holding plc  (BIRK)  (CIK 0001977102)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977102/000119312526025618/0001193125-26-025618-index.htm)
+
+- **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000033/0000945908-26-000033-index.htm)
+
+- **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000032/0000945908-26-000032-index.htm)
 
 - **487** | FT 12697  (CIK 0002093807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093807/000144554626000643/0001445546-26-000643-index.htm)
@@ -190,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
