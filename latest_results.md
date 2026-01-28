@@ -96,6 +96,9 @@
 - **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026007547/0001213900-26-007547-index.htm)
 
+- **S-1/A** | Cantor Equity Partners VI, Inc.  (CEPS)  (CIK 0002089536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089536/000121390026008810/0001213900-26-008810-index.htm)
+
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226000469/0001580642-26-000469-index.htm)
 
@@ -292,10 +295,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
