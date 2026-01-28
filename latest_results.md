@@ -42,6 +42,9 @@
 - **DEF 14A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826000507/0001683168-26-000507-index.htm)
 
+- **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026003672/0001628280-26-003672-index.htm)
+
 - **ARS** | StoneX Group Inc.  (SNEX)  (CIK 0000913760)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/913760/000091376026000010/0000913760-26-000010-index.htm)
 
@@ -51,11 +54,17 @@
 - **424B3** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026007463/0001213900-26-007463-index.htm)
 
+- **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000308/0001185185-26-000308-index.htm)
+
 - **S-3** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026007359/0001213900-26-007359-index.htm)
 
 - **F-1** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226003489/0001493152-26-003489-index.htm)
+
+- **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000029/0001137360-26-000029-index.htm)
@@ -116,6 +125,9 @@
 
 - **487** | FT 12697  (CIK 0002093807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093807/000144554626000643/0001445546-26-000643-index.htm)
+
+- **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000021/0000783401-26-000021-index.htm)
 
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126001223/0002071691-26-001223-index.htm)
@@ -206,6 +218,9 @@
 
 - **485BPOS** | Eaton Vance Municipals Trust  (CIK 0000778365)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/778365/000113322826000714/0001133228-26-000714-index.htm)
+
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026008327/0001213900-26-008327-index.htm)
 
 - **485BPOS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000199937126001705/0001999371-26-001705-index.htm)
