@@ -18,6 +18,12 @@
 - **10-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm)
 
+- **8-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000119312526028185/0001193125-26-028185-index.htm)
+
+- **8-K** | ARROW FINANCIAL CORP  (AROW)  (CIK 0000717538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/717538/000071753826000007/0000717538-26-000007-index.htm)
+
 - **PRER14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026007904/0001213900-26-007904-index.htm)
 
@@ -84,6 +90,9 @@
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126002670/0001140361-26-002670-index.htm)
 
+- **6-K** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326000260/0001178913-26-000260-index.htm)
+
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026007984/0001213900-26-007984-index.htm)
 
@@ -101,6 +110,12 @@
 
 - **424B2** | ROYAL BANK OF CANADA  (RY, RYLBF)  (CIK 0001000275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1000275/000095010326000968/0000950103-26-000968-index.htm)
+
+- **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226004140/0001493152-26-004140-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326000469/0001062993-26-000469-index.htm)
 
 - **6-K** | Birkenstock Holding plc  (BIRK)  (CIK 0001977102)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977102/000119312526025618/0001193125-26-025618-index.htm)
@@ -151,10 +166,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001227/0002071691-26-001227-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001229/0002071691-26-001229-index.htm)
@@ -175,22 +190,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001221/0002071691-26-001221-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
