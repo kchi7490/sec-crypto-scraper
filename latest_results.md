@@ -141,6 +141,9 @@
 - **487** | FT 12697  (CIK 0002093807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093807/000144554626000643/0001445546-26-000643-index.htm)
 
+- **487** | FT 12698  (CIK 0002093806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093806/000144554626000664/0001445546-26-000664-index.htm)
+
 - **S-1/A** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526028579/0001193125-26-028579-index.htm)
 
@@ -193,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001250/0002071691-26-001250-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001234/0002071691-26-001234-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001253/0002071691-26-001253-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001253/0002071691-26-001253-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001234/0002071691-26-001234-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001221/0002071691-26-001221-index.htm)
@@ -205,19 +208,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
@@ -240,11 +243,11 @@
 - **485BPOS** | Calvert Impact Fund, Inc.  (CIK 0001121624)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121624/000113322826000706/0001133228-26-000706-index.htm)
 
-- **485BPOS** | Calvert World Values Fund, Inc.  (CIK 0000884110)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/884110/000113322826000709/0001133228-26-000709-index.htm)
-
 - **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
+
+- **485BPOS** | Calvert World Values Fund, Inc.  (CIK 0000884110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/884110/000113322826000709/0001133228-26-000709-index.htm)
 
 - **485BPOS** | Calvert Fund  (CIK 0000701039)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701039/000113322826000703/0001133228-26-000703-index.htm)
