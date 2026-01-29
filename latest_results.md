@@ -123,6 +123,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000455/0001062993-26-000455-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000481/0001062993-26-000481-index.htm)
+
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000487/0001171843-26-000487-index.htm)
 
@@ -140,6 +143,9 @@
 
 - **485BPOS** | MORGAN STANLEY INSTITUTIONAL FUND TRUST  (CIK 0000741375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/741375/000113322826000956/0001133228-26-000956-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000034/0000945908-26-000034-index.htm)
 
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000033/0000945908-26-000033-index.htm)
@@ -190,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001227/0002071691-26-001227-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001229/0002071691-26-001229-index.htm)
@@ -202,10 +208,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001233/0002071691-26-001233-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001253/0002071691-26-001253-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001250/0002071691-26-001250-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001250/0002071691-26-001250-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001253/0002071691-26-001253-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001234/0002071691-26-001234-index.htm)
@@ -217,19 +223,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
@@ -322,10 +328,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
