@@ -232,10 +232,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
@@ -247,10 +247,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001242/0002071691-26-001242-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001242/0002071691-26-001242-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
 
 - **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826000675/0001133228-26-000675-index.htm)
