@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226004226/0001493152-26-004226-index.htm)
+
 - **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026007841/0001213900-26-007841-index.htm)
 
@@ -53,6 +56,9 @@
 
 - **424B4** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026009091/0001213900-26-009091-index.htm)
+
+- **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000027/0001663577-26-000027-index.htm)
 
 - **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
@@ -246,11 +252,11 @@
 - **485BPOS** | Calvert Impact Fund, Inc.  (CIK 0001121624)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121624/000113322826000706/0001133228-26-000706-index.htm)
 
-- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
-
 - **485BPOS** | Calvert World Values Fund, Inc.  (CIK 0000884110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/884110/000113322826000709/0001133228-26-000709-index.htm)
+
+- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
 
 - **485BPOS** | Calvert Fund  (CIK 0000701039)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701039/000113322826000703/0001133228-26-000703-index.htm)
@@ -316,10 +322,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
@@ -338,6 +344,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008827/0001213900-26-008827-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026009494/0001213900-26-009494-index.htm)
 
 - **485BPOS** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000110465926007454/0001104659-26-007454-index.htm)
