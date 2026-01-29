@@ -15,6 +15,9 @@
 - **S-1/A** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926002130/0001437749-26-002130-index.htm)
 
+- **10-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm)
+
 - **PRER14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026007904/0001213900-26-007904-index.htm)
 
@@ -30,8 +33,14 @@
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026003672/0001628280-26-003672-index.htm)
 
+- **424B4** | KRAKacquisition Corp  (KRAQ)  (CIK 0002082119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126002712/0001140361-26-002712-index.htm)
+
 - **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000308/0001185185-26-000308-index.htm)
+
+- **424B4** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026009091/0001213900-26-009091-index.htm)
 
 - **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
@@ -81,6 +90,9 @@
 - **424B4** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226003788/0001493152-26-003788-index.htm)
 
+- **F-1** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526000329/0001185185-26-000329-index.htm)
+
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000455/0001062993-26-000455-index.htm)
 
@@ -107,6 +119,9 @@
 
 - **S-1/A** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526026752/0001193125-26-026752-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326001142/0000950103-26-001142-index.htm)
 
 - **485BPOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000047/0001396092-26-000047-index.htm)
