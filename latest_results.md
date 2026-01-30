@@ -54,6 +54,9 @@
 - **S-1/A** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000308/0001185185-26-000308-index.htm)
 
+- **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026010147/0001213900-26-010147-index.htm)
+
 - **S-1/A** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026009397/0001213900-26-009397-index.htm)
 
