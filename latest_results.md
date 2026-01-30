@@ -3,6 +3,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226004226/0001493152-26-004226-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226004314/0001493152-26-004314-index.htm)
+
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/0001628280-26-003837-index.htm)
 
@@ -42,6 +45,9 @@
 - **S-1/A** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026009397/0001213900-26-009397-index.htm)
 
+- **S-1/A** | Aeon Acquisition I Corp.  (CIK 0002082526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226004319/0001493152-26-004319-index.htm)
+
 - **424B4** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026009091/0001213900-26-009091-index.htm)
 
@@ -72,6 +78,15 @@
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126002670/0001140361-26-002670-index.htm)
 
+- **N-2** | Golub Capital Private Credit Fund  (CIK 0001930087)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926008216/0001104659-26-008216-index.htm)
+
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526030247/0001193125-26-030247-index.htm)
+
+- **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026009828/0001213900-26-009828-index.htm)
+
 - **6-K** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326000260/0001178913-26-000260-index.htm)
 
@@ -98,6 +113,9 @@
 
 - **6-K** | Birkenstock Holding plc  (BIRK)  (CIK 0001977102)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1977102/000119312526025618/0001193125-26-025618-index.htm)
+
+- **424B3** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226004324/0001493152-26-004324-index.htm)
 
 - **S-1/A** | Grayscale Investments, Inc.  (GRAY)  (CIK 0002073548)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073548/000119312526029689/0001193125-26-029689-index.htm)
@@ -150,6 +168,9 @@
 - **497** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000018/0001611331-26-000018-index.htm)
 
+- **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026004270/0001628280-26-004270-index.htm)
+
 - **485BPOS** | 360 Funds  (CIK 0001319067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1319067/000199937126001869/0001999371-26-001869-index.htm)
 
@@ -181,10 +202,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026009377/0001213900-26-009377-index.htm)
