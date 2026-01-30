@@ -24,6 +24,9 @@
 - **10-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm)
 
+- **S-1/A** | 21Shares Sui ETF  (CIK 0002061626)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026010334/0001213900-26-010334-index.htm)
+
 - **8-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000119312526028185/0001193125-26-028185-index.htm)
 
@@ -48,11 +51,17 @@
 - **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026010170/0001213900-26-010170-index.htm)
 
+- **S-4/A** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026010323/0001213900-26-010323-index.htm)
+
 - **485BPOS** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937126001876/0001999371-26-001876-index.htm)
 
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026003672/0001628280-26-003672-index.htm)
+
+- **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526032060/0001193125-26-032060-index.htm)
 
 - **424B4** | KRAKacquisition Corp  (KRAQ)  (CIK 0002082119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126002712/0001140361-26-002712-index.htm)
@@ -87,6 +96,9 @@
 - **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
 
+- **20-F** | WORK Medical Technology Group LTD  (WOK)  (CIK 0001929783)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1929783/000121390026010301/0001213900-26-010301-index.htm)
+
 - **424B1** | Picpay Holdings Netherlands B.V.  (PICS)  (CIK 0001841644)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026009315/0001213900-26-009315-index.htm)
 
@@ -113,6 +125,12 @@
 
 - **S-1/A** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426000655/0001654954-26-000655-index.htm)
+
+- **424B4** | White Pearl Acquisition Corp.  (CIK 0002081536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081536/000121390026010324/0001213900-26-010324-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000558/0001477932-26-000558-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000181/0001640334-26-000181-index.htm)
@@ -149,6 +167,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000455/0001062993-26-000455-index.htm)
+
+- **485BPOS** | MassMutual Advantage Funds  (CIK 0001859808)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859808/000113322826001179/0001133228-26-001179-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000481/0001062993-26-000481-index.htm)
@@ -263,6 +284,9 @@
 
 - **485BPOS** | AMERICAN FUNDS INFLATION LINKED BOND FUND  (CIK 0001553197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1553197/000005193126000099/0000051931-26-000099-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426001755/0001398344-26-001755-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000652/0002048251-26-000652-index.htm)
