@@ -3,20 +3,11 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226004226/0001493152-26-004226-index.htm)
 
-- **425** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026007841/0001213900-26-007841-index.htm)
-
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/0001628280-26-003837-index.htm)
 
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226003716/0001493152-26-003716-index.htm)
-
-- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226004069/0001493152-26-004069-index.htm)
-
-- **S-1/A** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926002130/0001437749-26-002130-index.htm)
 
 - **10-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm)
@@ -32,12 +23,6 @@
 
 - **424B4** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226004162/0001493152-26-004162-index.htm)
-
-- **PRER14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026007904/0001213900-26-007904-index.htm)
-
-- **497** | Valkyrie ETF Trust II  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001719/0001999371-26-001719-index.htm)
 
 - **S-4** | Securitize Holdings, Inc.  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026008915/0001213900-26-008915-index.htm)
@@ -66,23 +51,11 @@
 - **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
 
-- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000029/0001137360-26-000029-index.htm)
-
 - **424B1** | Picpay Holdings Netherlands B.V.  (PICS)  (CIK 0001841644)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026009315/0001213900-26-009315-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126002606/0001140361-26-002606-index.htm)
-
-- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526024805/0001193125-26-024805-index.htm)
-
-- **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826000568/0001683168-26-000568-index.htm)
-
-- **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826000557/0001683168-26-000557-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226004031/0001493152-26-004031-index.htm)
@@ -90,35 +63,17 @@
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390026009173/0001213900-26-009173-index.htm)
 
-- **424B5** | Flora Growth Corp.  (FLGC)  (CIK 0001790169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326000448/0001062993-26-000448-index.htm)
-
 - **S-1/A** | Cantor Equity Partners VI, Inc.  (CEPS)  (CIK 0002089536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089536/000121390026008810/0001213900-26-008810-index.htm)
 
 - **S-1/A** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426000655/0001654954-26-000655-index.htm)
 
-- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226000469/0001580642-26-000469-index.htm)
-
-- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026007848/0001213900-26-007848-index.htm)
-
-- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026007847/0001213900-26-007847-index.htm)
-
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126002670/0001140361-26-002670-index.htm)
 
 - **6-K** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326000260/0001178913-26-000260-index.htm)
-
-- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026007984/0001213900-26-007984-index.htm)
-
-- **424B4** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226003788/0001493152-26-003788-index.htm)
 
 - **F-1** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526000329/0001185185-26-000329-index.htm)
@@ -134,9 +89,6 @@
 
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000487/0001171843-26-000487-index.htm)
-
-- **424B2** | ROYAL BANK OF CANADA  (RY, RYLBF)  (CIK 0001000275)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1000275/000095010326000968/0000950103-26-000968-index.htm)
 
 - **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226004140/0001493152-26-004140-index.htm)
@@ -162,9 +114,6 @@
 - **485APOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000032/0000945908-26-000032-index.htm)
 
-- **487** | FT 12697  (CIK 0002093807)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093807/000144554626000643/0001445546-26-000643-index.htm)
-
 - **487** | FT 12698  (CIK 0002093806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093806/000144554626000664/0001445546-26-000664-index.htm)
 
@@ -189,96 +138,6 @@
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000021/0000783401-26-000021-index.htm)
 
-- **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126001223/0002071691-26-001223-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001254/0002071691-26-001254-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001251/0002071691-26-001251-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001235/0002071691-26-001235-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001227/0002071691-26-001227-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001214/0002071691-26-001214-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001219/0002071691-26-001219-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001229/0002071691-26-001229-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001233/0002071691-26-001233-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001250/0002071691-26-001250-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001253/0002071691-26-001253-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001234/0002071691-26-001234-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001221/0002071691-26-001221-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001248/0002071691-26-001248-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001238/0002071691-26-001238-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001225/0002071691-26-001225-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001213/0002071691-26-001213-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001216/0002071691-26-001216-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001232/0002071691-26-001232-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001240/0002071691-26-001240-index.htm)
-
-- **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126001242/0002071691-26-001242-index.htm)
-
-- **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826000675/0001133228-26-000675-index.htm)
-
-- **485BPOS** | Calvert Management Series  (CIK 0000319676)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319676/000113322826000723/0001133228-26-000723-index.htm)
-
-- **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826000712/0001133228-26-000712-index.htm)
-
-- **485BPOS** | Calvert Social Investment Fund  (CIK 0000356682)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/356682/000113322826000717/0001133228-26-000717-index.htm)
-
-- **485BPOS** | Calvert Impact Fund, Inc.  (CIK 0001121624)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1121624/000113322826000706/0001133228-26-000706-index.htm)
-
-- **485BPOS** | Calvert World Values Fund, Inc.  (CIK 0000884110)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/884110/000113322826000709/0001133228-26-000709-index.htm)
-
-- **485BPOS** | Calvert Responsible Index Series, Inc.  (CIK 0001105446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1105446/000113322826000677/0001133228-26-000677-index.htm)
-
-- **485BPOS** | Calvert Fund  (CIK 0000701039)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701039/000113322826000703/0001133228-26-000703-index.htm)
-
-- **485BPOS** | Eaton Vance Municipals Trust  (CIK 0000778365)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/778365/000113322826000714/0001133228-26-000714-index.htm)
-
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000070/0001081400-26-000070-index.htm)
 
@@ -297,26 +156,11 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026008327/0001213900-26-008327-index.htm)
 
-- **485BPOS** | Collaborative Investment Series Trust  (CIK 0001719812)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000199937126001705/0001999371-26-001705-index.htm)
-
 - **485BPOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064226000521/0001580642-26-000521-index.htm)
 
-- **485BPOS** | ARIEL INVESTMENT TRUST  (CIK 0000798365)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/798365/000119312526024870/0001193125-26-024870-index.htm)
-
-- **485BPOS** | FORUM FUNDS II  (CIK 0001576367)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1576367/000139834426001357/0001398344-26-001357-index.htm)
-
 - **485BPOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526026922/0001193125-26-026922-index.htm)
-
-- **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526024238/0001193125-26-024238-index.htm)
-
-- **NPORT-P** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000207169126001208/0002071691-26-001208-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000652/0002048251-26-000652-index.htm)
@@ -337,25 +181,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
-
-- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
-- **425** | Ether Machine, Inc.  (CIK 0002080334)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008286/0001213900-26-008286-index.htm)
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026009377/0001213900-26-009377-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026008724/0001213900-26-008724-index.htm)
-
-- **497K** | Valkyrie ETF Trust II  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126001723/0001999371-26-001723-index.htm)
-
-- **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390026007803/0001213900-26-007803-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026008827/0001213900-26-008827-index.htm)
