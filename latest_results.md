@@ -237,6 +237,12 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026008327/0001213900-26-008327-index.htm)
 
+- **485BPOS** | MASSMUTUAL SELECT FUNDS  (CIK 0000916053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916053/000113322826001175/0001133228-26-001175-index.htm)
+
+- **485BPOS** | MASSMUTUAL PREMIER FUNDS  (CIK 0000927972)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927972/000113322826001177/0001133228-26-001177-index.htm)
+
 - **497** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026010237/0001213900-26-010237-index.htm)
 
