@@ -75,6 +75,12 @@
 - **424B1** | Picpay Holdings Netherlands B.V.  (PICS)  (CIK 0001841644)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026009315/0001213900-26-009315-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526031373/0001193125-26-031373-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526031372/0001193125-26-031372-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126002606/0001140361-26-002606-index.htm)
 
