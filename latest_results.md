@@ -129,6 +129,9 @@
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000487/0001171843-26-000487-index.htm)
 
+- **6-K** | Virax Biolabs Group Ltd  (VRAX)  (CIK 0001885827)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885827/000119312526031750/0001193125-26-031750-index.htm)
+
 - **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226004140/0001493152-26-004140-index.htm)
 
@@ -241,10 +244,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000662/0002048251-26-000662-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000646/0002048251-26-000646-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002137/0001999371-26-002137-index.htm)
@@ -263,4 +266,7 @@
 
 - **485BPOS** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000110465926007454/0001104659-26-007454-index.htm)
+
+- **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026010170/0001213900-26-010170-index.htm)
 
