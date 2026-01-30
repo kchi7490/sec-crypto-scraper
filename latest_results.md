@@ -9,8 +9,14 @@
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/0001628280-26-003837-index.htm)
 
+- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000008/0001818874-26-000008-index.htm)
+
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226004069/0001493152-26-004069-index.htm)
+
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926000967/0001214659-26-000967-index.htm)
 
 - **10-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm)
@@ -26,6 +32,9 @@
 
 - **424B4** | Reliance Global Group, Inc.  (RELI, RELIW)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226004162/0001493152-26-004162-index.htm)
+
+- **S-4/A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026009858/0001213900-26-009858-index.htm)
 
 - **S-4** | Securitize Holdings, Inc.  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026008915/0001213900-26-008915-index.htm)
