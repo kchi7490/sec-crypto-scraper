@@ -30,6 +30,9 @@
 - **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526029637/0001193125-26-029637-index.htm)
 
+- **S-4/A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000356/0001185185-26-000356-index.htm)
+
 - **8-K** | ARROW FINANCIAL CORP  (AROW)  (CIK 0000717538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/717538/000071753826000007/0000717538-26-000007-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **S-4** | Securitize Holdings, Inc.  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026008915/0001213900-26-008915-index.htm)
+
+- **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026010170/0001213900-26-010170-index.htm)
 
 - **485BPOS** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937126001876/0001999371-26-001876-index.htm)
@@ -63,6 +69,9 @@
 - **S-1/A** | Aeon Acquisition I Corp.  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226004319/0001493152-26-004319-index.htm)
 
+- **S-1** | PALOMA ACQUISITION CORP I  (CIK 0002101562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926008628/0001104659-26-008628-index.htm)
+
 - **424B4** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026009091/0001213900-26-009091-index.htm)
 
@@ -71,6 +80,9 @@
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000130/0001137360-26-000130-index.htm)
+
+- **20-F** | Alpha Technology Group Ltd  (ATGL)  (CIK 0001967621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1967621/000121390026010168/0001213900-26-010168-index.htm)
 
 - **F-4** | Xanadu Quantum Technologies Ltd  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026008363/0001213900-26-008363-index.htm)
@@ -87,6 +99,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126002606/0001140361-26-002606-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526031839/0001193125-26-031839-index.htm)
+
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226004031/0001493152-26-004031-index.htm)
 
@@ -99,17 +114,29 @@
 - **S-1/A** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426000655/0001654954-26-000655-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000181/0001640334-26-000181-index.htm)
+
 - **425** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126002670/0001140361-26-002670-index.htm)
 
+- **N-14 8C/A** | Oaktree Strategic Credit Fund  (CIK 0001872371)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872371/000119312526031803/0001193125-26-031803-index.htm)
+
 - **N-2** | Golub Capital Private Credit Fund  (CIK 0001930087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926008216/0001104659-26-008216-index.htm)
+
+- **486BPOS** | Oaktree Strategic Credit Fund  (CIK 0001872371)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872371/000119312526031770/0001193125-26-031770-index.htm)
 
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526030247/0001193125-26-030247-index.htm)
 
 - **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026009828/0001213900-26-009828-index.htm)
+
+- **6-K** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315226004508/0001493152-26-004508-index.htm)
 
 - **6-K** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326000260/0001178913-26-000260-index.htm)
@@ -143,6 +170,9 @@
 
 - **424B3** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226004324/0001493152-26-004324-index.htm)
+
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000266/0001771146-26-000266-index.htm)
 
 - **S-1/A** | Grayscale Investments, Inc.  (GRAY)  (CIK 0002073548)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073548/000119312526029689/0001193125-26-029689-index.htm)
@@ -207,6 +237,9 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026008327/0001213900-26-008327-index.htm)
 
+- **497** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026010237/0001213900-26-010237-index.htm)
+
 - **485BPOS** | Exchange Place Advisors Trust  (CIK 0001750821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750821/000158064226000521/0001580642-26-000521-index.htm)
 
@@ -264,9 +297,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026009494/0001213900-26-009494-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026010203/0001213900-26-010203-index.htm)
+
 - **485BPOS** | SEI INSTITUTIONAL MANAGED TRUST  (CIK 0000804239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/804239/000110465926007454/0001104659-26-007454-index.htm)
-
-- **S-4/A** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026010170/0001213900-26-010170-index.htm)
 
