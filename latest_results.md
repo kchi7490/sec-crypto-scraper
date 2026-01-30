@@ -15,6 +15,9 @@
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226004069/0001493152-26-004069-index.htm)
 
+- **10-Q** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000003877726000033/0000038777-26-000033-index.htm)
+
 - **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926000967/0001214659-26-000967-index.htm)
 
@@ -215,6 +218,9 @@
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126000673/0002048251-26-000673-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002137/0001999371-26-002137-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026009377/0001213900-26-009377-index.htm)
