@@ -3,6 +3,12 @@
 - **S-1/A** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000835/0001829126-26-000835-index.htm)
 
+- **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/0001493152-26-004616-index.htm)
+
+- **1-A** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226004608/0001493152-26-004608-index.htm)
+
 - **485APOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926008760/0001104659-26-008760-index.htm)
 
