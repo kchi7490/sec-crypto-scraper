@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226004658/0001493152-26-004658-index.htm)
+
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000650/0001683168-26-000650-index.htm)
+
 - **S-1/A** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000835/0001829126-26-000835-index.htm)
 
@@ -20,4 +26,7 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026010376/0001213900-26-010376-index.htm)
+
+- **10-Q** | Landbay Inc  (LNBY)  (CIK 0001672572)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672572/000109991026000058/0001099910-26-000058-index.htm)
 
