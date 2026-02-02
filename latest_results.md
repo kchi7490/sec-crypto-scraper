@@ -3,6 +3,12 @@
 - **S-1/A** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000835/0001829126-26-000835-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526032731/0001193125-26-032731-index.htm)
+
+- **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026010550/0001213900-26-010550-index.htm)
+
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/0001493152-26-004616-index.htm)
 
