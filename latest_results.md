@@ -3,8 +3,14 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226004658/0001493152-26-004658-index.htm)
 
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000009/0001859392-26-000009-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000650/0001683168-26-000650-index.htm)
+
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000021/0001633917-26-000021-index.htm)
 
 - **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226004774/0001493152-26-004774-index.htm)
@@ -27,6 +33,9 @@
 - **20-F** | Integrated Media Technology Ltd  (IMTE)  (CIK 0001668438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668438/000121390026010827/0001213900-26-010827-index.htm)
 
+- **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626000902/0001829126-26-000902-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526033573/0001193125-26-033573-index.htm)
 
@@ -36,8 +45,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526032731/0001193125-26-032731-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226004831/0001493152-26-004831-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/0001083301-26-000023-index.htm)
+
+- **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326001480/0000950103-26-001480-index.htm)
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026010550/0001213900-26-010550-index.htm)
