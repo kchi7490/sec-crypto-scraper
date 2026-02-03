@@ -39,6 +39,9 @@
 - **20-F** | Integrated Media Technology Ltd  (IMTE)  (CIK 0001668438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668438/000121390026010827/0001213900-26-010827-index.htm)
 
+- **424B4** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226004854/0001493152-26-004854-index.htm)
+
 - **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626000902/0001829126-26-000902-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
+
+- **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000089/0001081400-26-000089-index.htm)
 
 - **1-A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226004608/0001493152-26-004608-index.htm)
