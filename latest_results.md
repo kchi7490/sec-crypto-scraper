@@ -21,6 +21,9 @@
 - **8-K** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315226004896/0001493152-26-004896-index.htm)
 
+- **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126002476/0001999371-26-002476-index.htm)
+
 - **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226004774/0001493152-26-004774-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007672/0001839882-26-007672-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007751/0001839882-26-007751-index.htm)
 
 - **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
@@ -83,6 +89,9 @@
 
 - **N-14 8C** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526033589/0001193125-26-033589-index.htm)
+
+- **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
 
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
