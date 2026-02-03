@@ -33,6 +33,9 @@
 - **S-1/A** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026010779/0001213900-26-010779-index.htm)
 
+- **10-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/0001633917-26-000024-index.htm)
+
 - **S-1/A** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000835/0001829126-26-000835-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007751/0001839882-26-007751-index.htm)
+
+- **424B4** | Iris Acquisition Corp II  (CIK 0002077785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000390/0001185185-26-000390-index.htm)
 
 - **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
@@ -69,11 +75,20 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026010845/0001213900-26-010845-index.htm)
 
+- **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826000729/0001683168-26-000729-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526032731/0001193125-26-032731-index.htm)
 
+- **8-K** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026011584/0001213900-26-011584-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226004831/0001493152-26-004831-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326001579/0000950103-26-001579-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000023/0001083301-26-000023-index.htm)
@@ -104,6 +119,9 @@
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
+
+- **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326000578/0001062993-26-000578-index.htm)
 
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
