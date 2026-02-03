@@ -21,6 +21,9 @@
 - **497** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000199937126002392/0001999371-26-002392-index.htm)
 
+- **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
+
 - **20-F** | Integrated Media Technology Ltd  (IMTE)  (CIK 0001668438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668438/000121390026010827/0001213900-26-010827-index.htm)
 
