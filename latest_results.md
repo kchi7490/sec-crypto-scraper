@@ -99,6 +99,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026010786/0001213900-26-010786-index.htm)
 
+- **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828026004859/0001628280-26-004859-index.htm)
+
 - **10-Q** | Landbay Inc  (LNBY)  (CIK 0001672572)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672572/000109991026000058/0001099910-26-000058-index.htm)
 
