@@ -9,6 +9,12 @@
 - **8-K** | SharpLink Gaming, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226004839/0001493152-26-004839-index.htm)
 
+- **424B5** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000639/0001477932-26-000639-index.htm)
+
+- **424B7** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000640/0001477932-26-000640-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000009/0001859392-26-000009-index.htm)
 
@@ -38,6 +44,9 @@
 
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026011802/0001213900-26-011802-index.htm)
+
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926010369/0001104659-26-010369-index.htm)
 
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926009721/0001104659-26-009721-index.htm)
@@ -80,6 +89,9 @@
 
 - **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
+
+- **S-1/A** | 21Shares Sei ETF  (CIK 0002061623)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061623/000121390026012356/0001213900-26-012356-index.htm)
 
 - **S-1** | APEIRON ACQUISITION VEHICLE I  (CIK 0002085795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085795/000121390026011619/0001213900-26-011619-index.htm)
@@ -179,6 +191,9 @@
 
 - **1-A POS** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226005000/0001493152-26-005000-index.htm)
+
+- **S-1** | Generate Biomedicines, Inc.  (CIK 0002100782)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100782/000119312526037799/0001193125-26-037799-index.htm)
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000089/0001081400-26-000089-index.htm)
