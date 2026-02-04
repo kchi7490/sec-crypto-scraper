@@ -147,6 +147,9 @@
 - **20-F** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526000396/0001185185-26-000396-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000098/0001279569-26-000098-index.htm)
+
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
 
