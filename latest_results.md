@@ -18,6 +18,12 @@
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000021/0001633917-26-000021-index.htm)
 
+- **425** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465926009883/0001104659-26-009883-index.htm)
+
+- **425** | Parataxis Holdings Inc.  (PRTX)  (CIK 0002079180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926009885/0001104659-26-009885-index.htm)
+
 - **8-K** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315226004896/0001493152-26-004896-index.htm)
 
@@ -38,6 +44,9 @@
 
 - **S-1/A** | SharonAI Holdings, Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626000835/0001829126-26-000835-index.htm)
+
+- **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026011709/0001213900-26-011709-index.htm)
 
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026010796/0001213900-26-010796-index.htm)
@@ -105,6 +114,9 @@
 - **SCHEDULE 13D** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000002/0001627282-26-000002-index.htm)
+
 - **8-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226004616/0001493152-26-004616-index.htm)
 
@@ -132,6 +144,9 @@
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
 
+- **1-A POS** | DOC.COM INC.  (CIK 0001925674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226005000/0001493152-26-005000-index.htm)
+
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000089/0001081400-26-000089-index.htm)
 
@@ -143,6 +158,9 @@
 
 - **485APOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926008760/0001104659-26-008760-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026011767/0001213900-26-011767-index.htm)
 
 - **425** | Dynamix Corp  (ETHM, ETHMU, ETHMW)  (CIK 0002028699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028699/000121390026010798/0001213900-26-010798-index.htm)
