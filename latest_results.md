@@ -39,6 +39,9 @@
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926009721/0001104659-26-009721-index.htm)
 
+- **PREM14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526036881/0001193125-26-036881-index.htm)
+
 - **S-1/A** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026010779/0001213900-26-010779-index.htm)
 
@@ -137,6 +140,9 @@
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026005082/0001628280-26-005082-index.htm)
+
+- **20-F** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526000396/0001185185-26-000396-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
