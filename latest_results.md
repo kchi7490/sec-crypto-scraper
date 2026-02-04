@@ -159,6 +159,9 @@
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
 
+- **487** | FT 12717  (CIK 0002093833)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093833/000144554626000889/0001445546-26-000889-index.htm)
+
 - **S-1/A** | Clear Street Group Inc.  (CSIG)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526036739/0001193125-26-036739-index.htm)
 
