@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526037738/0001193125-26-037738-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226004658/0001493152-26-004658-index.htm)
 
@@ -84,11 +87,17 @@
 - **20-F** | Integrated Media Technology Ltd  (IMTE)  (CIK 0001668438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668438/000121390026010827/0001213900-26-010827-index.htm)
 
+- **F-4/A** | Great Future Technology Inc.  (GFTL)  (CIK 0002062748)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2062748/000182912626000952/0001829126-26-000952-index.htm)
+
 - **424B4** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226004854/0001493152-26-004854-index.htm)
 
 - **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626000902/0001829126-26-000902-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000151/0001137360-26-000151-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526033573/0001193125-26-033573-index.htm)
@@ -153,6 +162,9 @@
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
 
+- **N-CSRS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000011/0001174610-26-000011-index.htm)
+
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326000578/0001062993-26-000578-index.htm)
 
@@ -206,4 +218,7 @@
 
 - **10-Q** | Landbay Inc  (LNBY)  (CIK 0001672572)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672572/000109991026000058/0001099910-26-000058-index.htm)
+
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189526000215/0000921895-26-000215-index.htm)
 
