@@ -69,6 +69,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007751/0001839882-26-007751-index.htm)
 
+- **424B5** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390026011918/0001213900-26-011918-index.htm)
+
 - **424B4** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000390/0001185185-26-000390-index.htm)
 
