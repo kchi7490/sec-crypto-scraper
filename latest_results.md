@@ -33,6 +33,9 @@
 - **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226004774/0001493152-26-004774-index.htm)
 
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026011802/0001213900-26-011802-index.htm)
+
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926009721/0001104659-26-009721-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **487** | FTP 2  (CIK 0002087892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087892/000144554626000866/0001445546-26-000866-index.htm)
+
+- **S-1/A** | Clear Street Group Inc.  (CSIG)  (CIK 0001881567)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526036739/0001193125-26-036739-index.htm)
 
 - **1-A POS** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226005000/0001493152-26-005000-index.htm)
