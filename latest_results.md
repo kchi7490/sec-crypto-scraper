@@ -60,6 +60,9 @@
 - **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
 
+- **S-1** | APEIRON ACQUISITION VEHICLE I  (CIK 0002085795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085795/000121390026011619/0001213900-26-011619-index.htm)
+
 - **20-F** | Integrated Media Technology Ltd  (IMTE)  (CIK 0001668438)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668438/000121390026010827/0001213900-26-010827-index.htm)
 
