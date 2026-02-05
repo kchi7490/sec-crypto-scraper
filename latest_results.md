@@ -75,6 +75,9 @@
 - **S-1** | APEIRON ACQUISITION VEHICLE I  (CIK 0002085795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085795/000121390026011619/0001213900-26-011619-index.htm)
 
+- **S-4/A** | Movano Inc.  (MOVE)  (CIK 0001734750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000121390026012495/0001213900-26-012495-index.htm)
+
 - **F-4/A** | Great Future Technology Inc.  (GFTL)  (CIK 0002062748)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2062748/000182912626000952/0001829126-26-000952-index.htm)
 
@@ -86,6 +89,12 @@
 
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000151/0001137360-26-000151-index.htm)
+
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026012492/0001213900-26-012492-index.htm)
+
+- **8-K** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926003029/0001437749-26-003029-index.htm)
 
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826000729/0001683168-26-000729-index.htm)
@@ -102,8 +111,14 @@
 - **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326001480/0000950103-26-001480-index.htm)
 
+- **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326001659/0000950103-26-001659-index.htm)
+
 - **SCHEDULE 13D** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm)
+
+- **N-2/A** | Guggenheim Investments Private Credit Fund  (CIK 0002061357)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061357/000182126826000029/0001821268-26-000029-index.htm)
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000002/0001627282-26-000002-index.htm)
@@ -152,6 +167,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026012120/0001213900-26-012120-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026012397/0001213900-26-012397-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026012243/0001213900-26-012243-index.htm)
