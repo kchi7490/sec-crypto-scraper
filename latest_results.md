@@ -15,6 +15,9 @@
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000009/0001859392-26-000009-index.htm)
 
+- **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026012553/0001213900-26-012553-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000679/0001683168-26-000679-index.htm)
 
@@ -54,6 +57,9 @@
 - **DEF 14A** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226004893/0001493152-26-004893-index.htm)
 
+- **8-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000014/0001758730-26-000014-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007672/0001839882-26-007672-index.htm)
 
@@ -65,6 +71,9 @@
 
 - **424B4** | Iris Acquisition Corp II  (CIK 0002077785)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526000390/0001185185-26-000390-index.htm)
+
+- **10-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000015/0001758730-26-000015-index.htm)
 
 - **S-4/A** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026010957/0001213900-26-010957-index.htm)
@@ -96,6 +105,9 @@
 - **8-K** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926003029/0001437749-26-003029-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526038531/0001193125-26-038531-index.htm)
+
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826000729/0001683168-26-000729-index.htm)
 
@@ -123,8 +135,14 @@
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000002/0001627282-26-000002-index.htm)
 
+- **8-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226005202/0001493152-26-005202-index.htm)
+
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000004/0001500217-26-000004-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000221/0001640334-26-000221-index.htm)
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226004911/0001493152-26-004911-index.htm)
@@ -140,6 +158,9 @@
 
 - **20-F** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526000396/0001185185-26-000396-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026012561/0001213900-26-012561-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000098/0001279569-26-000098-index.htm)
