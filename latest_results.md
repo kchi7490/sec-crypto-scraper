@@ -51,6 +51,9 @@
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026011802/0001213900-26-011802-index.htm)
 
+- **S-1** | Bitwise Uniswap ETF  (CIK 0002107400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107400/000121390026012830/0001213900-26-012830-index.htm)
+
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926010369/0001104659-26-010369-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **DEF 14A** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226004893/0001493152-26-004893-index.htm)
+
+- **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526039538/0001193125-26-039538-index.htm)
 
 - **8-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000014/0001758730-26-000014-index.htm)
@@ -180,6 +186,9 @@
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000002/0001627282-26-000002-index.htm)
 
+- **424B4** | Cantor Equity Partners VI, Inc.  (CEPS)  (CIK 0002089536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089536/000121390026012881/0001213900-26-012881-index.htm)
+
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526039513/0001193125-26-039513-index.htm)
 
@@ -230,9 +239,6 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326000631/0001062993-26-000631-index.htm)
-
-- **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526039538/0001193125-26-039538-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
