@@ -18,6 +18,9 @@
 - **8-K** | ETHZilla Corp  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026012553/0001213900-26-012553-index.htm)
 
+- **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000008/0002055592-26-000008-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000679/0001683168-26-000679-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226007751/0001839882-26-007751-index.htm)
+
+- **10-K** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/0001571949-26-000004-index.htm)
 
 - **424B5** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390026011918/0001213900-26-011918-index.htm)
@@ -129,6 +135,9 @@
 - **SCHEDULE 13D** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm)
 
+- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026012563/0001213900-26-012563-index.htm)
+
 - **N-2/A** | Guggenheim Investments Private Credit Fund  (CIK 0002061357)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061357/000182126826000029/0001821268-26-000029-index.htm)
 
@@ -159,11 +168,17 @@
 - **20-F** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526000396/0001185185-26-000396-index.htm)
 
+- **6-K** | UBS Group AG  (UBS)  (CIK 0001610520)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000014/0001610520-26-000014-index.htm)
+
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026012561/0001213900-26-012561-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000098/0001279569-26-000098-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326000631/0001062993-26-000631-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000190/0001096906-26-000190-index.htm)
