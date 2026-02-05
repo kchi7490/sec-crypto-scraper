@@ -132,6 +132,9 @@
 - **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326001659/0000950103-26-001659-index.htm)
 
+- **N-CSRS** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322826001422/0001133228-26-001422-index.htm)
+
 - **SCHEDULE 13D** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000199937126002511/0001999371-26-002511-index.htm)
 
