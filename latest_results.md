@@ -51,6 +51,9 @@
 - **PREM14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526036881/0001193125-26-036881-index.htm)
 
+- **10-Q** | BLACKSTAR ENTERPRISE GROUP, INC.  (CIK 0001483646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1483646/000106594926000012/0001065949-26-000012-index.htm)
+
 - **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026011709/0001213900-26-011709-index.htm)
 
