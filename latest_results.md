@@ -39,6 +39,9 @@
 - **10-Q** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526039359/0001193125-26-039359-index.htm)
 
+- **S-1/A** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026013343/0001213900-26-013343-index.htm)
+
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026011802/0001213900-26-011802-index.htm)
 
@@ -72,6 +75,9 @@
 - **S-1/A** | Subversive Bitcoin Acquisition Corp.  (SBAQ)  (CIK 0002073545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390026012920/0001213900-26-012920-index.htm)
 
+- **DEFR14A** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226005629/0001493152-26-005629-index.htm)
+
 - **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526039538/0001193125-26-039538-index.htm)
 
@@ -86,6 +92,9 @@
 
 - **10-Q** | Gen Digital Inc.  (GEN, GENVR)  (CIK 0000849399)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/849399/000084939926000004/0000849399-26-000004-index.htm)
+
+- **S-1/A** | 21Shares Ondo ETF  (CIK 0002061627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061627/000121390026013350/0001213900-26-013350-index.htm)
 
 - **10-K** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/0001571949-26-000004-index.htm)
@@ -171,6 +180,9 @@
 - **424B4** | Cantor Equity Partners VI, Inc.  (CEPS)  (CIK 0002089536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089536/000121390026012881/0001213900-26-012881-index.htm)
 
+- **N-CSRS** | Kurv ETF Trust  (CIK 0001782952)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000113322826001526/0001133228-26-001526-index.htm)
+
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526039513/0001193125-26-039513-index.htm)
 
@@ -180,6 +192,9 @@
 - **8-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226005202/0001493152-26-005202-index.htm)
 
+- **8-K** | XMax Inc.  (XWIN)  (CIK 0001473334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1473334/000149315226005624/0001493152-26-005624-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000221/0001640334-26-000221-index.htm)
 
@@ -188,6 +203,9 @@
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000227/0001640334-26-000227-index.htm)
+
+- **10-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000008/0001500217-26-000008-index.htm)
 
 - **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312526039455/0001193125-26-039455-index.htm)
@@ -224,6 +242,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000656/0001062993-26-000656-index.htm)
+
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026013341/0001213900-26-013341-index.htm)
 
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226005436/0001493152-26-005436-index.htm)
@@ -263,9 +284,6 @@
 
 - **485APOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826001515/0001133228-26-001515-index.htm)
-
-- **10-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000008/0001500217-26-000008-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026011767/0001213900-26-011767-index.htm)
