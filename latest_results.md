@@ -24,6 +24,12 @@
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226005462/0001493152-26-005462-index.htm)
 
+- **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526041199/0001193125-26-041199-index.htm)
+
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526041204/0001193125-26-041204-index.htm)
+
 - **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926010893/0001104659-26-010893-index.htm)
 
@@ -48,8 +54,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000012/0001050446-26-000012-index.htm)
 
+- **S-1/A** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626001061/0001829126-26-001061-index.htm)
+
 - **PREM14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526036881/0001193125-26-036881-index.htm)
+
+- **S-3/A** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226005594/0001493152-26-005594-index.htm)
 
 - **10-Q** | BLACKSTAR ENTERPRISE GROUP, INC.  (CIK 0001483646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1483646/000106594926000012/0001065949-26-000012-index.htm)
@@ -72,6 +84,9 @@
 - **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000091728626000009/0000917286-26-000009-index.htm)
 
+- **10-Q** | Gen Digital Inc.  (GEN, GENVR)  (CIK 0000849399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/849399/000084939926000004/0000849399-26-000004-index.htm)
+
 - **10-K** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/0001571949-26-000004-index.htm)
 
@@ -89,6 +104,9 @@
 
 - **S-1/A** | 21Shares Sei ETF  (CIK 0002061623)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061623/000121390026012356/0001213900-26-012356-index.htm)
+
+- **8-K** | Warburg Pincus Access Fund, L.P.  (CIK 0002082826)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082826/000119312526041162/0001193125-26-041162-index.htm)
 
 - **S-1** | APEIRON ACQUISITION VEHICLE I  (CIK 0002085795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085795/000121390026011619/0001213900-26-011619-index.htm)
@@ -113,6 +131,9 @@
 
 - **8-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526039518/0001193125-26-039518-index.htm)
+
+- **S-8** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526041269/0001193125-26-041269-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526038531/0001193125-26-038531-index.htm)
@@ -170,6 +191,9 @@
 
 - **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312526039455/0001193125-26-039455-index.htm)
+
+- **424B3** | Oaktree Strategic Credit Fund  (CIK 0001872371)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872371/000119312526041161/0001193125-26-041161-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000109/0001279569-26-000109-index.htm)
@@ -237,6 +261,9 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826010476/0001410368-26-010476-index.htm)
 
+- **485APOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826001515/0001133228-26-001515-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026011767/0001213900-26-011767-index.htm)
 
@@ -256,6 +283,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026012243/0001213900-26-012243-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026013284/0001213900-26-013284-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026012777/0001213900-26-012777-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
@@ -263,6 +293,9 @@
 
 - **485APOS** | EQ ADVISORS TRUST  (CIK 0001027263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312526040506/0001193125-26-040506-index.htm)
+
+- **10-K** | Ventas, Inc.  (VTR)  (CIK 0000740260)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/740260/000074026026000006/0000740260-26-000006-index.htm)
 
 - **SCHEDULE 13G/A** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926010888/0001104659-26-010888-index.htm)
