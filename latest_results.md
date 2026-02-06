@@ -264,6 +264,9 @@
 - **485APOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826001515/0001133228-26-001515-index.htm)
 
+- **10-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000008/0001500217-26-000008-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026011767/0001213900-26-011767-index.htm)
 
