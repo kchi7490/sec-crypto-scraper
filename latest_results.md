@@ -21,6 +21,9 @@
 - **425** | Parataxis Holdings Inc.  (PRTX)  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926009885/0001104659-26-009885-index.htm)
 
+- **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226005462/0001493152-26-005462-index.htm)
+
 - **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926010893/0001104659-26-010893-index.htm)
 
@@ -156,6 +159,9 @@
 - **8-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312526039455/0001193125-26-039455-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000109/0001279569-26-000109-index.htm)
+
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926003079/0001437749-26-003079-index.htm)
 
@@ -167,6 +173,12 @@
 
 - **6-K** | UBS Group AG  (UBS)  (CIK 0001610520)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000014/0001610520-26-000014-index.htm)
+
+- **6-K** | BANK BRADESCO  (BBD, BBDO)  (CIK 0001160330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1160330/000129281426000265/0001292814-26-000265-index.htm)
+
+- **6-K** | BANK BRADESCO  (BBD, BBDO)  (CIK 0001160330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1160330/000129281426000263/0001292814-26-000263-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226005456/0001493152-26-005456-index.htm)
@@ -230,6 +242,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026012777/0001213900-26-012777-index.htm)
+
+- **485APOS** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312526040506/0001193125-26-040506-index.htm)
 
 - **SCHEDULE 13G/A** | Solana Co  (HSDT, HSDTW)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926010888/0001104659-26-010888-index.htm)
