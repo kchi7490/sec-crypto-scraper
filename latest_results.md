@@ -63,6 +63,9 @@
 - **10-K** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000004/0001571949-26-000004-index.htm)
 
+- **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526040310/0001193125-26-040310-index.htm)
+
 - **424B5** | X3 Holdings Co., Ltd.  (XTKG)  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390026011918/0001213900-26-011918-index.htm)
 
@@ -170,6 +173,12 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000656/0001062993-26-000656-index.htm)
+
+- **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226005436/0001493152-26-005436-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026013007/0001213900-26-013007-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000098/0001279569-26-000098-index.htm)
