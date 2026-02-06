@@ -168,6 +168,9 @@
 - **6-K** | UBS Group AG  (UBS)  (CIK 0001610520)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000014/0001610520-26-000014-index.htm)
 
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226005456/0001493152-26-005456-index.htm)
+
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026012561/0001213900-26-012561-index.htm)
 
