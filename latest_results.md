@@ -9,6 +9,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000866/0001683168-26-000866-index.htm)
 
+- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226005815/0001493152-26-005815-index.htm)
+
 - **S-1/A** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026013482/0001213900-26-013482-index.htm)
 
@@ -27,8 +30,14 @@
 - **S-3** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226005802/0001493152-26-005802-index.htm)
 
+- **10-K** | Bloom Energy Corp  (BE)  (CIK 0001664703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/0001628280-26-006516-index.htm)
+
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026013510/0001213900-26-013510-index.htm)
+
+- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005823/0001493152-26-005823-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
@@ -44,6 +53,12 @@
 
 - **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001102/0001829126-26-001102-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000712/0001477932-26-000712-index.htm)
+
+- **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526043052/0001193125-26-043052-index.htm)
 
 - **N-14 8C** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026006494/0001628280-26-006494-index.htm)
