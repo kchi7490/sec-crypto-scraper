@@ -24,8 +24,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
 
+- **N-CSR** | Horizon Funds  (CIK 0001643174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834426002505/0001398344-26-002505-index.htm)
+
 - **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001102/0001829126-26-001102-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000117/0001279569-26-000117-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026013445/0001213900-26-013445-index.htm)
@@ -35,6 +41,9 @@
 
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026013470/0001213900-26-013470-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002861/0001999371-26-002861-index.htm)
 
 - **FWP** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926011796/0001104659-26-011796-index.htm)
