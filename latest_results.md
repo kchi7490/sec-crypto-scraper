@@ -24,6 +24,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
 
+- **N-CSRS** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126002886/0001999371-26-002886-index.htm)
+
 - **N-CSR** | Tortoise Capital Series Trust  (CIK 0002034406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034406/000113322826001541/0001133228-26-001541-index.htm)
 
