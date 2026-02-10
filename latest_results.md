@@ -12,6 +12,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226005846/0001493152-26-005846-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000013/0001783879-26-000013-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826000884/0001683168-26-000884-index.htm)
 
@@ -27,6 +30,9 @@
 - **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005670/0001493152-26-005670-index.htm)
 
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584126000006/0001475841-26-000006-index.htm)
+
 - **DEF 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026013677/0001213900-26-013677-index.htm)
 
@@ -36,8 +42,17 @@
 - **S-4/A** | Blockfusion Data Centers, Inc.  (BLDC)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526000445/0001185185-26-000445-index.htm)
 
+- **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026014281/0001213900-26-014281-index.htm)
+
+- **8-K** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026014280/0001213900-26-014280-index.htm)
+
 - **S-3** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226005802/0001493152-26-005802-index.htm)
+
+- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026014283/0001213900-26-014283-index.htm)
 
 - **10-K** | Bloom Energy Corp  (BE)  (CIK 0001664703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/0001628280-26-006516-index.htm)
@@ -54,6 +69,9 @@
 - **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226005842/0001493152-26-005842-index.htm)
 
+- **S-1** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000149315226005967/0001493152-26-005967-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
 
@@ -65,6 +83,9 @@
 
 - **N-CSR** | Tortoise Capital Series Trust  (CIK 0002034406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034406/000113322826001541/0001133228-26-001541-index.htm)
+
+- **S-1** | BRC Group Holdings, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390026014278/0001213900-26-014278-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026014153/0001213900-26-014153-index.htm)
@@ -137,6 +158,9 @@
 
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000119312526042778/0001193125-26-042778-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026014276/0001213900-26-014276-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026014230/0001213900-26-014230-index.htm)
