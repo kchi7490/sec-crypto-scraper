@@ -105,6 +105,9 @@
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259726000061/0001132597-26-000061-index.htm)
 
+- **20-F** | BARCLAYS PLC  (BCS, BCLYF)  (CIK 0000312069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312069/000031206926000004/0000312069-26-000004-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000013/0001383395-26-000013-index.htm)
 
