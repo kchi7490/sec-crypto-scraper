@@ -102,6 +102,9 @@
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026013938/0001213900-26-013938-index.htm)
 
+- **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259726000061/0001132597-26-000061-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000013/0001383395-26-000013-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002861/0001999371-26-002861-index.htm)
+
+- **487** | FT 12719  (CIK 0002093835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093835/000144554626001147/0001445546-26-001147-index.htm)
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526043602/0001193125-26-043602-index.htm)
