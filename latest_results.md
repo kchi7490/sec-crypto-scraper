@@ -90,6 +90,9 @@
 - **N-CSR** | Tortoise Capital Series Trust  (CIK 0002034406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034406/000113322826001541/0001133228-26-001541-index.htm)
 
+- **S-1** | Quantum Leap Acquisition Corp  (CIK 0002102155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026014430/0001213900-26-014430-index.htm)
+
 - **S-1** | BRC Group Holdings, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390026014278/0001213900-26-014278-index.htm)
 
