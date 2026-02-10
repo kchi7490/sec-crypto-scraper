@@ -84,6 +84,9 @@
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000149315226005723/0001493152-26-005723-index.htm)
 
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926012323/0001104659-26-012323-index.htm)
+
 - **6-K** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026013470/0001213900-26-013470-index.htm)
 
