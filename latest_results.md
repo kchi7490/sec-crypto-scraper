@@ -42,11 +42,17 @@
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005823/0001493152-26-005823-index.htm)
 
+- **10-K** | LOEWS CORP  (L)  (CIK 0000060086)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008626000008/0000060086-26-000008-index.htm)
+
 - **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226005842/0001493152-26-005842-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226005888/0001493152-26-005888-index.htm)
 
 - **N-CSRS** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126002886/0001999371-26-002886-index.htm)
@@ -69,6 +75,9 @@
 - **N-14 8C** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026006494/0001628280-26-006494-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026013949/0001213900-26-013949-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000117/0001279569-26-000117-index.htm)
 
@@ -77,6 +86,9 @@
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026013445/0001213900-26-013445-index.htm)
+
+- **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026013938/0001213900-26-013938-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000013/0001383395-26-000013-index.htm)
