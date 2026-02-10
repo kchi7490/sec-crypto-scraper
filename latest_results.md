@@ -33,6 +33,9 @@
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584126000006/0001475841-26-000006-index.htm)
 
+- **S-1/A** | Bitwise Avalanche ETF  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026014334/0001213900-26-014334-index.htm)
+
 - **DEF 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026013677/0001213900-26-013677-index.htm)
 
@@ -56,6 +59,9 @@
 
 - **10-K** | Bloom Energy Corp  (BE)  (CIK 0001664703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/0001628280-26-006516-index.htm)
+
+- **424B4** | Spring Valley Acquisition Corp. IV  (SVIV)  (CIK 0002098242)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2098242/000110465926012742/0001104659-26-012742-index.htm)
 
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026013510/0001213900-26-013510-index.htm)
@@ -87,6 +93,9 @@
 - **S-1** | BRC Group Holdings, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000121390026014278/0001213900-26-014278-index.htm)
 
+- **8-K** | BRC Group Holdings, Inc.  (RILY, RILYG, RILYK, RILYL, RILYN, RILYP, RILYT, RILYZ)  (CIK 0001464790)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1464790/000146479026000015/0001464790-26-000015-index.htm)
+
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026014153/0001213900-26-014153-index.htm)
 
@@ -95,6 +104,9 @@
 
 - **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001102/0001829126-26-001102-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000740/0001477932-26-000740-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000712/0001477932-26-000712-index.htm)
@@ -156,6 +168,9 @@
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/0001213900-26-013687-index.htm)
 
+- **10-Q** | TANICO Inc.  (CIK 0001895939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793226000738/0001477932-26-000738-index.htm)
+
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000119312526042778/0001193125-26-042778-index.htm)
 
@@ -164,6 +179,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026014230/0001213900-26-014230-index.htm)
+
+- **10-Q** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226000736/0001477932-26-000736-index.htm)
 
 - **FWP** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926011796/0001104659-26-011796-index.htm)
