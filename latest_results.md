@@ -9,6 +9,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000866/0001683168-26-000866-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226005846/0001493152-26-005846-index.htm)
+
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226005815/0001493152-26-005815-index.htm)
 
@@ -39,6 +42,9 @@
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005823/0001493152-26-005823-index.htm)
 
+- **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226005842/0001493152-26-005842-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
 
@@ -66,8 +72,14 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000117/0001279569-26-000117-index.htm)
 
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526043584/0001193125-26-043584-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026013445/0001213900-26-013445-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000013/0001383395-26-000013-index.htm)
 
 - **6-K** | Ming Shing Group Holdings Ltd  (MSW)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000149315226005723/0001493152-26-005723-index.htm)
@@ -77,6 +89,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002861/0001999371-26-002861-index.htm)
+
+- **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526043602/0001193125-26-043602-index.htm)
 
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/0001213900-26-013687-index.htm)
@@ -92,4 +107,13 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002848/0001999371-26-002848-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326001862/0000950103-26-001862-index.htm)
+
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005871/0001493152-26-005871-index.htm)
+
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005874/0001493152-26-005874-index.htm)
 
