@@ -66,6 +66,9 @@
 - **N-CSR** | Tortoise Capital Series Trust  (CIK 0002034406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034406/000113322826001541/0001133228-26-001541-index.htm)
 
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026014153/0001213900-26-014153-index.htm)
+
 - **N-CSR** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834426002505/0001398344-26-002505-index.htm)
 
