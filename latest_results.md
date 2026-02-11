@@ -18,6 +18,9 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826000898/0001683168-26-000898-index.htm)
 
+- **8-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426001105/0001654954-26-001105-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226005846/0001493152-26-005846-index.htm)
 
@@ -185,6 +188,9 @@
 
 - **487** | FT 12719  (CIK 0002093835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093835/000144554626001147/0001445546-26-001147-index.htm)
+
+- **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526045636/0001193125-26-045636-index.htm)
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526043602/0001193125-26-043602-index.htm)
