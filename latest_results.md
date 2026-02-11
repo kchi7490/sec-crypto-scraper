@@ -295,10 +295,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
