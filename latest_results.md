@@ -54,6 +54,9 @@
 - **S-1/A** | Bitwise Avalanche ETF  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026014334/0001213900-26-014334-index.htm)
 
+- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/0001193125-26-046711-index.htm)
+
 - **DEF 14A** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026013677/0001213900-26-013677-index.htm)
 
@@ -84,6 +87,9 @@
 - **10-K** | Bloom Energy Corp  (BE)  (CIK 0001664703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/0001628280-26-006516-index.htm)
 
+- **S-1** | T3 Defense Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026014901/0001213900-26-014901-index.htm)
+
 - **424B4** | Spring Valley Acquisition Corp. IV  (SVIV)  (CIK 0002098242)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2098242/000110465926012742/0001104659-26-012742-index.htm)
 
@@ -105,14 +111,23 @@
 - **S-1** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000149315226005967/0001493152-26-005967-index.htm)
 
+- **F-4** | Mango Financial Group Ltd  (CIK 0002085210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226006200/0001493152-26-006200-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526041944/0001193125-26-041944-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226005888/0001493152-26-005888-index.htm)
 
+- **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000002/0001819989-26-000002-index.htm)
+
 - **N-CSRS** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126002886/0001999371-26-002886-index.htm)
+
+- **SCHEDULE 13D** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526046597/0001193125-26-046597-index.htm)
 
 - **N-CSR** | Tortoise Capital Series Trust  (CIK 0002034406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034406/000113322826001541/0001133228-26-001541-index.htm)
@@ -134,6 +149,9 @@
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026014153/0001213900-26-014153-index.htm)
+
+- **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326001966/0000950103-26-001966-index.htm)
 
 - **N-CSR** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834426002505/0001398344-26-002505-index.htm)
@@ -213,6 +231,9 @@
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/0001213900-26-013687-index.htm)
 
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026014929/0001213900-26-014929-index.htm)
+
 - **10-Q** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793226000738/0001477932-26-000738-index.htm)
 
@@ -222,8 +243,14 @@
 - **10-Q** | PennantPark Floating Rate Capital Ltd.  (PFLT)  (CIK 0001504619)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504619/000119312526042778/0001193125-26-042778-index.htm)
 
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926003582/0000894189-26-003582-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026014276/0001213900-26-014276-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026014900/0001213900-26-014900-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026014230/0001213900-26-014230-index.htm)
@@ -242,6 +269,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326001862/0000950103-26-001862-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046733/0001193125-26-046733-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005871/0001493152-26-005871-index.htm)
