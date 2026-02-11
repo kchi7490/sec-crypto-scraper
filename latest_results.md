@@ -60,6 +60,9 @@
 - **S-4/A** | Blockfusion Data Centers, Inc.  (BLDC)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526000445/0001185185-26-000445-index.htm)
 
+- **10-K** | Mastercard Inc  (MA)  (CIK 0001141391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/0001141391-26-000013-index.htm)
+
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026014281/0001213900-26-014281-index.htm)
 
