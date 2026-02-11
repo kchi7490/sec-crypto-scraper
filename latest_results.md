@@ -12,6 +12,9 @@
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226000748/0001477932-26-000748-index.htm)
 
+- **10-Q** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026015016/0001213900-26-015016-index.htm)
+
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526045553/0001193125-26-045553-index.htm)
 
@@ -108,6 +111,9 @@
 - **10-K** | FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE  (FNMA, FNMAG, FNMAH, FNMAI, FNMAJ, FNMAK, FNMAL, FNMAM, FNMAN, FNMAO, FNMAS, FNMAT, FNMFM, FNMFN)  (CIK 0000310522)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/310522/000031052226000015/0000310522-26-000015-index.htm)
 
+- **8-K** | Horizon Technology Finance Corp  (HRZN, HTFB, HTFC)  (CIK 0001487428)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1487428/000143774926003812/0001437749-26-003812-index.htm)
+
 - **S-1** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000149315226005967/0001493152-26-005967-index.htm)
 
@@ -155,6 +161,9 @@
 
 - **N-CSR** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834426002505/0001398344-26-002505-index.htm)
+
+- **424B4** | Idea Acquisition Corp.  (IACO)  (CIK 0002091176)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926013482/0001104659-26-013482-index.htm)
 
 - **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001102/0001829126-26-001102-index.htm)
@@ -267,11 +276,41 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126002848/0001999371-26-002848-index.htm)
 
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046746/0001193125-26-046746-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326001862/0000950103-26-001862-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046790/0001193125-26-046790-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046787/0001193125-26-046787-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046776/0001193125-26-046776-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046733/0001193125-26-046733-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046782/0001193125-26-046782-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046742/0001193125-26-046742-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005871/0001493152-26-005871-index.htm)
