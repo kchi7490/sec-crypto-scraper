@@ -186,6 +186,9 @@
 - **487** | FT 12719  (CIK 0002093835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093835/000144554626001147/0001445546-26-001147-index.htm)
 
+- **F-1** | PayPay Corp  (CIK 0002080845)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526047933/0001193125-26-047933-index.htm)
+
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526045636/0001193125-26-045636-index.htm)
 
