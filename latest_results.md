@@ -165,6 +165,9 @@
 - **6-K** | Enlivex Therapeutics Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026013938/0001213900-26-013938-index.htm)
 
+- **SCHEDULE 13D/A** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000210008426000001/0002100084-26-000001-index.htm)
+
 - **6-K** | Itau Unibanco Holding S.A.  (ITUB)  (CIK 0001132597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1132597/000113259726000061/0001132597-26-000061-index.htm)
 
@@ -188,6 +191,9 @@
 
 - **487** | FT 12719  (CIK 0002093835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093835/000144554626001147/0001445546-26-001147-index.htm)
+
+- **487** | FT 12720  (CIK 0002094290)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094290/000144554626001204/0001445546-26-001204-index.htm)
 
 - **F-1** | PayPay Corp  (CIK 0002080845)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526047933/0001193125-26-047933-index.htm)
@@ -238,10 +244,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046790/0001193125-26-046790-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046787/0001193125-26-046787-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046787/0001193125-26-046787-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
