@@ -72,6 +72,9 @@
 - **10-K** | LOEWS CORP  (L)  (CIK 0000060086)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/60086/000006008626000008/0000060086-26-000008-index.htm)
 
+- **20-F** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390026015180/0001213900-26-015180-index.htm)
+
 - **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226005842/0001493152-26-005842-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **SCHEDULE 13D** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526046597/0001193125-26-046597-index.htm)
+
+- **S-1** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026015175/0001213900-26-015175-index.htm)
 
 - **424B4** | Columbus Circle Capital Corp II  (CMII)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026014731/0001213900-26-014731-index.htm)
@@ -211,10 +217,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
