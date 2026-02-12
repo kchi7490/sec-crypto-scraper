@@ -36,6 +36,9 @@
 - **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126003132/0001999371-26-003132-index.htm)
 
+- **1-A POS** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278126000005/0001882781-26-000005-index.htm)
+
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226005912/0001493152-26-005912-index.htm)
 
@@ -256,10 +259,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
