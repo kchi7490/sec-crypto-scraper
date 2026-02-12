@@ -96,6 +96,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226006304/0001493152-26-006304-index.htm)
 
+- **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226006327/0001493152-26-006327-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226005888/0001493152-26-005888-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526043584/0001193125-26-043584-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026015251/0001213900-26-015251-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026007492/0001628280-26-007492-index.htm)
