@@ -30,6 +30,9 @@
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
 
+- **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
+
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226005912/0001493152-26-005912-index.htm)
 
@@ -71,6 +74,9 @@
 
 - **S-1/A** | Gameverse Interactive Corp  (GVSE)  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226005842/0001493152-26-005842-index.htm)
+
+- **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926013614/0001104659-26-013614-index.htm)
 
 - **10-K** | FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE  (FNMA, FNMAG, FNMAH, FNMAI, FNMAJ, FNMAK, FNMAL, FNMAM, FNMAN, FNMAO, FNMAS, FNMAT, FNMFM, FNMFN)  (CIK 0000310522)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/310522/000031052226000015/0000310522-26-000015-index.htm)
@@ -168,6 +174,9 @@
 - **10-Q** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793226000738/0001477932-26-000738-index.htm)
 
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003068/0001999371-26-003068-index.htm)
+
 - **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000001/0001690010-26-000001-index.htm)
 
@@ -202,10 +211,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
