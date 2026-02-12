@@ -94,6 +94,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226006200/0001493152-26-006200-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226006304/0001493152-26-006304-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226005888/0001493152-26-005888-index.htm)
 
 - **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
@@ -101,6 +104,9 @@
 
 - **SCHEDULE 13D** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526046597/0001193125-26-046597-index.htm)
+
+- **8-K** | Onconetix, Inc.  (ONCO)  (CIK 0001782107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1782107/000121390026015212/0001213900-26-015212-index.htm)
 
 - **S-1** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026015175/0001213900-26-015175-index.htm)
@@ -138,6 +144,9 @@
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526043584/0001193125-26-043584-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026007492/0001628280-26-007492-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926012386/0001104659-26-012386-index.htm)
 
@@ -162,6 +171,9 @@
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926013008/0001104659-26-013008-index.htm)
 
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226006297/0001493152-26-006297-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326000775/0001062993-26-000775-index.htm)
 
@@ -170,6 +182,9 @@
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526045636/0001193125-26-045636-index.htm)
+
+- **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526047686/0001193125-26-047686-index.htm)
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526043602/0001193125-26-043602-index.htm)
@@ -236,6 +251,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046742/0001193125-26-046742-index.htm)
+
+- **425** | Onconetix, Inc.  (ONCO)  (CIK 0001782107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1782107/000121390026015214/0001213900-26-015214-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226005871/0001493152-26-005871-index.htm)
