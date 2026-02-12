@@ -60,6 +60,12 @@
 - **10-Q** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926014324/0001104659-26-014324-index.htm)
 
+- **10-12G** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226006477/0001493152-26-006477-index.htm)
+
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026015676/0001213900-26-015676-index.htm)
+
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584126000006/0001475841-26-000006-index.htm)
 
@@ -83,6 +89,9 @@
 
 - **424B3** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526048015/0001193125-26-048015-index.htm)
+
+- **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026007807/0001628280-26-007807-index.htm)
 
 - **10-Q** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526045901/0001193125-26-045901-index.htm)
@@ -143,6 +152,9 @@
 
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026015612/0001213900-26-015612-index.htm)
+
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126005064/0001140361-26-005064-index.htm)
 
 - **SCHEDULE 13D** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526046597/0001193125-26-046597-index.htm)
@@ -219,6 +231,9 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926012323/0001104659-26-012323-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000857/0001062993-26-000857-index.htm)
+
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926014285/0001104659-26-014285-index.htm)
 
@@ -230,6 +245,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326000775/0001062993-26-000775-index.htm)
+
+- **253G2** | SpotitEarly, Inc.  (CIK 0002077992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000235/0001096906-26-000235-index.htm)
 
 - **487** | FT 12719  (CIK 0002093835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093835/000144554626001147/0001445546-26-001147-index.htm)
