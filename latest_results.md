@@ -123,6 +123,9 @@
 - **F-4** | Mango Financial Group Ltd  (CIK 0002085210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226006200/0001493152-26-006200-index.htm)
 
+- **S-4** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026007747/0001628280-26-007747-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326000850/0001062993-26-000850-index.htm)
 
@@ -155,6 +158,9 @@
 
 - **424B4** | Columbus Circle Capital Corp II  (CMII)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026014729/0001213900-26-014729-index.htm)
+
+- **10-K** | DIEBOLD NIXDORF, Inc  (DBD)  (CIK 0000028823)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/28823/000002882326000008/0000028823-26-000008-index.htm)
 
 - **S-1** | Quantum Leap Acquisition Corp  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026014430/0001213900-26-014430-index.htm)
