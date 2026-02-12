@@ -57,6 +57,9 @@
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026007370/0001628280-26-007370-index.htm)
 
+- **424B3** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526048015/0001193125-26-048015-index.htm)
+
 - **10-Q** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526045901/0001193125-26-045901-index.htm)
 
@@ -235,10 +238,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046790/0001193125-26-046790-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046787/0001193125-26-046787-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046787/0001193125-26-046787-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
