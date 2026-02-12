@@ -33,6 +33,9 @@
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
 
+- **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126003132/0001999371-26-003132-index.htm)
+
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226005912/0001493152-26-005912-index.htm)
 
