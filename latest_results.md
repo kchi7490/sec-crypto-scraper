@@ -15,6 +15,9 @@
 - **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126003054/0001999371-26-003054-index.htm)
 
+- **10-Q** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226006816/0001493152-26-006816-index.htm)
+
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226000748/0001477932-26-000748-index.htm)
 
@@ -45,8 +48,14 @@
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
 
+- **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926001736/0001214659-26-001736-index.htm)
+
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
+
+- **S-1/A** | Canary TRUMP Coin ETF  (CIK 0002083122)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083122/000199937126003355/0001999371-26-003355-index.htm)
 
 - **S-1/A** | Canary Staked SUI ETF  (CIK 0002060703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126003132/0001999371-26-003132-index.htm)
@@ -75,8 +84,14 @@
 - **PRRN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000092189526000355/0000921895-26-000355-index.htm)
 
+- **DEFM14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526051757/0001193125-26-051757-index.htm)
+
 - **424B3** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000560/0001185185-26-000560-index.htm)
+
+- **DEFM14A** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000563/0001185185-26-000563-index.htm)
 
 - **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016096/0001213900-26-016096-index.htm)
@@ -90,6 +105,9 @@
 - **10-K** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/0001141391-26-000013-index.htm)
 
+- **424B3** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626001355/0001829126-26-001355-index.htm)
+
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026007370/0001628280-26-007370-index.htm)
 
@@ -99,11 +117,20 @@
 - **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026007807/0001628280-26-007807-index.htm)
 
+- **S-1/A** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026008198/0001628280-26-008198-index.htm)
+
+- **S-1/A** | Future Money Acquisition Corp  (FMAC)  (CIK 0002099232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315226006808/0001493152-26-006808-index.htm)
+
 - **10-Q** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526045901/0001193125-26-045901-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326002125/0000950103-26-002125-index.htm)
+
+- **10-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226006817/0001493152-26-006817-index.htm)
 
 - **10-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000162828026007703/0001628280-26-007703-index.htm)
@@ -126,11 +153,17 @@
 - **POS AM** | Aeon Acquisition I Corp.  (AESP)  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226006516/0001493152-26-006516-index.htm)
 
+- **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226006791/0001493152-26-006791-index.htm)
+
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926013614/0001104659-26-013614-index.htm)
 
 - **10-K** | FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE  (FNMA, FNMAG, FNMAH, FNMAI, FNMAJ, FNMAK, FNMAL, FNMAM, FNMAN, FNMAO, FNMAS, FNMAT, FNMFM, FNMFN)  (CIK 0000310522)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/310522/000031052226000015/0000310522-26-000015-index.htm)
+
+- **424B3** | T3 Defense Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026016593/0001213900-26-016593-index.htm)
 
 - **8-K** | Horizon Technology Finance Corp  (HRZN, HTFB, HTFC)  (CIK 0001487428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487428/000143774926003812/0001437749-26-003812-index.htm)
@@ -149,6 +182,15 @@
 
 - **S-4** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026007747/0001628280-26-007747-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526051808/0001193125-26-051808-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526051807/0001193125-26-051807-index.htm)
+
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526051799/0001193125-26-051799-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326000850/0001062993-26-000850-index.htm)
@@ -222,6 +264,9 @@
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026015886/0001213900-26-015886-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026016604/0001213900-26-016604-index.htm)
+
 - **SCHEDULE 13D/A** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000210008426000001/0002100084-26-000001-index.htm)
 
@@ -276,6 +321,9 @@
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026014929/0001213900-26-014929-index.htm)
 
+- **N-2** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008196/0001628280-26-008196-index.htm)
+
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003068/0001999371-26-003068-index.htm)
 
@@ -293,6 +341,9 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016510/0001213900-26-016510-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426003166/0001398344-26-003166-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026015575/0001213900-26-015575-index.htm)
