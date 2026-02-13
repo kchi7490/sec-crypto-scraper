@@ -30,6 +30,9 @@
 - **8-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426001105/0001654954-26-001105-index.htm)
 
+- **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826001004/0001683168-26-001004-index.htm)
+
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
 
@@ -162,6 +165,9 @@
 - **424B4** | Idea Acquisition Corp.  (IACO)  (CIK 0002091176)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926013482/0001104659-26-013482-index.htm)
 
+- **S-4/A** | Pelican Holdco, Inc.  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001322/0001829126-26-001322-index.htm)
+
 - **10-K** | Iron Horse Acquisition II Corp.  (IRHO, IRHOR, IRHOU)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390026015865/0001213900-26-015865-index.htm)
 
@@ -206,6 +212,9 @@
 
 - **F-1** | PayPay Corp  (CIK 0002080845)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526047933/0001193125-26-047933-index.htm)
+
+- **253G2** | Cyber Enviro-Tech, Inc.  (CETI)  (CIK 0001935092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1935092/000107997326000207/0001079973-26-000207-index.htm)
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526045636/0001193125-26-045636-index.htm)
