@@ -84,6 +84,9 @@
 - **20-F** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390026015180/0001213900-26-015180-index.htm)
 
+- **POS AM** | Aeon Acquisition I Corp.  (AESP)  (CIK 0002082526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226006516/0001493152-26-006516-index.htm)
+
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926013614/0001104659-26-013614-index.htm)
 
@@ -93,8 +96,14 @@
 - **8-K** | Horizon Technology Finance Corp  (HRZN, HTFB, HTFC)  (CIK 0001487428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487428/000143774926003812/0001437749-26-003812-index.htm)
 
+- **F-4/A** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626001295/0001829126-26-001295-index.htm)
+
 - **F-4** | Mango Financial Group Ltd  (CIK 0002085210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226006200/0001493152-26-006200-index.htm)
+
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026015814/0001213900-26-015814-index.htm)
 
 - **S-4** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026007747/0001628280-26-007747-index.htm)
@@ -110,6 +119,9 @@
 
 - **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000002/0001819989-26-000002-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926001643/0001214659-26-001643-index.htm)
 
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026015612/0001213900-26-015612-index.htm)
@@ -149,6 +161,9 @@
 
 - **SCHEDULE 13D/A** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000210008426000001/0002100084-26-000001-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000018/0001383395-26-000018-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000857/0001062993-26-000857-index.htm)
@@ -214,10 +229,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
