@@ -30,11 +30,11 @@
 - **8-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426001105/0001654954-26-001105-index.htm)
 
-- **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
-
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
+
+- **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
 
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
@@ -77,6 +77,9 @@
 
 - **S-1** | T3 Defense Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026014901/0001213900-26-014901-index.htm)
+
+- **424B4** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026015712/0001213900-26-015712-index.htm)
 
 - **20-F** | Skycorp Solar Group Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000121390026015180/0001213900-26-015180-index.htm)
