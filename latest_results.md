@@ -54,6 +54,9 @@
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026015676/0001213900-26-015676-index.htm)
 
+- **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016096/0001213900-26-016096-index.htm)
+
 - **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/0001193125-26-046711-index.htm)
 
@@ -174,6 +177,9 @@
 - **SCHEDULE 13D/A** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000210008426000001/0002100084-26-000001-index.htm)
 
+- **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526050582/0001193125-26-050582-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000018/0001383395-26-000018-index.htm)
 
@@ -247,10 +253,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046794/0001193125-26-046794-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046797/0001193125-26-046797-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046756/0001193125-26-046756-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046735/0001193125-26-046735-index.htm)
