@@ -39,11 +39,11 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826001004/0001683168-26-001004-index.htm)
 
-- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
-
 - **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
+
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
 
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
@@ -66,8 +66,17 @@
 - **POS AM** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000199287026000002/0001992870-26-000002-index.htm)
 
+- **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026016439/0001213900-26-016439-index.htm)
+
+- **S-1** | Grayscale Aave Trust (AAVE)  (CIK 0002040120)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040120/000119312526051643/0001193125-26-051643-index.htm)
+
 - **PRRN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000092189526000355/0000921895-26-000355-index.htm)
+
+- **424B3** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526000560/0001185185-26-000560-index.htm)
 
 - **S-1** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016096/0001213900-26-016096-index.htm)
@@ -98,6 +107,9 @@
 
 - **10-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000162828026007703/0001628280-26-007703-index.htm)
+
+- **S-1/A** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026016539/0001213900-26-016539-index.htm)
 
 - **S-1** | T3 Defense Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026014901/0001213900-26-014901-index.htm)
@@ -150,6 +162,9 @@
 - **8-K** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226006327/0001493152-26-006327-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926001732/0001214659-26-001732-index.htm)
+
 - **8-K** | Cipher Mining Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000002/0001819989-26-000002-index.htm)
 
@@ -192,6 +207,9 @@
 - **8-K** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000149315226006658/0001493152-26-006658-index.htm)
 
+- **10-K** | EQUITY RESIDENTIAL  (EQR)  (CIK 0000906107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906107/000119312526051433/0001193125-26-051433-index.htm)
+
 - **10-K** | Iron Horse Acquisition II Corp.  (IRHO, IRHOR, IRHOU)  (CIK 0002051985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051985/000121390026015865/0001213900-26-015865-index.htm)
 
@@ -231,6 +249,9 @@
 - **253G2** | SpotitEarly, Inc.  (CIK 0002077992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000235/0001096906-26-000235-index.htm)
 
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926004148/0001437749-26-004148-index.htm)
+
 - **485APOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526051205/0001193125-26-051205-index.htm)
 
@@ -266,6 +287,12 @@
 
 - **10-Q** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226006571/0001493152-26-006571-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016504/0001213900-26-016504-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016510/0001213900-26-016510-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026015575/0001213900-26-015575-index.htm)
@@ -329,4 +356,7 @@
 
 - **425** | Onconetix, Inc.  (ONCO)  (CIK 0001782107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1782107/000121390026015214/0001213900-26-015214-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002136/0000950103-26-002136-index.htm)
 
