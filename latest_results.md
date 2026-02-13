@@ -33,11 +33,11 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826001004/0001683168-26-001004-index.htm)
 
-- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
-
 - **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
+
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
 
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
