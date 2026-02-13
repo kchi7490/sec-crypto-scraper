@@ -168,6 +168,9 @@
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026007492/0001628280-26-007492-index.htm)
 
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026015886/0001213900-26-015886-index.htm)
+
 - **SCHEDULE 13D/A** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000210008426000001/0002100084-26-000001-index.htm)
 
@@ -203,6 +206,9 @@
 
 - **S-1/A** | Clear Street Group Inc.  (CLRS)  (CIK 0001881567)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881567/000119312526047686/0001193125-26-047686-index.htm)
+
+- **20-F** | Lloyds Banking Group plc  (LYG, LLDTF, LLOBF)  (CIK 0001160106)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1160106/000116010626000010/0001160106-26-000010-index.htm)
 
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026014929/0001213900-26-014929-index.htm)
