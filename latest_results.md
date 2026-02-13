@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **10-Q** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000143774926004111/0001437749-26-004111-index.htm)
+
 - **10-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/0001679788-26-000015-index.htm)
 
 - **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000011/0001679788-26-000011-index.htm)
+
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226006685/0001493152-26-006685-index.htm)
 
 - **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126003054/0001999371-26-003054-index.htm)
@@ -33,11 +39,11 @@
 - **8-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826001004/0001683168-26-001004-index.htm)
 
-- **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
-
 - **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026014504/0001213900-26-014504-index.htm)
+
+- **8-K** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226006413/0001493152-26-006413-index.htm)
 
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526046988/0001193125-26-046988-index.htm)
@@ -57,6 +63,9 @@
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026015676/0001213900-26-015676-index.htm)
 
+- **POS AM** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000199287026000002/0001992870-26-000002-index.htm)
+
 - **PRRN14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000092189526000355/0000921895-26-000355-index.htm)
 
@@ -65,6 +74,9 @@
 
 - **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/0001193125-26-046711-index.htm)
+
+- **10-Q** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774926004107/0001437749-26-004107-index.htm)
 
 - **10-K** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/0001141391-26-000013-index.htm)
@@ -89,6 +101,9 @@
 
 - **S-1** | T3 Defense Inc.  (NUKK, NUKKW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026014901/0001213900-26-014901-index.htm)
+
+- **10-K** | LATTICE SEMICONDUCTOR CORP  (LSCC)  (CIK 0000855658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/855658/000143774926004100/0001437749-26-004100-index.htm)
 
 - **424B4** | Proem Acquisition Corp. I  (PAAC)  (CIK 0002087446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026015712/0001213900-26-015712-index.htm)
@@ -216,6 +231,9 @@
 - **253G2** | SpotitEarly, Inc.  (CIK 0002077992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000235/0001096906-26-000235-index.htm)
 
+- **485APOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526051205/0001193125-26-051205-index.htm)
+
 - **487** | FT 12720  (CIK 0002094290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094290/000144554626001204/0001445546-26-001204-index.htm)
 
@@ -252,6 +270,9 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026015575/0001213900-26-015575-index.htm)
 
+- **10-Q** | ADM TRONICS UNLIMITED, INC.  (ADMT)  (CIK 0000849401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/849401/000143774926004097/0001437749-26-004097-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026014900/0001213900-26-014900-index.htm)
 
@@ -261,8 +282,20 @@
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026016274/0001213900-26-016274-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026016426/0001213900-26-016426-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046746/0001193125-26-046746-index.htm)
+
+- **10-Q** | BLACKSTAR ENTERPRISE GROUP, INC.  (CIK 0001483646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1483646/000106594926000016/0001065949-26-000016-index.htm)
+
+- **10-Q** | BLACKSTAR ENTERPRISE GROUP, INC.  (CIK 0001483646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1483646/000106594926000015/0001065949-26-000015-index.htm)
+
+- **10-Q** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315226006710/0001493152-26-006710-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000119312526046790/0001193125-26-046790-index.htm)
