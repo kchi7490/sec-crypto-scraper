@@ -12,6 +12,9 @@
 - **8-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526053243/0001193125-26-053243-index.htm)
 
+- **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826001098/0001683168-26-001098-index.htm)
+
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000015/0002055592-26-000015-index.htm)
 
