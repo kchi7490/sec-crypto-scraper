@@ -42,6 +42,9 @@
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
 
+- **POS AM** | Xdata Group  (CIK 0002038688)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226007053/0001493152-26-007053-index.htm)
+
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000848/0001171843-26-000848-index.htm)
 
