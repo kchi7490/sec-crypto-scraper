@@ -72,6 +72,9 @@
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026008331/0001628280-26-008331-index.htm)
 
+- **487** | FT 12722  (CIK 0002094296)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
+
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008313/0001628280-26-008313-index.htm)
 
