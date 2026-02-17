@@ -15,17 +15,26 @@
 - **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826001098/0001683168-26-001098-index.htm)
 
+- **10-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000013/0001818874-26-000013-index.htm)
+
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000015/0002055592-26-000015-index.htm)
 
 - **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026016893/0001213900-26-016893-index.htm)
 
+- **8-K/A** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026017323/0001213900-26-017323-index.htm)
+
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026016896/0001213900-26-016896-index.htm)
 
 - **S-4/A** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026016765/0001213900-26-016765-index.htm)
+
+- **POS EX** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026017302/0001213900-26-017302-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000943/0001062993-26-000943-index.htm)
@@ -42,11 +51,26 @@
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
 
+- **424B3** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026017308/0001213900-26-017308-index.htm)
+
+- **10-Q** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315226007122/0001493152-26-007122-index.htm)
+
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226007053/0001493152-26-007053-index.htm)
 
+- **10-Q** | Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1923891/000149315226007105/0001493152-26-007105-index.htm)
+
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000848/0001171843-26-000848-index.htm)
+
+- **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226007146/0001493152-26-007146-index.htm)
+
+- **10-K** | 1ST SOURCE CORP  (SRCE)  (CIK 0000034782)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/34782/000003478226000011/0000034782-26-000011-index.htm)
 
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
@@ -69,20 +93,35 @@
 - **10-K** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495426001280/0001654954-26-001280-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390026017324/0001213900-26-017324-index.htm)
+
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000006/0001726978-26-000006-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026016862/0001213900-26-016862-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000959/0001062993-26-000959-index.htm)
 
+- **10-K** | SSR MINING INC.  (SSRM, SSRGF)  (CIK 0000921638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/921638/000092163826000035/0000921638-26-000035-index.htm)
+
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026008331/0001628280-26-008331-index.htm)
+
+- **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026008616/0001628280-26-008616-index.htm)
 
 - **487** | FT 12722  (CIK 0002094296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
 
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008313/0001628280-26-008313-index.htm)
+
+- **ABS-15G** | MFRA NQM Depositor, LLC  (CIK 0001803775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803775/000199937126003504/0001999371-26-003504-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016634/0001213900-26-016634-index.htm)
@@ -96,11 +135,29 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016632/0001213900-26-016632-index.htm)
 
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017304/0001213900-26-017304-index.htm)
+
 - **10-Q** | Welsis Corp.  (WLSS)  (CIK 0001887912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1887912/000164033426000307/0001640334-26-000307-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026016700/0001213900-26-016700-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017307/0001213900-26-017307-index.htm)
+
+- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036126005770/0001140361-26-005770-index.htm)
+
+- **10-Q** | BlueOne Card, Inc.  (BCRD)  (CIK 0001496690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000149315226007145/0001493152-26-007145-index.htm)
+
+- **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036126005787/0001140361-26-005787-index.htm)
+
+- **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036126005778/0001140361-26-005778-index.htm)
 
 - **SCHEDULE 13G** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000117266126000906/0001172661-26-000906-index.htm)
