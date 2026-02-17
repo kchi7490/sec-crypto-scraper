@@ -36,8 +36,14 @@
 - **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
 
+- **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
+
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000848/0001171843-26-000848-index.htm)
+
+- **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226006959/0001493152-26-006959-index.htm)
