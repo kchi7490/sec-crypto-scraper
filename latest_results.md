@@ -27,11 +27,11 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000943/0001062993-26-000943-index.htm)
 
-- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
-
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016936/0001213900-26-016936-index.htm)
+
+- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
 
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000848/0001171843-26-000848-index.htm)
@@ -47,6 +47,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226006929/0001493152-26-006929-index.htm)
+
+- **SCHEDULE 13G** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000101143826000117/0001011438-26-000117-index.htm)
 
 - **10-K** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495426001280/0001654954-26-001280-index.htm)
@@ -80,4 +83,7 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026016700/0001213900-26-016700-index.htm)
+
+- **SCHEDULE 13G** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000117266126000906/0001172661-26-000906-index.htm)
 
