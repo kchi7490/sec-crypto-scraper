@@ -6,6 +6,9 @@
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/0001829126-26-001361-index.htm)
 
+- **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000262/0001731122-26-000262-index.htm)
+
 - **10-Q** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526053215/0001193125-26-053215-index.htm)
 
@@ -54,8 +57,17 @@
 - **424B3** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026017308/0001213900-26-017308-index.htm)
 
+- **424B3** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026017462/0001213900-26-017462-index.htm)
+
 - **10-Q** | CEMTREX INC  (CETX, CETXP)  (CIK 0001435064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435064/000149315226007122/0001493152-26-007122-index.htm)
+
+- **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026017459/0001213900-26-017459-index.htm)
+
+- **424B3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000259/0001731122-26-000259-index.htm)
 
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226007053/0001493152-26-007053-index.htm)
@@ -77,6 +89,12 @@
 
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
+
+- **S-1** | Dynamix Corp IV  (CIK 0002098142)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2098142/000121390026017485/0001213900-26-017485-index.htm)
+
+- **F-1** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226007179/0001493152-26-007179-index.htm)
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226006959/0001493152-26-006959-index.htm)
@@ -119,6 +137,9 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026008616/0001628280-26-008616-index.htm)
+
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000375/0001771146-26-000375-index.htm)
 
 - **487** | FT 12722  (CIK 0002094296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
