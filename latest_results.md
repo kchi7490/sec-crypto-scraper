@@ -6,6 +6,9 @@
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/0001829126-26-001361-index.htm)
 
+- **10-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/0001783879-26-000023-index.htm)
+
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000262/0001731122-26-000262-index.htm)
 
@@ -114,14 +117,23 @@
 - **10-K** | 1ST SOURCE CORP  (SRCE)  (CIK 0000034782)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/34782/000003478226000011/0000034782-26-000011-index.htm)
 
+- **10-K** | RAMBUS INC  (RMBS)  (CIK 0000917273)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917273/000119312526057101/0001193125-26-057101-index.htm)
+
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
 
 - **S-1** | Dynamix Corp IV  (CIK 0002098142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2098142/000121390026017485/0001213900-26-017485-index.htm)
 
+- **10-K** | Toast, Inc.  (TOST)  (CIK 0001650164)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650164/000165016426000057/0001650164-26-000057-index.htm)
+
 - **F-1** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226007179/0001493152-26-007179-index.htm)
+
+- **10-12G/A** | CVC-PE Global Private Equity Fund, LP  (CIK 0002096330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096330/000119312526057161/0001193125-26-057161-index.htm)
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226006959/0001493152-26-006959-index.htm)
@@ -131,6 +143,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526053105/0001193125-26-053105-index.htm)
+
+- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226007338/0001493152-26-007338-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226006929/0001493152-26-006929-index.htm)
@@ -150,6 +165,12 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000006/0001726978-26-000006-index.htm)
 
+- **10-K** | Blue Owl Capital Corp  (OBDC)  (CIK 0001655888)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655888/000165588826000010/0001655888-26-000010-index.htm)
+
+- **10-K** | Blue Owl Technology Finance Corp.  (OTF)  (CIK 0001747777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747777/000174777726000012/0001747777-26-000012-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026016862/0001213900-26-016862-index.htm)
 
@@ -159,11 +180,23 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000959/0001062993-26-000959-index.htm)
 
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000119380526000157/0001193805-26-000157-index.htm)
+
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000119380526000156/0001193805-26-000156-index.htm)
+
+- **424B5** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026017964/0001213900-26-017964-index.htm)
+
 - **6-K** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026017899/0001213900-26-017899-index.htm)
 
 - **10-K** | SSR MINING INC.  (SSRM, SSRGF)  (CIK 0000921638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/921638/000092163826000035/0000921638-26-000035-index.htm)
+
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001048/0001062993-26-001048-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026008331/0001628280-26-008331-index.htm)
@@ -182,6 +215,12 @@
 
 - **487** | FT 12722  (CIK 0002094296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
+
+- **485APOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000010/0000009712-26-000010-index.htm)
+
+- **485APOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000009/0000009712-26-000009-index.htm)
 
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008313/0001628280-26-008313-index.htm)
@@ -227,6 +266,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003528/0001999371-26-003528-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017942/0001213900-26-017942-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026017577/0001213900-26-017577-index.htm)
