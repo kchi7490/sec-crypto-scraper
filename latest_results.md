@@ -57,6 +57,9 @@
 - **424B3** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026017308/0001213900-26-017308-index.htm)
 
+- **DEFM14A** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026017535/0001213900-26-017535-index.htm)
+
 - **424B3** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026017462/0001213900-26-017462-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226007146/0001493152-26-007146-index.htm)
+
+- **10-K** | OGE ENERGY CORP.  (OGE)  (CIK 0001021635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1021635/000119312526055414/0001193125-26-055414-index.htm)
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226007160/0001493152-26-007160-index.htm)
@@ -147,6 +153,9 @@
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008313/0001628280-26-008313-index.htm)
 
+- **497** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003551/0001999371-26-003551-index.htm)
+
 - **ABS-15G** | MFRA NQM Depositor, LLC  (CIK 0001803775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803775/000199937126003504/0001999371-26-003504-index.htm)
 
@@ -165,6 +174,9 @@
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016632/0001213900-26-016632-index.htm)
 
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426003318/0001398344-26-003318-index.htm)
+
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017304/0001213900-26-017304-index.htm)
 
@@ -176,6 +188,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003528/0001999371-26-003528-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026017577/0001213900-26-017577-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017307/0001213900-26-017307-index.htm)
