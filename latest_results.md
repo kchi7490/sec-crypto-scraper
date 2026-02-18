@@ -159,6 +159,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000959/0001062993-26-000959-index.htm)
 
+- **6-K** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026017899/0001213900-26-017899-index.htm)
+
 - **10-K** | SSR MINING INC.  (SSRM, SSRGF)  (CIK 0000921638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/921638/000092163826000035/0000921638-26-000035-index.htm)
 
