@@ -57,11 +57,11 @@
 - **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526056117/0001193125-26-056117-index.htm)
 
-- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
-
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016936/0001213900-26-016936-index.htm)
+
+- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
 
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
@@ -177,6 +177,9 @@
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026008313/0001628280-26-008313-index.htm)
 
+- **497** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003551/0001999371-26-003551-index.htm)
+
 - **ABS-15G** | MFRA NQM Depositor, LLC  (CIK 0001803775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803775/000199937126003504/0001999371-26-003504-index.htm)
 
@@ -194,9 +197,6 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026016632/0001213900-26-016632-index.htm)
-
-- **497** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003551/0001999371-26-003551-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426003318/0001398344-26-003318-index.htm)
