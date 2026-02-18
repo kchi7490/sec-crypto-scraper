@@ -12,6 +12,9 @@
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000262/0001731122-26-000262-index.htm)
 
+- **10-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007352/0001493152-26-007352-index.htm)
+
 - **10-Q** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526053215/0001193125-26-053215-index.htm)
 
@@ -120,6 +123,9 @@
 - **10-K** | RAMBUS INC  (RMBS)  (CIK 0000917273)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917273/000119312526057101/0001193125-26-057101-index.htm)
 
+- **10-K** | Rush Street Interactive, Inc.  (RSI)  (CIK 0001793659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1793659/000179365926000009/0001793659-26-000009-index.htm)
+
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
 
@@ -131,6 +137,9 @@
 
 - **F-1** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226007179/0001493152-26-007179-index.htm)
+
+- **10-K** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/0001628280-26-009228-index.htm)
 
 - **10-12G/A** | CVC-PE Global Private Equity Fund, LP  (CIK 0002096330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096330/000119312526057161/0001193125-26-057161-index.htm)
@@ -147,6 +156,9 @@
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226007338/0001493152-26-007338-index.htm)
 
+- **8-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026017994/0001213900-26-017994-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226006929/0001493152-26-006929-index.htm)
 
@@ -158,6 +170,9 @@
 
 - **10-K** | Airship AI Holdings, Inc.  (AISP, AISPW)  (CIK 0001842566)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1842566/000165495426001280/0001654954-26-001280-index.htm)
+
+- **424B3** | Pelican Holdco, Inc.  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001442/0001829126-26-001442-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000121390026017324/0001213900-26-017324-index.htm)
