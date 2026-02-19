@@ -66,6 +66,9 @@
 - **S-1/A** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926004510/0001437749-26-004510-index.htm)
 
+- **10-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/0001050446-26-000020-index.htm)
+
 - **POS EX** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026017302/0001213900-26-017302-index.htm)
 
@@ -81,14 +84,17 @@
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000007/0001335258-26-000007-index.htm)
 
+- **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526059664/0001193125-26-059664-index.htm)
+
 - **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526056117/0001193125-26-056117-index.htm)
 
-- **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016936/0001213900-26-016936-index.htm)
-
 - **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
+
+- **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016936/0001213900-26-016936-index.htm)
 
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
@@ -131,6 +137,9 @@
 
 - **424B5** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326000848/0001171843-26-000848-index.htm)
+
+- **PREM14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007489/0001493152-26-007489-index.htm)
 
 - **F-1** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226007231/0001493152-26-007231-index.htm)
@@ -183,6 +192,9 @@
 - **10-12G/A** | CVC-PE Global Private Equity Fund, LP  (CIK 0002096330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096330/000119312526057161/0001193125-26-057161-index.htm)
 
+- **424B3** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626001490/0001829126-26-001490-index.htm)
+
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226006959/0001493152-26-006959-index.htm)
 
@@ -227,6 +239,9 @@
 
 - **10-K** | QuidelOrtho Corp  (QDEL)  (CIK 0001906324)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906324/000190632426000008/0001906324-26-000008-index.htm)
+
+- **10-K** | iRhythm Holdings, Inc.  (IRTC)  (CIK 0001388658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865826000011/0001388658-26-000011-index.htm)
 
 - **8-K** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526057651/0001193125-26-057651-index.htm)
