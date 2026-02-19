@@ -24,6 +24,9 @@
 - **10-Q** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526053215/0001193125-26-053215-index.htm)
 
+- **8-K** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000015/0001788230-26-000015-index.htm)
+
 - **424B3** | Canary Staked SUI ETF  (CIK 0002060703)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126003565/0001999371-26-003565-index.htm)
 
@@ -72,11 +75,11 @@
 - **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526056117/0001193125-26-056117-index.htm)
 
-- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
-
 - **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026016936/0001213900-26-016936-index.htm)
+
+- **S-1/A** | Grayscale Sui Trust (SUI)  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/0001193125-26-053168-index.htm)
 
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026017066/0001213900-26-017066-index.htm)
@@ -107,6 +110,9 @@
 
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226007053/0001493152-26-007053-index.htm)
+
+- **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026018178/0001213900-26-018178-index.htm)
 
 - **10-Q** | Nano Nuclear Energy Inc.  (NNE)  (CIK 0001923891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1923891/000149315226007105/0001493152-26-007105-index.htm)
@@ -168,6 +174,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526053105/0001193125-26-053105-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526058237/0001193125-26-058237-index.htm)
+
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226007338/0001493152-26-007338-index.htm)
 
@@ -206,6 +215,9 @@
 
 - **10-K** | Blue Owl Technology Finance Corp.  (OTF)  (CIK 0001747777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747777/000174777726000012/0001747777-26-000012-index.htm)
+
+- **10-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000010/0001726978-26-000010-index.htm)
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026016862/0001213900-26-016862-index.htm)
