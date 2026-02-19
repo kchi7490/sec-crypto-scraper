@@ -270,6 +270,9 @@
 - **487** | FT 12722  (CIK 0002094296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
 
+- **487** | FT 12724  (CIK 0002094302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094302/000144554626001254/0001445546-26-001254-index.htm)
+
 - **485APOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000010/0000009712-26-000010-index.htm)
 
