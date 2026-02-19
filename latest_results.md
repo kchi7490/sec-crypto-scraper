@@ -72,6 +72,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326000943/0001062993-26-000943-index.htm)
 
+- **10-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000009/0001335258-26-000009-index.htm)
+
 - **S-1/A** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/0001437749-26-004276-index.htm)
 
@@ -155,6 +158,9 @@
 
 - **10-K** | Rush Street Interactive, Inc.  (RSI)  (CIK 0001793659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793659/000179365926000009/0001793659-26-000009-index.htm)
+
+- **424B4** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926017592/0001104659-26-017592-index.htm)
 
 - **S-1/A** | PALOMA ACQUISITION CORP I  (PALO)  (CIK 0002101562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101562/000110465926016097/0001104659-26-016097-index.htm)
@@ -290,6 +296,9 @@
 
 - **487** | FT 12722  (CIK 0002094296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094296/000144554626001234/0001445546-26-001234-index.htm)
+
+- **485APOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026018455/0001213900-26-018455-index.htm)
 
 - **487** | FT 12724  (CIK 0002094302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094302/000144554626001254/0001445546-26-001254-index.htm)
