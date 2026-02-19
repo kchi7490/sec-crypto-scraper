@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226006953/0001493152-26-006953-index.htm)
 
+- **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226007427/0001493152-26-007427-index.htm)
+
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/0001829126-26-001361-index.htm)
 
@@ -156,6 +159,9 @@
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226006959/0001493152-26-006959-index.htm)
 
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226007414/0001493152-26-007414-index.htm)
+
 - **8-K** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000250/0001731122-26-000250-index.htm)
 
@@ -227,6 +233,9 @@
 
 - **10-K** | SSR MINING INC.  (SSRM, SSRGF)  (CIK 0000921638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/921638/000092163826000035/0000921638-26-000035-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226007423/0001493152-26-007423-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001048/0001062993-26-001048-index.htm)
