@@ -6,6 +6,9 @@
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/0001829126-26-001361-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226007371/0001493152-26-007371-index.htm)
+
 - **10-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/0001783879-26-000023-index.htm)
 
@@ -81,6 +84,9 @@
 - **DEFM14A** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026017535/0001213900-26-017535-index.htm)
 
+- **424B4** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626001448/0001829126-26-001448-index.htm)
+
 - **424B3** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026017462/0001213900-26-017462-index.htm)
 
@@ -107,6 +113,9 @@
 
 - **F-1** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226007231/0001493152-26-007231-index.htm)
+
+- **10-K** | Rithm Capital Corp.  (RITM, RITM-PA, RITM-PB, RITM-PC, RITM-PD, RITM-PE, RITM-PF)  (CIK 0001556593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1556593/000155659326000012/0001556593-26-000012-index.htm)
 
 - **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226007146/0001493152-26-007146-index.htm)
@@ -180,6 +189,12 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000006/0001726978-26-000006-index.htm)
 
+- **10-K** | QuidelOrtho Corp  (QDEL)  (CIK 0001906324)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906324/000190632426000008/0001906324-26-000008-index.htm)
+
+- **8-K** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526057651/0001193125-26-057651-index.htm)
+
 - **10-K** | Blue Owl Capital Corp  (OBDC)  (CIK 0001655888)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655888/000165588826000010/0001655888-26-000010-index.htm)
 
@@ -188,6 +203,9 @@
 
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026016862/0001213900-26-016862-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026009284/0001628280-26-009284-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926016788/0001104659-26-016788-index.htm)
@@ -305,6 +323,9 @@
 
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026017647/0001213900-26-017647-index.htm)
+
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007391/0001493152-26-007391-index.htm)
 
 - **SCHEDULE 13G** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000117266126000906/0001172661-26-000906-index.htm)
