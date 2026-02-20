@@ -111,6 +111,9 @@
 - **8-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026017994/0001213900-26-017994-index.htm)
 
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626001496/0001829126-26-001496-index.htm)
+
 - **424B3** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001442/0001829126-26-001442-index.htm)
 
