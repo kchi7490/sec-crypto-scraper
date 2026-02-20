@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526061339/0001193125-26-061339-index.htm)
+
 - **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226007427/0001493152-26-007427-index.htm)
 
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226007371/0001493152-26-007371-index.htm)
+
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826001221/0001683168-26-001221-index.htm)
 
 - **10-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/0001783879-26-000023-index.htm)
@@ -27,6 +33,9 @@
 - **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226007468/0001493152-26-007468-index.htm)
 
+- **10-Q** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826001222/0001683168-26-001222-index.htm)
+
 - **S-1/A** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926004510/0001437749-26-004510-index.htm)
 
@@ -38,6 +47,9 @@
 
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000007/0001335258-26-000007-index.htm)
+
+- **8-K** | FiscalNote Holdings, Inc.  (NOTE, NOTE-WT)  (CIK 0001823466)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1823466/000119312526061469/0001193125-26-061469-index.htm)
 
 - **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526059664/0001193125-26-059664-index.htm)
@@ -68,6 +80,9 @@
 
 - **F-1** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226007231/0001493152-26-007231-index.htm)
+
+- **10-K** | Western Union CO  (WU)  (CIK 0001365135)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1365135/000119312526061340/0001193125-26-061340-index.htm)
 
 - **10-K** | Rithm Capital Corp.  (RITM, RITM-PA, RITM-PB, RITM-PC, RITM-PD, RITM-PE, RITM-PF)  (CIK 0001556593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1556593/000155659326000012/0001556593-26-000012-index.htm)
@@ -225,14 +240,23 @@
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026017645/0001213900-26-017645-index.htm)
 
+- **10-K** | Artisan Partners Asset Management Inc.  (APAM)  (CIK 0001517302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517302/000151730226000047/0001517302-26-000047-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026017842/0001213900-26-017842-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026018815/0001213900-26-018815-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026017942/0001213900-26-017942-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026017577/0001213900-26-017577-index.htm)
+
+- **10-Q** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926004918/0001437749-26-004918-index.htm)
 
 - **10-K** | AMERIPRISE CERTIFICATE CO  (CIK 0000052428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/52428/000005242826000006/0000052428-26-000006-index.htm)
