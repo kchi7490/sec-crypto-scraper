@@ -12,6 +12,9 @@
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826001221/0001683168-26-001221-index.htm)
 
+- **10-K/A** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000029/0001783879-26-000029-index.htm)
+
 - **10-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000023/0001783879-26-000023-index.htm)
 
@@ -66,6 +69,9 @@
 - **424B4** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000182912626001448/0001829126-26-001448-index.htm)
 
+- **10-K** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238626000009/0001592386-26-000009-index.htm)
+
 - **424B4** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026008786/0001628280-26-008786-index.htm)
 
@@ -96,6 +102,9 @@
 - **10-K** | NEWMONT Corp /DE/  (NEM, NEMCL)  (CIK 0001164727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1164727/000116472726000010/0001164727-26-000010-index.htm)
 
+- **10-K** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926018208/0001104659-26-018208-index.htm)
+
 - **10-K** | Rush Street Interactive, Inc.  (RSI)  (CIK 0001793659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793659/000179365926000009/0001793659-26-000009-index.htm)
 
@@ -107,6 +116,9 @@
 
 - **10-K** | STATE STREET CORP  (STT, STT-PG)  (CIK 0000093751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/93751/000009375126000124/0000093751-26-000124-index.htm)
+
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000198/0001137360-26-000198-index.htm)
 
 - **10-K** | Figma, Inc.  (FIG)  (CIK 0001579878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828026009228/0001628280-26-009228-index.htm)
@@ -135,8 +147,14 @@
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626001496/0001829126-26-001496-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000205/0001137360-26-000205-index.htm)
+
 - **424B3** | Pelican Holdco, Inc.  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626001442/0001829126-26-001442-index.htm)
+
+- **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926018212/0001104659-26-018212-index.htm)
 
 - **10-K** | QuidelOrtho Corp  (QDEL)  (CIK 0001906324)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906324/000190632426000008/0001906324-26-000008-index.htm)
@@ -267,8 +285,17 @@
 - **10-K** | AMERIPRISE CERTIFICATE CO  (CIK 0000052428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/52428/000005242826000006/0000052428-26-000006-index.htm)
 
+- **485APOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526061665/0001193125-26-061665-index.htm)
+
+- **485APOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526061656/0001193125-26-061656-index.htm)
+
 - **425** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026017647/0001213900-26-017647-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002452/0000950103-26-002452-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007391/0001493152-26-007391-index.htm)
