@@ -114,6 +114,9 @@
 - **10-12G/A** | CVC-PE Global Private Equity Fund, LP  (CIK 0002096330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096330/000119312526057161/0001193125-26-057161-index.htm)
 
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000191/0001137360-26-000191-index.htm)
+
 - **424B3** | Veraxa Biotech Holding AG  (VRXA)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626001490/0001829126-26-001490-index.htm)
 
@@ -161,6 +164,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926016788/0001104659-26-016788-index.htm)
+
+- **F-1/A** | CyberScope Web3 Security Inc.  (CIK 0002081737)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081737/000121390026018862/0001213900-26-018862-index.htm)
 
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000119380526000157/0001193805-26-000157-index.htm)
