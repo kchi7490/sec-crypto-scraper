@@ -57,6 +57,9 @@
 - **424B4** | Figure Technology Solutions, Inc.  (FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026008786/0001628280-26-008786-index.htm)
 
+- **10-K** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026010013/0001628280-26-010013-index.htm)
+
 - **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026018178/0001213900-26-018178-index.htm)
 
