@@ -201,6 +201,9 @@
 - **485APOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000009/0000009712-26-000009-index.htm)
 
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826001755/0001133228-26-001755-index.htm)
+
 - **20-F** | RELX PLC  (RELX, RLXXF)  (CIK 0000929869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/929869/000110465926017277/0001104659-26-017277-index.htm)
 
