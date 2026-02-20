@@ -171,6 +171,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026018592/0001213900-26-018592-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000144/0001279569-26-000144-index.htm)
+
 - **SUPPL** | POWERBANK Corp  (SUUN)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315226007302/0001493152-26-007302-index.htm)
 
@@ -188,6 +191,9 @@
 
 - **487** | FT 12724  (CIK 0002094302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094302/000144554626001254/0001445546-26-001254-index.htm)
+
+- **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000025/0000777917-26-000025-index.htm)
 
 - **485APOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000010/0000009712-26-000010-index.htm)
