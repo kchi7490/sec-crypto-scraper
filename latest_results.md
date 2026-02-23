@@ -9,6 +9,9 @@
 - **424B3** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026018991/0001213900-26-018991-index.htm)
 
+- **485APOS** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926004100/0000894189-26-004100-index.htm)
+
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826001246/0001683168-26-001246-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526062584/0001193125-26-062584-index.htm)
+
+- **487** | FT 12726  (CIK 0002094308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094308/000144554626001472/0001445546-26-001472-index.htm)
 
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061799/0001193125-26-061799-index.htm)
