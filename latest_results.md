@@ -42,6 +42,15 @@
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061812/0001193125-26-061812-index.htm)
 
+- **N-4** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000004/0001559495-26-000004-index.htm)
+
+- **10-Q** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226000970/0001477932-26-000970-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026019048/0001213900-26-019048-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026019204/0001213900-26-019204-index.htm)
 
