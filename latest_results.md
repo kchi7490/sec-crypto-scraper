@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **424B3** | 21Shares Sui ETF  (CIK 0002061626)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026018991/0001213900-26-018991-index.htm)
+
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026018930/0001213900-26-018930-index.htm)
 
