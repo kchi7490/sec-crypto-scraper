@@ -39,6 +39,9 @@
 - **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026019332/0001213900-26-019332-index.htm)
 
+- **10-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610426000011/0000036104-26-000011-index.htm)
+
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826001246/0001683168-26-001246-index.htm)
 
@@ -57,11 +60,20 @@
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026018930/0001213900-26-018930-index.htm)
 
+- **485APOS** | BlackRock ETF Trust  (CIK 0001761055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526064375/0001193125-26-064375-index.htm)
+
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926002251/0001214659-26-002251-index.htm)
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526062584/0001193125-26-062584-index.htm)
+
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001120/0001062993-26-001120-index.htm)
+
+- **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226000986/0001477932-26-000986-index.htm)
 
 - **487** | FT 12726  (CIK 0002094308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094308/000144554626001472/0001445546-26-001472-index.htm)
