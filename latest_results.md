@@ -45,6 +45,15 @@
 - **485APOS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926004100/0000894189-26-004100-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011008/0001839882-26-011008-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011010/0001839882-26-011010-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011012/0001839882-26-011012-index.htm)
+
 - **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026019332/0001213900-26-019332-index.htm)
 
@@ -128,6 +137,9 @@
 
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003948/0001999371-26-003948-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000109/0001081400-26-000109-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000098/0001081400-26-000098-index.htm)
