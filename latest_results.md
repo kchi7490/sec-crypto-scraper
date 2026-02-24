@@ -54,6 +54,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011012/0001839882-26-011012-index.htm)
 
+- **10-K** | INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/0000051143-26-000010-index.htm)
+
 - **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026019332/0001213900-26-019332-index.htm)
 
@@ -71,6 +74,12 @@
 
 - **S-1** | Dune Acquisition Corp III  (CIK 0002095476)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026019459/0001213900-26-019459-index.htm)
+
+- **10-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926019119/0001104659-26-019119-index.htm)
+
+- **20-F** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026019888/0001213900-26-019888-index.htm)
 
 - **F-4/A** | Xanadu Quantum Technologies Ltd  (XNDU)  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026019023/0001213900-26-019023-index.htm)
@@ -110,6 +119,9 @@
 
 - **424B5** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226007823/0001493152-26-007823-index.htm)
+
+- **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000293/0001731122-26-000293-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001120/0001062993-26-001120-index.htm)
@@ -164,6 +176,12 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026019556/0001213900-26-019556-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026019893/0001213900-26-019893-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004064/0001999371-26-004064-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026019204/0001213900-26-019204-index.htm)
