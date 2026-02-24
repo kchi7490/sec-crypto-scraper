@@ -39,6 +39,9 @@
 - **424B5** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026019332/0001213900-26-019332-index.htm)
 
+- **10-K** | VALMONT INDUSTRIES INC  (VMI)  (CIK 0000102729)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/102729/000010272926000007/0000102729-26-000007-index.htm)
+
 - **10-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610426000011/0000036104-26-000011-index.htm)
 
@@ -47,6 +50,9 @@
 
 - **F-1** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626001570/0001829126-26-001570-index.htm)
+
+- **S-1** | Dune Acquisition Corp III  (CIK 0002095476)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026019459/0001213900-26-019459-index.htm)
 
 - **F-4/A** | Xanadu Quantum Technologies Ltd  (XNDU)  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026019023/0001213900-26-019023-index.htm)
@@ -65,6 +71,9 @@
 
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926002251/0001214659-26-002251-index.htm)
+
+- **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926018778/0001104659-26-018778-index.htm)
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526062584/0001193125-26-062584-index.htm)
