@@ -108,6 +108,9 @@
 - **487** | FT 12726  (CIK 0002094308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094308/000144554626001472/0001445546-26-001472-index.htm)
 
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000062/0000945908-26-000062-index.htm)
+
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061799/0001193125-26-061799-index.htm)
 
@@ -125,6 +128,9 @@
 
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003948/0001999371-26-003948-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000098/0001081400-26-000098-index.htm)
 
 - **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
