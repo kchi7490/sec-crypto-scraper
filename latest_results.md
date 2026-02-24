@@ -90,6 +90,9 @@
 - **20-F** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026019888/0001213900-26-019888-index.htm)
 
+- **10-K** | Flywire Corp  (FLYW)  (CIK 0001580560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000119312526067540/0001193125-26-067540-index.htm)
+
 - **F-4/A** | Xanadu Quantum Technologies Ltd  (XNDU)  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026019023/0001213900-26-019023-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926002251/0001214659-26-002251-index.htm)
+
+- **S-1/A** | Illumination Acquisition Corp. I  (CIK 0002101135)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101135/000120677426000086/0001206774-26-000086-index.htm)
 
 - **485BPOS** | 1290 Funds  (CIK 0001605941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312526066774/0001193125-26-066774-index.htm)
