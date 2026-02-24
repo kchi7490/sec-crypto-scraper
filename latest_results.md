@@ -42,6 +42,9 @@
 - **10-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000368/0001640334-26-000368-index.htm)
 
+- **10-K** | FIRST CITIZENS BANCSHARES INC /DE/  (FCNCA, FCNCB, FCNCN, FCNCO, FCNCP)  (CIK 0000798941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/798941/000079894126000015/0000798941-26-000015-index.htm)
+
 - **485APOS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926004100/0000894189-26-004100-index.htm)
 
@@ -53,6 +56,12 @@
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011012/0001839882-26-011012-index.htm)
+
+- **10-K** | Fidelity National Information Services, Inc.  (FIS)  (CIK 0001136893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1136893/000113689326000013/0001136893-26-000013-index.htm)
+
+- **10-K** | NORTHERN TRUST CORP  (NTRS, NTRSO)  (CIK 0000073124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/73124/000007312426000016/0000073124-26-000016-index.htm)
 
 - **10-K** | INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/0000051143-26-000010-index.htm)
