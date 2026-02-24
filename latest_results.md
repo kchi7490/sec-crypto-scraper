@@ -36,6 +36,9 @@
 - **424B3** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026018991/0001213900-26-018991-index.htm)
 
+- **10-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/0001819989-26-000009-index.htm)
+
 - **10-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000368/0001640334-26-000368-index.htm)
 
@@ -143,6 +146,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026019335/0001213900-26-019335-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004005/0001999371-26-004005-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003992/0001999371-26-003992-index.htm)
