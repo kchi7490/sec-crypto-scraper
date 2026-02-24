@@ -126,6 +126,9 @@
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126003948/0001999371-26-003948-index.htm)
 
+- **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
+
 - **10-Q** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226000970/0001477932-26-000970-index.htm)
 
