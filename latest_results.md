@@ -93,6 +93,9 @@
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926002251/0001214659-26-002251-index.htm)
 
+- **485BPOS** | 1290 Funds  (CIK 0001605941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312526066774/0001193125-26-066774-index.htm)
+
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926018778/0001104659-26-018778-index.htm)
 
