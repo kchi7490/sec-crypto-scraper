@@ -108,6 +108,9 @@
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026018930/0001213900-26-018930-index.htm)
 
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026020066/0001213900-26-020066-index.htm)
+
 - **485APOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526064375/0001193125-26-064375-index.htm)
 
@@ -174,6 +177,9 @@
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000098/0001081400-26-000098-index.htm)
 
+- **N-2/A** | RiverNorth Short Prime Unicorn Fund 2028, Inc  (CIK 0002077697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077697/000139834426003617/0001398344-26-003617-index.htm)
+
 - **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
 
@@ -203,6 +209,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026019335/0001213900-26-019335-index.htm)
+
+- **10-K** | HSBC USA INC /MD/  (CIK 0000083246)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000008324626000005/0000083246-26-000005-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004005/0001999371-26-004005-index.htm)
