@@ -126,6 +126,9 @@
 - **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007682/0001493152-26-007682-index.htm)
 
+- **NT N-CEN** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126004252/0001999371-26-004252-index.htm)
+
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026019560/0001213900-26-019560-index.htm)
 
