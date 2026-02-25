@@ -36,6 +36,9 @@
 - **424B3** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026018991/0001213900-26-018991-index.htm)
 
+- **10-K** | LAKELAND FINANCIAL CORP  (LKFN)  (CIK 0000721994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/721994/000072199426000018/0000721994-26-000018-index.htm)
+
 - **10-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/0001819989-26-000009-index.htm)
 
@@ -78,6 +81,9 @@
 - **10-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610426000011/0000036104-26-000011-index.htm)
 
+- **10-K** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/0001390777-26-000033-index.htm)
+
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826001246/0001683168-26-001246-index.htm)
 
@@ -98,6 +104,9 @@
 
 - **F-4/A** | Xanadu Quantum Technologies Ltd  (XNDU)  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026019023/0001213900-26-019023-index.htm)
+
+- **485BPOS** | FLEXSHARES TRUST  (CIK 0001491978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526068554/0001193125-26-068554-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526062489/0001193125-26-062489-index.htm)
@@ -128,6 +137,9 @@
 
 - **485BPOS** | 1290 Funds  (CIK 0001605941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312526066774/0001193125-26-066774-index.htm)
+
+- **10-K** | PINNACLE WEST CAPITAL CORP  (PNW)  (CIK 0000764622)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/764622/000076462226000011/0000764622-26-000011-index.htm)
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926018778/0001104659-26-018778-index.htm)
@@ -206,6 +218,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026019893/0001213900-26-019893-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026020124/0001213900-26-020124-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004064/0001999371-26-004064-index.htm)
