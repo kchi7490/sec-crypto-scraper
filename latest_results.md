@@ -24,6 +24,9 @@
 - **424B3** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802826000005/0001838028-26-000005-index.htm)
 
+- **485BPOS** | SSGA Active Trust  (CIK 0001516212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1516212/000119312526072050/0001193125-26-072050-index.htm)
+
 - **10-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526071484/0001193125-26-071484-index.htm)
 
@@ -114,14 +117,26 @@
 - **10-K** | FIRST BUSINESS FINANCIAL SERVICES, INC.  (FBIZ)  (CIK 0001521951)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1521951/000119312526071523/0001193125-26-071523-index.htm)
 
+- **10-K** | NORTHERN STATES POWER CO /WI/  (CIK 0000072909)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72909/000007290926000003/0000072909-26-000003-index.htm)
+
 - **10-K** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/0001390777-26-000033-index.htm)
 
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826001246/0001683168-26-001246-index.htm)
 
+- **10-K** | SOUTHWESTERN PUBLIC SERVICE CO  (CIK 0000092521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/92521/000009252126000003/0000092521-26-000003-index.htm)
+
 - **F-1** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626001570/0001829126-26-001570-index.htm)
+
+- **10-K** | PUBLIC SERVICE CO OF COLORADO  (CIK 0000081018)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/81018/000008101826000003/0000081018-26-000003-index.htm)
+
+- **10-K** | NORTHERN STATES POWER CO  (CIK 0001123852)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1123852/000112385226000003/0001123852-26-000003-index.htm)
 
 - **10-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/0001099590-26-000006-index.htm)
@@ -138,6 +153,9 @@
 - **10-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/0000316709-26-000009-index.htm)
 
+- **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
+
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
 
@@ -152,6 +170,9 @@
 
 - **20-F** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026019888/0001213900-26-019888-index.htm)
+
+- **10-K** | BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BML-PG, BML-PH, BML-PJ, BML-PL)  (CIK 0000070858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/0000070858-26-000157-index.htm)
 
 - **10-K** | Lemonade, Inc.  (LMND)  (CIK 0001691421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/0001691421-26-000016-index.htm)
@@ -338,9 +359,6 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003997/0001999371-26-003997-index.htm)
-
-- **10-K** | BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BML-PG, BML-PH, BML-PJ, BML-PL)  (CIK 0000070858)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/0000070858-26-000157-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002488/0000950103-26-002488-index.htm)
