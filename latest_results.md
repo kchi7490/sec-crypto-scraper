@@ -39,6 +39,9 @@
 - **10-K** | LAKELAND FINANCIAL CORP  (LKFN)  (CIK 0000721994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/721994/000072199426000018/0000721994-26-000018-index.htm)
 
+- **10-K** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000015/0000008818-26-000015-index.htm)
+
 - **10-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/0001819989-26-000009-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **485BPOS** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526068554/0001193125-26-068554-index.htm)
+
+- **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626001630/0001829126-26-001630-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526062489/0001193125-26-062489-index.htm)
