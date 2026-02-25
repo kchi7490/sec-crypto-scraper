@@ -45,6 +45,9 @@
 - **10-K** | FIRST CITIZENS BANCSHARES INC /DE/  (FCNCA, FCNCB, FCNCN, FCNCO, FCNCP)  (CIK 0000798941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/798941/000079894126000015/0000798941-26-000015-index.htm)
 
+- **10-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926019392/0001104659-26-019392-index.htm)
+
 - **485APOS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926004100/0000894189-26-004100-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526062489/0001193125-26-062489-index.htm)
+
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926019393/0001104659-26-019393-index.htm)
 
 - **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226007682/0001493152-26-007682-index.htm)
