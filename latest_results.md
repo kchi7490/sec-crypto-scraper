@@ -24,6 +24,12 @@
 - **424B3** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802826000005/0001838028-26-000005-index.htm)
 
+- **10-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526071484/0001193125-26-071484-index.htm)
+
+- **10-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526071486/0001193125-26-071486-index.htm)
+
 - **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226007750/0001493152-26-007750-index.htm)
 
@@ -47,6 +53,9 @@
 
 - **10-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/0001819989-26-000009-index.htm)
+
+- **10-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926002458/0001214659-26-002458-index.htm)
 
 - **10-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000368/0001640334-26-000368-index.htm)
@@ -87,6 +96,9 @@
 - **10-K** | US BANCORP \DE\  (USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS)  (CIK 0000036104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/36104/000003610426000011/0000036104-26-000011-index.htm)
 
+- **10-K** | FIRST BUSINESS FINANCIAL SERVICES, INC.  (FBIZ)  (CIK 0001521951)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1521951/000119312526071523/0001193125-26-071523-index.htm)
+
 - **10-K** | Bank of New York Mellon Corp  (BK, BK-PK)  (CIK 0001390777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/0001390777-26-000033-index.htm)
 
@@ -96,14 +108,35 @@
 - **F-1** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626001570/0001829126-26-001570-index.htm)
 
+- **10-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/0001099590-26-000006-index.htm)
+
+- **10-K** | XCEL ENERGY INC  (XEL, XELLL)  (CIK 0000072903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/0000072903-26-000009-index.htm)
+
+- **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926019651/0001104659-26-019651-index.htm)
+
 - **S-1** | Dune Acquisition Corp III  (CIK 0002095476)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026019459/0001213900-26-019459-index.htm)
+
+- **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
+
+- **10-K** | SIMMONS FIRST NATIONAL CORP  (SFNC)  (CIK 0000090498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/90498/000162828026011618/0001628280-26-011618-index.htm)
 
 - **10-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926019119/0001104659-26-019119-index.htm)
 
+- **10-K** | GLACIER BANCORP, INC.  (GBCI)  (CIK 0000868671)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868671/000086867126000023/0000868671-26-000023-index.htm)
+
 - **20-F** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026019888/0001213900-26-019888-index.htm)
+
+- **10-K** | Lemonade, Inc.  (LMND)  (CIK 0001691421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/0001691421-26-000016-index.htm)
 
 - **10-K** | Flywire Corp  (FLYW)  (CIK 0001580560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1580560/000119312526067540/0001193125-26-067540-index.htm)
@@ -144,6 +177,9 @@
 - **PRER14A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926002251/0001214659-26-002251-index.htm)
 
+- **10-K** | ARKO Corp.  (ARKO)  (CIK 0001823794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1823794/000119312526071464/0001193125-26-071464-index.htm)
+
 - **S-1/A** | Illumination Acquisition Corp. I  (CIK 0002101135)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101135/000120677426000086/0001206774-26-000086-index.htm)
 
@@ -158,6 +194,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926018789/0001104659-26-018789-index.htm)
+
+- **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426000503/0001292814-26-000503-index.htm)
 
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526065249/0001193125-26-065249-index.htm)
@@ -192,11 +231,11 @@
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061799/0001193125-26-061799-index.htm)
 
-- **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061812/0001193125-26-061812-index.htm)
-
 - **N-4** | Symetra Life Insurance Co  (CIK 0001559495)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000004/0001559495-26-000004-index.htm)
+
+- **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526061812/0001193125-26-061812-index.htm)
 
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526064179/0001193125-26-064179-index.htm)
@@ -248,6 +287,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026019204/0001213900-26-019204-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026020384/0001213900-26-020384-index.htm)
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026019335/0001213900-26-019335-index.htm)
