@@ -27,17 +27,32 @@
 - **10-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526071484/0001193125-26-071484-index.htm)
 
+- **DEFA14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226008055/0001493152-26-008055-index.htm)
+
 - **10-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526071486/0001193125-26-071486-index.htm)
 
 - **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226007750/0001493152-26-007750-index.htm)
 
+- **10-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526071956/0001193125-26-071956-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000007/0001819989-26-000007-index.htm)
 
+- **10-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526071965/0001193125-26-071965-index.htm)
+
 - **424B3** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000207184426000226/0002071844-26-000226-index.htm)
+
+- **10-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526071952/0001193125-26-071952-index.htm)
+
+- **10-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526071961/0001193125-26-071961-index.htm)
 
 - **424B3** | 21Shares Sui ETF  (CIK 0002061626)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026018991/0001213900-26-018991-index.htm)
@@ -120,6 +135,9 @@
 - **S-1** | Dune Acquisition Corp III  (CIK 0002095476)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026019459/0001213900-26-019459-index.htm)
 
+- **10-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/0000316709-26-000009-index.htm)
+
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
 
@@ -171,6 +189,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026020066/0001213900-26-020066-index.htm)
 
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000149315226008063/0001493152-26-008063-index.htm)
+
 - **485APOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526064375/0001193125-26-064375-index.htm)
 
@@ -180,11 +201,17 @@
 - **10-K** | ARKO Corp.  (ARKO)  (CIK 0001823794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823794/000119312526071464/0001193125-26-071464-index.htm)
 
+- **10-K** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/0001193125-26-071966-index.htm)
+
 - **S-1/A** | Illumination Acquisition Corp. I  (CIK 0002101135)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101135/000120677426000086/0001206774-26-000086-index.htm)
 
 - **485BPOS** | 1290 Funds  (CIK 0001605941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312526066774/0001193125-26-066774-index.htm)
+
+- **10-K** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm)
 
 - **10-K** | PINNACLE WEST CAPITAL CORP  (PNW)  (CIK 0000764622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/764622/000076462226000011/0000764622-26-000011-index.htm)
@@ -261,6 +288,12 @@
 - **10-Q** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226000970/0001477932-26-000970-index.htm)
 
+- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004597/0002071691-26-004597-index.htm)
+
+- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004596/0002071691-26-004596-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026019048/0001213900-26-019048-index.htm)
 
@@ -305,6 +338,9 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003997/0001999371-26-003997-index.htm)
+
+- **10-K** | BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BML-PG, BML-PH, BML-PJ, BML-PL)  (CIK 0000070858)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/0000070858-26-000157-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002488/0000950103-26-002488-index.htm)
