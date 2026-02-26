@@ -135,6 +135,9 @@
 - **485BPOS** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526068554/0001193125-26-068554-index.htm)
 
+- **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm)
+
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626001630/0001829126-26-001630-index.htm)
 
@@ -179,6 +182,9 @@
 
 - **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426000503/0001292814-26-000503-index.htm)
+
+- **6-K** | CANADIAN IMPERIAL BANK OF COMMERCE /CAN/  (CM, CNDIF)  (CIK 0001045520)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045520/000119312526073291/0001193125-26-073291-index.htm)
 
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526065249/0001193125-26-065249-index.htm)
