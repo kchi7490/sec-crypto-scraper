@@ -141,6 +141,9 @@
 - **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm)
 
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226008131/0001493152-26-008131-index.htm)
+
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626001630/0001829126-26-001630-index.htm)
 
