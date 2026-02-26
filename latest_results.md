@@ -222,6 +222,9 @@
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126004305/0001999371-26-004305-index.htm)
 
+- **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826002260/0001133228-26-002260-index.htm)
+
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000109/0001081400-26-000109-index.htm)
 
