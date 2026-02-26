@@ -225,6 +225,9 @@
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000062/0000945908-26-000062-index.htm)
 
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826002288/0001133228-26-002288-index.htm)
+
 - **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/0001193125-26-075020-index.htm)
 
