@@ -27,6 +27,9 @@
 - **10-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526071952/0001193125-26-071952-index.htm)
 
+- **10-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/0001628280-26-012254-index.htm)
+
 - **10-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526071961/0001193125-26-071961-index.htm)
 
@@ -57,11 +60,17 @@
 - **8-K** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000006/0001794669-26-000006-index.htm)
 
+- **10-K** | FB Financial Corp  (FBK)  (CIK 0001649749)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974926000012/0001649749-26-000012-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011008/0001839882-26-011008-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011010/0001839882-26-011010-index.htm)
+
+- **10-K** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000110465926020468/0001104659-26-020468-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011012/0001839882-26-011012-index.htm)
@@ -156,6 +165,12 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926019393/0001104659-26-019393-index.htm)
 
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000026/0001083301-26-000026-index.htm)
+
 - **NT N-CEN** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126004252/0001999371-26-004252-index.htm)
 
@@ -165,6 +180,9 @@
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026020066/0001213900-26-020066-index.htm)
 
+- **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026012284/0001628280-26-012284-index.htm)
+
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000149315226008063/0001493152-26-008063-index.htm)
 
@@ -173,6 +191,9 @@
 
 - **10-K** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/0001193125-26-071966-index.htm)
+
+- **10-K** | Payoneer Global Inc.  (PAYO)  (CIK 0001845815)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1845815/000110465926020487/0001104659-26-020487-index.htm)
 
 - **S-1/A** | Illumination Acquisition Corp. I  (CIK 0002101135)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101135/000120677426000086/0001206774-26-000086-index.htm)
@@ -297,6 +318,9 @@
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000024/0001020660-26-000024-index.htm)
 
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026020768/0001213900-26-020768-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026019559/0001213900-26-019559-index.htm)
 
@@ -317,6 +341,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026020384/0001213900-26-020384-index.htm)
+
+- **425** | Ether Machine, Inc.  (CIK 0002080334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026020786/0001213900-26-020786-index.htm)
 
 - **10-K** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000008324626000005/0000083246-26-000005-index.htm)
