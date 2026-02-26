@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | FORUM MARKETS Inc  (ETHZ)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026020806/0001213900-26-020806-index.htm)
+
 - **485BPOS** | SSGA Active Trust  (CIK 0001516212)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1516212/000119312526072050/0001193125-26-072050-index.htm)
 
 - **10-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526071484/0001193125-26-071484-index.htm)
+
+- **8-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426001610/0001654954-26-001610-index.htm)
 
 - **DEFA14A** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226008055/0001493152-26-008055-index.htm)
@@ -114,11 +120,17 @@
 - **10-K** | XCEL ENERGY INC  (XEL, XELLL)  (CIK 0000072903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/0000072903-26-000009-index.htm)
 
+- **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
+
 - **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926019651/0001104659-26-019651-index.htm)
 
 - **S-1** | Dune Acquisition Corp III  (CIK 0002095476)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026019459/0001213900-26-019459-index.htm)
+
+- **10-K** | BankUnited, Inc.  (BKU)  (CIK 0001504008)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1504008/000150400826000011/0001504008-26-000011-index.htm)
 
 - **10-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/0000316709-26-000009-index.htm)
@@ -134,6 +146,9 @@
 
 - **10-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926019119/0001104659-26-019119-index.htm)
+
+- **10-K** | OPPENHEIMER HOLDINGS INC  (OPY)  (CIK 0000791963)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/791963/000162828026012313/0001628280-26-012313-index.htm)
 
 - **10-K** | GLACIER BANCORP, INC.  (GBCI)  (CIK 0000868671)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868671/000086867126000023/0000868671-26-000023-index.htm)
@@ -162,8 +177,14 @@
 - **8-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626001630/0001829126-26-001630-index.htm)
 
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226000532/0000950142-26-000532-index.htm)
+
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926019393/0001104659-26-019393-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000004/0001507605-26-000004-index.htm)
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.htm)
@@ -290,6 +311,9 @@
 
 - **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
+
+- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326000561/0000930413-26-000561-index.htm)
 
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000141036826018632/0001410368-26-018632-index.htm)
