@@ -37,6 +37,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/0001628280-26-012254-index.htm)
 
 - **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000017/0001859392-26-000017-index.htm)
+
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000019/0001859392-26-000019-index.htm)
 
 - **10-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
