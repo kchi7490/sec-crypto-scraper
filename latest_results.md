@@ -15,6 +15,9 @@
 - **10-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526071956/0001193125-26-071956-index.htm)
 
+- **10-K** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226008155/0001493152-26-008155-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000007/0001819989-26-000007-index.htm)
 
@@ -177,6 +180,9 @@
 - **10-K** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm)
 
+- **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026020677/0001213900-26-020677-index.htm)
+
 - **10-K** | PINNACLE WEST CAPITAL CORP  (PNW)  (CIK 0000764622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/764622/000076462226000011/0000764622-26-000011-index.htm)
 
@@ -302,4 +308,7 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126003997/0001999371-26-003997-index.htm)
+
+- **485BPOS** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
 
