@@ -219,6 +219,9 @@
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000062/0000945908-26-000062-index.htm)
 
+- **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/0001193125-26-075020-index.htm)
+
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126004305/0001999371-26-004305-index.htm)
 
@@ -239,6 +242,9 @@
 
 - **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
+
+- **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000141036826018632/0001410368-26-018632-index.htm)
 
 - **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004597/0002071691-26-004597-index.htm)
