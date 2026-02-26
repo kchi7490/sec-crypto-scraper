@@ -36,8 +36,14 @@
 - **10-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026012254/0001628280-26-012254-index.htm)
 
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000019/0001859392-26-000019-index.htm)
+
 - **10-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526071961/0001193125-26-071961-index.htm)
+
+- **10-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000016/0001859392-26-000016-index.htm)
 
 - **10-K** | LAKELAND FINANCIAL CORP  (LKFN)  (CIK 0000721994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/721994/000072199426000018/0000721994-26-000018-index.htm)
@@ -81,6 +87,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011012/0001839882-26-011012-index.htm)
 
+- **10-K** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000131/0001554855-26-000131-index.htm)
+
 - **10-K** | Fidelity National Information Services, Inc.  (FIS)  (CIK 0001136893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1136893/000113689326000013/0001136893-26-000013-index.htm)
 
@@ -111,14 +120,23 @@
 - **10-K** | PUBLIC SERVICE CO OF COLORADO  (CIK 0000081018)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/81018/000008101826000003/0000081018-26-000003-index.htm)
 
+- **10-K** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000009/0001156375-26-000009-index.htm)
+
 - **10-K** | NORTHERN STATES POWER CO  (CIK 0001123852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1123852/000112385226000003/0001123852-26-000003-index.htm)
+
+- **10-K** | Liberty Live Holdings, Inc.  (LLYVA, LLYVB, LLYVK)  (CIK 0002078416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078416/000110465926020657/0001104659-26-020657-index.htm)
 
 - **10-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/0001099590-26-000006-index.htm)
 
 - **10-K** | XCEL ENERGY INC  (XEL, XELLL)  (CIK 0000072903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/0000072903-26-000009-index.htm)
+
+- **10-K** | NUSCALE POWER Corp  (SMR)  (CIK 0001822966)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.htm)
 
 - **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
@@ -134,6 +152,9 @@
 
 - **10-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/0000316709-26-000009-index.htm)
+
+- **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
 
 - **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
@@ -195,8 +216,14 @@
 - **NT N-CEN** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000199937126004252/0001999371-26-004252-index.htm)
 
+- **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226008200/0001493152-26-008200-index.htm)
+
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026019560/0001213900-26-019560-index.htm)
+
+- **10-K** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/0001622536-26-000017-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026020066/0001213900-26-020066-index.htm)
@@ -236,6 +263,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926018789/0001104659-26-018789-index.htm)
+
+- **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226008189/0001493152-26-008189-index.htm)
 
 - **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000028/0000891478-26-000028-index.htm)
@@ -383,4 +413,7 @@
 
 - **485BPOS** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002781/0000950103-26-002781-index.htm)
 
