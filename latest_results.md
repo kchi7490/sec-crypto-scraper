@@ -75,6 +75,9 @@
 - **10-K** | INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/0000051143-26-000010-index.htm)
 
+- **10-K** | INTERNATIONAL BANCSHARES CORP  (IBOC)  (CIK 0000315709)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315709/000110465926020439/0001104659-26-020439-index.htm)
+
 - **10-K** | VALMONT INDUSTRIES INC  (VMI)  (CIK 0000102729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102729/000010272926000007/0000102729-26-000007-index.htm)
 
@@ -210,6 +213,9 @@
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526071122/0001193125-26-071122-index.htm)
 
+- **6-K** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000094726326000019/0000947263-26-000019-index.htm)
+
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226008094/0001493152-26-008094-index.htm)
 
@@ -222,8 +228,14 @@
 - **20-F** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000162828026011979/0001628280-26-011979-index.htm)
 
+- **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526075941/0001193125-26-075941-index.htm)
+
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000062/0000945908-26-000062-index.htm)
+
+- **POS AMI** | American Beacon Institutional Funds Trust  (CIK 0001700933)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1700933/000113322826002290/0001133228-26-002290-index.htm)
 
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826002288/0001133228-26-002288-index.htm)
@@ -236,6 +248,12 @@
 
 - **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826002260/0001133228-26-002260-index.htm)
+
+- **485BPOS** | Eaton Vance Series Trust II  (CIK 0000074663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/74663/000113322826002300/0001133228-26-002300-index.htm)
+
+- **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826002298/0001133228-26-002298-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000109/0001081400-26-000109-index.htm)
