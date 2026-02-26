@@ -51,6 +51,9 @@
 - **10-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926019392/0001104659-26-019392-index.htm)
 
+- **8-K** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000006/0001794669-26-000006-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226011008/0001839882-26-011008-index.htm)
 
@@ -180,6 +183,9 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926018789/0001104659-26-018789-index.htm)
 
+- **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000028/0000891478-26-000028-index.htm)
+
 - **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426000503/0001292814-26-000503-index.htm)
 
@@ -204,6 +210,9 @@
 - **6-K** | Innovation Beverage Group Ltd  (IBG)  (CIK 0001924482)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924482/000173112226000293/0001731122-26-000293-index.htm)
 
+- **20-F** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000162828026011979/0001628280-26-011979-index.htm)
+
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000062/0000945908-26-000062-index.htm)
 
@@ -218,6 +227,9 @@
 
 - **N-2/A** | RiverNorth Short Prime Unicorn Fund 2028, Inc  (CIK 0002077697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077697/000139834426003617/0001398344-26-003617-index.htm)
+
+- **20-F** | SAP SE  (SAP, SAPGF)  (CIK 0001000184)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/0001104659-26-020058-index.htm)
 
 - **N-MFP3/A** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826016526/0001410368-26-016526-index.htm)
