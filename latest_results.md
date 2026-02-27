@@ -51,6 +51,9 @@
 - **10-K** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000015/0000008818-26-000015-index.htm)
 
+- **424B5** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926020918/0001104659-26-020918-index.htm)
+
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026020327/0001213900-26-020327-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **10-K** | INTERNATIONAL BANCSHARES CORP  (IBOC)  (CIK 0000315709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315709/000110465926020439/0001104659-26-020439-index.htm)
+
+- **DEFM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026020883/0001213900-26-020883-index.htm)
 
 - **10-K** | FIRST BUSINESS FINANCIAL SERVICES, INC.  (FBIZ)  (CIK 0001521951)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1521951/000119312526071523/0001193125-26-071523-index.htm)
@@ -102,6 +108,9 @@
 - **10-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/0001099590-26-000006-index.htm)
 
+- **10-K** | GERMAN AMERICAN BANCORP, INC.  (GABC)  (CIK 0000714395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/714395/000071439526000011/0000714395-26-000011-index.htm)
+
 - **10-K** | XCEL ENERGY INC  (XEL, XELLL)  (CIK 0000072903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/0000072903-26-000009-index.htm)
 
@@ -114,6 +123,9 @@
 - **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926019651/0001104659-26-019651-index.htm)
 
+- **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926020738/0001104659-26-020738-index.htm)
+
 - **10-K** | BankUnited, Inc.  (BKU)  (CIK 0001504008)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504008/000150400826000011/0001504008-26-000011-index.htm)
 
@@ -122,6 +134,9 @@
 
 - **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
+
+- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
 
 - **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
@@ -140,6 +155,9 @@
 
 - **10-K** | BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BML-PG, BML-PH, BML-PJ, BML-PL)  (CIK 0000070858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/0000070858-26-000157-index.htm)
+
+- **10-K** | HANCOCK WHITNEY CORP  (HWC, HWCPZ)  (CIK 0000750577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/750577/000119312526077903/0001193125-26-077903-index.htm)
 
 - **10-K** | Lemonade, Inc.  (LMND)  (CIK 0001691421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/0001691421-26-000016-index.htm)
@@ -192,6 +210,9 @@
 - **10-K** | ARKO Corp.  (ARKO)  (CIK 0001823794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823794/000119312526071464/0001193125-26-071464-index.htm)
 
+- **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026021060/0001213900-26-021060-index.htm)
+
 - **10-K** | BlackRock, Inc.  (BLK)  (CIK 0002012383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/0001193125-26-071966-index.htm)
 
@@ -234,6 +255,9 @@
 - **20-F** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000162828026011979/0001628280-26-011979-index.htm)
 
+- **10-K** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226008238/0001493152-26-008238-index.htm)
+
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526075941/0001193125-26-075941-index.htm)
 
@@ -242,6 +266,9 @@
 
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826002288/0001133228-26-002288-index.htm)
+
+- **485BPOS** | VANGUARD TRUSTEES' EQUITY FUND  (CIK 0000313850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/313850/000119312526077484/0001193125-26-077484-index.htm)
 
 - **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/0001193125-26-075020-index.htm)
@@ -270,6 +297,9 @@
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000141036826018632/0001410368-26-018632-index.htm)
 
+- **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
+
 - **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004597/0002071691-26-004597-index.htm)
 
@@ -278,6 +308,9 @@
 
 - **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004596/0002071691-26-004596-index.htm)
+
+- **S-11** | Janus Living, Inc.  (CIK 0002100805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926020934/0001104659-26-020934-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000019/0001020660-26-000019-index.htm)
