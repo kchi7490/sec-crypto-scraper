@@ -3,6 +3,12 @@
 - **424B5** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526079249/0001193125-26-079249-index.htm)
 
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226008318/0001493152-26-008318-index.htm)
+
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226008316/0001493152-26-008316-index.htm)
+
 - **8-K** | FORUM MARKETS Inc  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026020806/0001213900-26-020806-index.htm)
 
@@ -153,6 +159,9 @@
 - **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
 
+- **20-F** | KHEOBA Ltd  (KHOBF)  (CIK 0002084698)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084698/000168316826001358/0001683168-26-001358-index.htm)
+
 - **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926019651/0001104659-26-019651-index.htm)
 
@@ -249,6 +258,24 @@
 - **10-K** | ARKO Corp.  (ARKO)  (CIK 0001823794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823794/000119312526071464/0001193125-26-071464-index.htm)
 
+- **10-K** | United States Gasoline Fund, LP  (UGA)  (CIK 0001396878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396878/000110465926021515/0001104659-26-021515-index.htm)
+
+- **10-K** | United States 12 Month Oil Fund, LP  (USL)  (CIK 0001405528)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405528/000110465926021509/0001104659-26-021509-index.htm)
+
+- **10-K** | United States Brent Oil Fund, LP  (BNO)  (CIK 0001472494)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1472494/000110465926021521/0001104659-26-021521-index.htm)
+
+- **10-K** | United States Oil Fund, LP  (USO)  (CIK 0001327068)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1327068/000110465926021501/0001104659-26-021501-index.htm)
+
+- **10-K** | United States Natural Gas Fund, LP  (UNG)  (CIK 0001376227)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1376227/000110465926021507/0001104659-26-021507-index.htm)
+
+- **10-K** | United States Commodity Index Funds Trust  (CPER, USCI)  (CIK 0001479247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479247/000110465926021525/0001104659-26-021525-index.htm)
+
 - **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026021060/0001213900-26-021060-index.htm)
 
@@ -340,7 +367,7 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
@@ -349,22 +376,22 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009025/0000940400-26-009025-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008771/0000940400-26-008771-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009028/0000940400-26-009028-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008771/0000940400-26-008771-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008792/0000940400-26-008792-index.htm)
@@ -373,10 +400,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008789/0000940400-26-008789-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008773/0000940400-26-008773-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008793/0000940400-26-008793-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008793/0000940400-26-008793-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008773/0000940400-26-008773-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009002/0000940400-26-009002-index.htm)
