@@ -141,11 +141,11 @@
 - **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
 
-- **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
-
 - **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
+
+- **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
 
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
@@ -167,6 +167,9 @@
 
 - **10-K** | Lemonade, Inc.  (LMND)  (CIK 0001691421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691421/000169142126000016/0001691421-26-000016-index.htm)
+
+- **424B4** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226008271/0001493152-26-008271-index.htm)
 
 - **485BPOS** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526068554/0001193125-26-068554-index.htm)
@@ -258,6 +261,9 @@
 - **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226008255/0001493152-26-008255-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000169/0001279569-26-000169-index.htm)
+
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226008094/0001493152-26-008094-index.htm)
 
@@ -303,6 +309,9 @@
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326000561/0000930413-26-000561-index.htm)
 
+- **485BPOS** | INVESTMENT CO OF AMERICA  (CIK 0000051931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/51931/000005193126000227/0000051931-26-000227-index.htm)
+
 - **485BPOS** | AMERICAN FUNDS FUNDAMENTAL INVESTORS  (CIK 0000039473)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/39473/000005193126000214/0000051931-26-000214-index.htm)
 
@@ -311,6 +320,9 @@
 
 - **NPORT-P** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000141036826018632/0001410368-26-018632-index.htm)
+
+- **485BPOS** | American Funds Multi-Sector Income Fund  (CIK 0001761673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1761673/000005193126000231/0000051931-26-000231-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
