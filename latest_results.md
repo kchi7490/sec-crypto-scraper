@@ -324,6 +324,12 @@
 - **485BPOS** | American Funds Multi-Sector Income Fund  (CIK 0001761673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761673/000005193126000231/0000051931-26-000231-index.htm)
 
+- **485BPOS** | CAPITAL WORLD BOND FUND  (CIK 0000812303)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/812303/000005193126000239/0000051931-26-000239-index.htm)
+
+- **485BPOS** | AMERICAN BALANCED FUND  (CIK 0000004568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/4568/000005193126000248/0000051931-26-000248-index.htm)
+
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
 
@@ -378,14 +384,26 @@
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026020786/0001213900-26-020786-index.htm)
 
+- **497K** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004554/0001999371-26-004554-index.htm)
+
 - **10-K** | HSBC USA INC /MD/  (CIK 0000083246)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000008324626000005/0000083246-26-000005-index.htm)
+
+- **497K** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004553/0001999371-26-004553-index.htm)
 
 - **485BPOS** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
 
 - **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
+
+- **10-K** | MSC INCOME FUND, INC.  (MSIF)  (CIK 0001535778)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1535778/000153577826000026/0001535778-26-000026-index.htm)
+
+- **10-K** | Main Street Capital CORP  (MAIN)  (CIK 0001396440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396440/000139644026000016/0001396440-26-000016-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002781/0000950103-26-002781-index.htm)
