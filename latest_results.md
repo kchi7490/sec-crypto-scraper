@@ -135,11 +135,11 @@
 - **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
 
-- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
-
 - **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
+
+- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
 
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
