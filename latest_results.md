@@ -288,6 +288,9 @@
 - **485BPOS** | STONE RIDGE TRUST  (CIK 0001559992)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/0001193125-26-075020-index.htm)
 
+- **485BPOS** | Capital Group Fixed Income ETF Trust  (CIK 0001870117)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1870117/000005193126000271/0000051931-26-000271-index.htm)
+
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126004305/0001999371-26-004305-index.htm)
 
@@ -327,8 +330,14 @@
 - **485BPOS** | CAPITAL WORLD BOND FUND  (CIK 0000812303)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/812303/000005193126000239/0000051931-26-000239-index.htm)
 
+- **485BPOS** | AMERICAN FUNDS STRATEGIC BOND FUND  (CIK 0001655146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655146/000005193126000267/0000051931-26-000267-index.htm)
+
 - **485BPOS** | AMERICAN BALANCED FUND  (CIK 0000004568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/4568/000005193126000248/0000051931-26-000248-index.htm)
+
+- **485BPOS** | BOND FUND OF AMERICA  (CIK 0000013075)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/13075/000005193126000256/0000051931-26-000256-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
@@ -393,11 +402,17 @@
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004553/0001999371-26-004553-index.htm)
 
+- **497K** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004562/0001999371-26-004562-index.htm)
+
 - **485BPOS** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
 
 - **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
+
+- **497K** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004572/0001999371-26-004572-index.htm)
 
 - **10-K** | MSC INCOME FUND, INC.  (MSIF)  (CIK 0001535778)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1535778/000153577826000026/0001535778-26-000026-index.htm)
