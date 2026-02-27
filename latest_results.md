@@ -192,11 +192,11 @@
 - **10-K** | NUSCALE POWER Corp  (SMR)  (CIK 0001822966)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.htm)
 
-- **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
-
 - **20-F** | KHEOBA Ltd  (KHOBF)  (CIK 0002084698)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084698/000168316826001358/0001683168-26-001358-index.htm)
+
+- **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
 
 - **20-F** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390026021555/0001213900-26-021555-index.htm)
@@ -222,11 +222,11 @@
 - **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
 
-- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
-
 - **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
+
+- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
 
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
