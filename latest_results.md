@@ -303,6 +303,9 @@
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326000561/0000930413-26-000561-index.htm)
 
+- **485BPOS** | AMERICAN FUNDS FUNDAMENTAL INVESTORS  (CIK 0000039473)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/39473/000005193126000214/0000051931-26-000214-index.htm)
+
 - **485BPOS** | American Funds Emerging Markets Bond Fund  (CIK 0001660935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1660935/000005193126000210/0000051931-26-000210-index.htm)
 
@@ -311,6 +314,9 @@
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
+
+- **485BPOS** | Capital Group Completion Fund Series  (CIK 0002020645)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020645/000005193126000221/0000051931-26-000221-index.htm)
 
 - **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126004597/0002071691-26-004597-index.htm)
@@ -345,6 +351,9 @@
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026021109/0001213900-26-021109-index.htm)
 
+- **POS AMI** | Short Duration Inflation-Protected Income Portfolio  (CIK 0001928846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928846/000113322826002414/0001133228-26-002414-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026020124/0001213900-26-020124-index.htm)
 
@@ -362,6 +371,9 @@
 
 - **485BPOS** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
+
+- **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002781/0000950103-26-002781-index.htm)
