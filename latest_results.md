@@ -339,6 +339,9 @@
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026020768/0001213900-26-020768-index.htm)
 
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026021109/0001213900-26-021109-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026020124/0001213900-26-020124-index.htm)
 
