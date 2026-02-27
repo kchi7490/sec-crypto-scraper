@@ -21,8 +21,14 @@
 - **10-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526071486/0001193125-26-071486-index.htm)
 
+- **10-K** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926006054/0001437749-26-006054-index.htm)
+
 - **10-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526071956/0001193125-26-071956-index.htm)
+
+- **10-K** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926006058/0001437749-26-006058-index.htm)
 
 - **10-K** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226008155/0001493152-26-008155-index.htm)
@@ -78,11 +84,26 @@
 - **10-K** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000110465926020468/0001104659-26-020468-index.htm)
 
+- **10-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/0001083301-26-000031-index.htm)
+
+- **10-K** | ISHARES GOLD TRUST  (IAU)  (CIK 0001278680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1278680/000143774926006055/0001437749-26-006055-index.htm)
+
+- **10-K** | iShares Gold Trust Micro  (IAUM)  (CIK 0001759124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759124/000143774926006057/0001437749-26-006057-index.htm)
+
 - **10-K** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000131/0001554855-26-000131-index.htm)
 
+- **10-K** | iShares Silver Trust  (SLV)  (CIK 0001330568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1330568/000143774926006059/0001437749-26-006059-index.htm)
+
 - **10-K** | INTERNATIONAL BANCSHARES CORP  (IBOC)  (CIK 0000315709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315709/000110465926020439/0001104659-26-020439-index.htm)
+
+- **10-K** | iShares S&P GSCI Commodity-Indexed Trust  (GSG, ISMCF)  (CIK 0001332174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1332174/000143774926006060/0001437749-26-006060-index.htm)
 
 - **DEFM14C** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026020883/0001213900-26-020883-index.htm)
@@ -141,11 +162,11 @@
 - **10-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000007/0001193311-26-000007-index.htm)
 
-- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
-
 - **10-K** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/0000886982-26-000091-index.htm)
+
+- **424B3** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119331126000009/0001193311-26-000009-index.htm)
 
 - **10-K** | Apollo Global Management, Inc.  (APO, APOS, APO-PA)  (CIK 0001858681)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/0001858681-26-000013-index.htm)
@@ -204,6 +225,9 @@
 - **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226008200/0001493152-26-008200-index.htm)
 
+- **8-K** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226008281/0001493152-26-008281-index.htm)
+
 - **10-K** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/0001622536-26-000017-index.htm)
 
@@ -227,6 +251,9 @@
 
 - **10-K** | Payoneer Global Inc.  (PAYO)  (CIK 0001845815)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1845815/000110465926020487/0001104659-26-020487-index.htm)
+
+- **424B4** | Illumination Acquisition Corp. I  (CIK 0002101135)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101135/000120677426000106/0001206774-26-000106-index.htm)
 
 - **10-K** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm)
@@ -291,6 +318,36 @@
 - **485BPOS** | Capital Group Fixed Income ETF Trust  (CIK 0001870117)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1870117/000005193126000271/0000051931-26-000271-index.htm)
 
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008791/0000940400-26-008791-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008771/0000940400-26-008771-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008792/0000940400-26-008792-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008789/0000940400-26-008789-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008773/0000940400-26-008773-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008793/0000940400-26-008793-index.htm)
+
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126004305/0001999371-26-004305-index.htm)
 
@@ -302,6 +359,9 @@
 
 - **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826002298/0001133228-26-002298-index.htm)
+
+- **485BPOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000202/0000898745-26-000202-index.htm)
 
 - **N-2/A** | RiverNorth Short Prime Unicorn Fund 2028, Inc  (CIK 0002077697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077697/000139834426003617/0001398344-26-003617-index.htm)
@@ -411,6 +471,9 @@
 - **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
 
+- **IRANNOTICE** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926006051/0001437749-26-006051-index.htm)
+
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004572/0001999371-26-004572-index.htm)
 
@@ -419,6 +482,9 @@
 
 - **10-K** | Main Street Capital CORP  (MAIN)  (CIK 0001396440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396440/000139644026000016/0001396440-26-000016-index.htm)
+
+- **IRANNOTICE** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926006048/0001437749-26-006048-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326002781/0000950103-26-002781-index.htm)
