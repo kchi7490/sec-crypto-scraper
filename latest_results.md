@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **424B5** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526079249/0001193125-26-079249-index.htm)
+
 - **8-K** | FORUM MARKETS Inc  (ETHZ)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026020806/0001213900-26-020806-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **8-K** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000006/0001794669-26-000006-index.htm)
+
+- **10-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026012576/0001628280-26-012576-index.htm)
 
 - **10-K** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974926000012/0001649749-26-000012-index.htm)
@@ -248,6 +254,9 @@
 
 - **6-K** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000094726326000019/0000947263-26-000019-index.htm)
+
+- **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226008255/0001493152-26-008255-index.htm)
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226008094/0001493152-26-008094-index.htm)
