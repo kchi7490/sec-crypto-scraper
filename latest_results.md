@@ -15,6 +15,9 @@
 - **485BPOS** | SSGA Active Trust  (CIK 0001516212)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1516212/000119312526072050/0001193125-26-072050-index.htm)
 
+- **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226008328/0001493152-26-008328-index.htm)
+
 - **10-K** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526071484/0001193125-26-071484-index.htm)
 
@@ -30,6 +33,9 @@
 - **10-K** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926006054/0001437749-26-006054-index.htm)
 
+- **10-K** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326001203/0001062993-26-001203-index.htm)
+
 - **10-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526071956/0001193125-26-071956-index.htm)
 
@@ -41,6 +47,9 @@
 
 - **10-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526071965/0001193125-26-071965-index.htm)
+
+- **10-K** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426001672/0001654954-26-001672-index.htm)
 
 - **10-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526071952/0001193125-26-071952-index.htm)
@@ -90,8 +99,14 @@
 - **10-K** | FB Financial Corp  (FBK)  (CIK 0001649749)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1649749/000164974926000012/0001649749-26-000012-index.htm)
 
+- **10-K** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000010/0001794669-26-000010-index.htm)
+
 - **10-K** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000110465926020468/0001104659-26-020468-index.htm)
+
+- **10-K** | FULTON FINANCIAL CORP  (FULT, FULTP)  (CIK 0000700564)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/700564/000070056426000006/0000700564-26-000006-index.htm)
 
 - **10-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/0001083301-26-000031-index.htm)
@@ -105,8 +120,14 @@
 - **10-K** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000131/0001554855-26-000131-index.htm)
 
+- **10-K** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526082642/0001193125-26-082642-index.htm)
+
 - **10-K** | iShares Silver Trust  (SLV)  (CIK 0001330568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1330568/000143774926006059/0001437749-26-006059-index.htm)
+
+- **10-K** | PROVIDENT FINANCIAL SERVICES INC  (PFS)  (CIK 0001178970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178970/000162828026012814/0001628280-26-012814-index.htm)
 
 - **10-K** | INTERNATIONAL BANCSHARES CORP  (IBOC)  (CIK 0000315709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315709/000110465926020439/0001104659-26-020439-index.htm)
@@ -156,17 +177,23 @@
 - **10-K** | NUSCALE POWER Corp  (SMR)  (CIK 0001822966)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.htm)
 
+- **20-F** | KHEOBA Ltd  (KHOBF)  (CIK 0002084698)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084698/000168316826001358/0001683168-26-001358-index.htm)
+
 - **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
 
-- **20-F** | KHEOBA Ltd  (KHOBF)  (CIK 0002084698)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2084698/000168316826001358/0001683168-26-001358-index.htm)
+- **20-F** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390026021555/0001213900-26-021555-index.htm)
 
 - **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926019651/0001104659-26-019651-index.htm)
 
 - **424B5** | Metropolitan Bank Holding Corp.  (MCB)  (CIK 0001476034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1476034/000110465926020738/0001104659-26-020738-index.htm)
+
+- **10-K** | WILSON BANK HOLDING CO  (WBHC)  (CIK 0000885275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/885275/000119312526082893/0001193125-26-082893-index.htm)
 
 - **10-K** | BankUnited, Inc.  (BKU)  (CIK 0001504008)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1504008/000150400826000011/0001504008-26-000011-index.htm)
@@ -192,8 +219,20 @@
 - **10-K** | OPPENHEIMER HOLDINGS INC  (OPY)  (CIK 0000791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/791963/000162828026012313/0001628280-26-012313-index.htm)
 
+- **10-K** | FEDERATED HERMES, INC.  (FHI)  (CIK 0001056288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1056288/000105628826000007/0001056288-26-000007-index.htm)
+
+- **10-K** | Bank First Corp  (BFC)  (CIK 0001746109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1746109/000110465926021567/0001104659-26-021567-index.htm)
+
+- **10-K** | VALLEY NATIONAL BANCORP  (VLY, VLYPN, VLYPO, VLYPP)  (CIK 0000714310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/714310/000071431026000017/0000714310-26-000017-index.htm)
+
 - **10-K** | GLACIER BANCORP, INC.  (GBCI)  (CIK 0000868671)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868671/000086867126000023/0000868671-26-000023-index.htm)
+
+- **10-K** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119726000062/0001381197-26-000062-index.htm)
 
 - **10-K** | BANK OF AMERICA CORP /DE/  (BAC, BAC-PB, BAC-PE, BAC-PK, BAC-PL, BAC-PM, BAC-PN, BAC-PO, BAC-PP, BML-PG, BML-PH, BML-PJ, BML-PL)  (CIK 0000070858)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/0000070858-26-000157-index.htm)
@@ -213,6 +252,9 @@
 - **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526073305/0001193125-26-073305-index.htm)
 
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082532/0001193125-26-082532-index.htm)
+
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226008131/0001493152-26-008131-index.htm)
 
@@ -228,6 +270,12 @@
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000004/0001507605-26-000004-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
+
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.htm)
 
@@ -239,6 +287,9 @@
 
 - **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226008200/0001493152-26-008200-index.htm)
+
+- **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226008325/0001493152-26-008325-index.htm)
 
 - **8-K** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226008281/0001493152-26-008281-index.htm)
@@ -291,8 +342,17 @@
 - **10-K** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm)
 
+- **10-K** | Twin Vee PowerCats, Co.  (VEEE)  (CIK 0001855509)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855509/000173112226000317/0001731122-26-000317-index.htm)
+
+- **PRE 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026021685/0001213900-26-021685-index.htm)
+
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026020677/0001213900-26-020677-index.htm)
+
+- **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026021671/0001213900-26-021671-index.htm)
 
 - **10-K** | PINNACLE WEST CAPITAL CORP  (PNW)  (CIK 0000764622)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/764622/000076462226000011/0000764622-26-000011-index.htm)
@@ -314,6 +374,9 @@
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526071122/0001193125-26-071122-index.htm)
+
+- **20-F** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000030/0000891478-26-000030-index.htm)
 
 - **6-K** | TORONTO DOMINION BANK  (TD, TDBCP)  (CIK 0000947263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/947263/000094726326000019/0000947263-26-000019-index.htm)
@@ -367,7 +430,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
@@ -376,22 +448,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009025/0000940400-26-009025-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009028/0000940400-26-009028-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008771/0000940400-26-008771-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008792/0000940400-26-008792-index.htm)
@@ -400,10 +463,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008789/0000940400-26-008789-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008793/0000940400-26-008793-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008773/0000940400-26-008773-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008773/0000940400-26-008773-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008793/0000940400-26-008793-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009002/0000940400-26-009002-index.htm)
@@ -511,10 +574,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000022/0001020660-26-000022-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000024/0001020660-26-000024-index.htm)
@@ -554,9 +617,6 @@
 
 - **485BPOS** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000143235326000085/0001432353-26-000085-index.htm)
-
-- **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
 
 - **IRANNOTICE** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926006051/0001437749-26-006051-index.htm)
