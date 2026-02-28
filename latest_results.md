@@ -129,11 +129,11 @@
 - **10-K** | NUSCALE POWER Corp  (SMR)  (CIK 0001822966)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/0001822966-26-000018-index.htm)
 
-- **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
-
 - **20-F** | KHEOBA Ltd  (KHOBF)  (CIK 0002084698)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084698/000168316826001358/0001683168-26-001358-index.htm)
+
+- **10-K** | FIRST BUSEY CORP /NV/  (BUSE, BUSEP)  (CIK 0000314489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/314489/000031448926000013/0000314489-26-000013-index.htm)
 
 - **20-F** | AMTD Digital Inc.  (HKD)  (CIK 0001809691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1809691/000121390026021555/0001213900-26-021555-index.htm)
@@ -193,10 +193,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000004/0001507605-26-000004-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.htm)
@@ -352,13 +352,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
