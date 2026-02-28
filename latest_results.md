@@ -193,10 +193,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000004/0001507605-26-000004-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526076557/0001193125-26-076557-index.htm)
@@ -343,10 +343,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008791/0000940400-26-008791-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009027/0000940400-26-009027-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009027/0000940400-26-009027-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
@@ -355,25 +355,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009025/0000940400-26-009025-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009028/0000940400-26-009028-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008771/0000940400-26-008771-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009018/0000940400-26-009018-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008792/0000940400-26-008792-index.htm)
@@ -496,10 +496,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000022/0001020660-26-000022-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000024/0001020660-26-000024-index.htm)
