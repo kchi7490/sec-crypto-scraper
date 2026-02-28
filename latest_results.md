@@ -496,10 +496,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000022/0001020660-26-000022-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000021/0001020660-26-000021-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000023/0001020660-26-000023-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000024/0001020660-26-000024-index.htm)
