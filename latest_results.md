@@ -124,10 +124,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082532/0001193125-26-082532-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226008325/0001493152-26-008325-index.htm)
