@@ -118,10 +118,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082532/0001193125-26-082532-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082616/0001193125-26-082616-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526082615/0001193125-26-082615-index.htm)
 
 - **8-K** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226008325/0001493152-26-008325-index.htm)
@@ -261,6 +261,9 @@
 - **485BPOS** | AMERICAN FUNDS FUNDAMENTAL INVESTORS  (CIK 0000039473)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/39473/000005193126000214/0000051931-26-000214-index.htm)
 
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021392/0001213900-26-021392-index.htm)
+
 - **485BPOS** | American Funds Multi-Sector Income Fund  (CIK 0001761673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761673/000005193126000231/0000051931-26-000231-index.htm)
 
@@ -272,9 +275,6 @@
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
-
-- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021394/0001213900-26-021394-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021388/0001213900-26-021388-index.htm)
@@ -311,6 +311,9 @@
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004562/0001999371-26-004562-index.htm)
+
+- **10-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/0001083301-26-000031-index.htm)
 
 - **IRANNOTICE** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926006051/0001437749-26-006051-index.htm)
