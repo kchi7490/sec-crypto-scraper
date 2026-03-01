@@ -177,9 +177,6 @@
 - **PRE 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026021685/0001213900-26-021685-index.htm)
 
-- **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026021671/0001213900-26-021671-index.htm)
-
 - **6-K** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465926021667/0001104659-26-021667-index.htm)
 
@@ -194,9 +191,6 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000169/0001279569-26-000169-index.htm)
-
-- **20-F** | Brookfield Property Partners L.P.  (BPYPM, BPYPN, BPYPO, BPYPP)  (CIK 0001545772)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1545772/000154577226000006/0001545772-26-000006-index.htm)
 
 - **485BPOS** | MORGAN STANLEY INSTITUTIONAL LIQUIDITY FUNDS  (CIK 0001227155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1227155/000113322826002683/0001133228-26-002683-index.htm)
@@ -223,19 +217,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008791/0000940400-26-008791-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009027/0000940400-26-009027-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008790/0000940400-26-008790-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
@@ -316,16 +310,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526077937/0001193125-26-077937-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021394/0001213900-26-021394-index.htm)
-
-- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021388/0001213900-26-021388-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021391/0001213900-26-021391-index.htm)
-
-- **485BPOS** | BondBloxx ETF Trust  (CIK 0001879238)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626001754/0001829126-26-001754-index.htm)
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021389/0001213900-26-021389-index.htm)
@@ -338,9 +326,6 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021379/0001213900-26-021379-index.htm)
-
-- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026021385/0001213900-26-021385-index.htm)
 
 - **S-11** | Janus Living, Inc.  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926020934/0001104659-26-020934-index.htm)
@@ -359,9 +344,6 @@
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004562/0001999371-26-004562-index.htm)
-
-- **485APOS** | Guardian Variable Products Trust  (CIK 0001668512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926021253/0001104659-26-021253-index.htm)
 
 - **IRANNOTICE** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926006051/0001437749-26-006051-index.htm)
