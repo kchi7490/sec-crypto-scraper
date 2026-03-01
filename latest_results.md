@@ -220,13 +220,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008764/0000940400-26-008764-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008776/0000940400-26-008776-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008997/0000940400-26-008997-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026009003/0000940400-26-009003-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026008775/0000940400-26-008775-index.htm)
@@ -287,6 +287,9 @@
 
 - **485BPOS** | CAPITAL WORLD BOND FUND  (CIK 0000812303)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/812303/000005193126000239/0000051931-26-000239-index.htm)
+
+- **485BPOS** | AMERICAN FUNDS STRATEGIC BOND FUND  (CIK 0001655146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655146/000005193126000267/0000051931-26-000267-index.htm)
 
 - **485BPOS** | AMERICAN BALANCED FUND  (CIK 0000004568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/4568/000005193126000248/0000051931-26-000248-index.htm)
