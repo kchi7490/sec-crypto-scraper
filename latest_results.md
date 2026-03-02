@@ -1,7 +1,13 @@
 ## 📁 Other Filings
 
+- **10-K** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526085428/0001193125-26-085428-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226008462/0001493152-26-008462-index.htm)
+
+- **10-K** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526085335/0001193125-26-085335-index.htm)
 
 - **10-K** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526083572/0001193125-26-083572-index.htm)
@@ -9,11 +15,17 @@
 - **10-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526083578/0001193125-26-083578-index.htm)
 
+- **10-K** | Medalist Diversified REIT, Inc.  (MDRR)  (CIK 0001654595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465926022253/0001104659-26-022253-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026022004/0001213900-26-022004-index.htm)
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026022002/0001213900-26-022002-index.htm)
+
+- **10-K/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013232/0001628280-26-013232-index.htm)
 
 - **20-F** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026022034/0001213900-26-022034-index.htm)
@@ -24,8 +36,17 @@
 - **10-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026021831/0001213900-26-021831-index.htm)
 
+- **DEFM14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008544/0001493152-26-008544-index.htm)
+
+- **10-K** | BGC Group, Inc.  (BGC)  (CIK 0001094831)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1094831/000162828026013162/0001628280-26-013162-index.htm)
+
 - **10-K** | Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)  (CIK 0002082866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082866/000208286626000018/0002082866-26-000018-index.htm)
+
+- **10-K** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/0001769628-26-000104-index.htm)
 
 - **424B3** | Xanadu Quantum Technologies Ltd  (XNDU)  (CIK 0002097163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097163/000121390026021941/0001213900-26-021941-index.htm)
@@ -33,8 +54,17 @@
 - **DEFM14A** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026021952/0001213900-26-021952-index.htm)
 
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926022288/0001104659-26-022288-index.htm)
+
+- **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526085441/0001193125-26-085441-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526084264/0001193125-26-084264-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326003006/0000950103-26-003006-index.htm)
 
 - **10-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026021819/0001213900-26-021819-index.htm)
@@ -42,11 +72,17 @@
 - **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008391/0001493152-26-008391-index.htm)
 
+- **10-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926006385/0001437749-26-006385-index.htm)
+
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008393/0001493152-26-008393-index.htm)
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026022001/0001213900-26-022001-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013214/0001628280-26-013214-index.htm)
 
 - **1-A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226008492/0001493152-26-008492-index.htm)
@@ -148,16 +184,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003017/0001099263-26-003017-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002954/0001099263-26-002954-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003030/0001099263-26-003030-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002971/0001099263-26-002971-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003003/0001099263-26-003003-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002954/0001099263-26-002954-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003030/0001099263-26-003030-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002993/0001099263-26-002993-index.htm)
@@ -279,6 +315,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001210/0001062993-26-001210-index.htm)
 
+- **F-1/A** | PayPay Corp  (CIK 0002080845)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526085389/0001193125-26-085389-index.htm)
+
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/0001193125-26-083344-index.htm)
 
@@ -300,6 +339,6 @@
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126004793/0001999371-26-004793-index.htm)
 
-- **10-K** | BGC Group, Inc.  (BGC)  (CIK 0001094831)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1094831/000162828026013162/0001628280-26-013162-index.htm)
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008539/0001493152-26-008539-index.htm)
 
