@@ -12,8 +12,14 @@
 - **10-K** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526083572/0001193125-26-083572-index.htm)
 
+- **10-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/0001628280-26-013305-index.htm)
+
 - **10-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526083578/0001193125-26-083578-index.htm)
+
+- **10-Q/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013286/0001628280-26-013286-index.htm)
 
 - **10-K** | Medalist Diversified REIT, Inc.  (MDRR)  (CIK 0001654595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465926022253/0001104659-26-022253-index.htm)
@@ -24,8 +30,17 @@
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026022002/0001213900-26-022002-index.htm)
 
+- **10-Q/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013294/0001628280-26-013294-index.htm)
+
 - **10-K/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013232/0001628280-26-013232-index.htm)
+
+- **S-1/A** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/0001437749-26-006395-index.htm)
+
+- **10-Q/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013301/0001628280-26-013301-index.htm)
 
 - **20-F** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026022034/0001213900-26-022034-index.htm)
@@ -36,8 +51,14 @@
 - **10-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026021831/0001213900-26-021831-index.htm)
 
+- **10-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000007/0001507605-26-000007-index.htm)
+
 - **DEFM14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008544/0001493152-26-008544-index.htm)
+
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226012572/0001839882-26-012572-index.htm)
 
 - **10-K** | BGC Group, Inc.  (BGC)  (CIK 0001094831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1094831/000162828026013162/0001628280-26-013162-index.htm)
@@ -288,21 +309,6 @@
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002951/0001099263-26-002951-index.htm)
 
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002947/0001099263-26-002947-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003000/0001099263-26-003000-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003012/0001099263-26-003012-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003028/0001099263-26-003028-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003033/0001099263-26-003033-index.htm)
-
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001110/0001477932-26-001110-index.htm)
 
@@ -326,6 +332,21 @@
 
 - **N-CSR** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126004778/0001999371-26-004778-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002947/0001099263-26-002947-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003000/0001099263-26-003000-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003012/0001099263-26-003012-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003028/0001099263-26-003028-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003033/0001099263-26-003033-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426003037/0001888524-26-003037-index.htm)
