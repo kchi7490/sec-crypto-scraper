@@ -51,6 +51,9 @@
 - **10-Q/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026013301/0001628280-26-013301-index.htm)
 
+- **20-F** | Paysafe Ltd  (PSFE, PSEWF)  (CIK 0001833835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1833835/000119312526088095/0001193125-26-088095-index.htm)
+
 - **20-F** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026022034/0001213900-26-022034-index.htm)
 
@@ -238,10 +241,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003019/0001099263-26-003019-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003040/0001099263-26-003040-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003040/0001099263-26-003040-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003017/0001099263-26-003017-index.htm)
@@ -301,6 +304,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003024/0001099263-26-003024-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003036/0001099263-26-003036-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002966/0001099263-26-002966-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -309,14 +315,14 @@
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002997/0001099263-26-002997-index.htm)
 
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003037/0001099263-26-003037-index.htm)
-
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001110/0001477932-26-001110-index.htm)
 
 - **10-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026022519/0001213900-26-022519-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926022829/0001104659-26-022829-index.htm)
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026021991/0001213900-26-021991-index.htm)
@@ -352,7 +358,7 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126004778/0001999371-26-004778-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003036/0001099263-26-003036-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003037/0001099263-26-003037-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002967/0001099263-26-002967-index.htm)
@@ -413,6 +419,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026022925/0001213900-26-022925-index.htm)
+
+- **424B5** | Canton Strategic Holdings, Inc.  (CNTN, THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008711/0001493152-26-008711-index.htm)
 
 - **10-K** | Nuveen Churchill BDC V  (CIK 0002071136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2071136/000207113626000006/0002071136-26-000006-index.htm)
