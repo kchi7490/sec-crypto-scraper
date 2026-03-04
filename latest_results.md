@@ -30,11 +30,11 @@
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026022004/0001213900-26-022004-index.htm)
 
-- **8-K** | Canton Strategic Holdings, Inc.  (CNTN, THAR)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008716/0001493152-26-008716-index.htm)
-
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026022002/0001213900-26-022002-index.htm)
+
+- **8-K** | Canton Strategic Holdings, Inc.  (CNTN, THAR)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008716/0001493152-26-008716-index.htm)
 
 - **424B5** | Canton Strategic Holdings, Inc.  (CNTN, THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008711/0001493152-26-008711-index.htm)
@@ -184,12 +184,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226008492/0001493152-26-008492-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003035/0001099263-26-003035-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003039/0001099263-26-003039-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002970/0001099263-26-002970-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -197,6 +191,12 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003029/0001099263-26-003029-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003035/0001099263-26-003035-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003039/0001099263-26-003039-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002963/0001099263-26-002963-index.htm)
@@ -229,13 +229,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002960/0001099263-26-002960-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003026/0001099263-26-003026-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002950/0001099263-26-002950-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003005/0001099263-26-003005-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003026/0001099263-26-003026-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002965/0001099263-26-002965-index.htm)
@@ -271,13 +271,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003019/0001099263-26-003019-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003040/0001099263-26-003040-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003017/0001099263-26-003017-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002971/0001099263-26-002971-index.htm)
@@ -301,16 +301,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003034/0001099263-26-003034-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002959/0001099263-26-002959-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003038/0001099263-26-003038-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002955/0001099263-26-002955-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003020/0001099263-26-003020-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002959/0001099263-26-002959-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003038/0001099263-26-003038-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003027/0001099263-26-003027-index.htm)
@@ -326,6 +326,9 @@
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001110/0001477932-26-001110-index.htm)
+
+- **10-K** | GRAN TIERRA ENERGY INC.  (GTE)  (CIK 0001273441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1273441/000127344126000010/0001273441-26-000010-index.htm)
 
 - **10-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026022519/0001213900-26-022519-index.htm)
