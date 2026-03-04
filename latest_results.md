@@ -43,6 +43,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926006588/0001437749-26-006588-index.htm)
 
 - **F-4/A** | Odysseus Holdings Ltd  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026023748/0001213900-26-023748-index.htm)
+
+- **F-4/A** | Odysseus Holdings Ltd  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026022436/0001213900-26-022436-index.htm)
 
 - **10-Q/A** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
@@ -78,6 +81,12 @@
 - **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526084364/0001193125-26-084364-index.htm)
 
+- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226008887/0001493152-26-008887-index.htm)
+
+- **424B3** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026023733/0001213900-26-023733-index.htm)
+
 - **S-1/A** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026022758/0001213900-26-022758-index.htm)
 
@@ -98,6 +107,9 @@
 
 - **10-K** | POPULAR, INC.  (BPOP, BPOPM, BPOPO)  (CIK 0000763901)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/763901/000119312526085756/0001193125-26-085756-index.htm)
+
+- **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126007918/0001140361-26-007918-index.htm)
 
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026022470/0001213900-26-022470-index.htm)
@@ -156,11 +168,11 @@
 - **10-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026021819/0001213900-26-021819-index.htm)
 
-- **10-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926006385/0001437749-26-006385-index.htm)
-
 - **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008391/0001493152-26-008391-index.htm)
+
+- **10-K** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926006385/0001437749-26-006385-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008393/0001493152-26-008393-index.htm)
@@ -193,12 +205,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226008492/0001493152-26-008492-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003035/0001099263-26-003035-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003039/0001099263-26-003039-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002970/0001099263-26-002970-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
@@ -206,6 +212,12 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003029/0001099263-26-003029-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003035/0001099263-26-003035-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003039/0001099263-26-003039-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002963/0001099263-26-002963-index.htm)
@@ -280,13 +292,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003019/0001099263-26-003019-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003017/0001099263-26-003017-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003040/0001099263-26-003040-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003017/0001099263-26-003017-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003021/0001099263-26-003021-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002971/0001099263-26-002971-index.htm)
@@ -295,10 +307,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003003/0001099263-26-003003-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003007/0001099263-26-003007-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002993/0001099263-26-002993-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002993/0001099263-26-002993-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003007/0001099263-26-003007-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002954/0001099263-26-002954-index.htm)
@@ -308,18 +320,6 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002959/0001099263-26-002959-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003038/0001099263-26-003038-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003034/0001099263-26-003034-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002955/0001099263-26-002955-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003020/0001099263-26-003020-index.htm)
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001110/0001477932-26-001110-index.htm)
@@ -332,6 +332,9 @@
 
 - **10-K** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000121390026022519/0001213900-26-022519-index.htm)
+
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326001328/0001171843-26-001328-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026013873/0001628280-26-013873-index.htm)
@@ -369,6 +372,9 @@
 - **N-14** | Investment Managers Series Trust III  (CIK 0000924727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924727/000121390026022464/0001213900-26-022464-index.htm)
 
+- **425** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026014747/0001628280-26-014747-index.htm)
+
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000279/0001096906-26-000279-index.htm)
 
@@ -398,6 +404,18 @@
 
 - **N-CSR** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126004778/0001999371-26-004778-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003038/0001099263-26-003038-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002955/0001099263-26-002955-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003020/0001099263-26-003020-index.htm)
+
+- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003034/0001099263-26-003034-index.htm)
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003027/0001099263-26-003027-index.htm)
@@ -440,15 +458,6 @@
 
 - **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003004/0001099263-26-003004-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326003015/0001099263-26-003015-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002998/0001099263-26-002998-index.htm)
-
-- **NPORT-P** | PIMCO FUNDS  (CIK 0000810893)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810893/000109926326002996/0001099263-26-002996-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426003037/0001888524-26-003037-index.htm)
