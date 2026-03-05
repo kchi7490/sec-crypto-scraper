@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226008985/0001493152-26-008985-index.htm)
+
 - **8-K** | Slam Corp.  (SLAMF)  (CIK 0001838162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838162/000121390026022668/0001213900-26-022668-index.htm)
 
@@ -101,6 +104,9 @@
 
 - **F-1** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026022709/0001213900-26-022709-index.htm)
+
+- **N-CSR** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826003096/0001133228-26-003096-index.htm)
 
 - **N-14 8C/A** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526091568/0001193125-26-091568-index.htm)
