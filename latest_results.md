@@ -3,6 +3,21 @@
 - **8-K** | Slam Corp.  (SLAMF)  (CIK 0001838162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838162/000121390026022668/0001213900-26-022668-index.htm)
 
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001177/0001477932-26-001177-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
+
+- **8-K** | Cuentas Inc.  (CUEN, CUENW)  (CIK 0001424657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424657/000121390026023897/0001213900-26-023897-index.htm)
+
 - **8-K** | Canton Strategic Holdings, Inc.  (CNTN, THAR)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226008716/0001493152-26-008716-index.htm)
 
@@ -125,6 +140,9 @@
 
 - **20FR12B** | Fort Technology Inc  (CIK 0002092967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092967/000121390026023192/0001213900-26-023192-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/0001999371-26-005084-index.htm)
 
 - **425** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026014747/0001628280-26-014747-index.htm)
