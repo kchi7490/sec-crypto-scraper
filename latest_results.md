@@ -21,6 +21,9 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
 
+- **8-K** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793226001202/0001477932-26-001202-index.htm)
+
 - **10-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026024099/0001213900-26-024099-index.htm)
 
@@ -84,6 +87,9 @@
 - **10-K** | C & F FINANCIAL CORP  (CFFI)  (CIK 0000913341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/913341/000091334126000010/0000913341-26-000010-index.htm)
 
+- **S-1/A** | APEIRON ACQUISITION VEHICLE I  (APN)  (CIK 0002085795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085795/000121390026024191/0001213900-26-024191-index.htm)
+
 - **10-K** | Carter Bankshares, Inc.  (CARE)  (CIK 0001829576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829576/000182957626000018/0001829576-26-000018-index.htm)
 
@@ -95,6 +101,9 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526088341/0001193125-26-088341-index.htm)
+
+- **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226009024/0001493152-26-009024-index.htm)
 
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026015246/0001628280-26-015246-index.htm)
@@ -162,8 +171,14 @@
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026023418/0001213900-26-023418-index.htm)
 
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026024192/0001213900-26-024192-index.htm)
+
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926006815/0001437749-26-006815-index.htm)
+
+- **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026024186/0001213900-26-024186-index.htm)
 
 - **20FR12B** | Fort Technology Inc  (CIK 0002092967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092967/000121390026023192/0001213900-26-023192-index.htm)
