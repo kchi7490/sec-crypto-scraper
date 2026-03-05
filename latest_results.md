@@ -99,6 +99,9 @@
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026013873/0001628280-26-013873-index.htm)
 
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026023844/0001213900-26-023844-index.htm)
+
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023688/0001213900-26-023688-index.htm)
 
@@ -132,6 +135,9 @@
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926023097/0001104659-26-023097-index.htm)
 
+- **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001297/0001062993-26-001297-index.htm)
+
 - **487** | FTP 3  (CIK 0002087893)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087893/000144554626001721/0001445546-26-001721-index.htm)
 
@@ -147,8 +153,14 @@
 - **FWP** | PayPay Corp  (CIK 0002080845)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526086760/0001193125-26-086760-index.htm)
 
+- **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226008910/0001493152-26-008910-index.htm)
+
 - **N-CSRS** | USCF ETF Trust  (CIK 0001597389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000023/0002071876-26-000023-index.htm)
+
+- **N-CSR** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000075691326000008/0000756913-26-000008-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026022925/0001213900-26-022925-index.htm)
