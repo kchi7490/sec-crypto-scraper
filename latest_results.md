@@ -66,6 +66,9 @@
 - **10-K** | C & F FINANCIAL CORP  (CFFI)  (CIK 0000913341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/913341/000091334126000010/0000913341-26-000010-index.htm)
 
+- **10-K** | Carter Bankshares, Inc.  (CARE)  (CIK 0001829576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829576/000182957626000018/0001829576-26-000018-index.htm)
+
 - **S-1/A** | DMINT, Inc.  (DMNT)  (CIK 0001996450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1996450/000121390026022622/0001213900-26-022622-index.htm)
 
@@ -155,6 +158,9 @@
 
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926023097/0001104659-26-023097-index.htm)
+
+- **487** | FT 12770  (CIK 0002096306)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096306/000144554626001763/0001445546-26-001763-index.htm)
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001297/0001062993-26-001297-index.htm)
