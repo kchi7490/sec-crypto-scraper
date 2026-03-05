@@ -168,6 +168,9 @@
 - **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526088515/0001193125-26-088515-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326003284/0000950103-26-003284-index.htm)
+
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426003526/0001888524-26-003526-index.htm)
 
@@ -185,6 +188,9 @@
 
 - **N-CSRS** | USCF ETF Trust  (CIK 0001597389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000023/0002071876-26-000023-index.htm)
+
+- **N-CSR** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000173807826000002/0001738078-26-000002-index.htm)
 
 - **N-CSR** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000075691326000008/0000756913-26-000008-index.htm)
