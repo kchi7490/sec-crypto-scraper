@@ -7,13 +7,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001177/0001477932-26-001177-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
-
-- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
@@ -62,6 +62,9 @@
 
 - **10-K** | Carter Bankshares, Inc.  (CARE)  (CIK 0001829576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829576/000182957626000018/0001829576-26-000018-index.htm)
+
+- **10-K** | CAMDEN NATIONAL CORP  (CAC)  (CIK 0000750686)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/750686/000075068626000010/0000750686-26-000010-index.htm)
 
 - **485BPOS** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000119312526094663/0001193125-26-094663-index.htm)
