@@ -7,13 +7,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001177/0001477932-26-001177-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
-
-- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
@@ -84,6 +84,9 @@
 - **N-CSR** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322826003119/0001133228-26-003119-index.htm)
 
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226001408/0000035402-26-001408-index.htm)
+
 - **10-K** | United States 12 Month Natural Gas Fund, LP  (UNL)  (CIK 0001405513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1405513/000110465926023411/0001104659-26-023411-index.htm)
 
@@ -92,6 +95,9 @@
 
 - **N-CSR** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826003096/0001133228-26-003096-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000395/0001640334-26-000395-index.htm)
 
 - **N-14 8C/A** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526091568/0001193125-26-091568-index.htm)
