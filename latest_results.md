@@ -60,6 +60,9 @@
 - **10-K** | Carter Bankshares, Inc.  (CARE)  (CIK 0001829576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829576/000182957626000018/0001829576-26-000018-index.htm)
 
+- **485BPOS** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000119312526094663/0001193125-26-094663-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526089944/0001193125-26-089944-index.htm)
 
@@ -75,8 +78,14 @@
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008755/0001493152-26-008755-index.htm)
 
+- **N-CSR** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322826003119/0001133228-26-003119-index.htm)
+
 - **10-K** | United States 12 Month Natural Gas Fund, LP  (UNL)  (CIK 0001405513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1405513/000110465926023411/0001104659-26-023411-index.htm)
+
+- **10-K** | Traeger, Inc.  (COOK)  (CIK 0001857853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1857853/000162828026015450/0001628280-26-015450-index.htm)
 
 - **N-CSR** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826003096/0001133228-26-003096-index.htm)
@@ -116,6 +125,9 @@
 
 - **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026024186/0001213900-26-024186-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926024303/0001104659-26-024303-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/0001999371-26-005084-index.htm)
@@ -158,4 +170,7 @@
 
 - **N-CSR** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000075691326000008/0000756913-26-000008-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026024264/0001213900-26-024264-index.htm)
 
