@@ -165,8 +165,14 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326003284/0000950103-26-003284-index.htm)
 
+- **N-CSRS** | SPDR SERIES TRUST  (CIK 0001064642)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1064642/000119312526095572/0001193125-26-095572-index.htm)
+
 - **485BPOS** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363226000372/0001623632-26-000372-index.htm)
+
+- **N-CSR** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000110465926024521/0001104659-26-024521-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226008946/0001493152-26-008946-index.htm)
