@@ -246,3 +246,6 @@
 - **10-K** | Nuveen Churchill Private Capital Income Fund  (CIK 0001911066)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1911066/000191106626000012/0001911066-26-000012-index.htm)
 
+- **SCHEDULE 13D/A** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000110465926024752/0001104659-26-024752-index.htm)
+
