@@ -7,13 +7,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001177/0001477932-26-001177-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
-
-- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
@@ -41,6 +41,9 @@
 
 - **424B3** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026023733/0001213900-26-023733-index.htm)
+
+- **10-K** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000143847226000023/0001438472-26-000023-index.htm)
 
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000776/0001185185-26-000776-index.htm)
@@ -116,6 +119,9 @@
 
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023692/0001213900-26-023692-index.htm)
+
+- **6-K** | SAP SE  (SAP, SAPGF)  (CIK 0001000184)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1000184/000110465926024381/0001104659-26-024381-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026023884/0001213900-26-023884-index.htm)
