@@ -6,8 +6,8 @@
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001177/0001477932-26-001177-index.htm)
 
-- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
+- **10-K** | Athena Bitcoin Global  (ABIT)  (CIK 0001095146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316826001588/0001683168-26-001588-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
@@ -15,11 +15,17 @@
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
 
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
 
 - **8-K** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793226001202/0001477932-26-001202-index.htm)
+
+- **N-CSR** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826003207/0001133228-26-003207-index.htm)
 
 - **10-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026024099/0001213900-26-024099-index.htm)
@@ -29,6 +35,9 @@
 
 - **F-4/A** | Odysseus Holdings Ltd  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026023748/0001213900-26-023748-index.htm)
+
+- **PREM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026024672/0001213900-26-024672-index.htm)
 
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008756/0001493152-26-008756-index.htm)
@@ -45,6 +54,9 @@
 - **10-K** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000143847226000023/0001438472-26-000023-index.htm)
 
+- **N-CSR** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826003217/0001133228-26-003217-index.htm)
+
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000776/0001185185-26-000776-index.htm)
 
@@ -56,6 +68,9 @@
 
 - **10-K** | UNITY BANCORP INC /NJ/  (UNTY)  (CIK 0000920427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/920427/000092042726000012/0000920427-26-000012-index.htm)
+
+- **ARS** | UNITY BANCORP INC /NJ/  (UNTY)  (CIK 0000920427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/920427/000092042726000022/0000920427-26-000022-index.htm)
 
 - **10-K** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926007157/0001437749-26-007157-index.htm)
@@ -84,6 +99,9 @@
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026015246/0001628280-26-015246-index.htm)
 
+- **8-K/A** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000184497126000003/0001844971-26-000003-index.htm)
+
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008754/0001493152-26-008754-index.htm)
 
@@ -98,6 +116,12 @@
 
 - **10-K** | United States 12 Month Natural Gas Fund, LP  (UNL)  (CIK 0001405513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1405513/000110465926023411/0001104659-26-023411-index.htm)
+
+- **N-CSR** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826003213/0001133228-26-003213-index.htm)
+
+- **N-CSR** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826003210/0001133228-26-003210-index.htm)
 
 - **10-K** | Traeger, Inc.  (COOK)  (CIK 0001857853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1857853/000162828026015450/0001628280-26-015450-index.htm)
@@ -140,6 +164,9 @@
 
 - **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023692/0001213900-26-023692-index.htm)
+
+- **6-K** | YPF SOCIEDAD ANONIMA  (YPF)  (CIK 0000904851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/904851/000119312526096690/0001193125-26-096690-index.htm)
 
 - **6-K** | SAP SE  (SAP, SAPGF)  (CIK 0001000184)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1000184/000110465926024381/0001104659-26-024381-index.htm)
