@@ -10,13 +10,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095146/000168316826001588/0001683168-26-001588-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
+
+- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001180/0001477932-26-001180-index.htm)
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001178/0001477932-26-001178-index.htm)
-
-- **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001179/0001477932-26-001179-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001195/0001477932-26-001195-index.htm)
@@ -36,14 +36,8 @@
 - **10-K** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526096851/0001193125-26-096851-index.htm)
 
-- **F-4/A** | Odysseus Holdings Ltd  (CIK 0002087587)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026023748/0001213900-26-023748-index.htm)
-
 - **PREM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026024672/0001213900-26-024672-index.htm)
-
-- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008756/0001493152-26-008756-index.htm)
 
 - **S-1/A** | Grayscale Avalanche Trust (AVAX)  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526096950/0001193125-26-096950-index.htm)
@@ -53,12 +47,6 @@
 
 - **S-8** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226009204/0001493152-26-009204-index.htm)
-
-- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226008887/0001493152-26-008887-index.htm)
-
-- **424B3** | 21Shares Polkadot ETF  (CIK 0002054247)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026023733/0001213900-26-023733-index.htm)
 
 - **10-K** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000143847226000023/0001438472-26-000023-index.htm)
@@ -74,12 +62,6 @@
 
 - **10-K** | HAWTHORN BANCSHARES, INC.  (HWBK)  (CIK 0000893847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/893847/000089384726000037/0000893847-26-000037-index.htm)
-
-- **424B5** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126007918/0001140361-26-007918-index.htm)
-
-- **10-K** | UNITY BANCORP INC /NJ/  (UNTY)  (CIK 0000920427)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/920427/000092042726000012/0000920427-26-000012-index.htm)
 
 - **ARS** | UNITY BANCORP INC /NJ/  (UNTY)  (CIK 0000920427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/920427/000092042726000022/0000920427-26-000022-index.htm)
@@ -102,9 +84,6 @@
 - **N-CSR/A** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005229/0001999371-26-005229-index.htm)
 
-- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526089944/0001193125-26-089944-index.htm)
-
 - **10-Q** | CIMG Inc.  (IMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226009024/0001493152-26-009024-index.htm)
 
@@ -114,12 +93,6 @@
 - **8-K/A** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000184497126000003/0001844971-26-000003-index.htm)
 
-- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008754/0001493152-26-008754-index.htm)
-
-- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226008755/0001493152-26-008755-index.htm)
-
 - **N-CSR** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322826003119/0001133228-26-003119-index.htm)
 
@@ -128,9 +101,6 @@
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005266/0001999371-26-005266-index.htm)
-
-- **10-K** | United States 12 Month Natural Gas Fund, LP  (UNL)  (CIK 0001405513)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405513/000110465926023411/0001104659-26-023411-index.htm)
 
 - **N-CSR** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826003213/0001133228-26-003213-index.htm)
@@ -156,35 +126,17 @@
 - **N-14 8C/A** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526096265/0001193125-26-096265-index.htm)
 
-- **N-14 8C/A** | HPS Corporate Lending Fund  (CIK 0001838126)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526091568/0001193125-26-091568-index.htm)
-
 - **424B3** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226009195/0001493152-26-009195-index.htm)
-
-- **10-K** | GRAN TIERRA ENERGY INC.  (GTE)  (CIK 0001273441)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1273441/000127344126000010/0001273441-26-000010-index.htm)
-
-- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326001328/0001171843-26-001328-index.htm)
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026023844/0001213900-26-023844-index.htm)
 
-- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023688/0001213900-26-023688-index.htm)
-
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926007110/0001437749-26-007110-index.htm)
 
-- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023690/0001213900-26-023690-index.htm)
-
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026024312/0001213900-26-024312-index.htm)
-
-- **424B3** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026023692/0001213900-26-023692-index.htm)
 
 - **6-K** | YPF SOCIEDAD ANONIMA  (YPF)  (CIK 0000904851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904851/000119312526096690/0001193125-26-096690-index.htm)
@@ -195,17 +147,11 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026023884/0001213900-26-023884-index.htm)
 
-- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026023418/0001213900-26-023418-index.htm)
-
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026024192/0001213900-26-024192-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026024758/0001213900-26-024758-index.htm)
-
-- **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926006815/0001437749-26-006815-index.htm)
 
 - **6-K** | Webus International Ltd.  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026024186/0001213900-26-024186-index.htm)
@@ -215,12 +161,6 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/0001999371-26-005084-index.htm)
-
-- **425** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026014747/0001628280-26-014747-index.htm)
-
-- **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926023097/0001104659-26-023097-index.htm)
 
 - **487** | FT 12770  (CIK 0002096306)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096306/000144554626001763/0001445546-26-001763-index.htm)
@@ -251,9 +191,6 @@
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826022289/0001410368-26-022289-index.htm)
-
-- **N-CSRS** | USCF ETF Trust  (CIK 0001597389)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000023/0002071876-26-000023-index.htm)
 
 - **N-CSR** | BlackRock Funds V  (CIK 0001738078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000173807826000002/0001738078-26-000002-index.htm)
