@@ -9,6 +9,9 @@
 - **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226009305/0001493152-26-009305-index.htm)
 
+- **N-CSR** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000113322826003376/0001133228-26-003376-index.htm)
+
 - **8-K** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226009317/0001493152-26-009317-index.htm)
 
@@ -20,6 +23,9 @@
 
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000800/0001185185-26-000800-index.htm)
+
+- **N-CSR** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322826003371/0001133228-26-003371-index.htm)
 
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
@@ -35,6 +41,9 @@
 
 - **N-CSR** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322826003359/0001133228-26-003359-index.htm)
+
+- **8-K** | MESA LABORATORIES INC /CO/  (MLAB)  (CIK 0000724004)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/724004/000072400426000020/0000724004-26-000020-index.htm)
 
 - **DEF 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026024927/0001213900-26-024927-index.htm)
@@ -53,6 +62,9 @@
 
 - **20-F** | UBS Group AG  (UBS)  (CIK 0001610520)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/0001610520-26-000023-index.htm)
+
+- **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026025238/0001213900-26-025238-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000202/0001279569-26-000202-index.htm)
