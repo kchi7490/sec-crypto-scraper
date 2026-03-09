@@ -48,11 +48,17 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000193/0001279569-26-000193-index.htm)
 
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026025149/0001213900-26-025149-index.htm)
+
 - **487** | FT 12772  (CIK 0002096308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096308/000144554626001908/0001445546-26-001908-index.htm)
 
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/0001193125-26-097004-index.htm)
+
+- **8-A12B** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007336/0001437749-26-007336-index.htm)
 
 - **424B1** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026015785/0001628280-26-015785-index.htm)
