@@ -48,6 +48,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000193/0001279569-26-000193-index.htm)
 
+- **487** | FT 12772  (CIK 0002096308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096308/000144554626001908/0001445546-26-001908-index.htm)
+
 - **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/0001193125-26-097004-index.htm)
 
