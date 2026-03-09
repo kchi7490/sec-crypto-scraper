@@ -15,11 +15,17 @@
 - **425** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226009318/0001493152-26-009318-index.htm)
 
+- **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226009368/0001493152-26-009368-index.htm)
+
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000800/0001185185-26-000800-index.htm)
 
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
+
+- **20-F** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009371/0001493152-26-009371-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001339/0001062993-26-001339-index.htm)
@@ -27,11 +33,20 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
 
+- **N-CSR** | Advisor Managed Portfolios  (CIK 0001970751)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322826003359/0001133228-26-003359-index.htm)
+
 - **DEF 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026024927/0001213900-26-024927-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000201/0001279569-26-000201-index.htm)
+
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026025181/0001213900-26-025181-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009377/0001493152-26-009377-index.htm)
 
 - **20-F** | UBS AG  (AMUB, BDCX, BDCZ, CEFD, HDLB, IFED, IWDL, IWFL, IWML, MLPB, MLPR, MTUL, MVRL, PFFL, QULL, SCDL)  (CIK 0001114446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1114446/000161052026000026/0001610520-26-000026-index.htm)
@@ -65,4 +80,7 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.htm)
+
+- **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226009370/0001493152-26-009370-index.htm)
 
