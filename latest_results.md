@@ -24,9 +24,6 @@
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001339/0001062993-26-001339-index.htm)
 
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
-
 - **DEF 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026024927/0001213900-26-024927-index.htm)
 
@@ -56,4 +53,7 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
 
