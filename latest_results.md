@@ -9,6 +9,9 @@
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001339/0001062993-26-001339-index.htm)
 
+- **20-F** | UBS Group AG  (UBS)  (CIK 0001610520)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/0001610520-26-000023-index.htm)
+
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001341/0001062993-26-001341-index.htm)
 
