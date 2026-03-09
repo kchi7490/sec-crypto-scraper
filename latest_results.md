@@ -21,6 +21,9 @@
 - **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226009368/0001493152-26-009368-index.htm)
 
+- **N-CSRS** | Absolute Shares Trust  (CIK 0001591939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591939/000113322826003394/0001133228-26-003394-index.htm)
+
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000800/0001185185-26-000800-index.htm)
 
@@ -39,6 +42,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
 
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
+
+- **N-CSR** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826003392/0001133228-26-003392-index.htm)
+
 - **N-CSR** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322826003359/0001133228-26-003359-index.htm)
 
@@ -47,6 +56,9 @@
 
 - **DEF 14A** | NEUROONE MEDICAL TECHNOLOGIES Corp  (NMTC)  (CIK 0001500198)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500198/000121390026024927/0001213900-26-024927-index.htm)
+
+- **424B3** | HPS Corporate Lending Fund  (CIK 0001838126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526098845/0001193125-26-098845-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000201/0001279569-26-000201-index.htm)
