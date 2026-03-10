@@ -24,6 +24,9 @@
 - **N-CSRS** | Absolute Shares Trust  (CIK 0001591939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591939/000113322826003394/0001133228-26-003394-index.htm)
 
+- **F-1** | Yesil Global Enerji A.S.  (CIK 0002087162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087162/000149315226009409/0001493152-26-009409-index.htm)
+
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000800/0001185185-26-000800-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
+
+- **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
 
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
@@ -65,6 +71,9 @@
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026025181/0001213900-26-025181-index.htm)
+
+- **20-F** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926007417/0001437749-26-007417-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009377/0001493152-26-009377-index.htm)
