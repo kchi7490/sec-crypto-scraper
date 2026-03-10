@@ -120,6 +120,12 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.htm)
 
+- **N-CSR** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226001722/0001580642-26-001722-index.htm)
+
+- **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000141036826022550/0001410368-26-022550-index.htm)
+
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226009370/0001493152-26-009370-index.htm)
 
