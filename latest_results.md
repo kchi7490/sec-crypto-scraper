@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **424B5** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026025749/0001213900-26-025749-index.htm)
+
 - **10-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226009214/0001493152-26-009214-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
+
+- **10-K** | NewtekOne, Inc.  (NEWT, NEWTG, NEWTH, NEWTI, NEWTO, NEWTP)  (CIK 0001587987)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587987/000162828026016503/0001628280-26-016503-index.htm)
 
 - **20-F** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009371/0001493152-26-009371-index.htm)
