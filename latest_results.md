@@ -9,6 +9,9 @@
 - **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226009305/0001493152-26-009305-index.htm)
 
+- **10-K** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226009536/0001493152-26-009536-index.htm)
+
 - **N-CSR** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000113322826003376/0001133228-26-003376-index.htm)
 
@@ -57,11 +60,17 @@
 - **N-CSR** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826003392/0001133228-26-003392-index.htm)
 
+- **8-K** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT)  (CIK 0001335105)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315226009526/0001493152-26-009526-index.htm)
+
 - **N-CSR** | Advisor Managed Portfolios  (CIK 0001970751)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322826003359/0001133228-26-003359-index.htm)
 
 - **10-K** | River Financial Corp  (RVRF)  (CIK 0001641601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641601/000119312526099933/0001193125-26-099933-index.htm)
+
+- **N-14 8C/A** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026016447/0001628280-26-016447-index.htm)
 
 - **8-K** | MESA LABORATORIES INC /CO/  (MLAB)  (CIK 0000724004)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/724004/000072400426000020/0000724004-26-000020-index.htm)
@@ -77,6 +86,9 @@
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026025181/0001213900-26-025181-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926025826/0001104659-26-025826-index.htm)
 
 - **20-F** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926007417/0001437749-26-007417-index.htm)
@@ -95,6 +107,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000202/0001279569-26-000202-index.htm)
+
+- **6-K** | YY Group Holding Ltd.  (YYGH)  (CIK 0001985337)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985337/000118518526000826/0001185185-26-000826-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001341/0001062993-26-001341-index.htm)
@@ -119,6 +134,12 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.htm)
+
+- **486BPOS** | Capital Group KKR Core Plus (plus)  (CIK 0002040315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040315/000110465926025871/0001104659-26-025871-index.htm)
+
+- **486BPOS** | Capital Group KKR Multi-Sector (plus)  (CIK 0002040318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040318/000110465926025880/0001104659-26-025880-index.htm)
 
 - **N-CSR** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226001722/0001580642-26-001722-index.htm)
