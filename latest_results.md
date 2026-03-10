@@ -45,6 +45,9 @@
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
 
+- **10-K** | NewtekOne, Inc.  (NEWT, NEWTG, NEWTH, NEWTI, NEWTO, NEWTP)  (CIK 0001587987)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587987/000162828026016503/0001628280-26-016503-index.htm)
+
 - **20-F** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009371/0001493152-26-009371-index.htm)
 
@@ -140,9 +143,6 @@
 
 - **424B1** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026015785/0001628280-26-015785-index.htm)
-
-- **10-K** | NewtekOne, Inc.  (NEWT, NEWTG, NEWTH, NEWTI, NEWTO, NEWTP)  (CIK 0001587987)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1587987/000162828026016503/0001628280-26-016503-index.htm)
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.htm)
