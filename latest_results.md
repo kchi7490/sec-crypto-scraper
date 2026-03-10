@@ -45,6 +45,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm)
+
 - **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
 
