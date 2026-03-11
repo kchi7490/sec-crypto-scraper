@@ -171,6 +171,9 @@
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000546/0001771146-26-000546-index.htm)
 
+- **487** | FT 12773  (CIK 0002096310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096310/000144554626001962/0001445546-26-001962-index.htm)
+
 - **487** | FT 12772  (CIK 0002096308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096308/000144554626001908/0001445546-26-001908-index.htm)
 
