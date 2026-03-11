@@ -66,6 +66,9 @@
 - **F-1** | Yesil Global Enerji A.S.  (CIK 0002087162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087162/000149315226009409/0001493152-26-009409-index.htm)
 
+- **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026026246/0001213900-26-026246-index.htm)
+
 - **424B5** | REALLOYS INC.  (ALOY, BLBX)  (CIK 0001567900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567900/000118518526000800/0001185185-26-000800-index.htm)
 
@@ -102,14 +105,17 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526097598/0001193125-26-097598-index.htm)
 
+- **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326003615/0000950103-26-003615-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm)
 
-- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
-
 - **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
+
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003165/0001214659-26-003165-index.htm)
@@ -167,6 +173,9 @@
 
 - **20-F** | UBS Group AG  (UBS)  (CIK 0001610520)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610520/000161052026000023/0001610520-26-000023-index.htm)
+
+- **20-F** | TELECOM ARGENTINA SA  (TEO, TCMFF)  (CIK 0000932470)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/932470/000110465926026480/0001104659-26-026480-index.htm)
 
 - **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026025238/0001213900-26-025238-index.htm)
