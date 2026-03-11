@@ -105,6 +105,9 @@
 - **10-K** | River Financial Corp  (RVRF)  (CIK 0001641601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641601/000119312526099933/0001193125-26-099933-index.htm)
 
+- **10-K** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315226009641/0001493152-26-009641-index.htm)
+
 - **N-14 8C/A** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026016447/0001628280-26-016447-index.htm)
 
