@@ -87,11 +87,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm)
 
-- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
-
 - **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
+
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
 
 - **N-CSR** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826003392/0001133228-26-003392-index.htm)
@@ -207,8 +207,14 @@
 - **N-CEN** | COLUMBIA FUNDS SERIES TRUST I  (CIK 0000773757)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/773757/000141036826022550/0001410368-26-022550-index.htm)
 
+- **10-K/A** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/0001193125-26-102008-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026025761/0001213900-26-025761-index.htm)
+
+- **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
 
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226009370/0001493152-26-009370-index.htm)
