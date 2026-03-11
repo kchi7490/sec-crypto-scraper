@@ -27,6 +27,9 @@
 - **10-K** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226009536/0001493152-26-009536-index.htm)
 
+- **10-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000009/0001821534-26-000009-index.htm)
+
 - **N-CSR** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000113322826003376/0001133228-26-003376-index.htm)
 
@@ -86,6 +89,9 @@
 
 - **20-F** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226009371/0001493152-26-009371-index.htm)
+
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026026195/0001213900-26-026195-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001339/0001062993-26-001339-index.htm)
