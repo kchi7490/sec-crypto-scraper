@@ -30,6 +30,9 @@
 - **N-CSR** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000113322826003376/0001133228-26-003376-index.htm)
 
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000008/0001821534-26-000008-index.htm)
+
 - **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026025809/0001213900-26-025809-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **425** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226009318/0001493152-26-009318-index.htm)
+
+- **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
 - **10-K** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126005527/0001999371-26-005527-index.htm)
@@ -66,6 +72,12 @@
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
 
+- **ARS** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000114036126009035/0001140361-26-009035-index.htm)
+
+- **10-K** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000031/0000736772-26-000031-index.htm)
+
 - **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226009657/0001493152-26-009657-index.htm)
 
@@ -87,11 +99,14 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm)
 
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
+
 - **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
 
-- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003165/0001214659-26-003165-index.htm)
 
 - **N-CSR** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826003392/0001133228-26-003392-index.htm)
