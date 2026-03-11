@@ -66,6 +66,9 @@
 - **10-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/0001876042-26-000062-index.htm)
 
+- **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226009657/0001493152-26-009657-index.htm)
+
 - **10-K** | NewtekOne, Inc.  (NEWT, NEWTG, NEWTH, NEWTI, NEWTO, NEWTP)  (CIK 0001587987)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587987/000162828026016503/0001628280-26-016503-index.htm)
 
@@ -84,11 +87,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009444/0001493152-26-009444-index.htm)
 
-- **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
-
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226009387/0001493152-26-009387-index.htm)
+
+- **8-A12B** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926007396/0001437749-26-007396-index.htm)
 
 - **N-CSR** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826003392/0001133228-26-003392-index.htm)
@@ -107,6 +110,9 @@
 
 - **10-K** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315226009641/0001493152-26-009641-index.htm)
+
+- **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226009653/0001493152-26-009653-index.htm)
 
 - **N-14 8C/A** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026016447/0001628280-26-016447-index.htm)
