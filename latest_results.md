@@ -51,6 +51,9 @@
 - **10-K** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000031/0000736772-26-000031-index.htm)
 
+- **10-K** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036126009103/0001140361-26-009103-index.htm)
+
 - **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226009657/0001493152-26-009657-index.htm)
 
@@ -78,8 +81,14 @@
 - **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000007/0000934549-26-000007-index.htm)
 
+- **10-K** | IMMERSION CORP  (IMMR)  (CIK 0001058811)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1058811/000119312526102681/0001193125-26-102681-index.htm)
+
 - **8-K** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT)  (CIK 0001335105)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315226009526/0001493152-26-009526-index.htm)
+
+- **10-K** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390026026501/0001213900-26-026501-index.htm)
 
 - **10-K** | River Financial Corp  (RVRF)  (CIK 0001641601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641601/000119312526099933/0001193125-26-099933-index.htm)
@@ -87,11 +96,23 @@
 - **10-K** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315226009641/0001493152-26-009641-index.htm)
 
+- **424B3** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000149315226009713/0001493152-26-009713-index.htm)
+
 - **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226009653/0001493152-26-009653-index.htm)
 
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001309/0001477932-26-001309-index.htm)
+
 - **N-14 8C/A** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026016447/0001628280-26-016447-index.htm)
+
+- **10-K** | CION Investment Corp  (CICB, CICC, CION)  (CIK 0001534254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534254/000153425426000003/0001534254-26-000003-index.htm)
+
+- **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465926026621/0001104659-26-026621-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926025826/0001104659-26-025826-index.htm)
@@ -99,8 +120,14 @@
 - **20-F** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926007417/0001437749-26-007417-index.htm)
 
+- **6-K** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000021/0001159508-26-000021-index.htm)
+
 - **20-F** | TELECOM ARGENTINA SA  (TEO, TCMFF)  (CIK 0000932470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/932470/000110465926026480/0001104659-26-026480-index.htm)
+
+- **20-F** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000017/0001159508-26-000017-index.htm)
 
 - **6-K** | YY Group Holding Ltd.  (YYGH)  (CIK 0001985337)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985337/000118518526000826/0001185185-26-000826-index.htm)
@@ -120,6 +147,12 @@
 - **487** | FT 12773  (CIK 0002096310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096310/000144554626001962/0001445546-26-001962-index.htm)
 
+- **424B4** | PayPay Corp  (CIK 0002080845)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000208084526000001/0002080845-26-000001-index.htm)
+
+- **EFFECT** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/999999999526000788/9999999995-26-000788-index.htm)
+
 - **486BPOS** | Capital Group KKR Core Plus (plus)  (CIK 0002040315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040315/000110465926025871/0001104659-26-025871-index.htm)
 
@@ -134,6 +167,9 @@
 
 - **10-K/A** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/0001193125-26-102008-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026025761/0001213900-26-025761-index.htm)
