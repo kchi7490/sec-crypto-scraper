@@ -15,6 +15,9 @@
 - **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026025954/0001213900-26-025954-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226009788/0001493152-26-009788-index.htm)
+
 - **10-K** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226009536/0001493152-26-009536-index.htm)
 
@@ -35,6 +38,9 @@
 
 - **10-K** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126005527/0001999371-26-005527-index.htm)
+
+- **424B3** | Grayscale Avalanche Staking ETF  (AVAX)  (CIK 0002035053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/0001193125-26-103181-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001384/0001062993-26-001384-index.htm)
@@ -84,6 +90,9 @@
 - **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000007/0000934549-26-000007-index.htm)
 
+- **10-K** | reAlpha Tech Corp.  (AIRE)  (CIK 0001859199)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859199/000121390026026653/0001213900-26-026653-index.htm)
+
 - **10-K** | IMMERSION CORP  (IMMR)  (CIK 0001058811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058811/000119312526102681/0001193125-26-102681-index.htm)
 
@@ -104,6 +113,9 @@
 
 - **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226009653/0001493152-26-009653-index.htm)
+
+- **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226009781/0001493152-26-009781-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001309/0001477932-26-001309-index.htm)
@@ -179,6 +191,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026025761/0001213900-26-025761-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005660/0001999371-26-005660-index.htm)
 
 - **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
