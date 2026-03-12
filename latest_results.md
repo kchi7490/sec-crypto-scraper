@@ -15,6 +15,9 @@
 - **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026025954/0001213900-26-025954-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226009847/0001493152-26-009847-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226009788/0001493152-26-009788-index.htm)
 
@@ -90,6 +93,9 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003165/0001214659-26-003165-index.htm)
 
+- **8-K** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526104064/0001193125-26-104064-index.htm)
+
 - **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000007/0000934549-26-000007-index.htm)
 
@@ -143,6 +149,9 @@
 
 - **20-F** | TELECOM ARGENTINA SA  (TEO, TCMFF)  (CIK 0000932470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/932470/000110465926026480/0001104659-26-026480-index.htm)
+
+- **20-F** | Santander UK plc  (SNTUF, STNDF)  (CIK 0001087711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1087711/000108771126000008/0001087711-26-000008-index.htm)
 
 - **20-F** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000017/0001159508-26-000017-index.htm)
