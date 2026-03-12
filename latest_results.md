@@ -39,6 +39,9 @@
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001384/0001062993-26-001384-index.htm)
 
+- **8-K** | GPGI, Inc.  (GPGI)  (CIK 0001823144)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465926026708/0001104659-26-026708-index.htm)
+
 - **F-1** | Yesil Global Enerji A.S.  (CIK 0002087162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087162/000149315226009409/0001493152-26-009409-index.htm)
 
@@ -131,6 +134,9 @@
 
 - **6-K** | YY Group Holding Ltd.  (YYGH)  (CIK 0001985337)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985337/000118518526000826/0001185185-26-000826-index.htm)
+
+- **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526103069/0001193125-26-103069-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026025759/0001213900-26-025759-index.htm)
