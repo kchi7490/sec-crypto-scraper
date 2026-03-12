@@ -39,6 +39,9 @@
 - **10-K** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126005527/0001999371-26-005527-index.htm)
 
+- **10-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041326000746/0000930413-26-000746-index.htm)
+
 - **424B3** | Grayscale Avalanche Staking ETF  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/0001193125-26-103181-index.htm)
 
