@@ -171,6 +171,9 @@
 - **EFFECT** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/999999999526000788/9999999995-26-000788-index.htm)
 
+- **N-CEN/A** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126001907/0002048251-26-001907-index.htm)
+
 - **486BPOS** | Capital Group KKR Core Plus (plus)  (CIK 0002040315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040315/000110465926025871/0001104659-26-025871-index.htm)
 
@@ -187,14 +190,14 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/0001193125-26-102008-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
-
-- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026025761/0001213900-26-025761-index.htm)
+
+- **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005660/0001999371-26-005660-index.htm)
 
-- **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
 
