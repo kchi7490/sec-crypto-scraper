@@ -144,6 +144,9 @@
 - **20-F** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000017/0001159508-26-000017-index.htm)
 
+- **20-F** | SANTANDER UK GROUP HOLDINGS PLC  (CIK 0001649373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649373/000164937326000013/0001649373-26-000013-index.htm)
+
 - **6-K** | YY Group Holding Ltd.  (YYGH)  (CIK 0001985337)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985337/000118518526000826/0001185185-26-000826-index.htm)
 
@@ -200,4 +203,7 @@
 
 - **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
+
+- **10-Q** | GROOVY COMPANY, INC.  (CIK 0001499275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927526000002/0001499275-26-000002-index.htm)
 
