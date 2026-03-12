@@ -48,6 +48,9 @@
 - **10-K** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126005527/0001999371-26-005527-index.htm)
 
+- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
+
 - **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
 
@@ -63,20 +66,35 @@
 - **10-K** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526104253/0001193125-26-104253-index.htm)
 
+- **424B3** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526104419/0001193125-26-104419-index.htm)
+
 - **10-K** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526104248/0001193125-26-104248-index.htm)
 
 - **10-K** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526104226/0001193125-26-104226-index.htm)
 
+- **424B3** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526104403/0001193125-26-104403-index.htm)
+
 - **424B3** | Grayscale Avalanche Staking ETF  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/0001193125-26-103181-index.htm)
+
+- **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526104401/0001193125-26-104401-index.htm)
 
 - **10-K** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526104216/0001193125-26-104216-index.htm)
 
+- **PRE 14A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226009915/0001493152-26-009915-index.htm)
+
 - **10-K** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312526104209/0001193125-26-104209-index.htm)
+
+- **424B3** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526104406/0001193125-26-104406-index.htm)
 
 - **10-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526104243/0001193125-26-104243-index.htm)
@@ -90,8 +108,14 @@
 - **F-1** | Yesil Global Enerji A.S.  (CIK 0002087162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087162/000149315226009409/0001493152-26-009409-index.htm)
 
+- **424B5** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226009908/0001493152-26-009908-index.htm)
+
 - **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026026246/0001213900-26-026246-index.htm)
+
+- **S-3/A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226009895/0001493152-26-009895-index.htm)
 
 - **10-K** | Resolute Holdings Management, Inc.  (RHLD)  (CIK 0002039497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039497/000110465926027050/0001104659-26-027050-index.htm)
@@ -110,6 +134,9 @@
 
 - **10-K** | Funko, Inc.  (FNKO)  (CIK 0001704711)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1704711/000170471126000020/0001704711-26-000020-index.htm)
+
+- **10-K** | EverCommerce Inc.  (EVCM)  (CIK 0001853145)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853145/000185314526000010/0001853145-26-000010-index.htm)
 
 - **10-K** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036126009103/0001140361-26-009103-index.htm)
@@ -153,6 +180,9 @@
 - **10-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000010/0000934549-26-000010-index.htm)
 
+- **10-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026027060/0001213900-26-027060-index.htm)
+
 - **10-K** | reAlpha Tech Corp.  (AIRE)  (CIK 0001859199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859199/000121390026026653/0001213900-26-026653-index.htm)
 
@@ -180,6 +210,9 @@
 - **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226009781/0001493152-26-009781-index.htm)
 
+- **S-8** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000019/0001726978-26-000019-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226001309/0001477932-26-001309-index.htm)
 
@@ -188,6 +221,9 @@
 
 - **10-K** | CION Investment Corp  (CICB, CICC, CION)  (CIK 0001534254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534254/000153425426000003/0001534254-26-000003-index.htm)
+
+- **10-K** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774926008009/0001437749-26-008009-index.htm)
 
 - **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465926026621/0001104659-26-026621-index.htm)
@@ -231,6 +267,9 @@
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000546/0001771146-26-000546-index.htm)
 
+- **10-K** | Volato Group, Inc.  (SOAR, SOARW)  (CIK 0001853070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853070/000162828026017343/0001628280-26-017343-index.htm)
+
 - **487** | FT 12773  (CIK 0002096310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096310/000144554626001962/0001445546-26-001962-index.htm)
 
@@ -263,6 +302,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026025761/0001213900-26-025761-index.htm)
