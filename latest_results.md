@@ -39,11 +39,11 @@
 - **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
-- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
-
 - **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
+
+- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
