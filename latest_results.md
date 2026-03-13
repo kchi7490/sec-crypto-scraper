@@ -105,6 +105,12 @@
 - **8-K** | GPGI, Inc.  (GPGI)  (CIK 0001823144)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823144/000110465926026708/0001104659-26-026708-index.htm)
 
+- **S-1** | 21Shares Cronos ETF  (CIK 0002061625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061625/000121390026027569/0001213900-26-027569-index.htm)
+
+- **S-1/A** | Future Money Acquisition Corp  (FMAC)  (CIK 0002099232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315226010031/0001493152-26-010031-index.htm)
+
 - **424B5** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226009908/0001493152-26-009908-index.htm)
 
@@ -125,6 +131,9 @@
 
 - **PRE 14A** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026017236/0001628280-26-017236-index.htm)
+
+- **10-K** | Meridian Corp  (MRBK)  (CIK 0001750735)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750735/000175073526000009/0001750735-26-000009-index.htm)
 
 - **10-K** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000031/0000736772-26-000031-index.htm)
@@ -197,6 +206,12 @@
 
 - **10-K** | SURO CAPITAL CORP.  (SSSS, SSSSL)  (CIK 0001509470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509470/000149315226009641/0001493152-26-009641-index.htm)
+
+- **S-1/A** | Texas Precious Metals Trust  (CIK 0002087989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774926008198/0001437749-26-008198-index.htm)
+
+- **S-1/A** | Texas Precious Metals Trust  (CIK 0002087989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087989/000143774926008195/0001437749-26-008195-index.htm)
 
 - **424B3** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000149315226009713/0001493152-26-009713-index.htm)
@@ -298,10 +313,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/0001193125-26-102008-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005660/0001999371-26-005660-index.htm)
