@@ -45,11 +45,11 @@
 - **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
-- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
-
 - **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
+
+- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
@@ -257,6 +257,9 @@
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126005559/0001999371-26-005559-index.htm)
+
+- **485APOS** | MORGAN STANLEY INSTITUTIONAL FUND TRUST  (CIK 0000741375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/741375/000113322826003589/0001133228-26-003589-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000546/0001771146-26-000546-index.htm)
