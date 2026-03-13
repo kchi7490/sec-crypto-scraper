@@ -213,11 +213,20 @@
 - **10-K** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774926008009/0001437749-26-008009-index.htm)
 
+- **6-K** | UTime Ltd  (WTO)  (CIK 0001789299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1789299/000149315226009981/0001493152-26-009981-index.htm)
+
 - **6-K** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465926026621/0001104659-26-026621-index.htm)
 
+- **6-K** | Fitell Corp  (FTEL)  (CIK 0001928581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226009988/0001493152-26-009988-index.htm)
+
 - **6-K** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000021/0001159508-26-000021-index.htm)
+
+- **424B3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026027267/0001213900-26-027267-index.htm)
 
 - **20-F** | TELECOM ARGENTINA SA  (TEO, TCMFF)  (CIK 0000932470)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/932470/000110465926026480/0001104659-26-026480-index.htm)
