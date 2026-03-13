@@ -42,11 +42,11 @@
 - **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
-- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
-
 - **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
+
+- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
@@ -140,6 +140,9 @@
 
 - **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226009657/0001493152-26-009657-index.htm)
+
+- **10-K** | Ponce Financial Group, Inc.  (PDLB)  (CIK 0001874071)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1874071/000119312526104610/0001193125-26-104610-index.htm)
 
 - **S-1** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000021/0000946155-26-000021-index.htm)
@@ -272,9 +275,6 @@
 
 - **10-K** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526104113/0001193125-26-104113-index.htm)
-
-- **10-K** | Ponce Financial Group, Inc.  (PDLB)  (CIK 0001874071)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1874071/000119312526104610/0001193125-26-104610-index.htm)
 
 - **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
