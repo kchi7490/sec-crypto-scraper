@@ -12,6 +12,9 @@
 - **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026025954/0001213900-26-025954-index.htm)
 
+- **10-Q** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126009427/0001140361-26-009427-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226009847/0001493152-26-009847-index.htm)
 
