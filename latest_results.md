@@ -234,6 +234,9 @@
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526103069/0001193125-26-103069-index.htm)
 
+- **20-F/A** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000149315226009978/0001493152-26-009978-index.htm)
+
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026025958/0001213900-26-025958-index.htm)
 
@@ -254,6 +257,9 @@
 
 - **EFFECT** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/999999999526000788/9999999995-26-000788-index.htm)
+
+- **N-CEN** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000094040026009968/0000940400-26-009968-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226009855/0001493152-26-009855-index.htm)
