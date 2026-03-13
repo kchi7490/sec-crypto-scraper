@@ -15,6 +15,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226009847/0001493152-26-009847-index.htm)
 
+- **8-K** | FORUM MARKETS Inc  (ETHZ, FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026027230/0001213900-26-027230-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226009788/0001493152-26-009788-index.htm)
 
@@ -39,11 +42,11 @@
 - **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
-- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
-
 - **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
+
+- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
@@ -68,6 +71,9 @@
 
 - **424B3** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526104403/0001193125-26-104403-index.htm)
+
+- **S-1/A** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026027222/0001213900-26-027222-index.htm)
 
 - **424B3** | Grayscale Avalanche Staking ETF  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/0001193125-26-103181-index.htm)
@@ -126,6 +132,9 @@
 - **10-K** | EverCommerce Inc.  (EVCM)  (CIK 0001853145)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853145/000185314526000010/0001853145-26-000010-index.htm)
 
+- **10-K** | RED RIVER BANCSHARES INC  (RRBI)  (CIK 0001071236)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1071236/000107123626000027/0001071236-26-000027-index.htm)
+
 - **10-K** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036126009103/0001140361-26-009103-index.htm)
 
@@ -138,6 +147,9 @@
 - **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026026195/0001213900-26-026195-index.htm)
 
+- **8-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026027218/0001213900-26-027218-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026016664/0001628280-26-016664-index.htm)
 
@@ -146,6 +158,9 @@
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003165/0001214659-26-003165-index.htm)
+
+- **424B5** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026027197/0001213900-26-027197-index.htm)
 
 - **8-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000018/0001865200-26-000018-index.htm)
@@ -257,6 +272,9 @@
 
 - **10-K** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526104113/0001193125-26-104113-index.htm)
+
+- **10-K** | Ponce Financial Group, Inc.  (PDLB)  (CIK 0001874071)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1874071/000119312526104610/0001193125-26-104610-index.htm)
 
 - **10-K/A** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526102028/0001193125-26-102028-index.htm)
