@@ -36,6 +36,9 @@
 - **425** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026025811/0001213900-26-025811-index.htm)
 
+- **424B3** | Teucrium Commodity Trust  (CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926008121/0001437749-26-008121-index.htm)
+
 - **10-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312526104231/0001193125-26-104231-index.htm)
 
@@ -269,6 +272,9 @@
 
 - **EFFECT** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/999999999526000788/9999999995-26-000788-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926007824/0000894189-26-007824-index.htm)
 
 - **N-CEN** | Bitwise Funds Trust  (CIK 0001928561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000094040026009968/0000940400-26-009968-index.htm)
