@@ -132,6 +132,9 @@
 - **10-K** | EverCommerce Inc.  (EVCM)  (CIK 0001853145)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853145/000185314526000010/0001853145-26-000010-index.htm)
 
+- **10-K** | COLONY BANKCORP INC  (CBAN)  (CIK 0000711669)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/711669/000071166926000007/0000711669-26-000007-index.htm)
+
 - **10-K** | RED RIVER BANCSHARES INC  (RRBI)  (CIK 0001071236)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1071236/000107123626000027/0001071236-26-000027-index.htm)
 
@@ -272,6 +275,9 @@
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226009855/0001493152-26-009855-index.htm)
+
+- **N-CEN** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000094040026009992/0000940400-26-009992-index.htm)
 
 - **N-CEN/A** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000204825126001907/0002048251-26-001907-index.htm)
