@@ -45,11 +45,11 @@
 - **424B3** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926007771/0001437749-26-007771-index.htm)
 
-- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
-
 - **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
+
+- **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
@@ -80,6 +80,9 @@
 
 - **424B3** | Grayscale Avalanche Staking ETF  (AVAX)  (CIK 0002035053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/0001193125-26-103181-index.htm)
+
+- **S-3/A** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226010074/0001493152-26-010074-index.htm)
 
 - **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526104401/0001193125-26-104401-index.htm)
@@ -135,6 +138,9 @@
 - **10-K** | Meridian Corp  (MRBK)  (CIK 0001750735)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750735/000175073526000009/0001750735-26-000009-index.htm)
 
+- **10-K** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000070612926000024/0000706129-26-000024-index.htm)
+
 - **10-K** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000031/0000736772-26-000031-index.htm)
 
@@ -146,6 +152,9 @@
 
 - **10-K** | COLONY BANKCORP INC  (CBAN)  (CIK 0000711669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/711669/000071166926000007/0000711669-26-000007-index.htm)
+
+- **10-K** | Renatus Tactical Acquisition Corp I  (RTAC, RTACU, RTACW)  (CIK 0002035173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035173/000121390026027653/0001213900-26-027653-index.htm)
 
 - **10-K** | RED RIVER BANCSHARES INC  (RRBI)  (CIK 0001071236)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1071236/000107123626000027/0001071236-26-000027-index.htm)
@@ -201,6 +210,12 @@
 - **10-K** | IMMERSION CORP  (IMMR)  (CIK 0001058811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058811/000119312526102681/0001193125-26-102681-index.htm)
 
+- **424B3** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390026027683/0001213900-26-027683-index.htm)
+
+- **424B3** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390026027682/0001213900-26-027682-index.htm)
+
 - **10-K** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000121390026026501/0001213900-26-026501-index.htm)
 
@@ -245,6 +260,9 @@
 
 - **6-K** | DEUTSCHE BANK AKTIENGESELLSCHAFT  (DB, DGP, DGZ, DZZ, ADZCF, DEENF, OLOXF)  (CIK 0001159508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1159508/000115950826000021/0001159508-26-000021-index.htm)
+
+- **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026027669/0001213900-26-027669-index.htm)
 
 - **424B3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026027267/0001213900-26-027267-index.htm)
@@ -332,4 +350,7 @@
 
 - **10-Q** | GROOVY COMPANY, INC.  (CIK 0001499275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927526000002/0001499275-26-000002-index.htm)
+
+- **SCHEDULE 13G** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000142615626000005/0001426156-26-000005-index.htm)
 
