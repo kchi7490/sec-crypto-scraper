@@ -102,6 +102,9 @@
 - **10-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526104243/0001193125-26-104243-index.htm)
 
+- **10-K** | Insight Digital Partners II  (DYOR, DYORU, DYORW)  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390026027719/0001213900-26-027719-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326001384/0001062993-26-001384-index.htm)
 
@@ -137,6 +140,9 @@
 
 - **10-K** | Meridian Corp  (MRBK)  (CIK 0001750735)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750735/000175073526000009/0001750735-26-000009-index.htm)
+
+- **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226010087/0001493152-26-010087-index.htm)
 
 - **10-K** | HORIZON BANCORP INC /IN/  (HBNC)  (CIK 0000706129)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/706129/000070612926000024/0000706129-26-000024-index.htm)
@@ -331,10 +337,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/0001193125-26-102008-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005660/0001999371-26-005660-index.htm)
