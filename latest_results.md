@@ -21,11 +21,11 @@
 - **10-K** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000119312526104231/0001193125-26-104231-index.htm)
 
-- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
-
 - **8-K** | GrabAGun Digital Holdings Inc.  (PEW, PEW-WT)  (CIK 0002051380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2051380/000119312526104167/0001193125-26-104167-index.htm)
+
+- **10-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000020/0001865200-26-000020-index.htm)
 
 - **10-KT** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000119312526104245/0001193125-26-104245-index.htm)
@@ -256,10 +256,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000089418926007830/0000894189-26-007830-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026026542/0001213900-26-026542-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026027069/0001213900-26-027069-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126005660/0001999371-26-005660-index.htm)
