@@ -78,6 +78,9 @@
 - **N-CEN** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000089418926007921/0000894189-26-007921-index.htm)
 
+- **N-CEN** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000089418926007941/0000894189-26-007941-index.htm)
+
 - **N-CEN** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000089418926007901/0000894189-26-007901-index.htm)
 
