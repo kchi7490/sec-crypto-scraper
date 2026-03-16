@@ -63,6 +63,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001444/0001062993-26-001444-index.htm)
 
+- **424B2** | UBS AG  (AMUB, BDCX, BDCZ, CEFD, HDLB, IFED, IWDL, IWFL, IWML, MLPB, MLPR, MTUL, MVRL, PFFL, QULL, SCDL)  (CIK 0001114446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1114446/000183988226015331/0001839882-26-015331-index.htm)
+
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028025/0001213900-26-028025-index.htm)
 
