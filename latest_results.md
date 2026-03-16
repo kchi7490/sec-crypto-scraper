@@ -24,6 +24,12 @@
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
 
+- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
+
+- **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010327/0001493152-26-010327-index.htm)
+
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926028558/0001104659-26-028558-index.htm)
 
@@ -33,6 +39,9 @@
 - **DEFM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026028308/0001213900-26-028308-index.htm)
 
+- **424B3** | Odysseus Holdings Ltd  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026028437/0001213900-26-028437-index.htm)
+
 - **8-K** | Nomadar Corp.  (NOMA)  (CIK 0001994214)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994214/000149315226010196/0001493152-26-010196-index.htm)
 
@@ -41,6 +50,12 @@
 
 - **8-K** | NEWS CORP  (NWS, NWSA, NWSLL)  (CIK 0001564708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000057/0001564708-26-000057-index.htm)
+
+- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028296/0001213900-26-028296-index.htm)
+
+- **10-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926028566/0001104659-26-028566-index.htm)
 
 - **10-K** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000162828026018238/0001628280-26-018238-index.htm)
@@ -59,6 +74,9 @@
 
 - **10-K** | PEOPLES FINANCIAL SERVICES CORP.  (PFIS)  (CIK 0001056943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1056943/000110465926028106/0001104659-26-028106-index.htm)
+
+- **10-K** | MetroCity Bankshares, Inc.  (MCBS)  (CIK 0001747068)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747068/000174706826000010/0001747068-26-000010-index.htm)
 
 - **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526108382/0001193125-26-108382-index.htm)
@@ -81,6 +99,9 @@
 - **PREC14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000119380526000262/0001193805-26-000262-index.htm)
 
+- **10-K** | Investar Holding Corp  (ISTR)  (CIK 0001602658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602658/000143774926008446/0001437749-26-008446-index.htm)
+
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526108392/0001193125-26-108392-index.htm)
 
@@ -95,6 +116,9 @@
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226010202/0001493152-26-010202-index.htm)
+
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026028429/0001213900-26-028429-index.htm)
 
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526107395/0001193125-26-107395-index.htm)
@@ -116,6 +140,9 @@
 
 - **N-CEN** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000089418926007921/0000894189-26-007921-index.htm)
+
+- **N-CEN** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000196/0001396092-26-000196-index.htm)
 
 - **N-CEN** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000089418926007941/0000894189-26-007941-index.htm)
