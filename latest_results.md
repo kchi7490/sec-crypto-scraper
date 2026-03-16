@@ -9,6 +9,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226010193/0001493152-26-010193-index.htm)
 
+- **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126005896/0001999371-26-005896-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226010191/0001493152-26-010191-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | Nomadar Corp.  (NOMA)  (CIK 0001994214)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994214/000149315226010196/0001493152-26-010196-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526107410/0001193125-26-107410-index.htm)
 
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
@@ -47,6 +53,9 @@
 
 - **6-K** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026028027/0001213900-26-028027-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226010202/0001493152-26-010202-index.htm)
 
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526107395/0001193125-26-107395-index.htm)
