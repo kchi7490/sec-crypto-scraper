@@ -15,14 +15,23 @@
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226010191/0001493152-26-010191-index.htm)
 
+- **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001589/0001171843-26-001589-index.htm)
+
 - **8-K** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027989/0001213900-26-027989-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
 
+- **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926028558/0001104659-26-028558-index.htm)
+
 - **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/0001628280-26-017834-index.htm)
+
+- **DEFM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026028308/0001213900-26-028308-index.htm)
 
 - **8-K** | Nomadar Corp.  (NOMA)  (CIK 0001994214)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994214/000149315226010196/0001493152-26-010196-index.htm)
@@ -30,8 +39,20 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526107410/0001193125-26-107410-index.htm)
 
+- **8-K** | NEWS CORP  (NWS, NWSA, NWSLL)  (CIK 0001564708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000057/0001564708-26-000057-index.htm)
+
+- **10-K** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000162828026018238/0001628280-26-018238-index.htm)
+
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
+
+- **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010296/0001493152-26-010296-index.htm)
+
+- **424B3** | 21Shares Dogecoin ETF  (TDOG)  (CIK 0002064314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390026028290/0001213900-26-028290-index.htm)
 
 - **10-K** | 21Shares Dogecoin ETF  (TDOG)  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390026027789/0001213900-26-027789-index.htm)
@@ -39,14 +60,32 @@
 - **10-K** | PEOPLES FINANCIAL SERVICES CORP.  (PFIS)  (CIK 0001056943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1056943/000110465926028106/0001104659-26-028106-index.htm)
 
+- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526108382/0001193125-26-108382-index.htm)
+
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526108384/0001193125-26-108384-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526107263/0001193125-26-107263-index.htm)
+
+- **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
+
+- **DEF 14A** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126009607/0001140361-26-009607-index.htm)
 
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026027983/0001213900-26-027983-index.htm)
 
 - **PREC14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000119380526000262/0001193805-26-000262-index.htm)
+
+- **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526108392/0001193125-26-108392-index.htm)
+
+- **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/0001193125-26-108396-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026028021/0001213900-26-028021-index.htm)
