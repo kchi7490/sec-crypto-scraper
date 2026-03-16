@@ -72,6 +72,12 @@
 - **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226010162/0001493152-26-010162-index.htm)
 
+- **10-K** | SECURITY NATIONAL FINANCIAL CORP  (SNFCA)  (CIK 0000318673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/318673/000149315226010228/0001493152-26-010228-index.htm)
+
+- **N-CEN** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000089418926007921/0000894189-26-007921-index.htm)
+
 - **N-CEN** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000089418926007901/0000894189-26-007901-index.htm)
 
