@@ -78,6 +78,9 @@
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
 
+- **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226015631/0001839882-26-015631-index.htm)
+
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010296/0001493152-26-010296-index.htm)
 
