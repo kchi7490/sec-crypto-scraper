@@ -117,6 +117,9 @@
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026027983/0001213900-26-027983-index.htm)
 
+- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000314/0001079973-26-000314-index.htm)
+
 - **PREC14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000119380526000262/0001193805-26-000262-index.htm)
 
