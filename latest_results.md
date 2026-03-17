@@ -81,6 +81,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526107410/0001193125-26-107410-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000461/0001640334-26-000461-index.htm)
+
 - **8-K** | NEWS CORP  (NWS, NWSA, NWSLL)  (CIK 0001564708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1564708/000156470826000057/0001564708-26-000057-index.htm)
 
@@ -108,8 +111,14 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226015631/0001839882-26-015631-index.htm)
 
+- **10-K** | AUBURN NATIONAL BANCORPORATION, INC  (AUBN)  (CIK 0000750574)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/750574/000119312526111012/0001193125-26-111012-index.htm)
+
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010296/0001493152-26-010296-index.htm)
+
+- **10-K** | Meshflow Acquisition Corp  (MESH, MESHU, MESHW)  (CIK 0002081468)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390026029189/0001213900-26-029189-index.htm)
 
 - **10-K** | ProCap Acquisition Corp  (PCAP, PCAPU, PCAPW)  (CIK 0002056634)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2056634/000121390026028492/0001213900-26-028492-index.htm)
@@ -239,6 +248,9 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
+
+- **10-K** | Vireo Growth Inc.  (VREOF)  (CIK 0001771706)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771706/000110465926029561/0001104659-26-029561-index.htm)
 
 - **425** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026027843/0001213900-26-027843-index.htm)
