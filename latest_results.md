@@ -6,6 +6,9 @@
 - **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028023/0001213900-26-028023-index.htm)
 
+- **ARS** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226010538/0001493152-26-010538-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226010193/0001493152-26-010193-index.htm)
 
@@ -18,6 +21,9 @@
 - **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001589/0001171843-26-001589-index.htm)
 
+- **10-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110808/0001193125-26-110808-index.htm)
+
 - **10-K** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226010453/0001493152-26-010453-index.htm)
 
@@ -26,6 +32,12 @@
 
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026018400/0001628280-26-018400-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110870/0001193125-26-110870-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110871/0001193125-26-110871-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
@@ -38,6 +50,12 @@
 
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/0001104659-26-029206-index.htm)
+
+- **ARS** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000022/0001821534-26-000022-index.htm)
+
+- **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226010526/0001493152-26-010526-index.htm)
 
 - **10-K** | GROOVY COMPANY, INC.  (CIK 0001499275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927526000004/0001499275-26-000004-index.htm)
@@ -69,14 +87,23 @@
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028296/0001213900-26-028296-index.htm)
 
+- **DEF 14A** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000018/0001821534-26-000018-index.htm)
+
 - **10-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926028566/0001104659-26-028566-index.htm)
 
 - **10-K** | Playboy, Inc.  (PLBY)  (CIK 0001803914)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803914/000162828026018238/0001628280-26-018238-index.htm)
 
+- **DEF 14A** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226010536/0001493152-26-010536-index.htm)
+
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
+
+- **10-K** | IZEA Worldwide, Inc.  (IZEA)  (CIK 0001495231)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1495231/000149523126000010/0001495231-26-000010-index.htm)
 
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226015631/0001839882-26-015631-index.htm)
@@ -105,8 +132,17 @@
 - **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526108384/0001193125-26-108384-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110761/0001193125-26-110761-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110762/0001193125-26-110762-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526107263/0001193125-26-107263-index.htm)
+
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110668/0001193125-26-110668-index.htm)
 
 - **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
@@ -138,6 +174,9 @@
 - **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/0001193125-26-108396-index.htm)
 
+- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526110780/0001193125-26-110780-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026028021/0001213900-26-028021-index.htm)
 
@@ -155,6 +194,12 @@
 
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526107395/0001193125-26-107395-index.htm)
+
+- **20-F** | CORPORACION AMERICA AIRPORTS S.A.  (CAAP)  (CIK 0001717393)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1717393/000110465926029442/0001104659-26-029442-index.htm)
+
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626002393/0001829126-26-002393-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001444/0001062993-26-001444-index.htm)
