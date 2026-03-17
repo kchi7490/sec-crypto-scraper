@@ -21,6 +21,9 @@
 - **8-K** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027989/0001213900-26-027989-index.htm)
 
+- **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026018400/0001628280-26-018400-index.htm)
+
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
 
@@ -140,6 +143,9 @@
 
 - **424B2** | UBS AG  (AMUB, BDCX, BDCZ, CEFD, HDLB, IFED, IWDL, IWFL, IWML, MLPB, MLPR, MTUL, MVRL, PFFL, QULL, SCDL)  (CIK 0001114446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1114446/000183988226015331/0001839882-26-015331-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001473/0001062993-26-001473-index.htm)
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028025/0001213900-26-028025-index.htm)
