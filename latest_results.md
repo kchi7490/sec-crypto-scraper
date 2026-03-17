@@ -39,6 +39,9 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/0001104659-26-029206-index.htm)
 
+- **10-K** | GROOVY COMPANY, INC.  (CIK 0001499275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927526000004/0001499275-26-000004-index.htm)
+
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010327/0001493152-26-010327-index.htm)
 
@@ -120,6 +123,9 @@
 - **10-K** | M3-Brigade Acquisition VI Corp.  (MBVI, MBVIU, MBVIW)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390026028501/0001213900-26-028501-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000273/0001137360-26-000273-index.htm)
+
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526108392/0001193125-26-108392-index.htm)
 
@@ -158,6 +164,9 @@
 
 - **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226010162/0001493152-26-010162-index.htm)
+
+- **487** | FT 12775  (CIK 0002096315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096315/000144554626002038/0001445546-26-002038-index.htm)
 
 - **10-K** | SECURITY NATIONAL FINANCIAL CORP  (SNFCA)  (CIK 0000318673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318673/000149315226010228/0001493152-26-010228-index.htm)
