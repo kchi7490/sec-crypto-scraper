@@ -27,6 +27,9 @@
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
 
+- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028490/0001213900-26-028490-index.htm)
+
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010327/0001493152-26-010327-index.htm)
 
@@ -66,6 +69,9 @@
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010296/0001493152-26-010296-index.htm)
 
+- **10-K** | ProCap Acquisition Corp  (PCAP, PCAPU, PCAPW)  (CIK 0002056634)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2056634/000121390026028492/0001213900-26-028492-index.htm)
+
 - **424B3** | 21Shares Dogecoin ETF  (TDOG)  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390026028290/0001213900-26-028290-index.htm)
 
@@ -102,6 +108,9 @@
 - **10-K** | Investar Holding Corp  (ISTR)  (CIK 0001602658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602658/000143774926008446/0001437749-26-008446-index.htm)
 
+- **10-K** | M3-Brigade Acquisition VI Corp.  (MBVI, MBVIU, MBVIW)  (CIK 0002073928)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390026028501/0001213900-26-028501-index.htm)
+
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526108392/0001193125-26-108392-index.htm)
 
@@ -113,6 +122,9 @@
 
 - **6-K** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026028027/0001213900-26-028027-index.htm)
+
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926028855/0001104659-26-028855-index.htm)
 
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226010202/0001493152-26-010202-index.htm)
@@ -153,6 +165,12 @@
 - **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926027908/0001104659-26-027908-index.htm)
 
+- **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
+
 - **425** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026027843/0001213900-26-027843-index.htm)
+
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226010387/0001493152-26-010387-index.htm)
 
