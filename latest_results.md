@@ -51,8 +51,14 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/0001104659-26-029206-index.htm)
 
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
+
 - **ARS** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000022/0001821534-26-000022-index.htm)
+
+- **8-K** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029238/0001213900-26-029238-index.htm)
 
 - **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226010526/0001493152-26-010526-index.htm)
@@ -129,6 +135,9 @@
 - **10-K** | 21Shares Dogecoin ETF  (TDOG)  (CIK 0002064314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064314/000121390026027789/0001213900-26-027789-index.htm)
 
+- **10-K** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390026029223/0001213900-26-029223-index.htm)
+
 - **10-K** | PEOPLES FINANCIAL SERVICES CORP.  (PFIS)  (CIK 0001056943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1056943/000110465926028106/0001104659-26-028106-index.htm)
 
@@ -146,6 +155,9 @@
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110762/0001193125-26-110762-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526111214/0001193125-26-111214-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526107263/0001193125-26-107263-index.htm)
@@ -186,6 +198,9 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526110780/0001193125-26-110780-index.htm)
 
+- **10-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526111231/0001193125-26-111231-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026028021/0001213900-26-028021-index.htm)
 
@@ -212,6 +227,9 @@
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001444/0001062993-26-001444-index.htm)
+
+- **10-K** | BROOKFIELD REAL ESTATE INCOME TRUST INC.  (CIK 0001713407)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1713407/000171340726000021/0001713407-26-000021-index.htm)
 
 - **424B2** | UBS AG  (AMUB, BDCX, BDCZ, CEFD, HDLB, IFED, IWDL, IWFL, IWML, MLPB, MLPR, MTUL, MVRL, PFFL, QULL, SCDL)  (CIK 0001114446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1114446/000183988226015331/0001839882-26-015331-index.htm)
@@ -243,14 +261,29 @@
 - **N-CEN** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000089418926007901/0000894189-26-007901-index.htm)
 
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026029249/0001213900-26-029249-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026029244/0001213900-26-029244-index.htm)
+
+- **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926029610/0001104659-26-029610-index.htm)
+
 - **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926027908/0001104659-26-027908-index.htm)
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
 
+- **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390026029204/0001213900-26-029204-index.htm)
+
 - **10-K** | Vireo Growth Inc.  (VREOF)  (CIK 0001771706)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771706/000110465926029561/0001104659-26-029561-index.htm)
+
+- **NT 10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526111217/0001193125-26-111217-index.htm)
 
 - **425** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026027843/0001213900-26-027843-index.htm)
