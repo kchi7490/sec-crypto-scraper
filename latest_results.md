@@ -1,8 +1,5 @@
 ## 📁 Other Filings
 
-- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028024/0001213900-26-028024-index.htm)
-
 - **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028023/0001213900-26-028023-index.htm)
 
@@ -40,12 +37,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110871/0001193125-26-110871-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
-
-- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
-
-- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028490/0001213900-26-028490-index.htm)
 
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
@@ -74,9 +65,6 @@
 
 - **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/0001628280-26-017834-index.htm)
-
-- **DEFM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026028308/0001213900-26-028308-index.htm)
 
 - **424B3** | Odysseus Holdings Ltd  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026028437/0001213900-26-028437-index.htm)
@@ -165,12 +153,6 @@
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110668/0001193125-26-110668-index.htm)
 
-- **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
-
-- **DEF 14A** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126009607/0001140361-26-009607-index.htm)
-
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026027983/0001213900-26-027983-index.htm)
 
@@ -197,6 +179,12 @@
 
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526110780/0001193125-26-110780-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028024/0001213900-26-028024-index.htm)
+
+- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
 
 - **10-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526111231/0001193125-26-111231-index.htm)
@@ -270,9 +258,6 @@
 - **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926029610/0001104659-26-029610-index.htm)
 
-- **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926027908/0001104659-26-027908-index.htm)
-
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
 
@@ -285,6 +270,12 @@
 - **NT 10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526111217/0001193125-26-111217-index.htm)
 
+- **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
+
 - **425** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026027843/0001213900-26-027843-index.htm)
+
+- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226010387/0001493152-26-010387-index.htm)
 
