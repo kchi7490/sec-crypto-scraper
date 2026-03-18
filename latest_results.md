@@ -96,6 +96,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526107410/0001193125-26-107410-index.htm)
 
+- **S-3** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226011261/0001493152-26-011261-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000461/0001640334-26-000461-index.htm)
 
@@ -123,6 +126,9 @@
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
 
+- **S-4** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526114155/0001193125-26-114155-index.htm)
+
 - **10-K** | IZEA Worldwide, Inc.  (IZEA)  (CIK 0001495231)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1495231/000149523126000010/0001495231-26-000010-index.htm)
 
@@ -131,6 +137,9 @@
 
 - **10-K** | AUBURN NATIONAL BANCORPORATION, INC  (AUBN)  (CIK 0000750574)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/750574/000119312526111012/0001193125-26-111012-index.htm)
+
+- **20-F** | dLocal Ltd  (DLO)  (CIK 0001846832)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000207097926000113/0002070979-26-000113-index.htm)
 
 - **10-Q** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010296/0001493152-26-010296-index.htm)
@@ -207,6 +216,9 @@
 - **PREC14A** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000119380526000262/0001193805-26-000262-index.htm)
 
+- **10-K** | Future FinTech Group Inc.  (FTFT)  (CIK 0001066923)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1066923/000121390026030833/0001213900-26-030833-index.htm)
+
 - **10-K** | Investar Holding Corp  (ISTR)  (CIK 0001602658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602658/000143774926008446/0001437749-26-008446-index.htm)
 
@@ -227,6 +239,9 @@
 
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526110780/0001193125-26-110780-index.htm)
+
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000475/0001640334-26-000475-index.htm)
 
 - **10-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526111231/0001193125-26-111231-index.htm)
@@ -329,6 +344,9 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026030889/0001213900-26-030889-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026029329/0001213900-26-029329-index.htm)
