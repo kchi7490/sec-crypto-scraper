@@ -40,9 +40,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110871/0001193125-26-110871-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
-
-- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
@@ -74,6 +71,9 @@
 
 - **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/0001628280-26-017834-index.htm)
+
+- **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926029738/0001104659-26-029738-index.htm)
 
 - **DEFM14A** | Vine Hill Capital Investment Corp.  (VCIC, VCICU, VCICW)  (CIK 0002025396)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025396/000121390026028308/0001213900-26-028308-index.htm)
@@ -168,9 +168,6 @@
 - **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
 
-- **DEF 14A** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126009607/0001140361-26-009607-index.htm)
-
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026027983/0001213900-26-027983-index.htm)
 
@@ -222,6 +219,12 @@
 - **20-F** | CORPORACION AMERICA AIRPORTS S.A.  (CAAP)  (CIK 0001717393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1717393/000110465926029442/0001104659-26-029442-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001492/0001062993-26-001492-index.htm)
+
+- **6-K** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226010671/0001493152-26-010671-index.htm)
+
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626002393/0001829126-26-002393-index.htm)
 
@@ -249,6 +252,9 @@
 - **10-K** | SECURITY NATIONAL FINANCIAL CORP  (SNFCA)  (CIK 0000318673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318673/000149315226010228/0001493152-26-010228-index.htm)
 
+- **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
+
 - **N-CEN** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000089418926007921/0000894189-26-007921-index.htm)
 
@@ -275,6 +281,9 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926008476/0001437749-26-008476-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026029329/0001213900-26-029329-index.htm)
 
 - **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390026029204/0001213900-26-029204-index.htm)
