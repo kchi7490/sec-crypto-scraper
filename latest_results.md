@@ -54,6 +54,9 @@
 - **10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526113938/0001193125-26-113938-index.htm)
 
+- **10-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031280/0001104659-26-031280-index.htm)
+
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
 
@@ -68,6 +71,9 @@
 
 - **10-K** | GROOVY COMPANY, INC.  (CIK 0001499275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499275/000149927526000004/0001499275-26-000004-index.htm)
+
+- **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026030956/0001213900-26-030956-index.htm)
 
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226010327/0001493152-26-010327-index.htm)
@@ -353,6 +359,9 @@
 
 - **425** | Ether Machine, Inc.  (CIK 0002080334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080334/000121390026029942/0001213900-26-029942-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004328/0000950103-26-004328-index.htm)
 
 - **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390026029204/0001213900-26-029204-index.htm)
