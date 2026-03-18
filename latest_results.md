@@ -288,6 +288,3 @@
 - **425** | Crane Harbor Acquisition Corp.  (CHAC, CHACR, CHACU)  (CIK 0002054174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054174/000121390026027843/0001213900-26-027843-index.htm)
 
-- **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226010387/0001493152-26-010387-index.htm)
-
