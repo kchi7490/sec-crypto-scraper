@@ -51,6 +51,9 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/0001104659-26-029206-index.htm)
 
+- **10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526113938/0001193125-26-113938-index.htm)
+
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
 
@@ -87,6 +90,9 @@
 - **8-K** | Nomadar Corp.  (NOMA)  (CIK 0001994214)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994214/000149315226010196/0001493152-26-010196-index.htm)
 
+- **10-KT** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518526000941/0001185185-26-000941-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526107410/0001193125-26-107410-index.htm)
 
@@ -110,6 +116,9 @@
 
 - **DEF 14A** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226010536/0001493152-26-010536-index.htm)
+
+- **10-K** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315226011204/0001493152-26-011204-index.htm)
 
 - **10-K** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000009/0002064124-26-000009-index.htm)
@@ -150,11 +159,17 @@
 - **10-K** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465926030236/0001104659-26-030236-index.htm)
 
+- **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033426000472/0001640334-26-000472-index.htm)
+
 - **DEF 14A** | AMN HEALTHCARE SERVICES INC  (AMN)  (CIK 0001142750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1142750/000110465926029908/0001104659-26-029908-index.htm)
 
 - **10-K** | MetroCity Bankshares, Inc.  (MCBS)  (CIK 0001747068)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747068/000174706826000010/0001747068-26-000010-index.htm)
+
+- **DEF 14A** | Ally Financial Inc.  (ALLY)  (CIK 0000040729)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/0001193125-26-113819-index.htm)
 
 - **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526108382/0001193125-26-108382-index.htm)
@@ -237,8 +252,14 @@
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026028429/0001213900-26-028429-index.htm)
 
+- **6-K** | dLocal Ltd  (DLO)  (CIK 0001846832)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000207097926000110/0002070979-26-000110-index.htm)
+
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526107395/0001193125-26-107395-index.htm)
+
+- **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526113792/0001193125-26-113792-index.htm)
 
 - **20-F** | CORPORACION AMERICA AIRPORTS S.A.  (CAAP)  (CIK 0001717393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1717393/000110465926029442/0001104659-26-029442-index.htm)
