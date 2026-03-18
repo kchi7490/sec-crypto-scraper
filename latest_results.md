@@ -147,6 +147,9 @@
 - **10-K** | PEOPLES FINANCIAL SERVICES CORP.  (PFIS)  (CIK 0001056943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1056943/000110465926028106/0001104659-26-028106-index.htm)
 
+- **10-K** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465926030236/0001104659-26-030236-index.htm)
+
 - **DEF 14A** | AMN HEALTHCARE SERVICES INC  (AMN)  (CIK 0001142750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1142750/000110465926029908/0001104659-26-029908-index.htm)
 
@@ -218,6 +221,9 @@
 
 - **6-K** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026028027/0001213900-26-028027-index.htm)
+
+- **424B5** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226011043/0001493152-26-011043-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926028855/0001104659-26-028855-index.htm)
@@ -311,9 +317,6 @@
 
 - **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390026029204/0001213900-26-029204-index.htm)
-
-- **10-K** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465926030236/0001104659-26-030236-index.htm)
 
 - **10-K** | Vireo Growth Inc.  (VREOF)  (CIK 0001771706)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771706/000110465926029561/0001104659-26-029561-index.htm)
