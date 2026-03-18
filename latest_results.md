@@ -40,6 +40,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110871/0001193125-26-110871-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027992/0001213900-26-027992-index.htm)
+
+- **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026028440/0001213900-26-028440-index.htm)
 
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
@@ -168,6 +171,9 @@
 - **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001590/0001171843-26-001590-index.htm)
 
+- **DEF 14A** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000114036126009607/0001140361-26-009607-index.htm)
+
 - **8-K** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026027983/0001213900-26-027983-index.htm)
 
@@ -182,6 +188,9 @@
 
 - **10-K** | M3-Brigade Acquisition VI Corp.  (MBVI, MBVIU, MBVIW)  (CIK 0002073928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390026028501/0001213900-26-028501-index.htm)
+
+- **424B3** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026029560/0001213900-26-029560-index.htm)
 
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000273/0001137360-26-000273-index.htm)
@@ -239,6 +248,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001473/0001062993-26-001473-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001495/0001062993-26-001495-index.htm)
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026028025/0001213900-26-028025-index.htm)
