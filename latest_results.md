@@ -27,11 +27,11 @@
 - **10-K** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226010453/0001493152-26-010453-index.htm)
 
-- **8-K** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027989/0001213900-26-027989-index.htm)
-
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026018400/0001628280-26-018400-index.htm)
+
+- **8-K** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026027989/0001213900-26-027989-index.htm)
 
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110870/0001193125-26-110870-index.htm)
