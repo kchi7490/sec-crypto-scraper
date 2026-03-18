@@ -312,6 +312,9 @@
 - **10-Q** | Maison Solutions Inc.  (MSS)  (CIK 0001892292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892292/000121390026029204/0001213900-26-029204-index.htm)
 
+- **10-K** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465926030236/0001104659-26-030236-index.htm)
+
 - **10-K** | Vireo Growth Inc.  (VREOF)  (CIK 0001771706)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771706/000110465926029561/0001104659-26-029561-index.htm)
 
