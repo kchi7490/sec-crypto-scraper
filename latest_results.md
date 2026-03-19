@@ -27,11 +27,17 @@
 - **424B5** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926029206/0001104659-26-029206-index.htm)
 
+- **DEFA14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526115194/0001193125-26-115194-index.htm)
+
 - **10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526113938/0001193125-26-113938-index.htm)
 
 - **10-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031280/0001104659-26-031280-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
@@ -50,6 +56,9 @@
 
 - **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026030956/0001213900-26-030956-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019636/0001628280-26-019636-index.htm)
 
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926029738/0001104659-26-029738-index.htm)
