@@ -108,6 +108,27 @@
 - **DEF 14A** | Ally Financial Inc.  (ALLY)  (CIK 0000040729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/0001193125-26-113819-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110761/0001193125-26-110761-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110762/0001193125-26-110762-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526111214/0001193125-26-111214-index.htm)
+
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110668/0001193125-26-110668-index.htm)
+
+- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000314/0001079973-26-000314-index.htm)
+
+- **10-K** | Future FinTech Group Inc.  (FTFT)  (CIK 0001066923)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1066923/000121390026030833/0001213900-26-030833-index.htm)
+
+- **10-K** | M3-Brigade Acquisition VI Corp.  (MBVI, MBVIU, MBVIW)  (CIK 0002073928)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390026028501/0001213900-26-028501-index.htm)
+
 - **424B3** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026029560/0001213900-26-029560-index.htm)
 
@@ -162,15 +183,6 @@
 - **487** | FT 12775  (CIK 0002096315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096315/000144554626002038/0001445546-26-002038-index.htm)
 
-- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110761/0001193125-26-110761-index.htm)
-
-- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110762/0001193125-26-110762-index.htm)
-
-- **10-K** | M3-Brigade Acquisition VI Corp.  (MBVI, MBVIU, MBVIW)  (CIK 0002073928)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2073928/000121390026028501/0001213900-26-028501-index.htm)
-
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
 
@@ -179,9 +191,6 @@
 
 - **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026029244/0001213900-26-029244-index.htm)
-
-- **10-K** | Future FinTech Group Inc.  (FTFT)  (CIK 0001066923)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1066923/000121390026030833/0001213900-26-030833-index.htm)
 
 - **S-11/A** | Janus Living, Inc.  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926029610/0001104659-26-029610-index.htm)
@@ -209,9 +218,6 @@
 
 - **NT 10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526111217/0001193125-26-111217-index.htm)
-
-- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000314/0001079973-26-000314-index.htm)
 
 - **DEFA14A** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226010387/0001493152-26-010387-index.htm)
