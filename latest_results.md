@@ -36,11 +36,11 @@
 - **10-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031280/0001104659-26-031280-index.htm)
 
-- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
-
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
 
 - **ARS** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000022/0001821534-26-000022-index.htm)
@@ -200,6 +200,12 @@
 
 - **487** | FT 12775  (CIK 0002096315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096315/000144554626002038/0001445546-26-002038-index.htm)
+
+- **487** | FT 12839  (CIK 0002100349)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100349/000144554626002076/0001445546-26-002076-index.htm)
+
+- **487** | FT 12777  (CIK 0002096317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096317/000144554626002075/0001445546-26-002075-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
