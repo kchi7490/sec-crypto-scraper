@@ -3,6 +3,9 @@
 - **ARS** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226010538/0001493152-26-010538-index.htm)
 
+- **10-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026019870/0001628280-26-019870-index.htm)
+
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000023/0002055592-26-000023-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **10-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031280/0001104659-26-031280-index.htm)
+
+- **10-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926009090/0001437749-26-009090-index.htm)
 
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
@@ -101,6 +107,9 @@
 
 - **10-K** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626002517/0001829126-26-002517-index.htm)
+
+- **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226011640/0001493152-26-011640-index.htm)
 
 - **10-K** | Meshflow Acquisition Corp  (MESH, MESHU, MESHW)  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390026029189/0001213900-26-029189-index.htm)
@@ -221,18 +230,6 @@
 
 - **487** | FT 12775  (CIK 0002096315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096315/000144554626002038/0001445546-26-002038-index.htm)
-
-- **487** | FT 12839  (CIK 0002100349)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2100349/000144554626002076/0001445546-26-002076-index.htm)
-
-- **487** | FT 12777  (CIK 0002096317)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096317/000144554626002075/0001445546-26-002075-index.htm)
-
-- **485APOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826003808/0001133228-26-003808-index.htm)
-
-- **N-14 8C** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000121390026031786/0001213900-26-031786-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
