@@ -3,6 +3,9 @@
 - **ARS** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226010538/0001493152-26-010538-index.htm)
 
+- **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000023/0002055592-26-000023-index.htm)
+
 - **10-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110808/0001193125-26-110808-index.htm)
 
@@ -96,6 +99,9 @@
 - **20-F** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000207097926000113/0002070979-26-000113-index.htm)
 
+- **10-K** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626002517/0001829126-26-002517-index.htm)
+
 - **10-K** | Meshflow Acquisition Corp  (MESH, MESHU, MESHW)  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390026029189/0001213900-26-029189-index.htm)
 
@@ -120,6 +126,9 @@
 - **DEF 14A** | Ally Financial Inc.  (ALLY)  (CIK 0000040729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/0001193125-26-113819-index.htm)
 
+- **S-4/A** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026019840/0001628280-26-019840-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110761/0001193125-26-110761-index.htm)
 
@@ -132,8 +141,20 @@
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110668/0001193125-26-110668-index.htm)
 
+- **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm)
+
+- **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001795/0001171843-26-001795-index.htm)
+
 - **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000314/0001079973-26-000314-index.htm)
+
+- **ARS** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162253626000025/0001622536-26-000025-index.htm)
+
+- **10-K** | UNITED STATES ANTIMONY CORP  (UAMY)  (CIK 0000101538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/101538/000110465926032049/0001104659-26-032049-index.htm)
 
 - **10-K** | Future FinTech Group Inc.  (FTFT)  (CIK 0001066923)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1066923/000121390026030833/0001213900-26-030833-index.htm)
@@ -206,6 +227,9 @@
 
 - **487** | FT 12777  (CIK 0002096317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096317/000144554626002075/0001445546-26-002075-index.htm)
+
+- **485APOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826003808/0001133228-26-003808-index.htm)
 
 - **N-14 8C** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000121390026031786/0001213900-26-031786-index.htm)
