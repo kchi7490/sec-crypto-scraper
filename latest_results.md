@@ -36,6 +36,9 @@
 - **DEFA14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526115194/0001193125-26-115194-index.htm)
 
+- **10-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019879/0001628280-26-019879-index.htm)
+
 - **10-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526113938/0001193125-26-113938-index.htm)
 
@@ -45,11 +48,11 @@
 - **10-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926009090/0001437749-26-009090-index.htm)
 
-- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
-
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026029242/0001213900-26-029242-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
 
 - **ARS** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000182153426000022/0001821534-26-000022-index.htm)
@@ -150,6 +153,9 @@
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110668/0001193125-26-110668-index.htm)
 
+- **10-Q/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226011692/0001493152-26-011692-index.htm)
+
 - **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm)
 
@@ -158,6 +164,12 @@
 
 - **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326000314/0001079973-26-000314-index.htm)
+
+- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526000991/0001185185-26-000991-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526000992/0001185185-26-000992-index.htm)
 
 - **ARS** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162253626000025/0001622536-26-000025-index.htm)
@@ -213,6 +225,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001492/0001062993-26-001492-index.htm)
 
+- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001547/0001062993-26-001547-index.htm)
+
 - **6-K** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226010671/0001493152-26-010671-index.htm)
 
@@ -230,6 +245,18 @@
 
 - **487** | FT 12775  (CIK 0002096315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096315/000144554626002038/0001445546-26-002038-index.htm)
+
+- **487** | FT 12839  (CIK 0002100349)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100349/000144554626002076/0001445546-26-002076-index.htm)
+
+- **487** | FT 12777  (CIK 0002096317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096317/000144554626002075/0001445546-26-002075-index.htm)
+
+- **485APOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826003808/0001133228-26-003808-index.htm)
+
+- **N-14 8C** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000121390026031786/0001213900-26-031786-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
