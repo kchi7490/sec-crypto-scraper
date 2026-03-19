@@ -12,6 +12,9 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026018400/0001628280-26-018400-index.htm)
 
+- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031736/0001104659-26-031736-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526110870/0001193125-26-110870-index.htm)
 
@@ -164,6 +167,9 @@
 
 - **20-F** | CORPORACION AMERICA AIRPORTS S.A.  (CAAP)  (CIK 0001717393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1717393/000110465926029442/0001104659-26-029442-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000225/0001279569-26-000225-index.htm)
 
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001492/0001062993-26-001492-index.htm)
