@@ -75,6 +75,15 @@
 - **DEF 14A** | Ally Financial Inc.  (ALLY)  (CIK 0000040729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/40729/000119312526113819/0001193125-26-113819-index.htm)
 
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000296/0001137360-26-000296-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/0001137360-26-000292-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/0001137360-26-000294-index.htm)
+
 - **S-4/A** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026019840/0001628280-26-019840-index.htm)
 
