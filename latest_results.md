@@ -123,6 +123,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000225/0001279569-26-000225-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026032043/0001213900-26-032043-index.htm)
+
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001492/0001062993-26-001492-index.htm)
 
@@ -134,6 +137,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001495/0001062993-26-001495-index.htm)
+
+- **10-K** | Figure Certificate Co  (CIK 0001974395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000197439526000006/0001974395-26-000006-index.htm)
 
 - **487** | FT 12839  (CIK 0002100349)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100349/000144554626002076/0001445546-26-002076-index.htm)
@@ -161,4 +167,7 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004328/0000950103-26-004328-index.htm)
+
+- **10-K** | KKR Enhanced US Direct Lending Fund-L Inc.  (CIK 0002012839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2012839/000162828026019903/0001628280-26-019903-index.htm)
 
