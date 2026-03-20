@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526117632/0001193125-26-117632-index.htm)
+
 - **10-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026019870/0001628280-26-019870-index.htm)
 
@@ -48,6 +51,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019636/0001628280-26-019636-index.htm)
 
+- **10-K** | TaoWeave, Inc.  (TWAV)  (CIK 0000746210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774926009237/0001437749-26-009237-index.htm)
+
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926029738/0001104659-26-029738-index.htm)
 
@@ -56,6 +62,9 @@
 
 - **S-3** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226011261/0001493152-26-011261-index.htm)
+
+- **S-1** | Grayscale HYPE ETF  (CIK 0002107730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/0001193125-26-117603-index.htm)
 
 - **10-K** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315226011204/0001493152-26-011204-index.htm)
@@ -81,6 +90,9 @@
 - **S-1/A** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033426000472/0001640334-26-000472-index.htm)
 
+- **PRE 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526117735/0001193125-26-117735-index.htm)
+
 - **DEF 14A** | AMN HEALTHCARE SERVICES INC  (AMN)  (CIK 0001142750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1142750/000110465926029908/0001104659-26-029908-index.htm)
 
@@ -105,6 +117,9 @@
 - **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003619/0001214659-26-003619-index.htm)
+
 - **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001795/0001171843-26-001795-index.htm)
 
@@ -126,8 +141,17 @@
 - **424B3** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026029560/0001213900-26-029560-index.htm)
 
+- **10-K** | VistaOne, L.P.  (CIK 0002044820)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044820/000204482026000009/0002044820-26-000009-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000475/0001640334-26-000475-index.htm)
+
+- **424B3** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026020169/0001628280-26-020169-index.htm)
+
+- **N-14 8C** | Golub Capital Private Credit Fund  (CIK 0001930087)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926032696/0001104659-26-032696-index.htm)
 
 - **424B5** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226011043/0001493152-26-011043-index.htm)
@@ -138,14 +162,17 @@
 - **SCHEDULE 13D** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926029990/0001104659-26-029990-index.htm)
 
+- **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326001823/0001171843-26-001823-index.htm)
+
 - **6-K** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000207097926000110/0002070979-26-000110-index.htm)
 
-- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
-
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026020062/0001628280-26-020062-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
 
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526113792/0001193125-26-113792-index.htm)
@@ -194,6 +221,12 @@
 
 - **425** | Parataxis Holdings Inc.  (PRTX)  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926032473/0001104659-26-032473-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026032380/0001213900-26-032380-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026032378/0001213900-26-032378-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026030889/0001213900-26-030889-index.htm)
