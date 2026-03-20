@@ -192,6 +192,9 @@
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026032100/0001213900-26-032100-index.htm)
 
+- **SUPPL** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026032422/0001213900-26-032422-index.htm)
+
 - **6-K** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226010671/0001493152-26-010671-index.htm)
 
