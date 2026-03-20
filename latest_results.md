@@ -24,6 +24,9 @@
 - **10-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926009090/0001437749-26-009090-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226011742/0001493152-26-011742-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
 
