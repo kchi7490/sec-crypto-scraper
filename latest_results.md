@@ -36,6 +36,9 @@
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
 
+- **10-K** | Bitwise Dogecoin ETF  (BWOW)  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000119312526117532/0001193125-26-117532-index.htm)
+
 - **10-K** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312526117404/0001193125-26-117404-index.htm)
 
