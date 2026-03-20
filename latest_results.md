@@ -24,11 +24,20 @@
 - **10-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926009090/0001437749-26-009090-index.htm)
 
+- **10-K** | Bitwise Chainlink ETF  (CLNK)  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000119312526117419/0001193125-26-117419-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226011742/0001493152-26-011742-index.htm)
 
+- **10-K** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526117414/0001193125-26-117414-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
+
+- **10-K** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312526117404/0001193125-26-117404-index.htm)
 
 - **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026030956/0001213900-26-030956-index.htm)
@@ -129,11 +138,11 @@
 - **6-K** | dLocal Ltd  (DLO)  (CIK 0001846832)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000207097926000110/0002070979-26-000110-index.htm)
 
-- **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026020062/0001628280-26-020062-index.htm)
-
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
+
+- **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026020062/0001628280-26-020062-index.htm)
 
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526113792/0001193125-26-113792-index.htm)
@@ -173,6 +182,9 @@
 
 - **N-14 8C** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000121390026031786/0001213900-26-031786-index.htm)
+
+- **S-1** | DentonX Inc  (CIK 0002093375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093375/000209337526000002/0002093375-26-000002-index.htm)
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
