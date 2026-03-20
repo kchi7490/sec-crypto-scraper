@@ -51,6 +51,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019636/0001628280-26-019636-index.htm)
 
+- **S-4/A** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026032458/0001213900-26-032458-index.htm)
+
 - **10-K** | TaoWeave, Inc.  (TWAV)  (CIK 0000746210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746210/000143774926009237/0001437749-26-009237-index.htm)
 
@@ -81,8 +84,14 @@
 - **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226011640/0001493152-26-011640-index.htm)
 
+- **10-K** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315226012004/0001493152-26-012004-index.htm)
+
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226010911/0001493152-26-010911-index.htm)
+
+- **PREM14C** | EKSO BIONICS HOLDINGS, INC.  (EKSO)  (CIK 0001549084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000143774926009267/0001437749-26-009267-index.htm)
 
 - **10-K** | PEOPLES FINANCIAL CORP /MS/  (PFBX)  (CIK 0000770460)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/770460/000110465926030236/0001104659-26-030236-index.htm)
@@ -101,6 +110,9 @@
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000296/0001137360-26-000296-index.htm)
+
+- **20-F** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226011985/0001493152-26-011985-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/0001137360-26-000292-index.htm)
@@ -144,6 +156,9 @@
 - **10-K** | VistaOne, L.P.  (CIK 0002044820)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044820/000204482026000009/0002044820-26-000009-index.htm)
 
+- **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000502/0001640334-26-000502-index.htm)
+
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000475/0001640334-26-000475-index.htm)
 
@@ -174,6 +189,9 @@
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
 
+- **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326001828/0001171843-26-001828-index.htm)
+
 - **424B5** | ING GROEP NV  (ING, INGVF)  (CIK 0001039765)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039765/000119312526113792/0001193125-26-113792-index.htm)
 
@@ -197,6 +215,12 @@
 
 - **6-K** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226010671/0001493152-26-010671-index.htm)
+
+- **6-K** | AGNICO EAGLE MINES LTD  (AEM)  (CIK 0000002809)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2809/000110465926032797/0001104659-26-032797-index.htm)
+
+- **6-K** | Elemental Royalty Corp  (ELE)  (CIK 0002086771)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086771/000106299326001562/0001062993-26-001562-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001495/0001062993-26-001495-index.htm)
@@ -245,4 +269,7 @@
 
 - **10-K** | KKR Enhanced US Direct Lending Fund-L Inc.  (CIK 0002012839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012839/000162828026019903/0001628280-26-019903-index.htm)
+
+- **485APOS** | ARK ETF Trust  (CIK 0001579982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579982/000121390026032448/0001213900-26-032448-index.htm)
 
