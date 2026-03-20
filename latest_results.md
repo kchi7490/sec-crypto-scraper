@@ -108,6 +108,9 @@
 - **424B5** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226011043/0001493152-26-011043-index.htm)
 
+- **6-K** | Yiren Digital Ltd.  (YRD)  (CIK 0001631761)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1631761/000121390026032058/0001213900-26-032058-index.htm)
+
 - **SCHEDULE 13D** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926029990/0001104659-26-029990-index.htm)
 
