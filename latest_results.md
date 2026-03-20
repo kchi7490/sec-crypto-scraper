@@ -138,6 +138,9 @@
 - **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001547/0001062993-26-001547-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026032100/0001213900-26-032100-index.htm)
+
 - **6-K** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226010671/0001493152-26-010671-index.htm)
 
@@ -161,6 +164,9 @@
 
 - **1-A/A** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226010636/0001493152-26-010636-index.htm)
+
+- **425** | Parataxis Holdings Inc.  (PRTX)  (CIK 0002079180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926032473/0001104659-26-032473-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026030889/0001213900-26-030889-index.htm)
