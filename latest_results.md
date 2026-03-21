@@ -123,11 +123,11 @@
 - **6-K** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326001823/0001171843-26-001823-index.htm)
 
-- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
-
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026020062/0001628280-26-020062-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
 
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326001828/0001171843-26-001828-index.htm)
