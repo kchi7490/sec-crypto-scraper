@@ -3,24 +3,6 @@
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526117632/0001193125-26-117632-index.htm)
 
-- **10-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026019870/0001628280-26-019870-index.htm)
-
-- **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000023/0002055592-26-000023-index.htm)
-
-- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926031736/0001104659-26-031736-index.htm)
-
-- **DEFA14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526115194/0001193125-26-115194-index.htm)
-
-- **10-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019879/0001628280-26-019879-index.htm)
-
-- **10-K** | NovaBay Pharmaceuticals, Inc.  (NBY)  (CIK 0001389545)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926009090/0001437749-26-009090-index.htm)
-
 - **10-K** | Bitwise Chainlink ETF  (CLNK)  (CIK 0002082889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000119312526117419/0001193125-26-117419-index.htm)
 
@@ -30,17 +12,11 @@
 - **10-K** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526117414/0001193125-26-117414-index.htm)
 
-- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826001997/0001683168-26-001997-index.htm)
-
 - **10-K** | Bitwise Dogecoin ETF  (BWOW)  (CIK 0002053791)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000119312526117532/0001193125-26-117532-index.htm)
 
 - **10-K** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312526117404/0001193125-26-117404-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026019636/0001628280-26-019636-index.htm)
 
 - **S-4/A** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026032458/0001213900-26-032458-index.htm)
@@ -50,12 +26,6 @@
 
 - **S-1** | Grayscale HYPE ETF  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/0001193125-26-117603-index.htm)
-
-- **10-K** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626002517/0001829126-26-002517-index.htm)
-
-- **F-1/A** | OFA Group  (OFAL)  (CIK 0002036307)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226011640/0001493152-26-011640-index.htm)
 
 - **10-K** | Wellgistics Health, Inc.  (WGRX)  (CIK 0002030763)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2030763/000149315226012004/0001493152-26-012004-index.htm)
@@ -78,32 +48,8 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/0001137360-26-000294-index.htm)
 
-- **S-4/A** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026019840/0001628280-26-019840-index.htm)
-
-- **10-Q/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226011692/0001493152-26-011692-index.htm)
-
-- **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001794/0001171843-26-001794-index.htm)
-
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926003619/0001214659-26-003619-index.htm)
-
-- **DEFA14A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326001795/0001171843-26-001795-index.htm)
-
-- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526000991/0001185185-26-000991-index.htm)
-
-- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526000992/0001185185-26-000992-index.htm)
-
-- **ARS** | Talen Energy Corp  (TLN)  (CIK 0001622536)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1622536/000162253626000025/0001622536-26-000025-index.htm)
-
-- **10-K** | UNITED STATES ANTIMONY CORP  (UAMY)  (CIK 0000101538)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/101538/000110465926032049/0001104659-26-032049-index.htm)
 
 - **10-K** | VistaOne, L.P.  (CIK 0002044820)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044820/000204482026000009/0002044820-26-000009-index.htm)
@@ -126,20 +72,11 @@
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026020062/0001628280-26-020062-index.htm)
 
-- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526115048/0001193125-26-115048-index.htm)
-
 - **424B3** | AlphaTON Capital Corp  (ATON)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326001828/0001171843-26-001828-index.htm)
 
-- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000225/0001279569-26-000225-index.htm)
-
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026032043/0001213900-26-032043-index.htm)
-
-- **6-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326001547/0001062993-26-001547-index.htm)
 
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026032100/0001213900-26-032100-index.htm)
@@ -155,18 +92,6 @@
 
 - **10-K** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000197439526000006/0001974395-26-000006-index.htm)
-
-- **487** | FT 12839  (CIK 0002100349)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2100349/000144554626002076/0001445546-26-002076-index.htm)
-
-- **487** | FT 12777  (CIK 0002096317)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096317/000144554626002075/0001445546-26-002075-index.htm)
-
-- **485APOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826003808/0001133228-26-003808-index.htm)
-
-- **N-14 8C** | Saba Capital Income & Opportunities Fund  (BRW)  (CIK 0000826020)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/826020/000121390026031786/0001213900-26-031786-index.htm)
 
 - **S-1** | DentonX Inc  (CIK 0002093375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093375/000209337526000002/0002093375-26-000002-index.htm)
