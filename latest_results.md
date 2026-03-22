@@ -108,6 +108,3 @@
 - **10-K** | KKR Enhanced US Direct Lending Fund-L Inc.  (CIK 0002012839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2012839/000162828026019903/0001628280-26-019903-index.htm)
 
-- **485APOS** | ARK ETF Trust  (CIK 0001579982)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1579982/000121390026032448/0001213900-26-032448-index.htm)
-
