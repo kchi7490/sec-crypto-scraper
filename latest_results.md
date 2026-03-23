@@ -36,6 +36,12 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026032634/0001213900-26-032634-index.htm)
 
+- **485APOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126006667/0001999371-26-006667-index.htm)
+
+- **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226012098/0001493152-26-012098-index.htm)
+
 - **424B4** | Janus Living, Inc.  (JAN)  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926032901/0001104659-26-032901-index.htm)
 
