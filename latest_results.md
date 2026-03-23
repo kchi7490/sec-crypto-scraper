@@ -6,6 +6,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012078/0001493152-26-012078-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002114/0001683168-26-002114-index.htm)
+
 - **DEF 14A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012087/0001493152-26-012087-index.htm)
 
@@ -18,11 +21,20 @@
 - **10-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226012088/0001493152-26-012088-index.htm)
 
+- **ARS** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026020510/0001628280-26-020510-index.htm)
+
+- **DEF 14A** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/0001628280-26-020500-index.htm)
+
 - **10-K** | PROCACCIANTI HOTEL REIT, INC.  (PRXA, PRXK)  (CIK 0001692345)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1692345/000110465926033232/0001104659-26-033232-index.htm)
 
 - **10-K** | Finwise Bancorp  (FINW)  (CIK 0001856365)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1856365/000185636526000006/0001856365-26-000006-index.htm)
+
+- **10-K** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026032928/0001213900-26-032928-index.htm)
 
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526118806/0001193125-26-118806-index.htm)
@@ -71,4 +83,7 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026032583/0001213900-26-032583-index.htm)
+
+- **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000199937126006695/0001999371-26-006695-index.htm)
 
