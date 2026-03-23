@@ -21,6 +21,9 @@
 - **10-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226012088/0001493152-26-012088-index.htm)
 
+- **POS AM** | Future Money Acquisition Corp  (FMAC)  (CIK 0002099232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315226012199/0001493152-26-012199-index.htm)
+
 - **ARS** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026020510/0001628280-26-020510-index.htm)
 
@@ -60,14 +63,26 @@
 - **PREC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm)
 
+- **DEF 14A** | Element Solutions Inc  (ESI)  (CIK 0001590714)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1590714/000159071426000034/0001590714-26-000034-index.htm)
+
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
 
 - **10-K** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426004872/0001888524-26-004872-index.htm)
 
+- **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000515/0001640334-26-000515-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026032634/0001213900-26-032634-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000231/0001279569-26-000231-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026032988/0001213900-26-032988-index.htm)
 
 - **485APOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126006667/0001999371-26-006667-index.htm)
@@ -78,11 +93,17 @@
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226012098/0001493152-26-012098-index.htm)
 
+- **N-1A/A** | Milliman Funds Trust  (CIK 0002096904)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096904/000199937126006731/0001999371-26-006731-index.htm)
+
 - **424B4** | Janus Living, Inc.  (JAN)  (CIK 0002100805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926032901/0001104659-26-032901-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026032583/0001213900-26-032583-index.htm)
+
+- **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315226012196/0001493152-26-012196-index.htm)
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000199937126006695/0001999371-26-006695-index.htm)
