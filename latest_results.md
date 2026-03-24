@@ -72,6 +72,9 @@
 - **10-K** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426004872/0001888524-26-004872-index.htm)
 
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000008/0001815776-26-000008-index.htm)
+
 - **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000515/0001640334-26-000515-index.htm)
 
