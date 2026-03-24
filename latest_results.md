@@ -6,6 +6,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012078/0001493152-26-012078-index.htm)
 
+- **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026020821/0001628280-26-020821-index.htm)
+
+- **DEFA14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026020822/0001628280-26-020822-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002114/0001683168-26-002114-index.htm)
 
@@ -14,6 +20,12 @@
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
+
+- **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000009/0002034012-26-000009-index.htm)
+
+- **10-K** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000008/0002034012-26-000008-index.htm)
 
 - **DEF 14A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012087/0001493152-26-012087-index.htm)
@@ -75,17 +87,29 @@
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000012/0001326380-26-000012-index.htm)
 
+- **10-K** | BTC Development Corp.  (BDCI, BDCIU, BDCIW)  (CIK 0002042292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390026033564/0001213900-26-033564-index.htm)
+
 - **PREC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm)
 
+- **10-K** | SUPA Consolidated Inc.  (SFCX)  (CIK 0001624985)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316826002170/0001683168-26-002170-index.htm)
+
 - **DEF 14A** | Element Solutions Inc  (ESI)  (CIK 0001590714)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590714/000159071426000034/0001590714-26-000034-index.htm)
+
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
 
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
 
 - **10-K** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426004872/0001888524-26-004872-index.htm)
+
+- **S-8** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000013/0001815776-26-000013-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000008/0001815776-26-000008-index.htm)
@@ -95,6 +119,9 @@
 
 - **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026033577/0001213900-26-033577-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033240/0001213900-26-033240-index.htm)
@@ -131,6 +158,9 @@
 
 - **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315226012196/0001493152-26-012196-index.htm)
+
+- **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000199937126006695/0001999371-26-006695-index.htm)
