@@ -9,6 +9,12 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002114/0001683168-26-002114-index.htm)
 
+- **10-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000013/0001326380-26-000013-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
+
 - **DEF 14A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012087/0001493152-26-012087-index.htm)
 
@@ -42,6 +48,9 @@
 - **10-K** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026032928/0001213900-26-032928-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
+
 - **424B5** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526118806/0001193125-26-118806-index.htm)
 
@@ -63,6 +72,9 @@
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526119098/0001193125-26-119098-index.htm)
 
+- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000012/0001326380-26-000012-index.htm)
+
 - **PREC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm)
 
@@ -80,6 +92,9 @@
 
 - **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000515/0001640334-26-000515-index.htm)
+
+- **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033240/0001213900-26-033240-index.htm)
