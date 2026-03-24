@@ -39,6 +39,9 @@
 - **424B5** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002135/0001683168-26-002135-index.htm)
 
+- **POS AM** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226012430/0001493152-26-012430-index.htm)
+
 - **10-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226012088/0001493152-26-012088-index.htm)
 
@@ -115,7 +118,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000008/0001815776-26-000008-index.htm)
 
 - **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000540/0001640334-26-000540-index.htm)
+
+- **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000515/0001640334-26-000515-index.htm)
+
+- **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000543/0001640334-26-000543-index.htm)
 
 - **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
