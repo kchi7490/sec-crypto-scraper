@@ -18,6 +18,9 @@
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226016470/0001839882-26-016470-index.htm)
 
+- **424B5** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002135/0001683168-26-002135-index.htm)
+
 - **10-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226012088/0001493152-26-012088-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000515/0001640334-26-000515-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033240/0001213900-26-033240-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026032634/0001213900-26-032634-index.htm)
