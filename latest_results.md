@@ -24,6 +24,9 @@
 - **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033858/0001213900-26-033858-index.htm)
 
+- **10-K** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526123930/0001193125-26-123930-index.htm)
+
 - **10-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495426002725/0001654954-26-002725-index.htm)
 
@@ -138,14 +141,14 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
 
-- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
-
 - **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
 
 - **10-K** | Chenghe Acquisition III Co.  (CHEC, CHECU, CHECW)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390026034000/0001213900-26-034000-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
 
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
