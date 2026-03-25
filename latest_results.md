@@ -48,6 +48,12 @@
 - **POS AM** | Future Money Acquisition Corp  (FMAC)  (CIK 0002099232)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315226012199/0001493152-26-012199-index.htm)
 
+- **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
+
+- **10-K** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926033988/0001104659-26-033988-index.htm)
+
 - **ARS** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026020510/0001628280-26-020510-index.htm)
 
@@ -96,9 +102,6 @@
 - **PREC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526000764/0000921895-26-000764-index.htm)
 
-- **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
-
 - **10-K** | SUPA Consolidated Inc.  (SFCX)  (CIK 0001624985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316826002170/0001683168-26-002170-index.htm)
 
@@ -107,9 +110,6 @@
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
-
-- **10-K** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926033988/0001104659-26-033988-index.htm)
 
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
