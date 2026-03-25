@@ -126,6 +126,9 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
 
+- **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
+
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
 
