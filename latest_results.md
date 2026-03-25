@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **10-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026034018/0001213900-26-034018-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226012086/0001493152-26-012086-index.htm)
 
@@ -81,8 +84,14 @@
 - **10-K** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026032928/0001213900-26-032928-index.htm)
 
+- **10-K** | FIRST NATIONAL CORP /VA/  (FXNC)  (CIK 0000719402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/719402/000143774926009748/0001437749-26-009748-index.htm)
+
 - **F-1** | AsiaPac AdTechinno Group Ltd  (CIK 0002087437)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087437/000149315226012613/0001493152-26-012613-index.htm)
+
+- **1-A** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000075/0001663577-26-000075-index.htm)
 
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
@@ -129,8 +138,14 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
+
 - **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
+
+- **10-K** | Chenghe Acquisition III Co.  (CHEC, CHECU, CHECW)  (CIK 0002047177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390026034000/0001213900-26-034000-index.htm)
 
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
