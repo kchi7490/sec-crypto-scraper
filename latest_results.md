@@ -150,20 +150,11 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026032988/0001213900-26-032988-index.htm)
 
-- **485APOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126006667/0001999371-26-006667-index.htm)
-
 - **S-1** | AEVEX Corp.  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526119150/0001193125-26-119150-index.htm)
 
-- **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226012098/0001493152-26-012098-index.htm)
-
 - **N-1A/A** | Milliman Funds Trust  (CIK 0002096904)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096904/000199937126006731/0001999371-26-006731-index.htm)
-
-- **424B4** | Janus Living, Inc.  (JAN)  (CIK 0002100805)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926032901/0001104659-26-032901-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026033720/0001213900-26-033720-index.htm)
@@ -182,4 +173,7 @@
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000199937126006695/0001999371-26-006695-index.htm)
+
+- **424B4** | Janus Living, Inc.  (JAN)  (CIK 0002100805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100805/000110465926032901/0001104659-26-032901-index.htm)
 
