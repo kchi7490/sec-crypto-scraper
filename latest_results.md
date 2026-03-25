@@ -9,6 +9,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012078/0001493152-26-012078-index.htm)
 
+- **S-1** | Cryptex Digital Market Cap ETF  (CIK 0002115027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.htm)
+
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026020821/0001628280-26-020821-index.htm)
 
@@ -60,6 +63,9 @@
 - **POS AM** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226012430/0001493152-26-012430-index.htm)
 
+- **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
+
 - **10-K** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226012088/0001493152-26-012088-index.htm)
 
@@ -77,6 +83,9 @@
 
 - **DEF 14A** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/0001628280-26-020500-index.htm)
+
+- **10-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312526124143/0001193125-26-124143-index.htm)
 
 - **10-K** | PROCACCIANTI HOTEL REIT, INC.  (PRXA, PRXK)  (CIK 0001692345)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1692345/000110465926033232/0001104659-26-033232-index.htm)
@@ -135,20 +144,26 @@
 - **10-K** | SUPA Consolidated Inc.  (SFCX)  (CIK 0001624985)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316826002170/0001683168-26-002170-index.htm)
 
+- **10-K** | GCT Semiconductor Holding, Inc.  (GCTS, GCTS-WT)  (CIK 0001851961)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1851961/000119312526124183/0001193125-26-124183-index.htm)
+
 - **DEF 14A** | Element Solutions Inc  (ESI)  (CIK 0001590714)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590714/000159071426000034/0001590714-26-000034-index.htm)
 
+- **10-K** | Cohen Circle Acquisition Corp. II  (CCII, CCIIU, CCIIW)  (CIK 0002064683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064683/000121390026034097/0001213900-26-034097-index.htm)
+
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
 
 - **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
 
 - **10-K** | Chenghe Acquisition III Co.  (CHEC, CHECU, CHECW)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390026034000/0001213900-26-034000-index.htm)
-
-- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
 
 - **10-K** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426005014/0001888524-26-005014-index.htm)
@@ -230,4 +245,7 @@
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000199937126006695/0001999371-26-006695-index.htm)
+
+- **10-K** | Steele Creek Capital Corp  (CIK 0001817825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1817825/000121390026034052/0001213900-26-034052-index.htm)
 
