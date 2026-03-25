@@ -39,6 +39,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012549/0001493152-26-012549-index.htm)
 
+- **10-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226012723/0001493152-26-012723-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
 
@@ -269,4 +272,7 @@
 
 - **10-K** | Steele Creek Capital Corp  (CIK 0001817825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817825/000121390026034052/0001213900-26-034052-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004658/0000950103-26-004658-index.htm)
 
