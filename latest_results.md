@@ -81,6 +81,9 @@
 - **10-K** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026032928/0001213900-26-032928-index.htm)
 
+- **F-1** | AsiaPac AdTechinno Group Ltd  (CIK 0002087437)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087437/000149315226012613/0001493152-26-012613-index.htm)
+
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
 
@@ -176,6 +179,9 @@
 
 - **485APOS** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126006667/0001999371-26-006667-index.htm)
+
+- **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
 - **S-1** | AEVEX Corp.  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526119150/0001193125-26-119150-index.htm)
