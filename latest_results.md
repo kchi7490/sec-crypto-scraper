@@ -54,6 +54,9 @@
 - **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226012102/0001493152-26-012102-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
+
 - **424B2** | MORGAN STANLEY  (MS, MS-PA, MS-PE, MS-PF, MS-PI, MS-PK, MS-PL, MS-PO, MS-PP, MS-PQ)  (CIK 0000895421)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226016470/0001839882-26-016470-index.htm)
 
@@ -105,6 +108,9 @@
 - **1-A** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000075/0001663577-26-000075-index.htm)
 
+- **20-F** | Marex Group plc  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000018/0001997464-26-000018-index.htm)
+
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
 
@@ -113,6 +119,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526118584/0001193125-26-118584-index.htm)
+
+- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012693/0001493152-26-012693-index.htm)
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033875/0001213900-26-033875-index.htm)
@@ -146,6 +155,9 @@
 
 - **10-K** | GCT Semiconductor Holding, Inc.  (GCTS, GCTS-WT)  (CIK 0001851961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851961/000119312526124183/0001193125-26-124183-index.htm)
+
+- **10-K** | Finward Bancorp  (FNWD)  (CIK 0000919864)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/919864/000162828026021073/0001628280-26-021073-index.htm)
 
 - **DEF 14A** | Element Solutions Inc  (ESI)  (CIK 0001590714)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590714/000159071426000034/0001590714-26-000034-index.htm)
@@ -186,8 +198,14 @@
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000543/0001640334-26-000543-index.htm)
 
+- **DEF 14A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000025/0001726978-26-000025-index.htm)
+
 - **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
+
+- **ARS** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000028/0001726978-26-000028-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026033577/0001213900-26-033577-index.htm)
@@ -203,6 +221,9 @@
 
 - **20-F** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033857/0001213900-26-033857-index.htm)
+
+- **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000019/0001997464-26-000019-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000231/0001279569-26-000231-index.htm)
