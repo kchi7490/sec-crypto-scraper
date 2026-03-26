@@ -3,6 +3,9 @@
 - **10-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026034018/0001213900-26-034018-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226012777/0001493152-26-012777-index.htm)
+
 - **S-1** | Cryptex Digital Market Cap ETF  (CIK 0002115027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.htm)
 
@@ -36,11 +39,20 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
 
+- **10-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000015/0001627282-26-000015-index.htm)
+
+- **10-12G/A** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012756/0001493152-26-012756-index.htm)
+
 - **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000009/0002034012-26-000009-index.htm)
 
 - **10-K** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000008/0002034012-26-000008-index.htm)
+
+- **10-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012758/0001493152-26-012758-index.htm)
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
@@ -156,8 +168,14 @@
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026033720/0001213900-26-033720-index.htm)
 
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026034263/0001213900-26-034263-index.htm)
+
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026033176/0001213900-26-033176-index.htm)
+
+- **10-K** | AB Private Credit Investors Corp  (CIK 0001634452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1634452/000119312526124450/0001193125-26-124450-index.htm)
 
 - **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
