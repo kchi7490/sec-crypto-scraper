@@ -69,6 +69,9 @@
 - **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
 
+- **POS AM** | Xdata Group  (CIK 0002038688)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226012861/0001493152-26-012861-index.htm)
+
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
 
