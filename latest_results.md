@@ -75,6 +75,9 @@
 - **10-K** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926033988/0001104659-26-033988-index.htm)
 
+- **S-1** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012765/0001493152-26-012765-index.htm)
+
 - **10-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312526124143/0001193125-26-124143-index.htm)
 
@@ -92,6 +95,9 @@
 
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226000873/0000950142-26-000873-index.htm)
 
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012693/0001493152-26-012693-index.htm)
@@ -159,14 +165,26 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033240/0001213900-26-033240-index.htm)
 
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026034401/0001213900-26-034401-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026034383/0001213900-26-034383-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033853/0001213900-26-033853-index.htm)
+
+- **6-K** | OceanPal Inc.  (SVRN)  (CIK 0001869467)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957426001898/0000919574-26-001898-index.htm)
 
 - **20-F** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033857/0001213900-26-033857-index.htm)
 
 - **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000019/0001997464-26-000019-index.htm)
+
+- **6-K/A** | BANK BRADESCO  (BBD, BBDO)  (CIK 0001160330)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1160330/000129281426001784/0001292814-26-001784-index.htm)
 
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
