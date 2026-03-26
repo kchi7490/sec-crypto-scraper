@@ -42,6 +42,9 @@
 - **10-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000015/0001627282-26-000015-index.htm)
 
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926034858/0001104659-26-034858-index.htm)
+
 - **10-12G/A** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012756/0001493152-26-012756-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **10-K** | Finward Bancorp  (FNWD)  (CIK 0000919864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/919864/000162828026021073/0001628280-26-021073-index.htm)
+
+- **10-K** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026034341/0001213900-26-034341-index.htm)
 
 - **10-K** | Cohen Circle Acquisition Corp. II  (CCII, CCIIU, CCIIW)  (CIK 0002064683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064683/000121390026034097/0001213900-26-034097-index.htm)
