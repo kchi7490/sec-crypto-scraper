@@ -18,6 +18,9 @@
 - **8-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026033883/0001213900-26-033883-index.htm)
 
+- **10-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226012916/0001493152-26-012916-index.htm)
+
 - **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033858/0001213900-26-033858-index.htm)
 
@@ -36,17 +39,26 @@
 - **10-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226012723/0001493152-26-012723-index.htm)
 
+- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000017/0001740604-26-000017-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
 
 - **10-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000015/0001627282-26-000015-index.htm)
 
+- **10-K/A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012912/0001493152-26-012912-index.htm)
+
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926034858/0001104659-26-034858-index.htm)
 
 - **10-12G/A** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012756/0001493152-26-012756-index.htm)
+
+- **S-1/A** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026034701/0001213900-26-034701-index.htm)
 
 - **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000009/0002034012-26-000009-index.htm)
@@ -75,6 +87,18 @@
 - **POS AM** | OU XDATA GROUP  (CIK 0002045727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045727/000149315226012874/0001493152-26-012874-index.htm)
 
+- **10-K** | Iris Acquisition Corp II  (IRAB, IRAB-UN, IRAB-WT)  (CIK 0002077785)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077785/000118518526001068/0001185185-26-001068-index.htm)
+
+- **10-K** | Apex Treasury Corp  (APXT, APXTU, APXTW)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390026034729/0001213900-26-034729-index.htm)
+
+- **20-F** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526001069/0001185185-26-001069-index.htm)
+
+- **424B5** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226012906/0001493152-26-012906-index.htm)
+
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
 
@@ -84,8 +108,17 @@
 - **S-1** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012765/0001493152-26-012765-index.htm)
 
+- **ARS** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000088/0001758730-26-000088-index.htm)
+
+- **F-1/A** | Wealth Management System Inc.  (GIVE)  (CIK 0002074158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074158/000149315226012895/0001493152-26-012895-index.htm)
+
 - **10-K** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312526124143/0001193125-26-124143-index.htm)
+
+- **DEF 14A** | DraftKings Inc.  (DKNG)  (CIK 0001883685)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1883685/000110465926035176/0001104659-26-035176-index.htm)
 
 - **10-K** | FIRST NATIONAL CORP /VA/  (FXNC)  (CIK 0000719402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/719402/000143774926009748/0001437749-26-009748-index.htm)
@@ -221,6 +254,9 @@
 
 - **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
+
+- **DEF 14A** | CNO Financial Group, Inc.  (CNO, CNO-PA)  (CIK 0001224608)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1224608/000122460826000029/0001224608-26-000029-index.htm)
 
 - **10-K** | Steele Creek Capital Corp  (CIK 0001817825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1817825/000121390026034052/0001213900-26-034052-index.htm)
