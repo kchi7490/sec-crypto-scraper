@@ -72,6 +72,9 @@
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226012861/0001493152-26-012861-index.htm)
 
+- **POS AM** | OU XDATA GROUP  (CIK 0002045727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2045727/000149315226012874/0001493152-26-012874-index.htm)
+
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
 
@@ -189,8 +192,14 @@
 - **6-K/A** | BANK BRADESCO  (BBD, BBDO)  (CIK 0001160330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1160330/000129281426001784/0001292814-26-001784-index.htm)
 
+- **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001640/0001062993-26-001640-index.htm)
+
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001421/0001592900-26-001421-index.htm)
 
 - **NPORT-P** | Saba Capital Income & Opportunities Fund II  (SABA)  (CIK 0000828803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/828803/000104916926000839/0001049169-26-000839-index.htm)
