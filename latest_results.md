@@ -42,8 +42,14 @@
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000017/0001740604-26-000017-index.htm)
 
+- **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026034847/0001213900-26-034847-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026034851/0001213900-26-034851-index.htm)
 
 - **10-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000015/0001627282-26-000015-index.htm)
@@ -68,6 +74,9 @@
 
 - **10-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012758/0001493152-26-012758-index.htm)
+
+- **S-4** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226013001/0001493152-26-013001-index.htm)
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
@@ -105,6 +114,9 @@
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
 
+- **10-K** | Proem Acquisition Corp. I  (PAAC, PAACU)  (CIK 0002087446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026034861/0001213900-26-034861-index.htm)
+
 - **10-K** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926033988/0001104659-26-033988-index.htm)
 
@@ -122,6 +134,9 @@
 
 - **DEF 14A** | DraftKings Inc.  (DKNG)  (CIK 0001883685)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1883685/000110465926035176/0001104659-26-035176-index.htm)
+
+- **10-K** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000026/0002026478-26-000026-index.htm)
 
 - **10-K** | FIRST NATIONAL CORP /VA/  (FXNC)  (CIK 0000719402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/719402/000143774926009748/0001437749-26-009748-index.htm)
@@ -198,6 +213,9 @@
 - **DEF 14A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000025/0001726978-26-000025-index.htm)
 
+- **10-K** | WEN Acquisition Corp  (WENN, WENNU, WENNW)  (CIK 0002057043)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057043/000121390026034867/0001213900-26-034867-index.htm)
+
 - **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
 
@@ -243,6 +261,9 @@
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
+- **1-A** | WINNERS, INC.  (CIK 0001587603)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
+
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001421/0001592900-26-001421-index.htm)
 
@@ -266,9 +287,6 @@
 
 - **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
-
-- **10-K** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000026/0002026478-26-000026-index.htm)
 
 - **DEF 14A** | CNO Financial Group, Inc.  (CNO, CNO-PA)  (CIK 0001224608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1224608/000122460826000029/0001224608-26-000029-index.htm)
