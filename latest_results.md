@@ -189,6 +189,9 @@
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
+- **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/0001133228-26-004073-index.htm)
+
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026033720/0001213900-26-033720-index.htm)
 
