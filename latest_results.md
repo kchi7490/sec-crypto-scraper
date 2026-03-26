@@ -96,6 +96,9 @@
 - **20-F** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526001069/0001185185-26-001069-index.htm)
 
+- **10-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000149315226012945/0001493152-26-012945-index.htm)
+
 - **424B5** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226012906/0001493152-26-012906-index.htm)
 
@@ -189,6 +192,9 @@
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000543/0001640334-26-000543-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000554/0001640334-26-000554-index.htm)
+
 - **DEF 14A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000025/0001726978-26-000025-index.htm)
 
@@ -219,11 +225,17 @@
 - **20-F** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033857/0001213900-26-033857-index.htm)
 
+- **10-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226012943/0001493152-26-012943-index.htm)
+
 - **6-K** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000019/0001997464-26-000019-index.htm)
 
 - **6-K/A** | BANK BRADESCO  (BBD, BBDO)  (CIK 0001160330)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1160330/000129281426001784/0001292814-26-001784-index.htm)
+
+- **20-F** | YPF SOCIEDAD ANONIMA  (YPF)  (CIK 0000904851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/904851/000119312526126363/0001193125-26-126363-index.htm)
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001640/0001062993-26-001640-index.htm)
@@ -254,6 +266,9 @@
 
 - **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
+
+- **10-K** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000026/0002026478-26-000026-index.htm)
 
 - **DEF 14A** | CNO Financial Group, Inc.  (CNO, CNO-PA)  (CIK 0001224608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1224608/000122460826000029/0001224608-26-000029-index.htm)
