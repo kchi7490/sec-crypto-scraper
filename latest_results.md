@@ -6,6 +6,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226012777/0001493152-26-012777-index.htm)
 
+- **10-K** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026035576/0001213900-26-035576-index.htm)
+
 - **S-1** | Cryptex Digital Market Cap ETF  (CIK 0002115027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.htm)
 
@@ -27,6 +30,9 @@
 - **10-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495426002725/0001654954-26-002725-index.htm)
 
+- **10-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026035544/0001213900-26-035544-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012549/0001493152-26-012549-index.htm)
 
@@ -45,6 +51,9 @@
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000017/0001740604-26-000017-index.htm)
 
+- **10-K** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465926003899/0001214659-26-003899-index.htm)
+
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026034847/0001213900-26-034847-index.htm)
 
@@ -56,6 +65,9 @@
 
 - **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026034894/0001213900-26-034894-index.htm)
+
+- **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013224/0001493152-26-013224-index.htm)
 
 - **10-K/A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012912/0001493152-26-012912-index.htm)
@@ -78,6 +90,9 @@
 - **10-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012758/0001493152-26-012758-index.htm)
 
+- **10-K/A** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041326000927/0000930413-26-000927-index.htm)
+
 - **S-4** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226013001/0001493152-26-013001-index.htm)
 
@@ -87,17 +102,26 @@
 - **10-K** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312526126850/0001193125-26-126850-index.htm)
 
+- **10-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002333/0001683168-26-002333-index.htm)
+
 - **20-F** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226013109/0001493152-26-013109-index.htm)
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
 
+- **10-K** | Viewbix Inc.  (VBIX)  (CIK 0000797542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/797542/000149315226013205/0001493152-26-013205-index.htm)
+
 - **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002301/0001683168-26-002301-index.htm)
 
 - **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
+
+- **424B5** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526129200/0001193125-26-129200-index.htm)
 
 - **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002303/0001683168-26-002303-index.htm)
@@ -135,6 +159,9 @@
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
 
+- **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926036138/0001104659-26-036138-index.htm)
+
 - **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002302/0001683168-26-002302-index.htm)
 
@@ -143,6 +170,9 @@
 
 - **10-K** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926033988/0001104659-26-033988-index.htm)
+
+- **10-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000004/0001591956-26-000004-index.htm)
 
 - **S-1** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012765/0001493152-26-012765-index.htm)
@@ -161,6 +191,9 @@
 
 - **10-K** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000026/0002026478-26-000026-index.htm)
+
+- **ARS** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000035/0002026478-26-000035-index.htm)
 
 - **10-K** | FIRST NATIONAL CORP /VA/  (FXNC)  (CIK 0000719402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/719402/000143774926009748/0001437749-26-009748-index.htm)
@@ -189,11 +222,17 @@
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033875/0001213900-26-033875-index.htm)
 
+- **10-K** | GSR IV Acquisition Corp.  (GSRF, GSRFR, GSRFU)  (CIK 0002072404)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2072404/000121390026035582/0001213900-26-035582-index.htm)
+
 - **10-K** | GCT Semiconductor Holding, Inc.  (GCTS, GCTS-WT)  (CIK 0001851961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851961/000119312526124183/0001193125-26-124183-index.htm)
 
 - **10-K** | Finward Bancorp  (FNWD)  (CIK 0000919864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/919864/000162828026021073/0001628280-26-021073-index.htm)
+
+- **10-K** | OTG Acquisition Corp. I  (OTGA, OTGAU, OTGAW)  (CIK 0002077010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315226013203/0001493152-26-013203-index.htm)
 
 - **10-K** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026034341/0001213900-26-034341-index.htm)
@@ -279,6 +318,9 @@
 - **NPORT-P** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000207169126007577/0002071691-26-007577-index.htm)
 
+- **10-K** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626000391/0001096906-26-000391-index.htm)
+
 - **1-A** | WINNERS, INC.  (CIK 0001587603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
 
@@ -293,6 +335,9 @@
 
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526128032/0001193125-26-128032-index.htm)
+
+- **485BPOS** | AB Active ETFs, Inc.  (CIK 0001496608)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496608/000091957426001950/0000919574-26-001950-index.htm)
 
 - **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036826033193/0001410368-26-033193-index.htm)
