@@ -69,6 +69,9 @@
 - **S-1/A** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026034701/0001213900-26-034701-index.htm)
 
+- **S-4** | Avalanche Treasury Corp  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926036025/0001104659-26-036025-index.htm)
+
 - **10-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000020/0001740604-26-000020-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002303/0001683168-26-002303-index.htm)
+
+- **424B4** | Future Money Acquisition Corp  (FMAC)  (CIK 0002099232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099232/000149315226013158/0001493152-26-013158-index.htm)
 
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226012861/0001493152-26-012861-index.htm)
@@ -258,6 +264,9 @@
 - **S-1** | Yesway, Inc.  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926035973/0001104659-26-035973-index.htm)
 
+- **485BPOS** | GOLDMAN SACHS TRUST  (CIK 0000822977)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/822977/000119312526128733/0001193125-26-128733-index.htm)
+
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
@@ -266,6 +275,9 @@
 
 - **RW** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000558/0001640334-26-000558-index.htm)
+
+- **NPORT-P** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000207169126007577/0002071691-26-007577-index.htm)
 
 - **1-A** | WINNERS, INC.  (CIK 0001587603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
