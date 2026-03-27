@@ -252,8 +252,14 @@
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001640/0001062993-26-001640-index.htm)
 
+- **487** | FT 12780  (CIK 0002096883)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096883/000144554626002369/0001445546-26-002369-index.htm)
+
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
+
+- **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000042/0001898391-26-000042-index.htm)
 
 - **RW** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000558/0001640334-26-000558-index.htm)
@@ -266,6 +272,9 @@
 
 - **NPORT-P** | Saba Capital Income & Opportunities Fund II  (SABA)  (CIK 0000828803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/828803/000104916926000839/0001049169-26-000839-index.htm)
+
+- **NPORT-P** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000207169126007342/0002071691-26-007342-index.htm)
 
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526128032/0001193125-26-128032-index.htm)
