@@ -69,6 +69,9 @@
 - **S-4** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226013001/0001493152-26-013001-index.htm)
 
+- **10-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526127278/0001193125-26-127278-index.htm)
+
 - **10-K** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312526126850/0001193125-26-126850-index.htm)
 
