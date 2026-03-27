@@ -102,6 +102,9 @@
 - **20-F** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526001069/0001185185-26-001069-index.htm)
 
+- **10-K** | SBC Medical Group Holdings Inc  (SBC, SBCWW)  (CIK 0001930313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930313/000119312526127557/0001193125-26-127557-index.htm)
+
 - **10-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000149315226012945/0001493152-26-012945-index.htm)
 
@@ -152,6 +155,9 @@
 
 - **20-F** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000018/0001997464-26-000018-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526127571/0001193125-26-127571-index.htm)
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226000873/0000950142-26-000873-index.htm)
@@ -227,6 +233,9 @@
 
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
+
+- **20-F** | Opera Ltd  (OPRA)  (CIK 0001737450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737450/000173745026000005/0001737450-26-000005-index.htm)
 
 - **1-A** | WINNERS, INC.  (CIK 0001587603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
