@@ -9,12 +9,6 @@
 - **S-1** | Cryptex Digital Market Cap ETF  (CIK 0002115027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.htm)
 
-- **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026020821/0001628280-26-020821-index.htm)
-
-- **DEFA14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026020822/0001628280-26-020822-index.htm)
-
 - **8-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026033883/0001213900-26-033883-index.htm)
 
@@ -30,9 +24,6 @@
 - **10-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000165495426002725/0001654954-26-002725-index.htm)
 
-- **10-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000013/0001326380-26-000013-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012549/0001493152-26-012549-index.htm)
 
@@ -44,9 +35,6 @@
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026034847/0001213900-26-034847-index.htm)
-
-- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526121822/0001193125-26-121822-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026034851/0001213900-26-034851-index.htm)
@@ -66,12 +54,6 @@
 - **S-1/A** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026034701/0001213900-26-034701-index.htm)
 
-- **424B3** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000009/0002034012-26-000009-index.htm)
-
-- **10-K** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000008/0002034012-26-000008-index.htm)
-
 - **10-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012758/0001493152-26-012758-index.htm)
 
@@ -80,12 +62,6 @@
 
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
-
-- **424B5** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002135/0001683168-26-002135-index.htm)
-
-- **POS AM** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226012430/0001493152-26-012430-index.htm)
 
 - **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
@@ -150,9 +126,6 @@
 - **20-F** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000018/0001997464-26-000018-index.htm)
 
-- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000045/0001783879-26-000045-index.htm)
-
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226000873/0000950142-26-000873-index.htm)
 
@@ -161,15 +134,6 @@
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033875/0001213900-26-033875-index.htm)
-
-- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000012/0001326380-26-000012-index.htm)
-
-- **10-K** | BTC Development Corp.  (BDCI, BDCIU, BDCIW)  (CIK 0002042292)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2042292/000121390026033564/0001213900-26-033564-index.htm)
-
-- **10-K** | SUPA Consolidated Inc.  (SFCX)  (CIK 0001624985)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1624985/000168316826002170/0001683168-26-002170-index.htm)
 
 - **10-K** | GCT Semiconductor Holding, Inc.  (GCTS, GCTS-WT)  (CIK 0001851961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851961/000119312526124183/0001193125-26-124183-index.htm)
@@ -183,9 +147,6 @@
 - **10-K** | Cohen Circle Acquisition Corp. II  (CCII, CCIIU, CCIIW)  (CIK 0002064683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064683/000121390026034097/0001213900-26-034097-index.htm)
 
-- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026033593/0001213900-26-033593-index.htm)
-
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
 
@@ -194,18 +155,6 @@
 
 - **10-K** | Chenghe Acquisition III Co.  (CHEC, CHECU, CHECW)  (CIK 0002047177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047177/000121390026034000/0001213900-26-034000-index.htm)
-
-- **S-8** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000013/0001815776-26-000013-index.htm)
-
-- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000008/0001815776-26-000008-index.htm)
-
-- **S-1/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000540/0001640334-26-000540-index.htm)
-
-- **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000543/0001640334-26-000543-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000554/0001640334-26-000554-index.htm)
@@ -216,17 +165,8 @@
 - **10-K** | WEN Acquisition Corp  (WENN, WENNU, WENNW)  (CIK 0002057043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057043/000121390026034867/0001213900-26-034867-index.htm)
 
-- **10-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000011/0001815776-26-000011-index.htm)
-
 - **ARS** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000028/0001726978-26-000028-index.htm)
-
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026033577/0001213900-26-033577-index.htm)
-
-- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026033240/0001213900-26-033240-index.htm)
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026034401/0001213900-26-034401-index.htm)
@@ -279,14 +219,8 @@
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026034263/0001213900-26-034263-index.htm)
 
-- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026033176/0001213900-26-033176-index.htm)
-
 - **10-K** | AB Private Credit Investors Corp  (CIK 0001634452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1634452/000119312526124450/0001193125-26-124450-index.htm)
-
-- **10-K** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526122165/0001193125-26-122165-index.htm)
 
 - **DEF 14A** | CNO Financial Group, Inc.  (CNO, CNO-PA)  (CIK 0001224608)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1224608/000122460826000029/0001224608-26-000029-index.htm)
