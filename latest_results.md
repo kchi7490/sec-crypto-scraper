@@ -27,6 +27,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226012549/0001493152-26-012549-index.htm)
 
+- **10-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226013032/0001493152-26-013032-index.htm)
+
 - **10-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226012723/0001493152-26-012723-index.htm)
 
@@ -42,6 +45,9 @@
 - **10-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000015/0001627282-26-000015-index.htm)
 
+- **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026034894/0001213900-26-034894-index.htm)
+
 - **10-K/A** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226012912/0001493152-26-012912-index.htm)
 
@@ -54,17 +60,29 @@
 - **S-1/A** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026034701/0001213900-26-034701-index.htm)
 
+- **10-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000020/0001740604-26-000020-index.htm)
+
 - **10-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226012758/0001493152-26-012758-index.htm)
 
 - **S-4** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226013001/0001493152-26-013001-index.htm)
 
+- **10-K** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312526126850/0001193125-26-126850-index.htm)
+
 - **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000011/0001627282-26-000011-index.htm)
 
+- **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002301/0001683168-26-002301-index.htm)
+
 - **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
+
+- **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002303/0001683168-26-002303-index.htm)
 
 - **POS AM** | Xdata Group  (CIK 0002038688)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226012861/0001493152-26-012861-index.htm)
@@ -84,11 +102,17 @@
 - **10-K** | Worksport Ltd  (WKSP)  (CIK 0001096275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096275/000149315226012945/0001493152-26-012945-index.htm)
 
+- **10-K** | Republic Digital Acquisition Co  (RDAG, RDAGU, RDAGW)  (CIK 0002055459)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055459/000121390026034938/0001213900-26-034938-index.htm)
+
 - **424B5** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226012906/0001493152-26-012906-index.htm)
 
 - **10-K** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000016/0001017386-26-000016-index.htm)
+
+- **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002302/0001683168-26-002302-index.htm)
 
 - **10-K** | Proem Acquisition Corp. I  (PAAC, PAACU)  (CIK 0002087446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087446/000121390026034861/0001213900-26-034861-index.htm)
