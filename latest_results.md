@@ -33,6 +33,9 @@
 - **10-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226012723/0001493152-26-012723-index.htm)
 
+- **20-F** | Opera Ltd  (OPRA)  (CIK 0001737450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737450/000173745026000005/0001737450-26-000005-index.htm)
+
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000017/0001740604-26-000017-index.htm)
 
@@ -166,6 +169,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226012693/0001493152-26-012693-index.htm)
 
 - **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026035163/0001213900-26-035163-index.htm)
+
+- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033875/0001213900-26-033875-index.htm)
 
 - **10-K** | GCT Semiconductor Holding, Inc.  (GCTS, GCTS-WT)  (CIK 0001851961)  
@@ -182,6 +188,9 @@
 
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.htm)
+
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm)
 
 - **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
@@ -234,8 +243,8 @@
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
-- **20-F** | Opera Ltd  (OPRA)  (CIK 0001737450)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1737450/000173745026000005/0001737450-26-000005-index.htm)
+- **RW** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000558/0001640334-26-000558-index.htm)
 
 - **1-A** | WINNERS, INC.  (CIK 0001587603)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
@@ -245,6 +254,9 @@
 
 - **NPORT-P** | Saba Capital Income & Opportunities Fund II  (SABA)  (CIK 0000828803)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/828803/000104916926000839/0001049169-26-000839-index.htm)
+
+- **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002305/0001683168-26-002305-index.htm)
 
 - **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/0001133228-26-004073-index.htm)
