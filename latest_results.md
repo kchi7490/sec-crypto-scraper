@@ -24,6 +24,9 @@
 - **424B5** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026033858/0001213900-26-033858-index.htm)
 
+- **10-K** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390026035625/0001213900-26-035625-index.htm)
+
 - **10-K** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526123930/0001193125-26-123930-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **8-K** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026034894/0001213900-26-034894-index.htm)
+
+- **10-K** | BOXABL Inc.  (CIK 0001816937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315226013273/0001493152-26-013273-index.htm)
 
 - **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013224/0001493152-26-013224-index.htm)
@@ -116,6 +122,9 @@
 
 - **POSASR** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002301/0001683168-26-002301-index.htm)
+
+- **10-K** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026035630/0001213900-26-035630-index.htm)
 
 - **10-K** | Lafayette Digital Acquisition Corp. I  (ZKP, ZKPU, ZKPW)  (CIK 0002087447)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087447/000121390026034100/0001213900-26-034100-index.htm)
@@ -204,8 +213,14 @@
 - **1-A** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000075/0001663577-26-000075-index.htm)
 
+- **S-4/A** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226013279/0001493152-26-013279-index.htm)
+
 - **20-F** | Marex Group plc  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000018/0001997464-26-000018-index.htm)
+
+- **10-K** | Gesher Acquisition Corp. II  (GSHR, GSHRU, GSHRW)  (CIK 0002044635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044635/000121390026035746/0001213900-26-035746-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526127571/0001193125-26-127571-index.htm)
@@ -231,11 +246,17 @@
 - **10-K** | Finward Bancorp  (FNWD)  (CIK 0000919864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/919864/000162828026021073/0001628280-26-021073-index.htm)
 
+- **10-K** | Alussa Energy Acquisition Corp. II  (ALUB, ALUB-UN, ALUB-WT)  (CIK 0002041493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041493/000121390026035639/0001213900-26-035639-index.htm)
+
 - **10-K** | OTG Acquisition Corp. I  (OTGA, OTGAU, OTGAW)  (CIK 0002077010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077010/000149315226013203/0001493152-26-013203-index.htm)
 
 - **10-K** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026034341/0001213900-26-034341-index.htm)
+
+- **F-4** | AIR Holdings Ltd  (CIK 0002097725)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097725/000119312526129446/0001193125-26-129446-index.htm)
 
 - **10-K** | Cohen Circle Acquisition Corp. II  (CCII, CCIIU, CCIIW)  (CIK 0002064683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064683/000121390026034097/0001213900-26-034097-index.htm)
@@ -245,6 +266,9 @@
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226013089/0001493152-26-013089-index.htm)
+
+- **S-8** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226013245/0001493152-26-013245-index.htm)
 
 - **10-K** | Nexalin Technology, Inc.  (NXL)  (CIK 0001527352)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527352/000182912626002673/0001829126-26-002673-index.htm)
@@ -263,6 +287,12 @@
 
 - **ARS** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000028/0001726978-26-000028-index.htm)
+
+- **10-K** | Launchpad Cadenza Acquisition Corp I  (LPCV, LPCVU, LPCVW)  (CIK 0002083728)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083728/000121390026035683/0001213900-26-035683-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226013235/0001493152-26-013235-index.htm)
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026035221/0001213900-26-035221-index.htm)
@@ -293,6 +323,12 @@
 
 - **20-F** | YPF SOCIEDAD ANONIMA  (YPF)  (CIK 0000904851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904851/000119312526126363/0001193125-26-126363-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226013261/0001493152-26-013261-index.htm)
+
+- **253G2** | SpotitEarly, Inc.  (CIK 0002077992)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077992/000109690626000393/0001096906-26-000393-index.htm)
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001640/0001062993-26-001640-index.htm)
@@ -353,6 +389,9 @@
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026034263/0001213900-26-034263-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126007085/0001999371-26-007085-index.htm)
 
 - **10-K** | AB Private Credit Investors Corp  (CIK 0001634452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1634452/000119312526124450/0001193125-26-124450-index.htm)
