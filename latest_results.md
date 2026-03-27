@@ -279,6 +279,9 @@
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526128032/0001193125-26-128032-index.htm)
 
+- **NPORT-P** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000141036826033193/0001410368-26-033193-index.htm)
+
 - **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002305/0001683168-26-002305-index.htm)
 
