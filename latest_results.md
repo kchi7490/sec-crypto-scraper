@@ -255,6 +255,9 @@
 - **487** | FT 12780  (CIK 0002096883)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096883/000144554626002369/0001445546-26-002369-index.htm)
 
+- **S-1** | Yesway, Inc.  (CIK 0001859836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926035973/0001104659-26-035973-index.htm)
+
 - **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
 
