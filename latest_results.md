@@ -195,11 +195,14 @@
 - **20-F** | YPF SOCIEDAD ANONIMA  (YPF)  (CIK 0000904851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904851/000119312526126363/0001193125-26-126363-index.htm)
 
-- **1-A** | WINNERS, INC.  (CIK 0001587603)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
-
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001640/0001062993-26-001640-index.htm)
+
+- **8-A12B** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/0001104659-26-034379-index.htm)
+
+- **1-A** | WINNERS, INC.  (CIK 0001587603)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226012984/0001493152-26-012984-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001421/0001592900-26-001421-index.htm)
