@@ -18,6 +18,9 @@
 - **10-K** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026035800/0001213900-26-035800-index.htm)
 
+- **10-K** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000565/0001640334-26-000565-index.htm)
+
 - **10-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/0001628280-26-021847-index.htm)
 
