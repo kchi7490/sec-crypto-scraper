@@ -9,6 +9,9 @@
 - **10-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013434/0001493152-26-013434-index.htm)
 
+- **10-K** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000114036126011942/0001140361-26-011942-index.htm)
+
 - **10-K** | HyOrc Corp  (HYOR)  (CIK 0001070789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1070789/000149315226013412/0001493152-26-013412-index.htm)
 
