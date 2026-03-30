@@ -69,6 +69,9 @@
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426006194/0001888524-26-006194-index.htm)
 
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426006329/0001888524-26-006329-index.htm)
+
 - **485BPOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/0001213900-26-035771-index.htm)
 
