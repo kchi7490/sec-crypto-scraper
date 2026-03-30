@@ -18,14 +18,35 @@
 - **10-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/0001628280-26-021847-index.htm)
 
+- **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002376/0001683168-26-002376-index.htm)
+
+- **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002377/0001683168-26-002377-index.htm)
+
+- **424B5** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226013474/0001493152-26-013474-index.htm)
+
+- **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002378/0001683168-26-002378-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526130446/0001193125-26-130446-index.htm)
+
 - **POSASR** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013336/0001493152-26-013336-index.htm)
 
 - **POSASR** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013337/0001493152-26-013337-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026021870/0001628280-26-021870-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226013456/0001493152-26-013456-index.htm)
+
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526130487/0001193125-26-130487-index.htm)
 
 - **40-F** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926036344/0001104659-26-036344-index.htm)
