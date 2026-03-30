@@ -24,6 +24,9 @@
 - **POSASR** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013337/0001493152-26-013337-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226013456/0001493152-26-013456-index.htm)
+
 - **40-F** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926036344/0001104659-26-036344-index.htm)
 
