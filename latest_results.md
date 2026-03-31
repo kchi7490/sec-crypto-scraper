@@ -186,11 +186,11 @@
 - **10-K** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226014015/0001493152-26-014015-index.htm)
 
-- **10-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226014135/0001493152-26-014135-index.htm)
-
 - **10-K** | Canary XRP ETF  (CIK 0002039505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937126007350/0001999371-26-007350-index.htm)
+
+- **10-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226014135/0001493152-26-014135-index.htm)
 
 - **10-K** | Canary Litecoin ETF  (CIK 0002039461)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937126007351/0001999371-26-007351-index.htm)
@@ -498,26 +498,26 @@
 - **NT 10-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226013605/0001493152-26-013605-index.htm)
 
-- **485BPOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/0001213900-26-035771-index.htm)
-
-- **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
-
-- **10-K** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312526132874/0001193125-26-132874-index.htm)
-
 - **NT 10-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004111/0001214659-26-004111-index.htm)
 
 - **10-K** | Universal Token  (UTKN)  (CIK 0001919182)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1919182/000117152026000041/0001171520-26-000041-index.htm)
 
-- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004974/0000950103-26-004974-index.htm)
+- **10-K** | PEDEVCO CORP  (PED)  (CIK 0001141197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426003098/0001654954-26-003098-index.htm)
+
+- **485BPOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/0001213900-26-035771-index.htm)
 
 - **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004974/0000950103-26-004974-index.htm)
+
+- **10-K** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312526132874/0001193125-26-132874-index.htm)
 
 - **DEF 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526134700/0001193125-26-134700-index.htm)
