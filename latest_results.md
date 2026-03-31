@@ -12,17 +12,20 @@
 - **424B3** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226013728/0001493152-26-013728-index.htm)
 
-- **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000005/0001805526-26-000005-index.htm)
-
 - **10-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526133333/0001193125-26-133333-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000005/0001805526-26-000005-index.htm)
 
 - **10-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013434/0001493152-26-013434-index.htm)
 
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001753/0001477932-26-001753-index.htm)
+
+- **10-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026037199/0001213900-26-037199-index.htm)
 
 - **10-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126007288/0001999371-26-007288-index.htm)
