@@ -18,6 +18,9 @@
 - **10-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013434/0001493152-26-013434-index.htm)
 
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001753/0001477932-26-001753-index.htm)
+
 - **10-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000006/0001805526-26-000006-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **10-K** | CareView Communications Inc  (CRVW)  (CIK 0001377149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1377149/000143774926010356/0001437749-26-010356-index.htm)
+
+- **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013799/0001493152-26-013799-index.htm)
 
 - **10-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000093041326000942/0000930413-26-000942-index.htm)
@@ -77,6 +83,9 @@
 
 - **10-K** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000114036126012036/0001140361-26-012036-index.htm)
+
+- **10-K** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926004051/0001214659-26-004051-index.htm)
 
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002376/0001683168-26-002376-index.htm)
@@ -144,6 +153,9 @@
 - **10-K** | Trailblazer Acquisition Corp.  (BLZR, BLZRU, BLZRW)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390026036383/0001213900-26-036383-index.htm)
 
+- **10-K** | ZW Data Action Technologies Inc.  (CNET)  (CIK 0001376321)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1376321/000117184326002058/0001171843-26-002058-index.htm)
+
 - **10-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026036715/0001213900-26-036715-index.htm)
 
@@ -180,6 +192,9 @@
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026036029/0001213900-26-036029-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000248/0001279569-26-000248-index.htm)
+
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526130487/0001193125-26-130487-index.htm)
 
@@ -191,6 +206,9 @@
 
 - **20-F** | Kenon Holdings Ltd.  (KEN)  (CIK 0001611005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611005/000117891326001842/0001178913-26-001842-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026036845/0001213900-26-036845-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026036036/0001213900-26-036036-index.htm)
