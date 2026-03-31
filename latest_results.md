@@ -12,11 +12,11 @@
 - **424B3** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226013728/0001493152-26-013728-index.htm)
 
-- **10-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526133333/0001193125-26-133333-index.htm)
-
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000005/0001805526-26-000005-index.htm)
+
+- **10-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526133333/0001193125-26-133333-index.htm)
 
 - **10-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226013434/0001493152-26-013434-index.htm)
@@ -29,6 +29,9 @@
 
 - **10-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126007288/0001999371-26-007288-index.htm)
+
+- **10-K** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315226014042/0001493152-26-014042-index.htm)
 
 - **10-K** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226013931/0001493152-26-013931-index.htm)
@@ -104,6 +107,9 @@
 
 - **10-K** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000565/0001640334-26-000565-index.htm)
+
+- **10-K** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226014015/0001493152-26-014015-index.htm)
 
 - **10-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/0001628280-26-021847-index.htm)
@@ -189,6 +195,9 @@
 - **8-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036958/0001213900-26-036958-index.htm)
 
+- **10-K** | LIXTE BIOTECHNOLOGY HOLDINGS, INC.  (LIXT)  (CIK 0001335105)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315226014052/0001493152-26-014052-index.htm)
+
 - **F-3** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026022241/0001628280-26-022241-index.htm)
 
@@ -200,6 +209,9 @@
 
 - **10-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026036715/0001213900-26-036715-index.htm)
+
+- **10-K** | CalEthos, Inc.  (GEDC)  (CIK 0001174891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174891/000149315226014045/0001493152-26-014045-index.htm)
 
 - **10-K** | Columbus Circle Capital Corp II  (CMII, CMIIU, CMIIW)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026036382/0001213900-26-036382-index.htm)
