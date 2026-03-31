@@ -126,6 +126,21 @@
 - **10-K** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226013603/0001493152-26-013603-index.htm)
 
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026036029/0001213900-26-036029-index.htm)
+
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526130487/0001193125-26-130487-index.htm)
+
+- **20-F** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326001877/0001178913-26-001877-index.htm)
+
+- **20-F** | Kenon Holdings Ltd.  (KEN)  (CIK 0001611005)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611005/000117891326001842/0001178913-26-001842-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026036036/0001213900-26-036036-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326004940/0000950103-26-004940-index.htm)
 
@@ -140,12 +155,6 @@
 
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326003715/0001099263-26-003715-index.htm)
-
-- **20-F** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326001877/0001178913-26-001877-index.htm)
-
-- **20-F** | Kenon Holdings Ltd.  (KEN)  (CIK 0001611005)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1611005/000117891326001842/0001178913-26-001842-index.htm)
 
 - **NT 10-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226013605/0001493152-26-013605-index.htm)
