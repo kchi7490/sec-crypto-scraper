@@ -138,6 +138,9 @@
 - **10-K** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390026036689/0001213900-26-036689-index.htm)
 
+- **424B3** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390026037102/0001213900-26-037102-index.htm)
+
 - **10-K** | KRAKacquisition Corp  (KRAQ, KRAQU, KRAQW)  (CIK 0002082119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126012031/0001140361-26-012031-index.htm)
 
@@ -266,6 +269,9 @@
 
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/0001213900-26-036703-index.htm)
+
+- **487** | FT 12781  (CIK 0002096884)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096884/000144554626002399/0001445546-26-002399-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326004940/0000950103-26-004940-index.htm)
