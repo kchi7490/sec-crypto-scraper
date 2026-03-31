@@ -30,6 +30,9 @@
 - **10-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126007288/0001999371-26-007288-index.htm)
 
+- **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026037398/0001213900-26-037398-index.htm)
+
 - **10-K** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315226014042/0001493152-26-014042-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **10-K** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226013861/0001493152-26-013861-index.htm)
+
+- **10-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000184497126000011/0001844971-26-000011-index.htm)
 
 - **10-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926037194/0001104659-26-037194-index.htm)
@@ -135,8 +141,14 @@
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002377/0001683168-26-002377-index.htm)
 
+- **10-K** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226014068/0001493152-26-014068-index.htm)
+
 - **424B5** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226013474/0001493152-26-013474-index.htm)
+
+- **10-K** | FutureCrest Acquisition Corp.  (FCRS, FCRS-UN, FCRS-WT)  (CIK 0002074697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074697/000121390026037400/0001213900-26-037400-index.htm)
 
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002378/0001683168-26-002378-index.htm)
@@ -165,8 +177,14 @@
 - **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
 
+- **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
+
 - **10-K** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312526132874/0001193125-26-132874-index.htm)
+
+- **8-K/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526134456/0001193125-26-134456-index.htm)
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013693/0001493152-26-013693-index.htm)
@@ -303,6 +321,9 @@
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326003715/0001099263-26-003715-index.htm)
 
+- **1-A** | Gratus Reserve V, LLC  (CIK 0002100527)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/0001829126-26-002923-index.htm)
+
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001494/0001592900-26-001494-index.htm)
 
@@ -311,6 +332,9 @@
 
 - **485BPOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/0001213900-26-035771-index.htm)
+
+- **8-K** | GEN Restaurant Group, Inc.  (GENK)  (CIK 0001891856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1891856/000119312526134491/0001193125-26-134491-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004974/0000950103-26-004974-index.htm)
