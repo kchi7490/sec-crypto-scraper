@@ -9,6 +9,9 @@
 - **10-K** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226013681/0001493152-26-013681-index.htm)
 
+- **424B3** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226013728/0001493152-26-013728-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000005/0001805526-26-000005-index.htm)
 
@@ -23,6 +26,12 @@
 
 - **10-K** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000114036126011942/0001140361-26-011942-index.htm)
+
+- **10-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026036810/0001213900-26-036810-index.htm)
+
+- **10-K** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926037194/0001104659-26-037194-index.htm)
 
 - **10-K** | HyOrc Corp  (HYOR)  (CIK 0001070789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1070789/000149315226013412/0001493152-26-013412-index.htm)
@@ -45,8 +54,14 @@
 - **10-K** | VanEck Avalanche ETF  (VAVX)  (CIK 0002060717)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000093041326000941/0000930413-26-000941-index.htm)
 
+- **10-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026036641/0001213900-26-036641-index.htm)
+
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926036864/0001104659-26-036864-index.htm)
+
+- **20-F** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526132456/0001193125-26-132456-index.htm)
 
 - **10-K** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026035800/0001213900-26-035800-index.htm)
@@ -59,6 +74,9 @@
 
 - **10-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026021847/0001628280-26-021847-index.htm)
+
+- **10-K** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000114036126012036/0001140361-26-012036-index.htm)
 
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002376/0001683168-26-002376-index.htm)
@@ -84,17 +102,35 @@
 - **F-1/A** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226013659/0001493152-26-013659-index.htm)
 
+- **10-K** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390026036689/0001213900-26-036689-index.htm)
+
 - **10-K** | KRAKacquisition Corp  (KRAQ, KRAQU, KRAQW)  (CIK 0002082119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126012031/0001140361-26-012031-index.htm)
 
+- **10-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626002854/0001829126-26-002854-index.htm)
+
+- **PRER14C** | EKSO BIONICS HOLDINGS, INC.  (EKSO)  (CIK 0001549084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000143774926010424/0001437749-26-010424-index.htm)
+
 - **10-K** | Spark I Acquisition Corp  (SPKL, SPKLU, SPKLW)  (CIK 0001884046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884046/000110465926036922/0001104659-26-036922-index.htm)
+
+- **10-K** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312526132874/0001193125-26-132874-index.htm)
+
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013693/0001493152-26-013693-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526130446/0001193125-26-130446-index.htm)
 
 - **POSASR** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013336/0001493152-26-013336-index.htm)
+
+- **8-K** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926010480/0001437749-26-010480-index.htm)
 
 - **POSASR** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226013337/0001493152-26-013337-index.htm)
@@ -108,8 +144,20 @@
 - **10-K** | Trailblazer Acquisition Corp.  (BLZR, BLZRU, BLZRW)  (CIK 0002075310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075310/000121390026036383/0001213900-26-036383-index.htm)
 
+- **10-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026036715/0001213900-26-036715-index.htm)
+
 - **10-K** | Columbus Circle Capital Corp II  (CMII, CMIIU, CMIIW)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026036382/0001213900-26-036382-index.htm)
+
+- **8-K** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926010477/0001437749-26-010477-index.htm)
+
+- **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926010474/0001437749-26-010474-index.htm)
+
+- **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926037118/0001104659-26-037118-index.htm)
 
 - **POSASR** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926036860/0001104659-26-036860-index.htm)
@@ -119,6 +167,9 @@
 
 - **8-K** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226013607/0001493152-26-013607-index.htm)
+
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000030/0001726978-26-000030-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000574/0001640334-26-000574-index.htm)
@@ -132,6 +183,9 @@
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526130487/0001193125-26-130487-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000245/0001279569-26-000245-index.htm)
+
 - **20-F** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326001877/0001178913-26-001877-index.htm)
 
@@ -140,6 +194,12 @@
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026036036/0001213900-26-036036-index.htm)
+
+- **10-K** | American National Group Inc.  (ANG-PD)  (CIK 0001039828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1039828/000103982826000004/0001039828-26-000004-index.htm)
+
+- **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/0001213900-26-036703-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326004940/0000950103-26-004940-index.htm)
