@@ -486,6 +486,9 @@
 - **10-K** | American National Group Inc.  (ANG-PD)  (CIK 0001039828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039828/000103982826000004/0001039828-26-000004-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001790/0001062993-26-001790-index.htm)
+
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/0001213900-26-036703-index.htm)
 
@@ -518,6 +521,21 @@
 
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/0001213900-26-037904-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038190/0001213900-26-038190-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038199/0001213900-26-038199-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038185/0001213900-26-038185-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038187/0001213900-26-038187-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038194/0001213900-26-038194-index.htm)
 
 - **40-F** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926036344/0001104659-26-036344-index.htm)
