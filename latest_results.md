@@ -525,6 +525,9 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326004940/0000950103-26-004940-index.htm)
 
+- **424I** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026038420/0001213900-26-038420-index.htm)
+
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026037653/0001213900-26-037653-index.htm)
 
@@ -555,8 +558,14 @@
 - **10-K** | Columbus Circle Capital Corp II  (CMII, CMIIU, CMIIW)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026036382/0001213900-26-036382-index.htm)
 
+- **424I** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026038417/0001213900-26-038417-index.htm)
+
 - **POS AM** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226014358/0001493152-26-014358-index.htm)
+
+- **424I** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026038422/0001213900-26-038422-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426006194/0001888524-26-006194-index.htm)
