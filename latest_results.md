@@ -336,6 +336,9 @@
 - **10-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626002854/0001829126-26-002854-index.htm)
 
+- **8-K** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026038080/0001213900-26-038080-index.htm)
+
 - **8-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036958/0001213900-26-036958-index.htm)
 
@@ -368,6 +371,9 @@
 
 - **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926010474/0001437749-26-010474-index.htm)
+
+- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014529/0001493152-26-014529-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226013845/0001493152-26-013845-index.htm)
@@ -464,6 +470,9 @@
 
 - **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226014525/0001493152-26-014525-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026036845/0001213900-26-036845-index.htm)
