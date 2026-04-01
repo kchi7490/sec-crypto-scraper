@@ -363,21 +363,6 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226013845/0001493152-26-013845-index.htm)
 
-- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014352/0001493152-26-014352-index.htm)
-
-- **POSASR** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026037458/0001213900-26-037458-index.htm)
-
-- **10-K** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926037797/0001104659-26-037797-index.htm)
-
-- **10-K** | Idea Acquisition Corp.  (IACO, IACOU)  (CIK 0002091176)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926037891/0001104659-26-037891-index.htm)
-
-- **424B3** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315226014373/0001493152-26-014373-index.htm)
-
 - **S-8** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926037423/0001104659-26-037423-index.htm)
 
@@ -408,14 +393,14 @@
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000574/0001640334-26-000574-index.htm)
 
+- **10-K** | Idea Acquisition Corp.  (IACO, IACOU)  (CIK 0002091176)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091176/000110465926037891/0001104659-26-037891-index.htm)
+
 - **10-K** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226013603/0001493152-26-013603-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026036029/0001213900-26-036029-index.htm)
-
-- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026037585/0001213900-26-037585-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000248/0001279569-26-000248-index.htm)
@@ -423,20 +408,8 @@
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526130487/0001193125-26-130487-index.htm)
 
-- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026037494/0001213900-26-037494-index.htm)
-
-- **20-F** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926037706/0001104659-26-037706-index.htm)
-
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000245/0001279569-26-000245-index.htm)
-
-- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926037839/0001104659-26-037839-index.htm)
-
-- **20-F** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315226014182/0001493152-26-014182-index.htm)
 
 - **20-F** | IM Cannabis Corp.  (IMCC)  (CIK 0001792030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1792030/000117891326001877/0001178913-26-001877-index.htm)
@@ -453,11 +426,26 @@
 - **10-K** | American National Group Inc.  (ANG-PD)  (CIK 0001039828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1039828/000103982826000004/0001039828-26-000004-index.htm)
 
+- **20-F** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926037706/0001104659-26-037706-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026037585/0001213900-26-037585-index.htm)
+
+- **20-F** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315226014182/0001493152-26-014182-index.htm)
+
+- **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026037494/0001213900-26-037494-index.htm)
+
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/0001213900-26-036703-index.htm)
 
 - **487** | FT 12781  (CIK 0002096884)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096884/000144554626002399/0001445546-26-002399-index.htm)
+
+- **424B3** | USA OPPORTUNITY INCOME ONE, INC.  (CIK 0001878379)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878379/000149315226014373/0001493152-26-014373-index.htm)
 
 - **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
@@ -473,6 +461,12 @@
 
 - **40-F** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926036344/0001104659-26-036344-index.htm)
+
+- **POSASR** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026037458/0001213900-26-037458-index.htm)
+
+- **10-K** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926037797/0001104659-26-037797-index.htm)
 
 - **POS AM** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226014358/0001493152-26-014358-index.htm)
@@ -512,6 +506,9 @@
 
 - **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
+
+- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014352/0001493152-26-014352-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004974/0000950103-26-004974-index.htm)
