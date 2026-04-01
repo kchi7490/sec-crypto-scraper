@@ -330,14 +330,8 @@
 - **10-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/0001213900-26-036897-index.htm)
 
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526135765/0001193125-26-135765-index.htm)
-
 - **10-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626002854/0001829126-26-002854-index.htm)
-
-- **8-K** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026038080/0001213900-26-038080-index.htm)
 
 - **8-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036958/0001213900-26-036958-index.htm)
@@ -366,14 +360,14 @@
 - **10-K** | Brag House Holdings, Inc.  (TBH)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026036715/0001213900-26-036715-index.htm)
 
+- **10-K** | CalEthos, Inc.  (GEDC)  (CIK 0001174891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174891/000149315226014045/0001493152-26-014045-index.htm)
+
 - **8-K** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926010477/0001437749-26-010477-index.htm)
 
 - **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926010474/0001437749-26-010474-index.htm)
-
-- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014529/0001493152-26-014529-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226013845/0001493152-26-013845-index.htm)
@@ -453,9 +447,6 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000245/0001279569-26-000245-index.htm)
 
-- **20-F** | Nexera Technologies Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390026038003/0001213900-26-038003-index.htm)
-
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926037839/0001104659-26-037839-index.htm)
 
@@ -467,12 +458,6 @@
 
 - **20-F** | Kenon Holdings Ltd.  (KEN)  (CIK 0001611005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611005/000117891326001842/0001178913-26-001842-index.htm)
-
-- **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
-
-- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226014525/0001493152-26-014525-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026036845/0001213900-26-036845-index.htm)
@@ -510,6 +495,9 @@
 - **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026037938/0001213900-26-037938-index.htm)
 
+- **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
+
 - **S-4** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926037932/0001104659-26-037932-index.htm)
 
@@ -535,6 +523,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038187/0001213900-26-038187-index.htm)
 
 - **497K** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038203/0001213900-26-038203-index.htm)
+
+- **497K** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026038194/0001213900-26-038194-index.htm)
 
 - **40-F** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
@@ -555,6 +546,9 @@
 - **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326003715/0001099263-26-003715-index.htm)
 
+- **20-F** | Nexera Technologies Ltd  (JFBR, JFBRW)  (CIK 0001885408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885408/000121390026038003/0001213900-26-038003-index.htm)
+
 - **1-A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/0001829126-26-002923-index.htm)
 
@@ -563,9 +557,6 @@
 
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001494/0001592900-26-001494-index.htm)
-
-- **10-K** | CalEthos, Inc.  (GEDC)  (CIK 0001174891)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174891/000149315226014045/0001493152-26-014045-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426005950/0001398344-26-005950-index.htm)
@@ -590,6 +581,15 @@
 
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526135765/0001193125-26-135765-index.htm)
+
+- **8-K** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026038080/0001213900-26-038080-index.htm)
+
+- **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014529/0001493152-26-014529-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326004974/0000950103-26-004974-index.htm)
