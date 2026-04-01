@@ -147,6 +147,9 @@
 - **10-K** | VanEck Solana ETF  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000093041326000939/0000930413-26-000939-index.htm)
 
+- **8-K** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026037931/0001213900-26-037931-index.htm)
+
 - **40-F** | Quantum eMotion Corp  (QNC)  (CIK 0002106613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106613/000110465926037931/0001104659-26-037931-index.htm)
 
@@ -243,6 +246,9 @@
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002377/0001683168-26-002377-index.htm)
 
+- **10-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226014478/0001493152-26-014478-index.htm)
+
 - **10-K** | SharonAI Holdings Inc.  (SHAZ)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226014068/0001493152-26-014068-index.htm)
 
@@ -267,6 +273,9 @@
 - **POS AM** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826002378/0001683168-26-002378-index.htm)
 
+- **ARS** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000116/0001876042-26-000116-index.htm)
+
 - **F-1/A** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226013659/0001493152-26-013659-index.htm)
 
@@ -284,15 +293,6 @@
 
 - **10-K** | KRAKacquisition Corp  (KRAQ, KRAQU, KRAQW)  (CIK 0002082119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082119/000114036126012031/0001140361-26-012031-index.htm)
-
-- **10-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626002854/0001829126-26-002854-index.htm)
-
-- **10-K** | T1 Energy Inc.  (TE, TE-WT)  (CIK 0001992243)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1992243/000199224326000007/0001992243-26-000007-index.htm)
-
-- **10-K** | NewHold Investment Corp. III  (NHIC, NHICU, NHICW)  (CIK 0002043699)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043699/000121390026037915/0001213900-26-037915-index.htm)
 
 - **8-K/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526134456/0001193125-26-134456-index.htm)
@@ -329,6 +329,9 @@
 
 - **10-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036897/0001213900-26-036897-index.htm)
+
+- **10-K** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626002854/0001829126-26-002854-index.htm)
 
 - **8-K** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026036958/0001213900-26-036958-index.htm)
@@ -480,11 +483,17 @@
 - **PRER14C** | EKSO BIONICS HOLDINGS, INC.  (EKSO)  (CIK 0001549084)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000143774926010424/0001437749-26-010424-index.htm)
 
+- **10-K** | NewHold Investment Corp. III  (NHIC, NHICU, NHICW)  (CIK 0002043699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043699/000121390026037915/0001213900-26-037915-index.htm)
+
 - **10-K** | Spark I Acquisition Corp  (SPKL, SPKLU, SPKLW)  (CIK 0001884046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884046/000110465926036922/0001104659-26-036922-index.htm)
 
 - **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
+
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026037938/0001213900-26-037938-index.htm)
 
 - **S-4** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926037932/0001104659-26-037932-index.htm)
@@ -518,6 +527,9 @@
 
 - **1-A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/0001829126-26-002923-index.htm)
+
+- **10-K** | T1 Energy Inc.  (TE, TE-WT)  (CIK 0001992243)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992243/000199224326000007/0001992243-26-000007-index.htm)
 
 - **497** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026001494/0001592900-26-001494-index.htm)
