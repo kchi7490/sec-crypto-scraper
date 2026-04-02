@@ -180,6 +180,9 @@
 - **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774926010907/0001437749-26-010907-index.htm)
 
+- **ARS** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000110465926038896/0001104659-26-038896-index.htm)
+
 - **10-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226014478/0001493152-26-014478-index.htm)
 
@@ -505,10 +508,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426003098/0001654954-26-003098-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
 
 - **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
