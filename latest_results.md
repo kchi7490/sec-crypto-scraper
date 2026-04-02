@@ -447,6 +447,9 @@
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/0001213900-26-036703-index.htm)
 
+- **487** | FT 12843  (CIK 0002104907)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104907/000144554626002428/0001445546-26-002428-index.htm)
+
 - **487** | FT 12781  (CIK 0002096884)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096884/000144554626002399/0001445546-26-002399-index.htm)
 
@@ -489,9 +492,6 @@
 - **POS AM** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226014358/0001493152-26-014358-index.htm)
 
-- **424I** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026038422/0001213900-26-038422-index.htm)
-
 - **1-A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626002923/0001829126-26-002923-index.htm)
 
@@ -501,36 +501,30 @@
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426005950/0001398344-26-005950-index.htm)
 
-- **NT 10-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004111/0001214659-26-004111-index.htm)
-
-- **10-K** | Universal Token  (UTKN)  (CIK 0001919182)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1919182/000117152026000041/0001171520-26-000041-index.htm)
-
-- **10-K** | PEDEVCO CORP  (PED)  (CIK 0001141197)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426003098/0001654954-26-003098-index.htm)
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
 
-- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
-
-- **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
-
-- **DEF 14A** | HF Sinclair Corp  (DINO)  (CIK 0001915657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1915657/000119312526134743/0001193125-26-134743-index.htm)
-
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
 
+- **NT 10-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004111/0001214659-26-004111-index.htm)
+
 - **DEF 14A** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026022939/0001628280-26-022939-index.htm)
+
+- **10-K** | Universal Token  (UTKN)  (CIK 0001919182)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1919182/000117152026000041/0001171520-26-000041-index.htm)
 
 - **DEF 14A** | Extra Space Storage Inc.  (EXR)  (CIK 0001289490)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000027/0001289490-26-000027-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326005196/0000950103-26-005196-index.htm)
+
+- **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
 
