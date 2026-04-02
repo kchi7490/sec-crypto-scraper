@@ -255,11 +255,11 @@
 - **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
 
-- **DEF 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526134700/0001193125-26-134700-index.htm)
-
 - **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
+
+- **DEF 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526134700/0001193125-26-134700-index.htm)
 
 - **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
