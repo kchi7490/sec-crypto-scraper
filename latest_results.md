@@ -21,11 +21,11 @@
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226001753/0001477932-26-001753-index.htm)
 
-- **10-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026037460/0001213900-26-037460-index.htm)
-
 - **10-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226014138/0001493152-26-014138-index.htm)
+
+- **10-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026037460/0001213900-26-037460-index.htm)
 
 - **10-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000026/0002055592-26-000026-index.htm)
@@ -410,6 +410,9 @@
 
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000110465926037839/0001104659-26-037839-index.htm)
+
+- **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000147793226001953/0001477932-26-001953-index.htm)
 
 - **20-F** | Galmed Pharmaceuticals Ltd.  (GLMD)  (CIK 0001595353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1595353/000149315226014182/0001493152-26-014182-index.htm)
