@@ -120,6 +120,9 @@
 - **10-K** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226013862/0001493152-26-013862-index.htm)
 
+- **S-1/A** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312526140409/0001193125-26-140409-index.htm)
+
 - **10-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026036641/0001213900-26-036641-index.htm)
 
@@ -179,6 +182,12 @@
 
 - **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774926010907/0001437749-26-010907-index.htm)
+
+- **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526140340/0001193125-26-140340-index.htm)
+
+- **ARS** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000110465926038896/0001104659-26-038896-index.htm)
 
 - **10-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226014478/0001493152-26-014478-index.htm)
@@ -255,11 +264,11 @@
 - **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
 
-- **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
-
 - **DEF 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526134700/0001193125-26-134700-index.htm)
+
+- **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
 
 - **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
@@ -267,11 +276,11 @@
 - **10-K** | Apollo IG Core Replacement, L.P.  (CIK 0002074450)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074450/000119312526132874/0001193125-26-132874-index.htm)
 
+- **DEF 14A** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/0001206774-26-000185-index.htm)
+
 - **S-4** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926037932/0001104659-26-037932-index.htm)
-
-- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026037938/0001213900-26-037938-index.htm)
 
 - **8-K/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526134456/0001193125-26-134456-index.htm)
@@ -462,6 +471,9 @@
 - **487** | FT 12781  (CIK 0002096884)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096884/000144554626002399/0001445546-26-002399-index.htm)
 
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026037938/0001213900-26-037938-index.htm)
+
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826004397/0001133228-26-004397-index.htm)
 
@@ -533,15 +545,6 @@
 
 - **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
-
-- **ARS** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000110465926038896/0001104659-26-038896-index.htm)
-
-- **DEF 14A** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/0001206774-26-000185-index.htm)
-
-- **DEF 14A** | HF Sinclair Corp  (DINO)  (CIK 0001915657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1915657/000119312526134743/0001193125-26-134743-index.htm)
 
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
