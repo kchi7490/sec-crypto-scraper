@@ -438,6 +438,9 @@
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826004397/0001133228-26-004397-index.htm)
 
+- **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926038730/0001104659-26-038730-index.htm)
+
 - **424I** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026038420/0001213900-26-038420-index.htm)
 
@@ -493,10 +496,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426003098/0001654954-26-003098-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
 
 - **10-K** | FAST CASUAL CONCEPTS, INC.  (FCCI)  (CIK 0001807689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807689/000117152026000037/0001171520-26-000037-index.htm)
