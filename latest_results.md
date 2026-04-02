@@ -318,6 +318,9 @@
 - **20-F** | CoinShares PLC  (CS)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026037615/0001213900-26-037615-index.htm)
 
+- **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000008/0001591956-26-000008-index.htm)
+
 - **424B5** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390026039103/0001213900-26-039103-index.htm)
 
@@ -390,11 +393,17 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000257/0001279569-26-000257-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026023133/0001628280-26-023133-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026037585/0001213900-26-037585-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000248/0001279569-26-000248-index.htm)
+
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000110465926039147/0001104659-26-039147-index.htm)
 
 - **6-K** | Bitfarms Ltd  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026037494/0001213900-26-037494-index.htm)
@@ -527,6 +536,9 @@
 
 - **ARS** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000110465926038896/0001104659-26-038896-index.htm)
+
+- **DEF 14A** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/0001206774-26-000185-index.htm)
 
 - **DEF 14A** | HF Sinclair Corp  (DINO)  (CIK 0001915657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1915657/000119312526134743/0001193125-26-134743-index.htm)
