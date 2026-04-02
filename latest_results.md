@@ -327,6 +327,9 @@
 - **20-F** | CoinShares PLC  (CS)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026037615/0001213900-26-037615-index.htm)
 
+- **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000008/0001591956-26-000008-index.htm)
+
 - **424B5** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390026039103/0001213900-26-039103-index.htm)
 
@@ -548,9 +551,6 @@
 
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
-
-- **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000008/0001591956-26-000008-index.htm)
 
 - **DEF 14A** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026022939/0001628280-26-022939-index.htm)
