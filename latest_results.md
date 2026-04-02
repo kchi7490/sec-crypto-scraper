@@ -255,11 +255,11 @@
 - **S-1** | Verses AI Inc.  (VRSSF)  (CIK 0001879001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879001/000149315226014453/0001493152-26-014453-index.htm)
 
-- **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
-
 - **DEF 14A** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000119312526134700/0001193125-26-134700-index.htm)
+
+- **DEF 14A** | S&P Global Inc.  (SPGI)  (CIK 0000064040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64040/000110465926037380/0001104659-26-037380-index.htm)
 
 - **10-K** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000079/0001412408-26-000079-index.htm)
@@ -518,6 +518,9 @@
 
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
+
+- **DEF 14A** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026022939/0001628280-26-022939-index.htm)
 
 - **DEF 14A** | Extra Space Storage Inc.  (EXR)  (CIK 0001289490)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1289490/000128949026000027/0001289490-26-000027-index.htm)
