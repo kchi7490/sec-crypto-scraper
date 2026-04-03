@@ -24,6 +24,9 @@
 - **S-1/A** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312526140409/0001193125-26-140409-index.htm)
 
+- **10-K** | TOKEN COMMUNITIES LTD.  (CIK 0001683252)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683252/000147793226001992/0001477932-26-001992-index.htm)
+
 - **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926010792/0001437749-26-010792-index.htm)
 
@@ -153,6 +156,9 @@
 - **S-1** | VIDA Global Inc.  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226015021/0001493152-26-015021-index.htm)
 
+- **N-4/A** | Athene Annuity & Life Co  (CIK 0000837332)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000027/0000837332-26-000027-index.htm)
+
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826004397/0001133228-26-004397-index.htm)
 
@@ -191,6 +197,9 @@
 
 - **424I** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026038422/0001213900-26-038422-index.htm)
+
+- **N-4/A** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062526000036/0001590625-26-000036-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
