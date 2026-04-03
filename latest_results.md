@@ -42,6 +42,9 @@
 - **10-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226014478/0001493152-26-014478-index.htm)
 
+- **10-K** | GOOD GAMING, INC.  (GMER)  (CIK 0001454742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454742/000149315226015189/0001493152-26-015189-index.htm)
+
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926039646/0001104659-26-039646-index.htm)
 
