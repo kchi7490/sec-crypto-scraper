@@ -156,6 +156,12 @@
 - **S-1** | VIDA Global Inc.  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226015021/0001493152-26-015021-index.htm)
 
+- **485BPOS** | Athene Annuity & Life Co  (CIK 0000837332)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000037/0000837332-26-000037-index.htm)
+
+- **485BPOS** | Athene Annuity & Life Co  (CIK 0000837332)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000033/0000837332-26-000033-index.htm)
+
 - **N-4/A** | Athene Annuity & Life Co  (CIK 0000837332)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000027/0000837332-26-000027-index.htm)
 
@@ -197,6 +203,9 @@
 
 - **424I** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026038422/0001213900-26-038422-index.htm)
+
+- **10-K** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226001994/0001477932-26-001994-index.htm)
 
 - **N-4/A** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062526000036/0001590625-26-000036-index.htm)
