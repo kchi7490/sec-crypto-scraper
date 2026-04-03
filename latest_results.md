@@ -42,6 +42,9 @@
 - **10-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226014478/0001493152-26-014478-index.htm)
 
+- **S-1/A** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926039646/0001104659-26-039646-index.htm)
+
 - **S-1/A** | Morgan Stanley Bitcoin Trust  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926038604/0001104659-26-038604-index.htm)
 
@@ -162,6 +165,9 @@
 - **485BPOS** | Athene Annuity & Life Co  (CIK 0000837332)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000033/0000837332-26-000033-index.htm)
 
+- **485BPOS** | Athene Annuity & Life Co  (CIK 0000837332)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000039/0000837332-26-000039-index.htm)
+
 - **N-4/A** | Athene Annuity & Life Co  (CIK 0000837332)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/837332/000083733226000027/0000837332-26-000027-index.htm)
 
@@ -209,6 +215,9 @@
 
 - **N-4/A** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062526000036/0001590625-26-000036-index.htm)
+
+- **485BPOS** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062526000039/0001590625-26-000039-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
