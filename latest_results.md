@@ -93,6 +93,9 @@
 - **1-A/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226014718/0001493152-26-014718-index.htm)
 
+- **DEF 14A** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000110465926039425/0001104659-26-039425-index.htm)
+
 - **S-1/A** | Innovative Digital Investors Acquisition Corp.  (FGXC)  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465926038398/0001104659-26-038398-index.htm)
 
@@ -147,6 +150,9 @@
 - **487** | FT 12843  (CIK 0002104907)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104907/000144554626002428/0001445546-26-002428-index.htm)
 
+- **S-1** | VIDA Global Inc.  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226015021/0001493152-26-015021-index.htm)
+
 - **485APOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826004397/0001133228-26-004397-index.htm)
 
@@ -187,10 +193,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026038422/0001213900-26-038422-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038487/0001213900-26-038487-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026038497/0001213900-26-038497-index.htm)
 
 - **NT 10-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226014436/0001493152-26-014436-index.htm)
