@@ -60,6 +60,9 @@
 - **PRER14C** | EKSO BIONICS HOLDINGS, INC.  (EKSO)  (CIK 0001549084)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000143774926011185/0001437749-26-011185-index.htm)
 
+- **DEF 14C** | EKSO BIONICS HOLDINGS, INC.  (EKSO)  (CIK 0001549084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000143774926011284/0001437749-26-011284-index.htm)
+
 - **10-K** | Chain Bridge I  (CBGGF, CBRGF, CBRRF)  (CIK 0001845149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1845149/000121390026038489/0001213900-26-038489-index.htm)
 
@@ -104,6 +107,9 @@
 
 - **S-1/A** | Innovative Digital Investors Acquisition Corp.  (FGXC)  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465926038398/0001104659-26-038398-index.htm)
+
+- **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226015182/0001493152-26-015182-index.htm)
 
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226014529/0001493152-26-014529-index.htm)
