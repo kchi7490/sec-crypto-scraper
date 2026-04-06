@@ -12,6 +12,9 @@
 - **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026040086/0001213900-26-040086-index.htm)
 
+- **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026040254/0001213900-26-040254-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526142925/0001193125-26-142925-index.htm)
 
