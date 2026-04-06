@@ -33,6 +33,9 @@
 - **486APOS** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026040156/0001213900-26-040156-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005361/0000950103-26-005361-index.htm)
+
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.htm)
 
