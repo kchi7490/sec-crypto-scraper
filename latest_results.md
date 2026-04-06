@@ -9,6 +9,21 @@
 - **10-K** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226015204/0001493152-26-015204-index.htm)
 
+- **POS AM** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526143927/0001193125-26-143927-index.htm)
+
+- **POS AM** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526143920/0001193125-26-143920-index.htm)
+
+- **POS AM** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526143924/0001193125-26-143924-index.htm)
+
+- **POS AM** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526143897/0001193125-26-143897-index.htm)
+
+- **POS AM** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526143901/0001193125-26-143901-index.htm)
+
 - **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026040086/0001213900-26-040086-index.htm)
 
@@ -35,6 +50,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005361/0000950103-26-005361-index.htm)
+
+- **DEF 14A** | PRINCIPAL FINANCIAL GROUP INC  (PFG)  (CIK 0001126328)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1126328/000110465926039920/0001104659-26-039920-index.htm)
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.htm)
