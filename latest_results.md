@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226015247/0001493152-26-015247-index.htm)
+
+- **8-K** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226015249/0001493152-26-015249-index.htm)
+
 - **10-K** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226015204/0001493152-26-015204-index.htm)
 
