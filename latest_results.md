@@ -15,6 +15,9 @@
 - **10-K** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226015204/0001493152-26-015204-index.htm)
 
+- **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026040725/0001213900-26-040725-index.htm)
+
 - **POS AM** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526143927/0001193125-26-143927-index.htm)
 
@@ -69,6 +72,9 @@
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526144586/0001193125-26-144586-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226015454/0001493152-26-015454-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000010/0001805526-26-000010-index.htm)
 
@@ -77,6 +83,9 @@
 
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000009/0001805526-26-000009-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226015459/0001493152-26-015459-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000276/0001279569-26-000276-index.htm)
