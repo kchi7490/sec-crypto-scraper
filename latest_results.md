@@ -54,6 +54,12 @@
 - **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026040086/0001213900-26-040086-index.htm)
 
+- **DEF 14A** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000119312526145721/0001193125-26-145721-index.htm)
+
+- **DEF 14A** | Finance of America Companies Inc.  (FOA, FOACW)  (CIK 0001828937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1828937/000114036126013675/0001140361-26-013675-index.htm)
+
 - **S-1** | RRE Ventures Acquisition Corp.  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526144346/0001193125-26-144346-index.htm)
 
@@ -72,15 +78,6 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026023784/0001628280-26-023784-index.htm)
 
-- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000149/0001099910-26-000149-index.htm)
-
-- **S-3ASR** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026041047/0001213900-26-041047-index.htm)
-
-- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026040883/0001213900-26-040883-index.htm)
-
 - **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526144595/0001193125-26-144595-index.htm)
 
@@ -89,6 +86,9 @@
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226015454/0001493152-26-015454-index.htm)
+
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000149/0001099910-26-000149-index.htm)
 
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000010/0001805526-26-000010-index.htm)
@@ -105,11 +105,17 @@
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226015459/0001493152-26-015459-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026041091/0001213900-26-041091-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000276/0001279569-26-000276-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000275/0001279569-26-000275-index.htm)
+
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026040883/0001213900-26-040883-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001876/0001062993-26-001876-index.htm)
@@ -123,8 +129,17 @@
 - **486APOS** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026040156/0001213900-26-040156-index.htm)
 
+- **485BPOS** | LLANY SEPARATE ACCOUNT S FOR FLEXIBLE PREMIUM VARIABLE LIFE INSURANCE  (CIK 0001081039)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081039/000110465926040458/0001104659-26-040458-index.htm)
+
+- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926040453/0001104659-26-040453-index.htm)
+
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001871/0001062993-26-001871-index.htm)
+
+- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926040464/0001104659-26-040464-index.htm)
 
 - **487** | FTP 4  (CIK 0002087891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087891/000144554626002513/0001445546-26-002513-index.htm)
@@ -143,6 +158,12 @@
 
 - **DEF 14A** | PRINCIPAL FINANCIAL GROUP INC  (PFG)  (CIK 0001126328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1126328/000110465926039920/0001104659-26-039920-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004404/0001214659-26-004404-index.htm)
+
+- **S-3ASR** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026041047/0001213900-26-041047-index.htm)
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.htm)
