@@ -30,11 +30,20 @@
 - **POS AM** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526143901/0001193125-26-143901-index.htm)
 
+- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226015390/0001493152-26-015390-index.htm)
+
 - **424B3** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926039992/0001104659-26-039992-index.htm)
 
+- **PREM14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000118518526001290/0001185185-26-001290-index.htm)
+
 - **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026040086/0001213900-26-040086-index.htm)
+
+- **S-1** | RRE Ventures Acquisition Corp.  (CIK 0002123969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526144346/0001193125-26-144346-index.htm)
 
 - **S-1/A** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026040254/0001213900-26-040254-index.htm)
@@ -71,6 +80,9 @@
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001871/0001062993-26-001871-index.htm)
+
+- **EFFECT** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/999999999526001094/9999999995-26-001094-index.htm)
 
 - **PRE 14A** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226015339/0001493152-26-015339-index.htm)
