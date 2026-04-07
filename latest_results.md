@@ -24,6 +24,9 @@
 - **8-K/A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015426/0001493152-26-015426-index.htm)
 
+- **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526145494/0001193125-26-145494-index.htm)
+
 - **POS AM** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526143920/0001193125-26-143920-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226015390/0001493152-26-015390-index.htm)
+
+- **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526145587/0001193125-26-145587-index.htm)
 
 - **424B3** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926039992/0001104659-26-039992-index.htm)
@@ -66,6 +72,12 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026023784/0001628280-26-023784-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000149/0001099910-26-000149-index.htm)
+
+- **S-3ASR** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026041047/0001213900-26-041047-index.htm)
+
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026040883/0001213900-26-040883-index.htm)
 
@@ -80,6 +92,9 @@
 
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000010/0001805526-26-000010-index.htm)
+
+- **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000670/0001640334-26-000670-index.htm)
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000662/0001640334-26-000662-index.htm)
@@ -101,6 +116,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001849/0001062993-26-001849-index.htm)
+
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926011598/0001437749-26-011598-index.htm)
 
 - **486APOS** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026040156/0001213900-26-040156-index.htm)
