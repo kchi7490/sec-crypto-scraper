@@ -18,6 +18,9 @@
 - **POS AM** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526143927/0001193125-26-143927-index.htm)
 
+- **8-K/A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015426/0001493152-26-015426-index.htm)
+
 - **POS AM** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526143920/0001193125-26-143920-index.htm)
 
