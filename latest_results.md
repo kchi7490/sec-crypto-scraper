@@ -117,6 +117,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026041091/0001213900-26-041091-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926011680/0001437749-26-011680-index.htm)
+
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000276/0001279569-26-000276-index.htm)
 
