@@ -183,6 +183,9 @@
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000010/0001805526-26-000010-index.htm)
 
+- **8-K/A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000034/0001726978-26-000034-index.htm)
+
 - **S-1** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000670/0001640334-26-000670-index.htm)
 
@@ -272,7 +275,4 @@
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.htm)
-
-- **8-K/A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000034/0001726978-26-000034-index.htm)
 
