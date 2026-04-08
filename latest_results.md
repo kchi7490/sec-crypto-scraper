@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226015247/0001493152-26-015247-index.htm)
 
+- **ARS** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147755/0001193125-26-147755-index.htm)
+
 - **425** | New Providence Acquisition Corp. III/Cayman  (NPAC, NPACU, NPACW)  (CIK 0002048948)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2048948/000121390026040527/0001213900-26-040527-index.htm)
 
@@ -14,6 +17,12 @@
 
 - **10-K** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226015204/0001493152-26-015204-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826002749/0001683168-26-002749-index.htm)
+
+- **10-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226015717/0001493152-26-015717-index.htm)
 
 - **424B3** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026041274/0001213900-26-041274-index.htm)
@@ -45,6 +54,12 @@
 - **POS AM** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526143901/0001193125-26-143901-index.htm)
 
+- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226015707/0001493152-26-015707-index.htm)
+
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000029/0001144879-26-000029-index.htm)
+
 - **S-1/A** | Subversive Bitcoin Acquisition Corp.  (SBAQ)  (CIK 0002073545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390026041299/0001213900-26-041299-index.htm)
 
@@ -53,6 +68,9 @@
 
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526145587/0001193125-26-145587-index.htm)
+
+- **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000030/0001144879-26-000030-index.htm)
 
 - **ARS** | PROVIDENT FINANCIAL SERVICES INC  (PFS)  (CIK 0001178970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178970/000162828026024151/0001628280-26-024151-index.htm)
@@ -72,8 +90,14 @@
 - **DEF 14A** | Finance of America Companies Inc.  (FOA, FOACW)  (CIK 0001828937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1828937/000114036126013675/0001140361-26-013675-index.htm)
 
+- **PRE 14A** | NexPoint Real Estate Finance, Inc.  (NREF, NREF-PA)  (CIK 0001786248)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1786248/000143774926011762/0001437749-26-011762-index.htm)
+
 - **S-1** | RRE Ventures Acquisition Corp.  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526144346/0001193125-26-144346-index.htm)
+
+- **PRE 14A** | NEXPOINT DIVERSIFIED REAL ESTATE TRUST  (NXDT, NXDT-PA)  (CIK 0001356115)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1356115/000143774926011766/0001437749-26-011766-index.htm)
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000367/0001137360-26-000367-index.htm)
@@ -138,6 +162,9 @@
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000009/0001805526-26-000009-index.htm)
 
+- **20-F** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465926040882/0001104659-26-040882-index.htm)
+
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226015459/0001493152-26-015459-index.htm)
 
@@ -161,6 +188,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001849/0001062993-26-001849-index.htm)
+
+- **497** | Investment Managers Series Trust III  (CIK 0000924727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/924727/000121390026041534/0001213900-26-041534-index.htm)
 
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926011598/0001437749-26-011598-index.htm)
@@ -186,11 +216,23 @@
 - **20-F** | Grupo Supervielle S.A.  (SUPV)  (CIK 0001517399)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517399/000110465926040713/0001104659-26-040713-index.htm)
 
+- **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826004893/0001133228-26-004893-index.htm)
+
+- **DEF 14A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147728/0001193125-26-147728-index.htm)
+
 - **EFFECT** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/999999999526001094/9999999995-26-001094-index.htm)
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826034985/0001410368-26-034985-index.htm)
+
+- **20-F** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889726000125/0002058897-26-000125-index.htm)
+
+- **10-Q/A** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000006/0001765048-26-000006-index.htm)
 
 - **PRE 14A** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226015339/0001493152-26-015339-index.htm)
@@ -200,6 +242,9 @@
 
 - **DEF 14A** | PRINCIPAL FINANCIAL GROUP INC  (PFG)  (CIK 0001126328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1126328/000110465926039920/0001104659-26-039920-index.htm)
+
+- **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.htm)
