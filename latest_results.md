@@ -90,6 +90,9 @@
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026041279/0001213900-26-041279-index.htm)
 
+- **S-1/A** | Subversive Bitcoin Acquisition Corp.  (SBAQ)  (CIK 0002073545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390026041299/0001213900-26-041299-index.htm)
+
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000149/0001099910-26-000149-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000119312526144586/0001193125-26-144586-index.htm)
+
+- **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026041287/0001213900-26-041287-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226015454/0001493152-26-015454-index.htm)
@@ -167,6 +173,9 @@
 
 - **487** | FTP 4  (CIK 0002087891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087891/000144554626002513/0001445546-26-002513-index.htm)
+
+- **20-F** | Grupo Supervielle S.A.  (SUPV)  (CIK 0001517399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517399/000110465926040713/0001104659-26-040713-index.htm)
 
 - **EFFECT** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/999999999526001094/9999999995-26-001094-index.htm)
