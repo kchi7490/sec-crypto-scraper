@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226015825/0001493152-26-015825-index.htm)
+
 - **ARS** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147755/0001193125-26-147755-index.htm)
 
@@ -117,6 +120,9 @@
 - **S-3ASR** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026041047/0001213900-26-041047-index.htm)
 
+- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390026041767/0001213900-26-041767-index.htm)
+
 - **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
 
@@ -171,11 +177,17 @@
 - **20-F** | Pampa Energy Inc.  (PAM, PPENF)  (CIK 0001469395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1469395/000129281426002185/0001292814-26-002185-index.htm)
 
+- **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226015819/0001493152-26-015819-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026041277/0001213900-26-041277-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001876/0001062993-26-001876-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001904/0001062993-26-001904-index.htm)
 
 - **497** | Investment Managers Series Trust III  (CIK 0000924727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924727/000121390026041534/0001213900-26-041534-index.htm)
