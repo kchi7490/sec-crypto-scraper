@@ -27,6 +27,9 @@
 - **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526145494/0001193125-26-145494-index.htm)
 
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226015812/0001493152-26-015812-index.htm)
+
 - **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226015707/0001493152-26-015707-index.htm)
 
@@ -87,6 +90,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/0001193125-26-147772-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226015809/0001493152-26-015809-index.htm)
+
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026041279/0001213900-26-041279-index.htm)
 
@@ -113,6 +119,9 @@
 
 - **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
+
+- **DEF 14A** | EASTMAN KODAK CO  (KODK)  (CIK 0000031235)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31235/000114036126013928/0001140361-26-013928-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026040883/0001213900-26-040883-index.htm)
@@ -143,6 +152,9 @@
 
 - **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000662/0001640334-26-000662-index.htm)
+
+- **S-1/A** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526148877/0001193125-26-148877-index.htm)
 
 - **20-F** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465926040882/0001104659-26-040882-index.htm)
