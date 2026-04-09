@@ -93,9 +93,6 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/0001193125-26-147772-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226015809/0001493152-26-015809-index.htm)
-
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026041279/0001213900-26-041279-index.htm)
 
@@ -120,14 +117,8 @@
 - **S-3ASR** | Keel Infrastructure Corp.  (BITF)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026041047/0001213900-26-041047-index.htm)
 
-- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390026041767/0001213900-26-041767-index.htm)
-
 - **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
-
-- **DEF 14A** | EASTMAN KODAK CO  (KODK)  (CIK 0000031235)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/31235/000114036126013928/0001140361-26-013928-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026040883/0001213900-26-040883-index.htm)
@@ -149,6 +140,9 @@
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226015454/0001493152-26-015454-index.htm)
+
+- **DEF 14A** | EASTMAN KODAK CO  (KODK)  (CIK 0000031235)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31235/000114036126013928/0001140361-26-013928-index.htm)
 
 - **8-K/A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000034/0001726978-26-000034-index.htm)
@@ -224,4 +218,10 @@
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026041707/0001213900-26-041707-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226015809/0001493152-26-015809-index.htm)
+
+- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390026041767/0001213900-26-041767-index.htm)
 
