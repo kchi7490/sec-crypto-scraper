@@ -36,6 +36,9 @@
 - **S-1/A** | Subversive Bitcoin Acquisition Corp.  (SBAQ)  (CIK 0002073545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073545/000121390026041299/0001213900-26-041299-index.htm)
 
+- **20-F** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026041653/0001213900-26-041653-index.htm)
+
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226015390/0001493152-26-015390-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **S-1** | RRE Ventures Acquisition Corp.  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526144346/0001193125-26-144346-index.htm)
+
+- **DEFM14A** | Willow Lane Acquisition Corp.  (WLAC, WLACU, WLACW)  (CIK 0002032379)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2032379/000149315226015765/0001493152-26-015765-index.htm)
 
 - **424B3** | Boost Run Inc.  (BRUN)  (CIK 0002090646)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090646/000149315226015740/0001493152-26-015740-index.htm)
@@ -150,6 +156,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926011680/0001437749-26-011680-index.htm)
 
+- **20-F** | Pampa Energy Inc.  (PAM, PPENF)  (CIK 0001469395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1469395/000129281426002185/0001292814-26-002185-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026041277/0001213900-26-041277-index.htm)
 
@@ -188,4 +197,7 @@
 
 - **10-Q/A** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000006/0001765048-26-000006-index.htm)
+
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026041707/0001213900-26-041707-index.htm)
 
