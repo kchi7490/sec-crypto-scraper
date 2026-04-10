@@ -69,6 +69,9 @@
 - **20-F** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026041653/0001213900-26-041653-index.htm)
 
+- **10-K** | Two Hands Corp  (TWOH)  (CIK 0001494413)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1494413/000149441326000011/0001494413-26-000011-index.htm)
+
 - **10-Q** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000030/0001144879-26-000030-index.htm)
 
