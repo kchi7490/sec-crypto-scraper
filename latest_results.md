@@ -12,6 +12,9 @@
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826002749/0001683168-26-002749-index.htm)
 
+- **S-1/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526150385/0001193125-26-150385-index.htm)
+
 - **10-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226015717/0001493152-26-015717-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226015812/0001493152-26-015812-index.htm)
+
+- **20-F** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126014136/0001140361-26-014136-index.htm)
 
 - **S-1/A** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426003380/0001654954-26-003380-index.htm)
@@ -162,11 +168,17 @@
 - **20-F** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465926040882/0001104659-26-040882-index.htm)
 
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126014135/0001140361-26-014135-index.htm)
+
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926011680/0001437749-26-011680-index.htm)
 
 - **20-F** | Pampa Energy Inc.  (PAM, PPENF)  (CIK 0001469395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1469395/000129281426002185/0001292814-26-002185-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026042201/0001213900-26-042201-index.htm)
 
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226015819/0001493152-26-015819-index.htm)
@@ -192,11 +204,11 @@
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041458/0001104659-26-041458-index.htm)
 
-- **485BPOS** | Lincoln Life Flexible Premium Variable Life Account JF-A  (CIK 0000757552)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757552/000110465926041473/0001104659-26-041473-index.htm)
-
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041468/0001104659-26-041468-index.htm)
+
+- **485BPOS** | Lincoln Life Flexible Premium Variable Life Account JF-A  (CIK 0000757552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757552/000110465926041473/0001104659-26-041473-index.htm)
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001914/0001062993-26-001914-index.htm)
@@ -217,10 +229,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926041422/0001104659-26-041422-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
 
 - **485BPOS** | LINCOLN LIFE & ANNUITY FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001051629)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051629/000110465926041452/0001104659-26-041452-index.htm)
@@ -287,4 +299,7 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005546/0000950103-26-005546-index.htm)
+
+- **PRE 14A** | UNITED STATES ANTIMONY CORP  (UAMY)  (CIK 0000101538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/101538/000114036126014138/0001140361-26-014138-index.htm)
 
