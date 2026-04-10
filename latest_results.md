@@ -252,11 +252,11 @@
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041458/0001104659-26-041458-index.htm)
 
-- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041468/0001104659-26-041468-index.htm)
-
 - **485BPOS** | Lincoln Life Flexible Premium Variable Life Account JF-A  (CIK 0000757552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757552/000110465926041473/0001104659-26-041473-index.htm)
+
+- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041468/0001104659-26-041468-index.htm)
 
 - **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326001914/0001062993-26-001914-index.htm)
@@ -277,10 +277,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926041422/0001104659-26-041422-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
 
 - **485BPOS** | LINCOLN LIFE & ANNUITY FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001051629)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051629/000110465926041452/0001104659-26-041452-index.htm)
@@ -309,11 +309,11 @@
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041424/0001104659-26-041424-index.htm)
 
-- **487** | FT 12842  (CIK 0002104905)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2104905/000144554626002665/0001445546-26-002665-index.htm)
-
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041470/0001104659-26-041470-index.htm)
+
+- **487** | FT 12842  (CIK 0002104905)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104905/000144554626002665/0001445546-26-002665-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041469/0001104659-26-041469-index.htm)
