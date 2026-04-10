@@ -42,6 +42,9 @@
 - **S-1/A** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426003380/0001654954-26-003380-index.htm)
 
+- **10-K** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793226002110/0001477932-26-002110-index.htm)
+
 - **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226015707/0001493152-26-015707-index.htm)
 
@@ -111,6 +114,48 @@
 - **S-4/A** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026024523/0001628280-26-024523-index.htm)
 
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526147772/0001193125-26-147772-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226015809/0001493152-26-015809-index.htm)
+
+- **S-3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015942/0001493152-26-015942-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526149712/0001193125-26-149712-index.htm)
+
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026041279/0001213900-26-041279-index.htm)
+
+- **S-3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015941/0001493152-26-015941-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147944/0001193125-26-147944-index.htm)
+
+- **DEF 14A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147728/0001193125-26-147728-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147945/0001193125-26-147945-index.htm)
+
+- **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000199937126007871/0001999371-26-007871-index.htm)
+
+- **S-3** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026042020/0001213900-26-042020-index.htm)
+
+- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390026041767/0001213900-26-041767-index.htm)
+
+- **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
+
+- **DEF 14A** | EASTMAN KODAK CO  (KODK)  (CIK 0000031235)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31235/000114036126013928/0001140361-26-013928-index.htm)
+
 - **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026041287/0001213900-26-041287-index.htm)
 
@@ -120,8 +165,8 @@
 - **425** | Securitize, Inc.  (CIK 0001762096)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326005524/0000950103-26-005524-index.htm)
 
-- **DEF 14A** | EASTMAN KODAK CO  (KODK)  (CIK 0000031235)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/31235/000114036126013928/0001140361-26-013928-index.htm)
+- **10-K** | Balance Labs, Inc.  (BLNC)  (CIK 0001632121)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1632121/000149315226016088/0001493152-26-016088-index.htm)
 
 - **8-K/A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000034/0001726978-26-000034-index.htm)
@@ -143,9 +188,6 @@
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026042201/0001213900-26-042201-index.htm)
-
-- **S-3** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026042020/0001213900-26-042020-index.htm)
 
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226015819/0001493152-26-015819-index.htm)
@@ -228,6 +270,9 @@
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041424/0001104659-26-041424-index.htm)
 
+- **487** | FT 12842  (CIK 0002104905)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104905/000144554626002665/0001445546-26-002665-index.htm)
+
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041470/0001104659-26-041470-index.htm)
 
@@ -246,21 +291,6 @@
 - **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826004893/0001133228-26-004893-index.htm)
 
-- **S-3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015941/0001493152-26-015941-index.htm)
-
-- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147944/0001193125-26-147944-index.htm)
-
-- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147945/0001193125-26-147945-index.htm)
-
-- **DEF 14A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526147728/0001193125-26-147728-index.htm)
-
-- **424B5** | SUNation Energy, Inc.  (SUNE)  (CIK 0000022701)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/22701/000121390026041767/0001213900-26-041767-index.htm)
-
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926041547/0001104659-26-041547-index.htm)
 
@@ -273,6 +303,9 @@
 - **20-F** | Banco BBVA Argentina S.A.  (BBAR)  (CIK 0000913059)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/913059/000162828026024441/0001628280-26-024441-index.htm)
 
+- **N-CEN** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926011997/0000894189-26-011997-index.htm)
+
 - **10-Q/A** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000006/0001765048-26-000006-index.htm)
 
@@ -282,18 +315,6 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005546/0000950103-26-005546-index.htm)
 
-- **S-3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226015942/0001493152-26-015942-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226015809/0001493152-26-015809-index.htm)
-
-- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026041279/0001213900-26-041279-index.htm)
-
 - **PRE 14A** | UNITED STATES ANTIMONY CORP  (UAMY)  (CIK 0000101538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/101538/000114036126014138/0001140361-26-014138-index.htm)
-
-- **DEF 14A** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000037/0001859392-26-000037-index.htm)
 
