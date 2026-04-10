@@ -27,8 +27,14 @@
 - **S-1** | Canary PEPE ETF  (CIK 0002109686)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109686/000199937126007908/0001999371-26-007908-index.htm)
 
+- **424B5** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226016191/0001493152-26-016191-index.htm)
+
 - **424B3** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026041274/0001213900-26-041274-index.htm)
+
+- **424B5** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226016186/0001493152-26-016186-index.htm)
 
 - **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026041270/0001213900-26-041270-index.htm)
@@ -129,6 +135,9 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000365/0001137360-26-000365-index.htm)
 
+- **424B3** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026024742/0001628280-26-024742-index.htm)
+
 - **S-4/A** | AParadise Acquisition Corp.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026024523/0001628280-26-024523-index.htm)
 
@@ -185,6 +194,9 @@
 
 - **10-K** | Balance Labs, Inc.  (BLNC)  (CIK 0001632121)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1632121/000149315226016088/0001493152-26-016088-index.htm)
+
+- **S-1** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626003406/0001829126-26-003406-index.htm)
 
 - **8-K/A** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000034/0001726978-26-000034-index.htm)
@@ -259,10 +271,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926041422/0001104659-26-041422-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041437/0001104659-26-041437-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041439/0001104659-26-041439-index.htm)
 
 - **485BPOS** | LINCOLN LIFE & ANNUITY FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001051629)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051629/000110465926041452/0001104659-26-041452-index.htm)
@@ -291,11 +303,11 @@
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041424/0001104659-26-041424-index.htm)
 
-- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041470/0001104659-26-041470-index.htm)
-
 - **487** | FT 12842  (CIK 0002104905)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104905/000144554626002665/0001445546-26-002665-index.htm)
+
+- **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041470/0001104659-26-041470-index.htm)
 
 - **485BPOS** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926041469/0001104659-26-041469-index.htm)
@@ -312,6 +324,9 @@
 - **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826004893/0001133228-26-004893-index.htm)
 
+- **10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026042579/0001213900-26-042579-index.htm)
+
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926041547/0001104659-26-041547-index.htm)
 
@@ -327,11 +342,17 @@
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926011997/0000894189-26-011997-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426006417/0001398344-26-006417-index.htm)
+
 - **10-Q/A** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000006/0001765048-26-000006-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026041707/0001213900-26-041707-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126008122/0001999371-26-008122-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005546/0000950103-26-005546-index.htm)
