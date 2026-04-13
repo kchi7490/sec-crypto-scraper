@@ -12,9 +12,9 @@
 - **10-12G** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926042139/0001104659-26-042139-index.htm)
 
-- **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
-
 - **424B3** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526151887/0001193125-26-151887-index.htm)
+
+- **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
 
