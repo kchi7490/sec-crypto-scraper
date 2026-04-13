@@ -12,8 +12,17 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026024888/0001628280-26-024888-index.htm)
 
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026043049/0001213900-26-043049-index.htm)
+
+- **10-K** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826002865/0001683168-26-002865-index.htm)
+
 - **20-F** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026042816/0001213900-26-042816-index.htm)
+
+- **PRE 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226016382/0001493152-26-016382-index.htm)
 
 - **20-F** | Marti Technologies, Inc.  (MRT)  (CIK 0001852767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852767/000121390026042974/0001213900-26-042974-index.htm)
@@ -45,6 +54,9 @@
 - **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
 
+- **S-3** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000121390026043078/0001213900-26-043078-index.htm)
+
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926042666/0001104659-26-042666-index.htm)
 
@@ -56,6 +68,9 @@
 
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
+
+- **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026024942/0001628280-26-024942-index.htm)
 
 - **485APOS** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000207184426000349/0002071844-26-000349-index.htm)
