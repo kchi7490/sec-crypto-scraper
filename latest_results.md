@@ -27,6 +27,9 @@
 - **20-F** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026042816/0001213900-26-042816-index.htm)
 
+- **424B3** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026043275/0001213900-26-043275-index.htm)
+
 - **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926042901/0001104659-26-042901-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026042794/0001213900-26-042794-index.htm)
+
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026043255/0001213900-26-043255-index.htm)
 
 - **424B3** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526151887/0001193125-26-151887-index.htm)
