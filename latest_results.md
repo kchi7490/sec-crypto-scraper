@@ -129,6 +129,9 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026043255/0001213900-26-043255-index.htm)
 
+- **F-3** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226016579/0001493152-26-016579-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001971/0001062993-26-001971-index.htm)
 
