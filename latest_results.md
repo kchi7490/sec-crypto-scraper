@@ -90,6 +90,9 @@
 - **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226016441/0001493152-26-016441-index.htm)
 
+- **487** | FT 12854  (CIK 0002104971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104971/000144554626002718/0001445546-26-002718-index.htm)
+
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
 
