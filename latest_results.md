@@ -54,6 +54,9 @@
 - **PRE 14A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526152947/0001193125-26-152947-index.htm)
 
+- **10-Q/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026043188/0001213900-26-043188-index.htm)
+
 - **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
 
