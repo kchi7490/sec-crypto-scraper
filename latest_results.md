@@ -6,6 +6,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226016296/0001493152-26-016296-index.htm)
 
+- **POS AM** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026043571/0001213900-26-043571-index.htm)
+
+- **20-F** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026043573/0001213900-26-043573-index.htm)
+
 - **424B5** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226016418/0001493152-26-016418-index.htm)
 
@@ -17,6 +23,9 @@
 
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026043049/0001213900-26-043049-index.htm)
+
+- **10-K** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000046/0001788230-26-000046-index.htm)
 
 - **10-K** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826002865/0001683168-26-002865-index.htm)
@@ -48,11 +57,17 @@
 - **20-F** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226016360/0001493152-26-016360-index.htm)
 
+- **424B3** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026043596/0001213900-26-043596-index.htm)
+
 - **DEF 14A** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000595/0001554855-26-000595-index.htm)
 
 - **10-12G** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926042139/0001104659-26-042139-index.htm)
+
+- **S-4/A** | BT Brands, Inc.  (BTBD, BTBDW)  (CIK 0001718224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1718224/000147793226002209/0001477932-26-002209-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526152043/0001193125-26-152043-index.htm)
@@ -63,8 +78,17 @@
 - **PRE 14A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526152947/0001193125-26-152947-index.htm)
 
+- **424B5** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/0001104659-26-043250-index.htm)
+
+- **PRE 14A** | AMERISAFE INC  (AMSF)  (CIK 0001018979)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1018979/000119312526154964/0001193125-26-154964-index.htm)
+
 - **10-Q/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026043188/0001213900-26-043188-index.htm)
+
+- **S-3ASR** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043178/0001104659-26-043178-index.htm)
 
 - **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
@@ -93,6 +117,12 @@
 - **487** | FT 12854  (CIK 0002104971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104971/000144554626002718/0001445546-26-002718-index.htm)
 
+- **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226016560/0001493152-26-016560-index.htm)
+
+- **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826002930/0001683168-26-002930-index.htm)
+
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
 
@@ -101,6 +131,12 @@
 
 - **485APOS** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000207184426000349/0002071844-26-000349-index.htm)
+
+- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043263/0001104659-26-043263-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005704/0000950103-26-005704-index.htm)
 
 - **10-Q** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315226016374/0001493152-26-016374-index.htm)
