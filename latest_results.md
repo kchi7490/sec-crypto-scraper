@@ -105,6 +105,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526152043/0001193125-26-152043-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026025154/0001628280-26-025154-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526152015/0001193125-26-152015-index.htm)
 
@@ -183,6 +186,9 @@
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
 
+- **S-1/A** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526155986/0001193125-26-155986-index.htm)
+
 - **N-2/A** | Robinhood Ventures Fund I  (RVI)  (CIK 0002085091)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085091/000162828026024942/0001628280-26-024942-index.htm)
 
@@ -220,10 +226,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043278/0001104659-26-043278-index.htm)
