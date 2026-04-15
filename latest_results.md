@@ -198,6 +198,9 @@
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
 
+- **C/A** | NeuroGym LLC  (CIK 0002089067)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000109/0001872856-26-000109-index.htm)
+
 - **S-1/A** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526155986/0001193125-26-155986-index.htm)
 
@@ -234,14 +237,17 @@
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043301/0001104659-26-043301-index.htm)
 
+- **10-K** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033426000737/0001640334-26-000737-index.htm)
+
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043278/0001104659-26-043278-index.htm)
