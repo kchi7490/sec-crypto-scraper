@@ -18,6 +18,9 @@
 - **S-4** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226016588/0001493152-26-016588-index.htm)
 
+- **S-4** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926004702/0001214659-26-004702-index.htm)
+
 - **424B3** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026043614/0001213900-26-043614-index.htm)
 
@@ -72,6 +75,9 @@
 - **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926042901/0001104659-26-042901-index.htm)
 
+- **10-K** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226016858/0001493152-26-016858-index.htm)
+
 - **PRE 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226016382/0001493152-26-016382-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **8-K/A** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP, HBANZ)  (CIK 0000049196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000004919626000029/0000049196-26-000029-index.htm)
+
+- **10-K** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226016872/0001493152-26-016872-index.htm)
 
 - **424B3** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026043617/0001213900-26-043617-index.htm)
@@ -159,6 +168,15 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043402/0001104659-26-043402-index.htm)
 
+- **10-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003002/0001683168-26-003002-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002003/0001062993-26-002003-index.htm)
+
+- **10-K** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026044126/0001213900-26-044126-index.htm)
+
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016624/0001493152-26-016624-index.htm)
 
@@ -176,6 +194,9 @@
 
 - **10-Q/A** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026043188/0001213900-26-043188-index.htm)
+
+- **10-K** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026044157/0001213900-26-044157-index.htm)
 
 - **S-3ASR** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043178/0001104659-26-043178-index.htm)
@@ -197,6 +218,9 @@
 
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926042666/0001104659-26-042666-index.htm)
+
+- **PRE 14A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226002288/0001477932-26-002288-index.htm)
 
 - **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
@@ -221,6 +245,9 @@
 
 - **POSASR** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043773/0001104659-26-043773-index.htm)
+
+- **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043834/0001104659-26-043834-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
