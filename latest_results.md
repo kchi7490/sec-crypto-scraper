@@ -42,6 +42,9 @@
 - **ARS** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926042868/0001104659-26-042868-index.htm)
 
+- **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026043816/0001213900-26-043816-index.htm)
+
 - **20-F** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026042816/0001213900-26-042816-index.htm)
 
@@ -159,6 +162,9 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026043255/0001213900-26-043255-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043524/0001104659-26-043524-index.htm)
+
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
 
@@ -167,6 +173,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001971/0001062993-26-001971-index.htm)
+
+- **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
 
 - **424B3** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526151887/0001193125-26-151887-index.htm)
