@@ -12,6 +12,9 @@
 - **POS AM** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026043571/0001213900-26-043571-index.htm)
 
+- **10-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004697/0001214659-26-004697-index.htm)
+
 - **S-4** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226016588/0001493152-26-016588-index.htm)
 
@@ -24,8 +27,14 @@
 - **424B5** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226016418/0001493152-26-016418-index.htm)
 
+- **10-K** | I-ON Digital Corp.  (IONI)  (CIK 0001580490)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1580490/000149315226016842/0001493152-26-016842-index.htm)
+
 - **10-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226016375/0001493152-26-016375-index.htm)
+
+- **8-K/A** | RHINO BITCOIN INC.  (RHNO)  (CIK 0001785493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785493/000149315226016826/0001493152-26-016826-index.htm)
 
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026024888/0001628280-26-024888-index.htm)
@@ -35,6 +44,9 @@
 
 - **10-K** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000046/0001788230-26-000046-index.htm)
+
+- **10-K** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315226016806/0001493152-26-016806-index.htm)
 
 - **10-K** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826002865/0001683168-26-002865-index.htm)
@@ -63,11 +75,20 @@
 - **PRE 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226016382/0001493152-26-016382-index.htm)
 
+- **10-K** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026044046/0001213900-26-044046-index.htm)
+
 - **20-F** | Marti Technologies, Inc.  (MRT)  (CIK 0001852767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852767/000121390026042974/0001213900-26-042974-index.htm)
 
 - **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026042685/0001213900-26-042685-index.htm)
+
+- **10-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226002278/0001477932-26-002278-index.htm)
+
+- **8-K/A** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP, HBANZ)  (CIK 0000049196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000004919626000029/0000049196-26-000029-index.htm)
 
 - **424B3** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026043617/0001213900-26-043617-index.htm)
@@ -99,8 +120,14 @@
 - **F-1/A** | Wealth Management System Inc.  (GIVE)  (CIK 0002074158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074158/000149315226016768/0001493152-26-016768-index.htm)
 
+- **10-K** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315226016838/0001493152-26-016838-index.htm)
+
 - **10-K** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793226002218/0001477932-26-002218-index.htm)
+
+- **10-K** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000149315226016808/0001493152-26-016808-index.htm)
 
 - **DEF 14A** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000595/0001554855-26-000595-index.htm)
@@ -156,8 +183,14 @@
 - **10-K** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000121390026042634/0001213900-26-042634-index.htm)
 
+- **10-K** | Constellation Acquisition Corp I  (CSTAF, CSTUF, CSTWF)  (CIK 0001834032)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1834032/000121390026044065/0001213900-26-044065-index.htm)
+
 - **F-4/A** | AIR Holdings Ltd  (AIIR)  (CIK 0002097725)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097725/000119312526155085/0001193125-26-155085-index.htm)
+
+- **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012415/0001437749-26-012415-index.htm)
 
 - **S-3** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000121390026043078/0001213900-26-043078-index.htm)
@@ -168,6 +201,9 @@
 - **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026044036/0001213900-26-044036-index.htm)
+
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026042794/0001213900-26-042794-index.htm)
 
@@ -176,6 +212,15 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043524/0001104659-26-043524-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226016815/0001493152-26-016815-index.htm)
+
+- **20-F** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043786/0001104659-26-043786-index.htm)
+
+- **POSASR** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043773/0001104659-26-043773-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
@@ -201,8 +246,14 @@
 - **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826002930/0001683168-26-002930-index.htm)
 
+- **S-4** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026025236/0001628280-26-025236-index.htm)
+
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926042357/0001104659-26-042357-index.htm)
+
+- **POS EX** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012416/0001437749-26-012416-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000109/0001872856-26-000109-index.htm)
@@ -272,6 +323,12 @@
 
 - **20-F** | EDENOR  (EDN)  (CIK 0001395213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395213/000129281426002270/0001292814-26-002270-index.htm)
+
+- **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026044049/0001213900-26-044049-index.htm)
+
+- **DEF 14A** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226016836/0001493152-26-016836-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005704/0000950103-26-005704-index.htm)
