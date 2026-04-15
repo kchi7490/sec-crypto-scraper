@@ -93,6 +93,12 @@
 - **S-1/A** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026043631/0001213900-26-043631-index.htm)
 
+- **10-K** | BIOREGENX, INC.  (BRGX)  (CIK 0001593184)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1593184/000168316826002975/0001683168-26-002975-index.htm)
+
+- **F-1/A** | Wealth Management System Inc.  (GIVE)  (CIK 0002074158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074158/000149315226016768/0001493152-26-016768-index.htm)
+
 - **10-K** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793226002218/0001477932-26-002218-index.htm)
 
@@ -244,10 +250,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043278/0001104659-26-043278-index.htm)
