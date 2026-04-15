@@ -3,6 +3,9 @@
 - **10-K** | ALT5 Sigma Corp  (ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226016259/0001493152-26-016259-index.htm)
 
+- **10-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226016659/0001493152-26-016659-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226016296/0001493152-26-016296-index.htm)
 
@@ -45,6 +48,12 @@
 - **424B3** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000121390026043275/0001213900-26-043275-index.htm)
 
+- **10-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226016664/0001493152-26-016664-index.htm)
+
+- **10-K** | RYVYL Inc.  (RVYL)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526001363/0001185185-26-001363-index.htm)
+
 - **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926042901/0001104659-26-042901-index.htm)
 
@@ -60,6 +69,9 @@
 - **424B3** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026043617/0001213900-26-043617-index.htm)
 
+- **20-F** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465926043451/0001104659-26-043451-index.htm)
+
 - **S-4** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026042803/0001213900-26-042803-index.htm)
 
@@ -71,6 +83,9 @@
 
 - **DEF 14C** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026043611/0001213900-26-043611-index.htm)
+
+- **S-4/A** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926043392/0001104659-26-043392-index.htm)
 
 - **S-1/A** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026043631/0001213900-26-043631-index.htm)
@@ -99,8 +114,20 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043279/0001104659-26-043279-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043402/0001104659-26-043402-index.htm)
+
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016624/0001493152-26-016624-index.htm)
+
+- **S-1** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016626/0001493152-26-016626-index.htm)
+
 - **424B5** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043250/0001104659-26-043250-index.htm)
+
+- **424B5** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/0001104659-26-043376-index.htm)
 
 - **PRE 14A** | AMERISAFE INC  (AMSF)  (CIK 0001018979)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018979/000119312526154964/0001193125-26-154964-index.htm)
@@ -128,6 +155,9 @@
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026043255/0001213900-26-043255-index.htm)
+
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
 
 - **F-3** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226016579/0001493152-26-016579-index.htm)
@@ -209,6 +239,9 @@
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043302/0001104659-26-043302-index.htm)
+
+- **20-F** | EDENOR  (EDN)  (CIK 0001395213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1395213/000129281426002270/0001292814-26-002270-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005704/0000950103-26-005704-index.htm)
