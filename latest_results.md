@@ -99,6 +99,9 @@
 - **DEF 14A** | EURONET WORLDWIDE, INC.  (EEFT)  (CIK 0001029199)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1029199/000155485526000595/0001554855-26-000595-index.htm)
 
+- **ARS** | Carter Bankshares, Inc.  (CARE)  (CIK 0001829576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829576/000182957626000029/0001829576-26-000029-index.htm)
+
 - **10-12G** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926042139/0001104659-26-042139-index.htm)
 
@@ -156,6 +159,9 @@
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926042666/0001104659-26-042666-index.htm)
 
+- **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
+
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026042794/0001213900-26-042794-index.htm)
 
@@ -173,9 +179,6 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326001971/0001062993-26-001971-index.htm)
-
-- **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
 
 - **424B3** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526151887/0001193125-26-151887-index.htm)
@@ -235,10 +238,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043278/0001104659-26-043278-index.htm)
