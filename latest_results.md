@@ -3,6 +3,9 @@
 - **10-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226016659/0001493152-26-016659-index.htm)
 
+- **POS AM** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026044169/0001213900-26-044169-index.htm)
+
 - **POS AM** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026043571/0001213900-26-043571-index.htm)
 
@@ -108,6 +111,9 @@
 - **S-4/A** | BT Brands, Inc.  (BTBD, BTBDW)  (CIK 0001718224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1718224/000147793226002209/0001477932-26-002209-index.htm)
 
+- **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226016931/0001493152-26-016931-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026025154/0001628280-26-025154-index.htm)
 
@@ -177,6 +183,9 @@
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226016815/0001493152-26-016815-index.htm)
 
+- **20-F** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926043910/0001104659-26-043910-index.htm)
+
 - **20-F** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043786/0001104659-26-043786-index.htm)
 
@@ -191,6 +200,9 @@
 
 - **SCHEDULE 13D** | YY Group Holding Ltd.  (YYGH)  (CIK 0001985337)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985337/000119380526000470/0001193805-26-000470-index.htm)
+
+- **F-3** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926043914/0001104659-26-043914-index.htm)
 
 - **F-3** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226016579/0001493152-26-016579-index.htm)
@@ -287,4 +299,7 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005704/0000950103-26-005704-index.htm)
+
+- **DEF 14A** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465926043967/0001104659-26-043967-index.htm)
 
