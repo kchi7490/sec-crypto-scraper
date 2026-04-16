@@ -81,6 +81,9 @@
 - **424B3** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526159183/0001193125-26-159183-index.htm)
 
+- **S-1** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000589/0001731122-26-000589-index.htm)
+
 - **20-F** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390026044335/0001213900-26-044335-index.htm)
 
@@ -95,6 +98,9 @@
 
 - **8-K/A** | HUNTINGTON BANCSHARES INC /MD/  (HBAN, HBANL, HBANM, HBANP, HBANZ)  (CIK 0000049196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/49196/000004919626000029/0000049196-26-000029-index.htm)
+
+- **S-3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526159310/0001193125-26-159310-index.htm)
 
 - **10-K** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226016872/0001493152-26-016872-index.htm)
@@ -125,6 +131,9 @@
 
 - **10-K** | APPYEA, INC  (APYP)  (CIK 0001568969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1568969/000149315226016968/0001493152-26-016968-index.htm)
+
+- **DEFM14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000118518526001404/0001185185-26-001404-index.htm)
 
 - **10-K** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315226016838/0001493152-26-016838-index.htm)
@@ -162,6 +171,9 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043402/0001104659-26-043402-index.htm)
 
+- **S-1** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026044715/0001213900-26-044715-index.htm)
+
 - **10-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003002/0001683168-26-003002-index.htm)
 
@@ -185,6 +197,9 @@
 
 - **424B5** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043376/0001104659-26-043376-index.htm)
+
+- **424B5** | Hoth Therapeutics, Inc.  (HOTH)  (CIK 0001711786)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711786/000121390026044740/0001213900-26-044740-index.htm)
 
 - **PRE 14A** | AMERISAFE INC  (AMSF)  (CIK 0001018979)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018979/000119312526154964/0001193125-26-154964-index.htm)
@@ -218,6 +233,9 @@
 
 - **8-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000114036126014692/0001140361-26-014692-index.htm)
+
+- **486BPOS** | Apollo Debt Solutions BDC  (CIK 0001837532)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526159295/0001193125-26-159295-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026044036/0001213900-26-044036-index.htm)
@@ -343,10 +361,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926044309/0001104659-26-044309-index.htm)
@@ -366,6 +384,9 @@
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926044292/0001104659-26-044292-index.htm)
 
+- **20-F** | GRUPO FINANCIERO GALICIA SA  (GGAL)  (CIK 0001114700)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1114700/000111470026000038/0001114700-26-000038-index.htm)
+
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043293/0001104659-26-043293-index.htm)
 
@@ -381,6 +402,9 @@
 - **20-F** | EDENOR  (EDN)  (CIK 0001395213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395213/000129281426002270/0001292814-26-002270-index.htm)
 
+- **497** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026044728/0001213900-26-044728-index.htm)
+
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000006/0001479844-26-000006-index.htm)
 
@@ -395,6 +419,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005704/0000950103-26-005704-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326005824/0000950103-26-005824-index.htm)
 
 - **DEF 14A** | PAR TECHNOLOGY CORP  (PAR)  (CIK 0000708821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/708821/000070882126000048/0000708821-26-000048-index.htm)
