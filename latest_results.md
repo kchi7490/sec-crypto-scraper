@@ -105,6 +105,9 @@
 - **10-K** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315226016838/0001493152-26-016838-index.htm)
 
+- **8-K** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426003581/0001654954-26-003581-index.htm)
+
 - **10-K** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793226002218/0001477932-26-002218-index.htm)
 
@@ -213,6 +216,9 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
 
+- **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465926044121/0001104659-26-044121-index.htm)
+
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390026044336/0001213900-26-044336-index.htm)
 
@@ -308,6 +314,9 @@
 
 - **20-F** | EDENOR  (EDN)  (CIK 0001395213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395213/000129281426002270/0001292814-26-002270-index.htm)
+
+- **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000006/0001479844-26-000006-index.htm)
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026044049/0001213900-26-044049-index.htm)
