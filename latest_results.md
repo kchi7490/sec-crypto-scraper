@@ -210,8 +210,14 @@
 - **20-F** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926043910/0001104659-26-043910-index.htm)
 
+- **6-K** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026044471/0001213900-26-044471-index.htm)
+
 - **20-F** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043786/0001104659-26-043786-index.htm)
+
+- **424B5** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226017010/0001493152-26-017010-index.htm)
 
 - **POSASR** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043773/0001104659-26-043773-index.htm)
@@ -329,6 +335,9 @@
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026044049/0001213900-26-044049-index.htm)
+
+- **SCHEDULE 13D** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000211691926000003/0002116919-26-000003-index.htm)
 
 - **DEF 14A** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226016836/0001493152-26-016836-index.htm)
