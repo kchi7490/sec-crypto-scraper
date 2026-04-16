@@ -39,6 +39,9 @@
 - **10-K** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315226016806/0001493152-26-016806-index.htm)
 
+- **10-K** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226002310/0001477932-26-002310-index.htm)
+
 - **ARS** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926042868/0001104659-26-042868-index.htm)
 
@@ -180,6 +183,9 @@
 - **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012415/0001437749-26-012415-index.htm)
 
+- **8-K** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226002316/0001477932-26-002316-index.htm)
+
 - **424B3** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000761/0001640334-26-000761-index.htm)
 
@@ -258,6 +264,9 @@
 - **S-1/A** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526155986/0001193125-26-155986-index.htm)
 
+- **10-Q** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226002319/0001477932-26-002319-index.htm)
+
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT Q  (CIK 0001048604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048604/000110465926043282/0001104659-26-043282-index.htm)
 
@@ -292,10 +301,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926043280/0001104659-26-043280-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926043278/0001104659-26-043278-index.htm)
