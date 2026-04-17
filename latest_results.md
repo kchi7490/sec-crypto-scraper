@@ -207,9 +207,6 @@
 - **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043834/0001104659-26-043834-index.htm)
 
-- **6-K** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889726000132/0002058897-26-000132-index.htm)
-
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
 
@@ -225,20 +222,20 @@
 - **F-3** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926043914/0001104659-26-043914-index.htm)
 
-- **485BPOS** | PIA VARIABLE LIFE ACCOUNT I  (CIK 0001910169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1910169/000119312526159930/0001193125-26-159930-index.htm)
+- **20-F** | Meiwu Technology Co Ltd  (WNW)  (CIK 0001787803)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787803/000149315226017159/0001493152-26-017159-index.htm)
 
-- **S-1/A** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226017137/0001493152-26-017137-index.htm)
-
-- **485BPOS** | PENN MUTUAL VARIABLE LIFE ACCOUNT I  (CIK 0000810579)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810579/000119312526159918/0001193125-26-159918-index.htm)
+- **6-K** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889726000132/0002058897-26-000132-index.htm)
 
 - **S-4** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026025236/0001628280-26-025236-index.htm)
 
 - **POS EX** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012416/0001437749-26-012416-index.htm)
+
+- **8-A12B** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526160210/0001193125-26-160210-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000109/0001872856-26-000109-index.htm)
@@ -249,6 +246,9 @@
 - **10-Q** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226002319/0001477932-26-002319-index.htm)
 
+- **485BPOS** | PIA VARIABLE LIFE ACCOUNT I  (CIK 0001910169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1910169/000119312526159930/0001193125-26-159930-index.htm)
+
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926044269/0001104659-26-044269-index.htm)
 
@@ -257,6 +257,12 @@
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926044317/0001104659-26-044317-index.htm)
+
+- **S-1/A** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226017137/0001493152-26-017137-index.htm)
+
+- **485BPOS** | PENN MUTUAL VARIABLE LIFE ACCOUNT I  (CIK 0000810579)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810579/000119312526159918/0001193125-26-159918-index.htm)
 
 - **10-K** | GIVBUX, INC.  (GBUX)  (CIK 0001169138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1169138/000164033426000737/0001640334-26-000737-index.htm)
