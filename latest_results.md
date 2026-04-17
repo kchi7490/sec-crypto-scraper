@@ -84,6 +84,9 @@
 - **8-K** | REGIONS FINANCIAL CORP  (RF, RF-PC, RF-PE, RF-PF)  (CIK 0001281761)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1281761/000128176126000032/0001281761-26-000032-index.htm)
 
+- **S-3** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000020/0001805526-26-000020-index.htm)
+
 - **10-K** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226016872/0001493152-26-016872-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **8-K** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426003581/0001654954-26-003581-index.htm)
+
+- **PRE 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526161456/0001193125-26-161456-index.htm)
 
 - **10-K** | Arrive AI Inc.  (ARAI)  (CIK 0001818274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818274/000149315226016808/0001493152-26-016808-index.htm)
@@ -162,6 +168,9 @@
 - **10-K** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026044157/0001213900-26-044157-index.htm)
 
+- **PRE 14A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926044888/0001104659-26-044888-index.htm)
+
 - **10-K** | Constellation Acquisition Corp I  (CSTAF, CSTUF, CSTWF)  (CIK 0001834032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1834032/000121390026044065/0001213900-26-044065-index.htm)
 
@@ -197,6 +206,9 @@
 
 - **6-K** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226017175/0001493152-26-017175-index.htm)
+
+- **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026045168/0001213900-26-045168-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043524/0001104659-26-043524-index.htm)
@@ -270,6 +282,9 @@
 - **S-4** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026025236/0001628280-26-025236-index.htm)
 
+- **S-1** | Liftoff Mobile, Inc.  (CIK 0001850351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526161596/0001193125-26-161596-index.htm)
+
 - **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926044783/0001104659-26-044783-index.htm)
 
@@ -314,6 +329,9 @@
 
 - **20-F** | GRUPO FINANCIERO GALICIA SA  (GGAL)  (CIK 0001114700)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1114700/000111470026000038/0001114700-26-000038-index.htm)
+
+- **497** | Milliman Funds Trust  (CIK 0002096904)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096904/000199937126008501/0001999371-26-008501-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926044332/0001104659-26-044332-index.htm)
