@@ -291,3 +291,6 @@
 - **DEF 14A** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465926043967/0001104659-26-043967-index.htm)
 
+- **SCHEDULE 13D/A** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226017133/0001493152-26-017133-index.htm)
+
