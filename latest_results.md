@@ -93,6 +93,9 @@
 - **20-F** | Futu Holdings Ltd  (FUTU)  (CIK 0001754581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754581/000110465926043451/0001104659-26-043451-index.htm)
 
+- **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226017925/0001493152-26-017925-index.htm)
+
 - **S-4/A** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926043392/0001104659-26-043392-index.htm)
 
@@ -126,8 +129,17 @@
 - **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226016931/0001493152-26-016931-index.htm)
 
+- **S-3/A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226017927/0001493152-26-017927-index.htm)
+
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526161837/0001193125-26-161837-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026025154/0001628280-26-025154-index.htm)
+
+- **S-3/A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226017926/0001493152-26-017926-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016971/0001493152-26-016971-index.htm)
@@ -144,11 +156,11 @@
 - **S-1** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026044715/0001213900-26-044715-index.htm)
 
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004810/0001214659-26-004810-index.htm)
-
 - **10-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003002/0001683168-26-003002-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004810/0001214659-26-004810-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226017877/0001493152-26-017877-index.htm)
@@ -188,6 +200,9 @@
 
 - **10-K** | Constellation Acquisition Corp I  (CSTAF, CSTUF, CSTWF)  (CIK 0001834032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1834032/000121390026044065/0001213900-26-044065-index.htm)
+
+- **F-4/A** | AIR Holdings Ltd  (AIIR)  (CIK 0002097725)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097725/000119312526161808/0001193125-26-161808-index.htm)
 
 - **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012415/0001437749-26-012415-index.htm)
@@ -305,6 +320,9 @@
 
 - **POS EX** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012416/0001437749-26-012416-index.htm)
+
+- **POS AM** | Figure Certificate Co  (CIK 0001974395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226017928/0001493152-26-017928-index.htm)
 
 - **8-A12B** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526160210/0001193125-26-160210-index.htm)
