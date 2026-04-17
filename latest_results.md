@@ -252,6 +252,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002036/0001062993-26-002036-index.htm)
 
+- **10-K** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000562/0001096906-26-000562-index.htm)
+
 - **485BPOS** | PIA VARIABLE LIFE ACCOUNT I  (CIK 0001910169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1910169/000119312526159930/0001193125-26-159930-index.htm)
 
@@ -263,6 +266,9 @@
 
 - **S-4** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026025236/0001628280-26-025236-index.htm)
+
+- **S-1/A** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926044783/0001104659-26-044783-index.htm)
 
 - **POS EX** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926012416/0001437749-26-012416-index.htm)
@@ -347,6 +353,9 @@
 
 - **DEF 14A** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465926043967/0001104659-26-043967-index.htm)
+
+- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926004770/0001214659-26-004770-index.htm)
 
 - **SCHEDULE 13D/A** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226017133/0001493152-26-017133-index.htm)
