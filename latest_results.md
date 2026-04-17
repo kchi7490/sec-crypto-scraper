@@ -75,6 +75,9 @@
 - **S-3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526159310/0001193125-26-159310-index.htm)
 
+- **8-K** | REGIONS FINANCIAL CORP  (RF, RF-PC, RF-PE, RF-PF)  (CIK 0001281761)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1281761/000128176126000032/0001281761-26-000032-index.htm)
+
 - **10-K** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226016872/0001493152-26-016872-index.htm)
 
@@ -204,6 +207,9 @@
 - **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926043834/0001104659-26-043834-index.htm)
 
+- **6-K** | Grupo Cibest S.A.  (CIB)  (CIK 0002058897)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058897/000205889726000132/0002058897-26-000132-index.htm)
+
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002452/0001171843-26-002452-index.htm)
 
@@ -218,6 +224,15 @@
 
 - **F-3** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926043914/0001104659-26-043914-index.htm)
+
+- **485BPOS** | PIA VARIABLE LIFE ACCOUNT I  (CIK 0001910169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1910169/000119312526159930/0001193125-26-159930-index.htm)
+
+- **S-1/A** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226017137/0001493152-26-017137-index.htm)
+
+- **485BPOS** | PENN MUTUAL VARIABLE LIFE ACCOUNT I  (CIK 0000810579)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810579/000119312526159918/0001193125-26-159918-index.htm)
 
 - **S-4** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026025236/0001628280-26-025236-index.htm)
@@ -270,8 +285,20 @@
 - **497** | Innovator ETFs Trust  (CIK 0001415726)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026044728/0001213900-26-044728-index.htm)
 
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026044753/0001213900-26-044753-index.htm)
+
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000006/0001479844-26-000006-index.htm)
+
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026044750/0001213900-26-044750-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026044870/0001213900-26-044870-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026044871/0001213900-26-044871-index.htm)
 
 - **425** | Mountain Lake Acquisition Corp.  (MLAC, MLACR, MLACU)  (CIK 0002029492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2029492/000121390026044049/0001213900-26-044049-index.htm)
