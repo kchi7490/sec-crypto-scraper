@@ -9,6 +9,9 @@
 - **10-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004697/0001214659-26-004697-index.htm)
 
+- **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226017736/0001493152-26-017736-index.htm)
+
 - **S-4** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926004702/0001214659-26-004702-index.htm)
 
@@ -138,11 +141,11 @@
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002003/0001062993-26-002003-index.htm)
 
-- **10-K** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026044126/0001213900-26-044126-index.htm)
-
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016624/0001493152-26-016624-index.htm)
+
+- **10-K** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026044126/0001213900-26-044126-index.htm)
 
 - **S-1** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016626/0001493152-26-016626-index.htm)
