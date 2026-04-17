@@ -255,6 +255,9 @@
 - **10-K** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000562/0001096906-26-000562-index.htm)
 
+- **S-1/A** | Conexeu Sciences Inc.  (CIK 0002066836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326002041/0001062993-26-002041-index.htm)
+
 - **485BPOS** | PIA VARIABLE LIFE ACCOUNT I  (CIK 0001910169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1910169/000119312526159930/0001193125-26-159930-index.htm)
 
@@ -341,6 +344,9 @@
 
 - **SCHEDULE 13D** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000211691926000003/0002116919-26-000003-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126008492/0001999371-26-008492-index.htm)
 
 - **DEF 14A** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226016836/0001493152-26-016836-index.htm)
