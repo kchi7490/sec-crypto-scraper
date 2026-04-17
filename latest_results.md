@@ -138,14 +138,26 @@
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926043402/0001104659-26-043402-index.htm)
 
+- **424B2** | JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026045223/0001213900-26-045223-index.htm)
+
 - **S-1** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026044715/0001213900-26-044715-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004810/0001214659-26-004810-index.htm)
 
 - **10-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003002/0001683168-26-003002-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226017877/0001493152-26-017877-index.htm)
+
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002003/0001062993-26-002003-index.htm)
+
+- **424B2** | JPMORGAN CHASE & CO  (JPM, AMJB, VYLD, JPM-PC, JPM-PD, JPM-PJ, JPM-PK, JPM-PL, JPM-PM)  (CIK 0000019617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026045209/0001213900-26-045209-index.htm)
 
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016624/0001493152-26-016624-index.htm)
@@ -155,6 +167,9 @@
 
 - **S-1** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226016626/0001493152-26-016626-index.htm)
+
+- **S-1/A** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026045227/0001213900-26-045227-index.htm)
 
 - **424B5** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000110465926044031/0001104659-26-044031-index.htm)
@@ -374,6 +389,9 @@
 
 - **DEF 14A** | PAR TECHNOLOGY CORP  (PAR)  (CIK 0000708821)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/708821/000070882126000048/0000708821-26-000048-index.htm)
+
+- **10-K/A** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226017897/0001493152-26-017897-index.htm)
 
 - **DEF 14A** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000110465926043967/0001104659-26-043967-index.htm)
