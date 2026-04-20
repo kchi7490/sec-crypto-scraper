@@ -12,6 +12,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526162756/0001193125-26-162756-index.htm)
 
+- **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526163263/0001193125-26-163263-index.htm)
+
 - **486BPOS** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.htm)
 
