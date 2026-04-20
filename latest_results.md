@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm)
 
+- **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000012/0001074828-26-000012-index.htm)
+
 - **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526163263/0001193125-26-163263-index.htm)
 
@@ -11,6 +14,9 @@
 
 - **ARS** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000018/0001819989-26-000018-index.htm)
+
+- **10-K** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226018144/0001493152-26-018144-index.htm)
 
 - **485BPOS** | BRIGHTHOUSE LIFE INSURANCE Co OF NY  (CIK 0001167609)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167609/000119312526163552/0001193125-26-163552-index.htm)
@@ -29,6 +35,12 @@
 
 - **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018102/0001493152-26-018102-index.htm)
+
+- **S-8** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526164326/0001193125-26-164326-index.htm)
+
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526164202/0001193125-26-164202-index.htm)
 
 - **486BPOS** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.htm)
@@ -53,6 +65,9 @@
 
 - **N-4/A** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000111/0002047976-26-000111-index.htm)
+
+- **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000051/0000777917-26-000051-index.htm)
 
 - **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526162601/0001193125-26-162601-index.htm)
@@ -83,6 +98,9 @@
 
 - **485BPOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000036/0002040519-26-000036-index.htm)
+
+- **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793226002423/0001477932-26-002423-index.htm)
 
 - **DEF 14A** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000016/0001819989-26-000016-index.htm)
