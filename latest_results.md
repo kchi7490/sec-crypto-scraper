@@ -1,5 +1,17 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm)
+
+- **DEF 14A** | NexPoint Real Estate Finance, Inc.  (NREF, NREF-PA)  (CIK 0001786248)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1786248/000143774926012765/0001437749-26-012765-index.htm)
+
+- **DEF 14A** | NEXPOINT DIVERSIFIED REAL ESTATE TRUST  (NXDT, NXDT-PA)  (CIK 0001356115)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1356115/000143774926012769/0001437749-26-012769-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526162756/0001193125-26-162756-index.htm)
+
 - **486BPOS** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.htm)
 
