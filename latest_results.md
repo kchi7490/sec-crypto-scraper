@@ -3,6 +3,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm)
 
+- **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526163263/0001193125-26-163263-index.htm)
+
+- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226018040/0001493152-26-018040-index.htm)
+
 - **DEF 14A** | NexPoint Real Estate Finance, Inc.  (NREF, NREF-PA)  (CIK 0001786248)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1786248/000143774926012765/0001437749-26-012765-index.htm)
 
@@ -11,9 +17,6 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526162756/0001193125-26-162756-index.htm)
-
-- **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526163263/0001193125-26-163263-index.htm)
 
 - **486BPOS** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.htm)
