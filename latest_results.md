@@ -75,11 +75,17 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026045594/0001213900-26-045594-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026045892/0001213900-26-045892-index.htm)
+
 - **20-F** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465926045107/0001104659-26-045107-index.htm)
 
 - **20-F** | Macro Bank Inc.  (BMA)  (CIK 0001347426)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1347426/000119312526163876/0001193125-26-163876-index.htm)
+
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026045850/0001213900-26-045850-index.htm)
 
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926012749/0001437749-26-012749-index.htm)
@@ -89,6 +95,9 @@
 
 - **485BPOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000115/0002047976-26-000115-index.htm)
+
+- **485BPOS** | JACKSON NATIONAL LIFE INSURANCE CO OF NEW YORK  (CIK 0001128415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1128415/000112841526000066/0001128415-26-000066-index.htm)
 
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026045906/0001213900-26-045906-index.htm)
@@ -107,6 +116,12 @@
 
 - **1-K** | Miso Robotics, Inc.  (CIK 0001710670)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710670/000110465926045031/0001104659-26-045031-index.htm)
+
+- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000158/0001045032-26-000158-index.htm)
+
+- **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000181/0000927730-26-000181-index.htm)
 
 - **N-4/A** | JACKSON NATIONAL LIFE INSURANCE CO OF NEW YORK  (CIK 0001128415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1128415/000112841526000060/0001128415-26-000060-index.htm)
