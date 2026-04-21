@@ -24,6 +24,9 @@
 - **10-K** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226018144/0001493152-26-018144-index.htm)
 
+- **20-F** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026045881/0001213900-26-045881-index.htm)
+
 - **485BPOS** | BRIGHTHOUSE LIFE INSURANCE Co OF NY  (CIK 0001167609)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167609/000119312526163552/0001193125-26-163552-index.htm)
 
@@ -51,6 +54,9 @@
 - **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018102/0001493152-26-018102-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226018212/0001493152-26-018212-index.htm)
+
 - **S-8** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526164326/0001193125-26-164326-index.htm)
 
@@ -69,6 +75,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026045594/0001213900-26-045594-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026045892/0001213900-26-045892-index.htm)
+
 - **20-F** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465926045107/0001104659-26-045107-index.htm)
 
@@ -80,6 +89,12 @@
 
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926012749/0001437749-26-012749-index.htm)
+
+- **6-K** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226018225/0001493152-26-018225-index.htm)
+
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026045906/0001213900-26-045906-index.htm)
 
 - **N-4/A** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000110/0002047976-26-000110-index.htm)
