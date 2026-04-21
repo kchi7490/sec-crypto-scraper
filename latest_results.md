@@ -15,6 +15,12 @@
 - **ARS** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000018/0001819989-26-000018-index.htm)
 
+- **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026045796/0001213900-26-045796-index.htm)
+
+- **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018147/0001493152-26-018147-index.htm)
+
 - **10-K** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226018144/0001493152-26-018144-index.htm)
 
@@ -24,6 +30,9 @@
 - **DEF 14A** | NexPoint Real Estate Finance, Inc.  (NREF, NREF-PA)  (CIK 0001786248)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1786248/000143774926012765/0001437749-26-012765-index.htm)
 
+- **S-1** | East West Ave Acquisition Corp.  (CIK 0002100704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226018171/0001493152-26-018171-index.htm)
+
 - **DEF 14A** | NEXPOINT DIVERSIFIED REAL ESTATE TRUST  (NXDT, NXDT-PA)  (CIK 0001356115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1356115/000143774926012769/0001437749-26-012769-index.htm)
 
@@ -32,6 +41,9 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526162756/0001193125-26-162756-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018192/0001493152-26-018192-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004856/0001214659-26-004856-index.htm)
@@ -63,14 +75,11 @@
 - **20-F** | Macro Bank Inc.  (BMA)  (CIK 0001347426)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1347426/000119312526163876/0001193125-26-163876-index.htm)
 
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026045850/0001213900-26-045850-index.htm)
+
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926012749/0001437749-26-012749-index.htm)
-
-- **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026045796/0001213900-26-045796-index.htm)
-
-- **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018147/0001493152-26-018147-index.htm)
 
 - **N-4/A** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000110/0002047976-26-000110-index.htm)
@@ -80,9 +89,6 @@
 
 - **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000051/0000777917-26-000051-index.htm)
-
-- **S-1** | East West Ave Acquisition Corp.  (CIK 0002100704)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226018171/0001493152-26-018171-index.htm)
 
 - **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526162601/0001193125-26-162601-index.htm)
