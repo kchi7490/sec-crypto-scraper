@@ -30,6 +30,9 @@
 - **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018147/0001493152-26-018147-index.htm)
 
+- **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315226018534/0001493152-26-018534-index.htm)
+
 - **10-K** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226018144/0001493152-26-018144-index.htm)
 
