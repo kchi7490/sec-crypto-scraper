@@ -120,6 +120,9 @@
 - **20-F** | Macro Bank Inc.  (BMA)  (CIK 0001347426)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1347426/000119312526163876/0001193125-26-163876-index.htm)
 
+- **20-F** | CENTRAL PUERTO S.A.  (CEPU)  (CIK 0001717161)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1717161/000129281426002446/0001292814-26-002446-index.htm)
+
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026046214/0001213900-26-046214-index.htm)
 
@@ -193,13 +196,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005946/0001133228-26-005946-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
-
-- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926046043/0001104659-26-046043-index.htm)
@@ -224,6 +227,9 @@
 
 - **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000062/0000777917-26-000062-index.htm)
+
+- **N-CSRS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000508/0000898745-26-000508-index.htm)
 
 - **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526162601/0001193125-26-162601-index.htm)
