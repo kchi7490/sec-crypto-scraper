@@ -12,6 +12,9 @@
 - **8-K** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000053/0001788230-26-000053-index.htm)
 
+- **8-K** | TLGY ACQUISITION CORP  (TLGUF, TLGWF, TLGYF)  (CIK 0001879814)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879814/000121390026046647/0001213900-26-046647-index.htm)
+
 - **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000012/0001074828-26-000012-index.htm)
 
@@ -42,6 +45,9 @@
 - **S-1/A** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026045796/0001213900-26-045796-index.htm)
 
+- **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226018577/0001493152-26-018577-index.htm)
+
 - **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018147/0001493152-26-018147-index.htm)
 
@@ -63,6 +69,9 @@
 - **DEF 14A** | NexPoint Real Estate Finance, Inc.  (NREF, NREF-PA)  (CIK 0001786248)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1786248/000143774926012765/0001437749-26-012765-index.htm)
 
+- **S-1/A** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526170833/0001193125-26-170833-index.htm)
+
 - **ARS** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000193/0001769628-26-000193-index.htm)
 
@@ -71,6 +80,9 @@
 
 - **DEF 14A** | NEXPOINT DIVERSIFIED REAL ESTATE TRUST  (NXDT, NXDT-PA)  (CIK 0001356115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1356115/000143774926012769/0001437749-26-012769-index.htm)
+
+- **20-F** | GAS TRANSPORTER OF THE SOUTH INC  (TGS)  (CIK 0000931427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/931427/000114036126016167/0001140361-26-016167-index.htm)
 
 - **20-F** | Elong Power Holding Ltd.  (ELPW)  (CIK 0002015691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015691/000149315226018104/0001493152-26-018104-index.htm)
@@ -95,6 +107,9 @@
 
 - **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018102/0001493152-26-018102-index.htm)
+
+- **8-K/A** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226018584/0001493152-26-018584-index.htm)
 
 - **425** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000110465926046099/0001104659-26-046099-index.htm)
@@ -171,11 +186,17 @@
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926012749/0001437749-26-012749-index.htm)
 
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226018594/0001493152-26-018594-index.htm)
+
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926046802/0001104659-26-046802-index.htm)
 
 - **6-K** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226018225/0001493152-26-018225-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000136/0000945908-26-000136-index.htm)
 
 - **485BPOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000115/0002047976-26-000115-index.htm)
@@ -437,6 +458,9 @@
 
 - **425** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000121390026046152/0001213900-26-046152-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126008757/0001999371-26-008757-index.htm)
 
 - **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793226002423/0001477932-26-002423-index.htm)
