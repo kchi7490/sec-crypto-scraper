@@ -60,6 +60,9 @@
 - **10-K/A** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003115/0001683168-26-003115-index.htm)
 
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002077/0001062993-26-002077-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926004856/0001214659-26-004856-index.htm)
 
@@ -93,6 +96,9 @@
 - **486BPOS** | HPS Corporate Lending Fund  (CIK 0001838126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.htm)
 
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526168716/0001193125-26-168716-index.htm)
+
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000169063926000021/0001690639-26-000021-index.htm)
 
@@ -101,6 +107,9 @@
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026045892/0001213900-26-045892-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000332/0001279569-26-000332-index.htm)
 
 - **6-K** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026046244/0001213900-26-046244-index.htm)
