@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226018015/0001493152-26-018015-index.htm)
 
+- **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626003715/0001829126-26-003715-index.htm)
+
 - **8-K** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000053/0001788230-26-000053-index.htm)
 
@@ -263,6 +266,9 @@
 
 - **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793226002423/0001477932-26-002423-index.htm)
+
+- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018398/0001493152-26-018398-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000134/0001174610-26-000134-index.htm)
