@@ -33,6 +33,9 @@
 - **20-F** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026045881/0001213900-26-045881-index.htm)
 
+- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018398/0001493152-26-018398-index.htm)
+
 - **485BPOS** | BRIGHTHOUSE LIFE INSURANCE Co OF NY  (CIK 0001167609)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167609/000119312526163552/0001193125-26-163552-index.htm)
 
@@ -138,8 +141,23 @@
 - **485BPOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000124/0002047976-26-000124-index.htm)
 
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NEW YORK  (CIK 0000080019)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/80019/000113322826005948/0001133228-26-005948-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
+
 - **485BPOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000122/0002047976-26-000122-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000051/0000836346-26-000051-index.htm)
 
 - **485BPOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926046037/0001104659-26-046037-index.htm)
@@ -153,11 +171,44 @@
 - **485BPOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000123/0002047976-26-000123-index.htm)
 
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005939/0001133228-26-005939-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005947/0001133228-26-005947-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005942/0001133228-26-005942-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005946/0001133228-26-005946-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
+
 - **485BPOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926046043/0001104659-26-046043-index.htm)
 
 - **N-4/A** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000111/0002047976-26-000111-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005944/0001133228-26-005944-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005950/0001133228-26-005950-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005940/0001133228-26-005940-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005945/0001133228-26-005945-index.htm)
 
 - **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000051/0000777917-26-000051-index.htm)
@@ -213,6 +264,12 @@
 - **485BPOS** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526163519/0001193125-26-163519-index.htm)
 
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000084577526000016/0000845775-26-000016-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000084577526000017/0000845775-26-000017-index.htm)
+
 - **485BPOS** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526163537/0001193125-26-163537-index.htm)
 
@@ -266,9 +323,6 @@
 
 - **10-Q** | Karbon-X Corp.  (KARX)  (CIK 0001729637)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729637/000147793226002423/0001477932-26-002423-index.htm)
-
-- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018398/0001493152-26-018398-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000134/0001174610-26-000134-index.htm)
