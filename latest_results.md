@@ -75,6 +75,9 @@
 - **425** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000110465926046099/0001104659-26-046099-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000383/0001137360-26-000383-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226018212/0001493152-26-018212-index.htm)
 
@@ -199,13 +202,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005946/0001133228-26-005946-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
-
-- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926046043/0001104659-26-046043-index.htm)
