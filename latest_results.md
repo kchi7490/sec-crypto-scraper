@@ -21,6 +21,9 @@
 - **DEF 14A** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/0001783879-26-000053-index.htm)
 
+- **8-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000119312526171829/0001193125-26-171829-index.htm)
+
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226002463/0001477932-26-002463-index.htm)
 
@@ -116,6 +119,9 @@
 
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526168716/0001193125-26-168716-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926013078/0001437749-26-013078-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026045892/0001213900-26-045892-index.htm)
@@ -217,10 +223,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -243,8 +249,14 @@
 - **POS AM** | PRUCO LIFE INSURANCE CO  (CIK 0000777917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/777917/000077791726000062/0000777917-26-000062-index.htm)
 
+- **424B4** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926047210/0001104659-26-047210-index.htm)
+
 - **N-CSRS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000508/0000898745-26-000508-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000137/0001081400-26-000137-index.htm)
 
 - **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/0001045032-26-000166-index.htm)
