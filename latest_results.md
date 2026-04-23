@@ -267,6 +267,9 @@
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000137/0001081400-26-000137-index.htm)
 
+- **485BPOS** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/0001081402-26-000005-index.htm)
+
 - **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/0001045032-26-000166-index.htm)
 
