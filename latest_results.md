@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226002467/0001477932-26-002467-index.htm)
+
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626003715/0001829126-26-003715-index.htm)
 
@@ -39,6 +42,9 @@
 - **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315226018534/0001493152-26-018534-index.htm)
 
+- **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026046793/0001213900-26-046793-index.htm)
+
 - **20-F** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026045881/0001213900-26-045881-index.htm)
 
@@ -77,6 +83,9 @@
 
 - **425** | BOXABL Inc.  (CIK 0001816937)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000110465926046099/0001104659-26-046099-index.htm)
+
+- **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/0001628280-26-026673-index.htm)
 
 - **424B3** | AIR Holdings Ltd  (AIIR)  (CIK 0002097725)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097725/000119312526170549/0001193125-26-170549-index.htm)
@@ -309,11 +318,11 @@
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000242/0000927730-26-000242-index.htm)
 
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926045944/0001104659-26-045944-index.htm)
-
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000236/0000927730-26-000236-index.htm)
+
+- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926045944/0001104659-26-045944-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000241/0000927730-26-000241-index.htm)
@@ -357,6 +366,9 @@
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
 
+- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026046800/0001213900-26-046800-index.htm)
+
 - **425** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000121390026046152/0001213900-26-046152-index.htm)
 
@@ -371,4 +383,7 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000135/0001174610-26-000135-index.htm)
+
+- **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000041/0001726978-26-000041-index.htm)
 
