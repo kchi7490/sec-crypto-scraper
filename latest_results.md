@@ -84,6 +84,9 @@
 - **20-F** | GAS TRANSPORTER OF THE SOUTH INC  (TGS)  (CIK 0000931427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/931427/000114036126016167/0001140361-26-016167-index.htm)
 
+- **424B4** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026047113/0001213900-26-047113-index.htm)
+
 - **485BPOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126008800/0001999371-26-008800-index.htm)
 
@@ -140,6 +143,9 @@
 
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000039/0001726978-26-000039-index.htm)
+
+- **ARS** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526174046/0001193125-26-174046-index.htm)
 
 - **486BPOS** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812554/000162828026026116/0001628280-26-026116-index.htm)
@@ -259,10 +265,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -294,20 +300,14 @@
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000137/0001081400-26-000137-index.htm)
 
-- **485BPOS** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/0001081402-26-000005-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000190/0001045032-26-000190-index.htm)
-
 - **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/0001045032-26-000166-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000233/0000927730-26-000233-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000235/0000927730-26-000235-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000235/0000927730-26-000235-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000233/0000927730-26-000233-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000190/0000927730-26-000190-index.htm)
@@ -317,12 +317,6 @@
 
 - **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000158/0001045032-26-000158-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000192/0001045032-26-000192-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000191/0001045032-26-000191-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000181/0000927730-26-000181-index.htm)
@@ -339,15 +333,6 @@
 - **485BPOS** | LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT C  (CIK 0000353894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/353894/000110465926045950/0001104659-26-045950-index.htm)
 
-- **485BPOS** | LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT C  (CIK 0000353894)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/353894/000110465926047617/0001104659-26-047617-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047603/0001104659-26-047603-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000189/0001045032-26-000189-index.htm)
-
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000191/0000927730-26-000191-index.htm)
 
@@ -360,9 +345,6 @@
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NEW YORK  (CIK 0000080019)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/80019/000008001926000005/0000080019-26-000005-index.htm)
 
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047618/0001104659-26-047618-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000084577526000016/0000845775-26-000016-index.htm)
 
@@ -371,18 +353,6 @@
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NEW YORK  (CIK 0000080019)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/80019/000008001926000006/0000080019-26-000006-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000193/0001045032-26-000193-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000197/0001045032-26-000197-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000196/0001045032-26-000196-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047602/0001104659-26-047602-index.htm)
 
 - **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926045925/0001104659-26-045925-index.htm)
@@ -396,29 +366,20 @@
 - **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000168/0001045032-26-000168-index.htm)
 
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047621/0001104659-26-047621-index.htm)
-
 - **485BPOS** | LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT C  (CIK 0000353894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/353894/000110465926045949/0001104659-26-045949-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000242/0000927730-26-000242-index.htm)
 
+- **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000236/0000927730-26-000236-index.htm)
+
 - **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926045944/0001104659-26-045944-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000236/0000927730-26-000236-index.htm)
-
-- **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000241/0000927730-26-000241-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047611/0001104659-26-047611-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047619/0001104659-26-047619-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000240/0000927730-26-000240-index.htm)
@@ -428,9 +389,6 @@
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000193/0000927730-26-000193-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047610/0001104659-26-047610-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000195/0000927730-26-000195-index.htm)
@@ -444,20 +402,8 @@
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000238/0000927730-26-000238-index.htm)
 
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047597/0001104659-26-047597-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047599/0001104659-26-047599-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000194/0001045032-26-000194-index.htm)
-
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000245/0000927730-26-000245-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000195/0001045032-26-000195-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000232/0000927730-26-000232-index.htm)
@@ -468,11 +414,20 @@
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000237/0000927730-26-000237-index.htm)
 
+- **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000239/0000927730-26-000239-index.htm)
+
 - **485BPOS** | JNL INVESTORS SERIES TRUST  (CIK 0001121257)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121257/000199937126008804/0001999371-26-008804-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
+
+- **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026047140/0001213900-26-047140-index.htm)
+
+- **485BPOS** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/0001081402-26-000005-index.htm)
 
 - **485BPOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826006121/0001133228-26-006121-index.htm)
