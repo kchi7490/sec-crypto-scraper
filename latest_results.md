@@ -42,6 +42,9 @@
 - **POS AM** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018147/0001493152-26-018147-index.htm)
 
+- **DEF 14A** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000114036126016255/0001140361-26-016255-index.htm)
+
 - **1-A POS** | McQueen Labs Series, LLC  (CIK 0002025795)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315226018534/0001493152-26-018534-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018565/0001493152-26-018565-index.htm)
+
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000036/0001144879-26-000036-index.htm)
 
 - **8-K/A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226018584/0001493152-26-018584-index.htm)
@@ -223,10 +229,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
