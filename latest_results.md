@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **424B5** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026047097/0001213900-26-047097-index.htm)
+
 - **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226002467/0001477932-26-002467-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **DEF 14A** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/0001783879-26-000053-index.htm)
+
+- **DEF 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226018723/0001493152-26-018723-index.htm)
 
 - **8-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000119312526171829/0001193125-26-171829-index.htm)
@@ -60,6 +66,9 @@
 - **20-F** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026045881/0001213900-26-045881-index.htm)
 
+- **DEF 14A** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000010/0001099590-26-000010-index.htm)
+
 - **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226018398/0001493152-26-018398-index.htm)
 
@@ -78,8 +87,14 @@
 - **485BPOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126008800/0001999371-26-008800-index.htm)
 
+- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026047100/0001213900-26-047100-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226018192/0001493152-26-018192-index.htm)
+
+- **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526173690/0001193125-26-173690-index.htm)
 
 - **10-K/A** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003115/0001683168-26-003115-index.htm)
@@ -117,6 +132,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226018212/0001493152-26-018212-index.htm)
 
+- **S-1/A** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626003806/0001829126-26-003806-index.htm)
+
 - **8-K** | XMax Inc.  (XWIN)  (CIK 0001473334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1473334/000149315226018323/0001493152-26-018323-index.htm)
 
@@ -134,6 +152,9 @@
 
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526168716/0001193125-26-168716-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226018720/0001493152-26-018720-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926013078/0001437749-26-013078-index.htm)
@@ -238,10 +259,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -283,10 +304,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/0001045032-26-000166-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000235/0000927730-26-000235-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000233/0000927730-26-000233-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000233/0000927730-26-000233-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000235/0000927730-26-000235-index.htm)
 
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000190/0000927730-26-000190-index.htm)
@@ -452,6 +473,9 @@
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
+
+- **485BPOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826006121/0001133228-26-006121-index.htm)
 
 - **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026046800/0001213900-26-046800-index.htm)
