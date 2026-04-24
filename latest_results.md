@@ -120,9 +120,6 @@
 - **20-F** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226018829/0001493152-26-018829-index.htm)
 
-- **PRE 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026047325/0001213900-26-047325-index.htm)
-
 - **S-1/A** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626003806/0001829126-26-003806-index.htm)
 
@@ -164,6 +161,9 @@
 
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000136/0000945908-26-000136-index.htm)
+
+- **487** | FT 12848  (CIK 0002104933)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104933/000144554626003091/0001445546-26-003091-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NEW YORK  (CIK 0000080019)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/80019/000113322826005948/0001133228-26-005948-index.htm)
@@ -233,6 +233,9 @@
 
 - **485BPOS** | FIDELITY SELECT PORTFOLIOS  (CIK 0000320351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/320351/000032035126000241/0000320351-26-000241-index.htm)
+
+- **PRE 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026047325/0001213900-26-047325-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000137/0001081400-26-000137-index.htm)
