@@ -51,6 +51,9 @@
 - **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226018577/0001493152-26-018577-index.htm)
 
+- **DEF 14A** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026047253/0001213900-26-047253-index.htm)
+
 - **DEF 14A** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000114036126016255/0001140361-26-016255-index.htm)
 
@@ -111,6 +114,9 @@
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000383/0001137360-26-000383-index.htm)
 
+- **20-F** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226018829/0001493152-26-018829-index.htm)
+
 - **S-1/A** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626003806/0001829126-26-003806-index.htm)
 
@@ -123,8 +129,14 @@
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526168716/0001193125-26-168716-index.htm)
 
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526174868/0001193125-26-174868-index.htm)
+
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226018720/0001493152-26-018720-index.htm)
+
+- **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026047230/0001213900-26-047230-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926013078/0001437749-26-013078-index.htm)
@@ -156,11 +168,11 @@
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
 
-- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.htm)
@@ -187,10 +199,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -353,7 +365,4 @@
 
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000041/0001726978-26-000041-index.htm)
-
-- **20-F** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226018829/0001493152-26-018829-index.htm)
 
