@@ -78,6 +78,9 @@
 - **20-F** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526174855/0001193125-26-174855-index.htm)
 
+- **S-3** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226018987/0001493152-26-018987-index.htm)
+
 - **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226018577/0001493152-26-018577-index.htm)
 
@@ -132,8 +135,14 @@
 - **485BPOS** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126008800/0001999371-26-008800-index.htm)
 
+- **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226018983/0001493152-26-018983-index.htm)
+
 - **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026047100/0001213900-26-047100-index.htm)
+
+- **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226018978/0001493152-26-018978-index.htm)
 
 - **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526173690/0001193125-26-173690-index.htm)
@@ -237,6 +246,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926013078/0001437749-26-013078-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026047606/0001213900-26-047606-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000332/0001279569-26-000332-index.htm)
 
@@ -255,8 +267,8 @@
 - **F-3** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026047531/0001213900-26-047531-index.htm)
 
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026047606/0001213900-26-047606-index.htm)
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126009034/0001999371-26-009034-index.htm)
 
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000136/0000945908-26-000136-index.htm)
@@ -273,11 +285,11 @@
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
 
-- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.htm)
@@ -304,10 +316,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -324,11 +336,11 @@
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005945/0001133228-26-005945-index.htm)
 
+- **20-F** | CEMEX SAB DE CV  (CX, CXMSF)  (CIK 0001076378)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1076378/000119312526177605/0001193125-26-177605-index.htm)
+
 - **424B4** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926047210/0001104659-26-047210-index.htm)
-
-- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126009034/0001999371-26-009034-index.htm)
 
 - **N-CSRS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000508/0000898745-26-000508-index.htm)
@@ -453,9 +465,6 @@
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000244/0000927730-26-000244-index.htm)
 
-- **20-F** | CEMEX SAB DE CV  (CX, CXMSF)  (CIK 0001076378)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1076378/000119312526177605/0001193125-26-177605-index.htm)
-
 - **485BPOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000237/0000927730-26-000237-index.htm)
 
@@ -467,6 +476,27 @@
 
 - **485BPOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826006121/0001133228-26-006121-index.htm)
+
+- **485BPOS** | JNL INVESTORS SERIES TRUST  (CIK 0001121257)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1121257/000199937126008804/0001999371-26-008804-index.htm)
+
+- **485BPOS** | THIRD AVENUE VARIABLE SERIES TRUST  (CIK 0001089107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1089107/000182912626003869/0001829126-26-003869-index.htm)
+
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026047555/0001213900-26-047555-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426007212/0001398344-26-007212-index.htm)
+
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426007125/0001398344-26-007125-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426007216/0001398344-26-007216-index.htm)
 
 - **10-K** | GUOCHUN INTERNATIONAL INC.  (CIK 0001765048)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000009/0001765048-26-000009-index.htm)
@@ -482,9 +512,6 @@
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926005029/0001214659-26-005029-index.htm)
-
-- **DEF 14A** | UR-ENERGY INC  (URG)  (CIK 0001375205)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1375205/000110465926048693/0001104659-26-048693-index.htm)
 
 - **497** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226018903/0001493152-26-018903-index.htm)
