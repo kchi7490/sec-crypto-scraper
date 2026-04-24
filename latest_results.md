@@ -33,11 +33,11 @@
 - **20-F** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026047509/0001213900-26-047509-index.htm)
 
-- **425** | Securitize, Inc.  (CIK 0001762096)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326006096/0000950103-26-006096-index.htm)
-
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326006097/0000950103-26-006097-index.htm)
+
+- **425** | Securitize, Inc.  (CIK 0001762096)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326006096/0000950103-26-006096-index.htm)
 
 - **DEF 14A** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/0001679788-26-000045-index.htm)
@@ -285,11 +285,11 @@
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
 
-- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.htm)
@@ -316,10 +316,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
@@ -480,11 +480,11 @@
 - **485BPOS** | JNL INVESTORS SERIES TRUST  (CIK 0001121257)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121257/000199937126008804/0001999371-26-008804-index.htm)
 
-- **485BPOS** | THIRD AVENUE VARIABLE SERIES TRUST  (CIK 0001089107)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1089107/000182912626003869/0001829126-26-003869-index.htm)
-
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
+
+- **485BPOS** | THIRD AVENUE VARIABLE SERIES TRUST  (CIK 0001089107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1089107/000182912626003869/0001829126-26-003869-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026047555/0001213900-26-047555-index.htm)
@@ -512,6 +512,9 @@
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926005029/0001214659-26-005029-index.htm)
+
+- **DEF 14A** | UR-ENERGY INC  (URG)  (CIK 0001375205)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1375205/000110465926048693/0001104659-26-048693-index.htm)
 
 - **497** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226018903/0001493152-26-018903-index.htm)
