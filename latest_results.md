@@ -27,6 +27,9 @@
 - **DEF 14A** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/0001783879-26-000053-index.htm)
 
+- **POS AM** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226018810/0001493152-26-018810-index.htm)
+
 - **DEF 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226018723/0001493152-26-018723-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **424B3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226002461/0001477932-26-002461-index.htm)
+
+- **20-F** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526174855/0001193125-26-174855-index.htm)
 
 - **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226018577/0001493152-26-018577-index.htm)
@@ -126,6 +132,9 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000332/0001279569-26-000332-index.htm)
 
+- **20-F** | GRAVITY Co., Ltd.  (GRVY)  (CIK 0001313310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1313310/000162828026026985/0001628280-26-026985-index.htm)
+
 - **20-F** | CENTRAL PUERTO S.A.  (CEPU)  (CIK 0001717161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1717161/000129281426002446/0001292814-26-002446-index.htm)
 
@@ -147,11 +156,11 @@
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
 
-- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.htm)
@@ -339,6 +348,12 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126008757/0001999371-26-008757-index.htm)
 
+- **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926005029/0001214659-26-005029-index.htm)
+
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000041/0001726978-26-000041-index.htm)
+
+- **20-F** | Ryde Group Ltd  (RYDE)  (CIK 0001971115)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1971115/000149315226018829/0001493152-26-018829-index.htm)
 
