@@ -396,6 +396,9 @@
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926005029/0001214659-26-005029-index.htm)
 
+- **497** | Figure Certificate Co  (CIK 0001974395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226018903/0001493152-26-018903-index.htm)
+
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000041/0001726978-26-000041-index.htm)
 
