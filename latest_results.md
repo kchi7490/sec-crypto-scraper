@@ -168,11 +168,11 @@
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000049/0000836346-26-000049-index.htm)
 
-- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
-
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000050/0000836346-26-000050-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826005943/0001133228-26-005943-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.htm)
@@ -199,10 +199,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000031/0000072499-26-000031-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000052/0000836346-26-000052-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826005941/0001133228-26-005941-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826005949/0001133228-26-005949-index.htm)
