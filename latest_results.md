@@ -108,6 +108,9 @@
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/0001628280-26-026673-index.htm)
 
+- **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000020/0001156375-26-000020-index.htm)
+
 - **424B3** | AIR Holdings Ltd  (AIIR)  (CIK 0002097725)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097725/000119312526170549/0001193125-26-170549-index.htm)
 
@@ -368,6 +371,9 @@
 
 - **485BPOS** | JNL INVESTORS SERIES TRUST  (CIK 0001121257)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121257/000199937126008804/0001999371-26-008804-index.htm)
+
+- **485BPOS** | THIRD AVENUE VARIABLE SERIES TRUST  (CIK 0001089107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1089107/000182912626003869/0001829126-26-003869-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426006851/0001398344-26-006851-index.htm)
