@@ -21,11 +21,11 @@
 - **20-F** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026047509/0001213900-26-047509-index.htm)
 
-- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326006097/0000950103-26-006097-index.htm)
-
 - **425** | Securitize, Inc.  (CIK 0001762096)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326006096/0000950103-26-006096-index.htm)
+
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326006097/0000950103-26-006097-index.htm)
 
 - **DEF 14A** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/0001679788-26-000045-index.htm)
