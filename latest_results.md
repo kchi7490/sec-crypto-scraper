@@ -1,13 +1,7 @@
 ## 📁 Other Filings
 
-- **424B5** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026047097/0001213900-26-047097-index.htm)
-
 - **ARS** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/0001679788-26-000047-index.htm)
-
-- **8-K** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226002467/0001477932-26-002467-index.htm)
 
 - **S-3/A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226002526/0001477932-26-002526-index.htm)
@@ -21,12 +15,6 @@
 - **20-F** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026047509/0001213900-26-047509-index.htm)
 
-- **425** | Securitize, Inc.  (CIK 0001762096)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326006096/0000950103-26-006096-index.htm)
-
-- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326006097/0000950103-26-006097-index.htm)
-
 - **DEF 14A** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/0001679788-26-000045-index.htm)
 
@@ -36,14 +24,8 @@
 - **POS AM** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226018810/0001493152-26-018810-index.htm)
 
-- **DEF 14A** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226018723/0001493152-26-018723-index.htm)
-
 - **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226018924/0001493152-26-018924-index.htm)
-
-- **8-K** | NASDAQ, INC.  (NDAQ)  (CIK 0001120193)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1120193/000119312526171829/0001193125-26-171829-index.htm)
 
 - **DEF 14A** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000020/0002064124-26-000020-index.htm)
@@ -66,23 +48,11 @@
 - **DEF 14A** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026047253/0001213900-26-047253-index.htm)
 
-- **DEF 14A** | Prairie Operating Co.  (PROP)  (CIK 0001162896)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1162896/000114036126016255/0001140361-26-016255-index.htm)
-
 - **DEF 14A** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026027203/0001628280-26-027203-index.htm)
 
-- **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026046793/0001213900-26-046793-index.htm)
-
-- **DEF 14A** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000010/0001099590-26-000010-index.htm)
-
 - **485BPOS** | SPDR SERIES TRUST  (CIK 0001064642)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1064642/000119312526177305/0001193125-26-177305-index.htm)
-
-- **424B4** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026047113/0001213900-26-047113-index.htm)
 
 - **485BPOS** | STATE STREET INSTITUTIONAL INVESTMENT TRUST  (CIK 0001107414)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1107414/000119312526177471/0001193125-26-177471-index.htm)
@@ -90,29 +60,14 @@
 - **485BPOS** | STATE STREET VARIABLE INSURANCE SERIES FUNDS INC  (CIK 0000746687)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746687/000119312526177382/0001193125-26-177382-index.htm)
 
-- **485BPOS** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000199937126008800/0001999371-26-008800-index.htm)
-
 - **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226018983/0001493152-26-018983-index.htm)
-
-- **8-K** | Mawson Infrastructure Group Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026047100/0001213900-26-047100-index.htm)
 
 - **424B3** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226018978/0001493152-26-018978-index.htm)
 
-- **8-K** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526173690/0001193125-26-173690-index.htm)
-
 - **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126016743/0001140361-26-016743-index.htm)
-
-- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000036/0001144879-26-000036-index.htm)
-
-- **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/0001628280-26-026673-index.htm)
 
 - **DEF 14A** | AMERISAFE INC  (AMSF)  (CIK 0001018979)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1018979/000119312526177410/0001193125-26-177410-index.htm)
@@ -150,14 +105,8 @@
 - **PRE 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026047325/0001213900-26-047325-index.htm)
 
-- **S-1/A** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626003806/0001829126-26-003806-index.htm)
-
 - **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526177298/0001193125-26-177298-index.htm)
-
-- **ARS** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526174046/0001193125-26-174046-index.htm)
 
 - **486BPOS** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465926048556/0001104659-26-048556-index.htm)
@@ -168,17 +117,11 @@
 - **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526174868/0001193125-26-174868-index.htm)
 
-- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226018720/0001493152-26-018720-index.htm)
-
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026047230/0001213900-26-047230-index.htm)
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026047600/0001213900-26-047600-index.htm)
-
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926013078/0001437749-26-013078-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026047606/0001213900-26-047606-index.htm)
@@ -198,92 +141,14 @@
 - **20-F** | CEMEX SAB DE CV  (CX, CXMSF)  (CIK 0001076378)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1076378/000119312526177605/0001193125-26-177605-index.htm)
 
-- **424B4** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926047210/0001104659-26-047210-index.htm)
-
 - **485BPOS** | FIDELITY SELECT PORTFOLIOS  (CIK 0000320351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/320351/000032035126000241/0000320351-26-000241-index.htm)
-
-- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000137/0001081400-26-000137-index.htm)
-
-- **485BPOS** | ALLSPRING VARIABLE TRUST  (CIK 0001081402)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/0001081402-26-000005-index.htm)
 
 - **485BPOS** | Brighthouse Funds Trust I  (CIK 0001126087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1126087/000119312526175942/0001193125-26-175942-index.htm)
 
 - **485BPOS** | Brighthouse Funds Trust II  (CIK 0000710826)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/710826/000119312526175980/0001193125-26-175980-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000190/0001045032-26-000190-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000192/0001045032-26-000192-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000191/0001045032-26-000191-index.htm)
-
-- **485BPOS** | LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT C  (CIK 0000353894)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/353894/000110465926047617/0001104659-26-047617-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047603/0001104659-26-047603-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000189/0001045032-26-000189-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047618/0001104659-26-047618-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000193/0001045032-26-000193-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000197/0001045032-26-000197-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000196/0001045032-26-000196-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047602/0001104659-26-047602-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047621/0001104659-26-047621-index.htm)
-
-- **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026047140/0001213900-26-047140-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047611/0001104659-26-047611-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047619/0001104659-26-047619-index.htm)
-
-- **485BPOS** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926047610/0001104659-26-047610-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047597/0001104659-26-047597-index.htm)
-
-- **485BPOS** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926047599/0001104659-26-047599-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000194/0001045032-26-000194-index.htm)
-
-- **485BPOS** | JNLNY SEPARATE ACCOUNT I  (CIK 0001045032)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045032/000104503226000195/0001045032-26-000195-index.htm)
-
-- **485BPOS** | MML Series Investment Fund II  (CIK 0001317146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1317146/000113322826006161/0001133228-26-006161-index.htm)
-
-- **485BPOS** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826006121/0001133228-26-006121-index.htm)
-
-- **485BPOS** | JNL INVESTORS SERIES TRUST  (CIK 0001121257)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1121257/000199937126008804/0001999371-26-008804-index.htm)
 
 - **485BPOS** | THIRD AVENUE VARIABLE SERIES TRUST  (CIK 0001089107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1089107/000182912626003869/0001829126-26-003869-index.htm)
@@ -306,9 +171,6 @@
 - **NPORT-P** | MFS INVESTMENT GRADE MUNICIPAL TRUST  (CXH)  (CIK 0000847411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847411/000141036826040056/0001410368-26-040056-index.htm)
 
-- **425** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026046800/0001213900-26-046800-index.htm)
-
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926005029/0001214659-26-005029-index.htm)
 
@@ -317,7 +179,4 @@
 
 - **497** | Figure Certificate Co  (CIK 0001974395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974395/000149315226018903/0001493152-26-018903-index.htm)
-
-- **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000041/0001726978-26-000041-index.htm)
 
