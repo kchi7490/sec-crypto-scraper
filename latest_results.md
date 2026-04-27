@@ -15,6 +15,9 @@
 - **S-1/A** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526181447/0001193125-26-181447-index.htm)
 
+- **S-1/A** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000052/0000946155-26-000052-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026027329/0001628280-26-027329-index.htm)
 
