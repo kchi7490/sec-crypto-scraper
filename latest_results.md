@@ -18,6 +18,9 @@
 - **S-8** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005132/0001214659-26-005132-index.htm)
 
+- **485BPOS** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926013201/0000894189-26-013201-index.htm)
+
 - **DEF 14A** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/0001141391-26-000021-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926049432/0001104659-26-049432-index.htm)
+
+- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026027645/0001628280-26-027645-index.htm)
 
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
@@ -68,6 +74,15 @@
 
 - **20-F** | X3 Holdings Co., Ltd.  (CIK 0001754323)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1754323/000121390026048038/0001213900-26-048038-index.htm)
+
+- **485BPOS** | Transamerica Financial Life Insurance Co  (CIK 0001571931)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571931/000116409826000914/0001164098-26-000914-index.htm)
+
+- **485BPOS** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000116409826000911/0001164098-26-000911-index.htm)
+
+- **485BPOS** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000116409826000910/0001164098-26-000910-index.htm)
 
 - **20-F** | CREDICORP LTD  (BAP)  (CIK 0001001290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001290/000100129026000008/0001001290-26-000008-index.htm)
