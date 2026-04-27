@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226019080/0001493152-26-019080-index.htm)
 
+- **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126009120/0001999371-26-009120-index.htm)
+
 - **ARS** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526178764/0001193125-26-178764-index.htm)
 
@@ -35,4 +38,7 @@
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026047635/0001213900-26-047635-index.htm)
+
+- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326001231/0000930413-26-001231-index.htm)
 
