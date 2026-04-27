@@ -12,6 +12,9 @@
 - **ARS** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828026027316/0001628280-26-027316-index.htm)
 
+- **S-1/A** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526181447/0001193125-26-181447-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026027329/0001628280-26-027329-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
+
+- **S-1** | Berto Acquisition Corp. II  (CIK 0002081515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626003952/0001829126-26-003952-index.htm)
 
 - **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026047663/0001213900-26-047663-index.htm)
@@ -38,6 +44,9 @@
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026047635/0001213900-26-047635-index.htm)
+
+- **N-CSRS** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000068/0001710607-26-000068-index.htm)
 
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326001231/0000930413-26-001231-index.htm)
