@@ -9,6 +9,9 @@
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000047/0001859392-26-000047-index.htm)
 
+- **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/0001628280-26-027783-index.htm)
+
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026027726/0001628280-26-027726-index.htm)
 
@@ -48,8 +51,20 @@
 - **DEF 14A** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/0001141391-26-000021-index.htm)
 
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185237/0001193125-26-185237-index.htm)
+
+- **485BPOS** | VARIABLE ANNUITY ACCOUNT  (CIK 0000768609)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.htm)
+
 - **S-1/A** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526181447/0001193125-26-181447-index.htm)
+
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526184927/0001193125-26-184927-index.htm)
+
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185145/0001193125-26-185145-index.htm)
 
 - **20-F** | Trip.com Group Ltd  (TCOM, TRPCF)  (CIK 0001269238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1269238/000119312526183379/0001193125-26-183379-index.htm)
@@ -81,9 +96,6 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026027645/0001628280-26-027645-index.htm)
 
-- **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/0001628280-26-027783-index.htm)
-
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
 
@@ -101,6 +113,9 @@
 
 - **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026047663/0001213900-26-047663-index.htm)
+
+- **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026048461/0001213900-26-048461-index.htm)
 
 - **8-K** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000022/0001156375-26-000022-index.htm)
@@ -159,6 +174,15 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002735/0001171843-26-002735-index.htm)
 
+- **6-K/A** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226019277/0001493152-26-019277-index.htm)
+
+- **485BPOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526186396/0001193125-26-186396-index.htm)
+
+- **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/0001193125-26-186406-index.htm)
+
 - **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.htm)
 
@@ -183,20 +207,8 @@
 - **485BPOS** | Minnesota Life Insurance Co (RILA)  (CIK 0002032538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032538/000119312526184917/0001193125-26-184917-index.htm)
 
-- **485BPOS** | VARIABLE ANNUITY ACCOUNT  (CIK 0000768609)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.htm)
-
 - **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
-
-- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185237/0001193125-26-185237-index.htm)
-
-- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526184927/0001193125-26-184927-index.htm)
-
-- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185145/0001193125-26-185145-index.htm)
 
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326001231/0000930413-26-001231-index.htm)
