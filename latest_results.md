@@ -48,9 +48,6 @@
 - **DEF 14A** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/0001141391-26-000021-index.htm)
 
-- **485BPOS** | VARIABLE ANNUITY ACCOUNT  (CIK 0000768609)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.htm)
-
 - **S-1/A** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526181447/0001193125-26-181447-index.htm)
 
@@ -84,8 +81,14 @@
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026027645/0001628280-26-027645-index.htm)
 
+- **S-1/A** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/0001628280-26-027783-index.htm)
+
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
+
+- **485BPOS** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000119312526184874/0001193125-26-184874-index.htm)
 
 - **485BPOS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526184638/0001193125-26-184638-index.htm)
@@ -156,6 +159,15 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002735/0001171843-26-002735-index.htm)
 
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.htm)
+
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000021/0001559495-26-000021-index.htm)
+
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000013/0001559495-26-000013-index.htm)
+
 - **N-CSRS** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000068/0001710607-26-000068-index.htm)
 
@@ -168,8 +180,23 @@
 - **N-2/A** | Buttonwood First Access Fund Ltd.  (CIK 0002104046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104046/000121390026048183/0001213900-26-048183-index.htm)
 
+- **485BPOS** | Minnesota Life Insurance Co (RILA)  (CIK 0002032538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2032538/000119312526184917/0001193125-26-184917-index.htm)
+
+- **485BPOS** | VARIABLE ANNUITY ACCOUNT  (CIK 0000768609)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.htm)
+
 - **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
+
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185237/0001193125-26-185237-index.htm)
+
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526184927/0001193125-26-184927-index.htm)
+
+- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185145/0001193125-26-185145-index.htm)
 
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326001231/0000930413-26-001231-index.htm)
