@@ -108,8 +108,14 @@
 - **20-F** | Vista Energy, S.A.B. de C.V.  (VIST, VSOGF)  (CIK 0001762506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/0001193125-26-187099-index.htm)
 
+- **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926050345/0001104659-26-050345-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026027329/0001628280-26-027329-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226019241/0001493152-26-019241-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526178994/0001193125-26-178994-index.htm)
@@ -129,6 +135,15 @@
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
 
+- **485BPOS** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000119312526184874/0001193125-26-184874-index.htm)
+
+- **485BPOS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526184638/0001193125-26-184638-index.htm)
+
+- **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226002707/0001580642-26-002707-index.htm)
+
 - **S-1** | Berto Acquisition Corp. II  (CIK 0002081515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626003952/0001829126-26-003952-index.htm)
 
@@ -138,6 +153,12 @@
 - **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026047663/0001213900-26-047663-index.htm)
 
+- **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026048461/0001213900-26-048461-index.htm)
+
+- **20-F** | Newegg Commerce, Inc.  (NEGG)  (CIK 0001474627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474627/000121390026048633/0001213900-26-048633-index.htm)
+
 - **8-K** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000022/0001156375-26-000022-index.htm)
 
@@ -146,15 +167,6 @@
 
 - **424B5** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000121390026048119/0001213900-26-048119-index.htm)
-
-- **485BPOS** | BlackRock Funds V  (CIK 0001738078)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000119312526184874/0001193125-26-184874-index.htm)
-
-- **485BPOS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526184638/0001193125-26-184638-index.htm)
-
-- **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226002707/0001580642-26-002707-index.htm)
 
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926049070/0001104659-26-049070-index.htm)
@@ -225,9 +237,6 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002735/0001171843-26-002735-index.htm)
 
-- **20-F** | Newegg Commerce, Inc.  (NEGG)  (CIK 0001474627)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1474627/000121390026048633/0001213900-26-048633-index.htm)
-
 - **20-F** | Xunlei Ltd  (XNET)  (CIK 0001510593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1510593/000110465926050304/0001104659-26-050304-index.htm)
 
@@ -251,6 +260,12 @@
 
 - **N-CSRS** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000068/0001710607-26-000068-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006295/0000950103-26-006295-index.htm)
+
+- **485BPOS** | World Funds Trust  (CIK 0001396092)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000270/0001396092-26-000270-index.htm)
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000073/0000783401-26-000073-index.htm)
@@ -288,9 +303,6 @@
 - **485BPOS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/0000884546-26-000170-index.htm)
 
-- **S-1/A** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026048461/0001213900-26-048461-index.htm)
-
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026048013/0001213900-26-048013-index.htm)
 
@@ -302,12 +314,6 @@
 
 - **485BPOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926050270/0001104659-26-050270-index.htm)
-
-- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006295/0000950103-26-006295-index.htm)
-
-- **485BPOS** | US GLOBAL INVESTORS FUNDS  (CIK 0000101507)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/101507/000139834426007463/0001398344-26-007463-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326006228/0000950103-26-006228-index.htm)
