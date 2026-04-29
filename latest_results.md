@@ -84,6 +84,9 @@
 - **S-8** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005132/0001214659-26-005132-index.htm)
 
+- **ARS** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000110465926051785/0001104659-26-051785-index.htm)
+
 - **ARS** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926049721/0001104659-26-049721-index.htm)
 
@@ -203,6 +206,9 @@
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026027645/0001628280-26-027645-index.htm)
+
+- **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226019672/0001493152-26-019672-index.htm)
 
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
@@ -402,6 +408,9 @@
 - **485BPOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000270/0001396092-26-000270-index.htm)
 
+- **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
+
 - **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
 
@@ -446,6 +455,12 @@
 
 - **N-2/A** | Buttonwood First Access Fund Ltd.  (CIK 0002104046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104046/000121390026048183/0001213900-26-048183-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009404/0001999371-26-009404-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009405/0001999371-26-009405-index.htm)
 
 - **485BPOS** | Minnesota Life Insurance Co (RILA)  (CIK 0002032538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032538/000119312526184917/0001193125-26-184917-index.htm)
