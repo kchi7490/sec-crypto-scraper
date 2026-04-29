@@ -21,6 +21,9 @@
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
+
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000061/0001783879-26-000061-index.htm)
 
@@ -309,6 +312,9 @@
 - **485BPOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000270/0001396092-26-000270-index.htm)
 
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426008023/0001888524-26-008023-index.htm)
+
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000073/0000783401-26-000073-index.htm)
 
@@ -354,17 +360,14 @@
 - **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826006989/0001133228-26-006989-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
+
 - **485BPOS** | PENN SERIES FUNDS INC  (CIK 0000702340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702340/000119312526186687/0001193125-26-186687-index.htm)
 
 - **485BPOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926050270/0001104659-26-050270-index.htm)
-
-- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
-
-- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
 
 - **485BPOS** | US GLOBAL INVESTORS FUNDS  (CIK 0000101507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/101507/000139834426007463/0001398344-26-007463-index.htm)
