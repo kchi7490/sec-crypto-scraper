@@ -360,6 +360,12 @@
 - **485BPOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926050270/0001104659-26-050270-index.htm)
 
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
+
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
+
 - **485BPOS** | US GLOBAL INVESTORS FUNDS  (CIK 0000101507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/101507/000139834426007463/0001398344-26-007463-index.htm)
 
