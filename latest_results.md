@@ -15,15 +15,6 @@
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000047/0001859392-26-000047-index.htm)
 
-- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
-
-- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
-
-- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
-
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000061/0001783879-26-000061-index.htm)
 
@@ -36,23 +27,14 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026027726/0001628280-26-027726-index.htm)
 
-- **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026048836/0001213900-26-048836-index.htm)
-
 - **S-3/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005133/0001214659-26-005133-index.htm)
-
-- **8-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000095/0001758730-26-000095-index.htm)
 
 - **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926050472/0001104659-26-050472-index.htm)
 
 - **ARS** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526178764/0001193125-26-178764-index.htm)
-
-- **8-K** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626004060/0001829126-26-004060-index.htm)
 
 - **10-Q** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000003877726000101/0000038777-26-000101-index.htm)
@@ -90,17 +72,11 @@
 - **DEF 14A** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000077/0001083301-26-000077-index.htm)
 
-- **S-1/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226019428/0001493152-26-019428-index.htm)
-
 - **DEF 14A** | Mastercard Inc  (MA)  (CIK 0001141391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/0001141391-26-000021-index.htm)
 
 - **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526185237/0001193125-26-185237-index.htm)
-
-- **485BPOS** | VanEck Funds  (CIK 0000768847)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000069/0000768847-26-000069-index.htm)
 
 - **485BPOS** | VARIABLE ANNUITY ACCOUNT  (CIK 0000768609)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.htm)
@@ -117,17 +93,11 @@
 - **DEF 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526186895/0001193125-26-186895-index.htm)
 
-- **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026048867/0001213900-26-048867-index.htm)
-
 - **20-F** | Trip.com Group Ltd  (TCOM, TRPCF)  (CIK 0001269238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1269238/000119312526183379/0001193125-26-183379-index.htm)
 
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000119/0001663577-26-000119-index.htm)
-
-- **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
 
 - **S-1/A** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000052/0000946155-26-000052-index.htm)
@@ -138,20 +108,23 @@
 - **20-F** | Vista Energy, S.A.B. de C.V.  (VIST, VSOGF)  (CIK 0001762506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/0001193125-26-187099-index.htm)
 
-- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000433/0001137360-26-000433-index.htm)
-
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926050345/0001104659-26-050345-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026027329/0001628280-26-027329-index.htm)
 
+- **S-1/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226019428/0001493152-26-019428-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226019241/0001493152-26-019241-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526178994/0001193125-26-178994-index.htm)
+
+- **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026048836/0001213900-26-048836-index.htm)
 
 - **DEF 14A** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526178754/0001193125-26-178754-index.htm)
@@ -162,11 +135,17 @@
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926049432/0001104659-26-049432-index.htm)
 
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
+
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026027645/0001628280-26-027645-index.htm)
 
 - **10-K/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000020/0001074828-26-000020-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
 - **485BPOS** | BlackRock Funds V  (CIK 0001738078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000119312526184874/0001193125-26-184874-index.htm)
@@ -177,11 +156,17 @@
 - **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226002707/0001580642-26-002707-index.htm)
 
+- **20-F** | Yiren Digital Ltd.  (YRD)  (CIK 0001631761)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1631761/000121390026049159/0001213900-26-049159-index.htm)
+
 - **S-1** | Berto Acquisition Corp. II  (CIK 0002081515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626003952/0001829126-26-003952-index.htm)
 
 - **DEF 14A** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226019441/0001493152-26-019441-index.htm)
+
+- **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026048867/0001213900-26-048867-index.htm)
 
 - **S-1/A** | Innovative Digital Investors Acquisition Corp.  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465926049638/0001104659-26-049638-index.htm)
@@ -198,14 +183,17 @@
 - **8-K** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000022/0001156375-26-000022-index.htm)
 
+- **485BPOS** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000069/0000768847-26-000069-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000433/0001137360-26-000433-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226019259/0001493152-26-019259-index.htm)
 
 - **424B5** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000121390026048119/0001213900-26-048119-index.htm)
-
-- **424B4** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626004054/0001829126-26-004054-index.htm)
 
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926049070/0001104659-26-049070-index.htm)
@@ -303,6 +291,9 @@
 - **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000013/0001559495-26-000013-index.htm)
 
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.htm)
+
 - **N-CSRS** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000068/0001710607-26-000068-index.htm)
 
@@ -311,6 +302,12 @@
 
 - **485BPOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000270/0001396092-26-000270-index.htm)
+
+- **424B4** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626004054/0001829126-26-004054-index.htm)
+
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426008315/0001888524-26-008315-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426008023/0001888524-26-008023-index.htm)
@@ -354,11 +351,17 @@
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/0001104659-26-050536-index.htm)
 
+- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026048013/0001213900-26-048013-index.htm)
 
 - **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826006989/0001133228-26-006989-index.htm)
+
+- **8-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000095/0001758730-26-000095-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
@@ -369,9 +372,15 @@
 - **485BPOS** | Guardian Variable Products Trust  (CIK 0001668512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1668512/000110465926050270/0001104659-26-050270-index.htm)
 
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526190578/0001193125-26-190578-index.htm)
+
 - **485BPOS** | US GLOBAL INVESTORS FUNDS  (CIK 0000101507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/101507/000139834426007463/0001398344-26-007463-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326006228/0000950103-26-006228-index.htm)
+
+- **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
 
