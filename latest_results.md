@@ -33,6 +33,9 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026027726/0001628280-26-027726-index.htm)
 
+- **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026048836/0001213900-26-048836-index.htm)
+
 - **S-3/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005133/0001214659-26-005133-index.htm)
 
@@ -111,11 +114,17 @@
 - **DEF 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526186895/0001193125-26-186895-index.htm)
 
+- **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026048867/0001213900-26-048867-index.htm)
+
 - **20-F** | Trip.com Group Ltd  (TCOM, TRPCF)  (CIK 0001269238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1269238/000119312526183379/0001193125-26-183379-index.htm)
 
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000119/0001663577-26-000119-index.htm)
+
+- **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
 
 - **S-1/A** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000052/0000946155-26-000052-index.htm)
@@ -209,6 +218,9 @@
 
 - **ARS** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000029/0001815776-26-000029-index.htm)
+
+- **DEF 14A** | SHOULDER INNOVATIONS, INC.  (SI)  (CIK 0001699350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1699350/000169935026000026/0001699350-26-000026-index.htm)
 
 - **424B3** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465926050323/0001104659-26-050323-index.htm)
