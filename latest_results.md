@@ -408,11 +408,17 @@
 - **20-F** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000110465926053033/0001104659-26-053033-index.htm)
 
+- **20-F** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026050410/0001213900-26-050410-index.htm)
+
 - **20-F** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019612/0001493152-26-019612-index.htm)
 
 - **6-K** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026048528/0001213900-26-048528-index.htm)
+
+- **20-F** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526197914/0001193125-26-197914-index.htm)
 
 - **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026028563/0001628280-26-028563-index.htm)
@@ -455,12 +461,6 @@
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
-
-- **20-F** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026050410/0001213900-26-050410-index.htm)
-
-- **20-F** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526197914/0001193125-26-197914-index.htm)
 
 - **486BPOS** | Brookfield Infrastructure Income Fund Inc.  (CIK 0001955857)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1955857/000121390026050025/0001213900-26-050025-index.htm)
@@ -618,6 +618,9 @@
 - **N-2/A** | Buttonwood First Access Fund Ltd.  (CIK 0002104046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104046/000121390026048183/0001213900-26-048183-index.htm)
 
+- **485BPOS** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126009592/0001999371-26-009592-index.htm)
+
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009404/0001999371-26-009404-index.htm)
 
@@ -662,9 +665,6 @@
 
 - **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XIV  (CIK 0001116625)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1116625/000119312526191341/0001193125-26-191341-index.htm)
-
-- **485BPOS** | NEOS ETF Trust  (CIK 0001848758)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126009592/0001999371-26-009592-index.htm)
 
 - **485BPOS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/0000884546-26-000170-index.htm)
