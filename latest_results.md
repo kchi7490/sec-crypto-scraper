@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **S-3/A** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026049566/0001213900-26-049566-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226019373/0001493152-26-019373-index.htm)
 
@@ -8,6 +11,9 @@
 
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000047/0001859392-26-000047-index.htm)
+
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026049675/0001213900-26-049675-index.htm)
 
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
@@ -144,6 +150,9 @@
 - **S-4/A** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926050502/0001104659-26-050502-index.htm)
 
+- **20-F** | Inter & Co, Inc.  (INTR)  (CIK 0001864163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864163/000207097926000185/0002070979-26-000185-index.htm)
+
 - **20-F** | Vista Energy, S.A.B. de C.V.  (VIST, VSOGF)  (CIK 0001762506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/0001193125-26-187099-index.htm)
 
@@ -161,6 +170,9 @@
 
 - **DEF 14A** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926049711/0001104659-26-049711-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000119312526193982/0001193125-26-193982-index.htm)
 
 - **S-3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226019672/0001493152-26-019672-index.htm)
@@ -207,6 +219,9 @@
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000029/0001500217-26-000029-index.htm)
 
+- **8-K** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226019685/0001493152-26-019685-index.htm)
+
 - **DEF 14A** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000026/0001815776-26-000026-index.htm)
 
@@ -231,11 +246,17 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926049909/0001104659-26-049909-index.htm)
 
+- **20-F** | Argo Blockchain Plc  (ARBK)  (CIK 0001841675)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841675/000110465926051793/0001104659-26-051793-index.htm)
+
 - **20-F** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019612/0001493152-26-019612-index.htm)
 
 - **6-K** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026048528/0001213900-26-048528-index.htm)
+
+- **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026028563/0001628280-26-028563-index.htm)
 
 - **20-F** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026049307/0001213900-26-049307-index.htm)
@@ -248,6 +269,12 @@
 
 - **20-F** | SciSparc Ltd.  (SPRC)  (CIK 0001611746)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611746/000121390026049322/0001213900-26-049322-index.htm)
+
+- **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526193826/0001193125-26-193826-index.htm)
+
+- **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526193807/0001193125-26-193807-index.htm)
 
 - **20-F** | AIFU Inc.  (AIFU)  (CIK 0001413855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413855/000121390026048631/0001213900-26-048631-index.htm)
@@ -273,6 +300,9 @@
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
 
+- **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/0000009712-26-000040-index.htm)
+
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191139/0001193125-26-191139-index.htm)
 
@@ -296,6 +326,9 @@
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191072/0001193125-26-191072-index.htm)
+
+- **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000044/0000009712-26-000044-index.htm)
 
 - **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.htm)
@@ -342,20 +375,83 @@
 - **20-F** | Trident Digital Tech Holdings Ltd  (TDTH)  (CIK 0001983550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1983550/000121390026048646/0001213900-26-048646-index.htm)
 
+- **1-K** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690626000619/0001096906-26-000619-index.htm)
+
+- **485BPOS** | Eaton Vance Variable Trust  (CIK 0001121746)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1121746/000113322826006945/0001133228-26-006945-index.htm)
+
+- **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826006937/0001133228-26-006937-index.htm)
+
+- **485BPOS** | Calvert Variable Trust, Inc.  (CIK 0000743773)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/743773/000113322826006980/0001133228-26-006980-index.htm)
+
+- **485BPOS** | Calvert Management Series  (CIK 0000319676)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319676/000113322826006941/0001133228-26-006941-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009403/0001999371-26-009403-index.htm)
+
+- **N-2/A** | Buttonwood First Access Fund Ltd.  (CIK 0002104046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104046/000121390026048183/0001213900-26-048183-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009404/0001999371-26-009404-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009405/0001999371-26-009405-index.htm)
+
+- **485BPOS** | Minnesota Life Insurance Co (RILA)  (CIK 0002032538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2032538/000119312526184917/0001193125-26-184917-index.htm)
+
+- **1-K** | RSE Innovation, LLC  (CIK 0001812859)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285926000001/0001812859-26-000001-index.htm)
+
+- **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
+
+- **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XI  (CIK 0001091459)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1091459/000119312526191228/0001193125-26-191228-index.htm)
+
+- **497** | MML SERIES INVESTMENT FUND  (CIK 0000067160)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/67160/000113322826007248/0001133228-26-007248-index.htm)
+
+- **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT VIII  (CIK 0000932020)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/932020/000119312526191391/0001193125-26-191391-index.htm)
+
+- **485BPOS** | VARIABLE ANNUITY ACCOUNT B  (CIK 0001299953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1299953/000119312526191416/0001193125-26-191416-index.htm)
+
+- **485BPOS** | VARIFLEX SEPARATE ACCOUNT  (CIK 0000740583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/740583/000119312526191311/0001193125-26-191311-index.htm)
+
+- **485BPOS** | VARIABLE ANNUITY ACCOUNT A  (CIK 0001173492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1173492/000119312526191368/0001193125-26-191368-index.htm)
+
+- **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XIV  (CIK 0001116625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1116625/000119312526191266/0001193125-26-191266-index.htm)
+
+- **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XIV  (CIK 0001116625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1116625/000119312526191341/0001193125-26-191341-index.htm)
+
+- **485BPOS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/0000884546-26-000170-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026049278/0001213900-26-049278-index.htm)
+
+- **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/0001104659-26-050536-index.htm)
+
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026049300/0001213900-26-049300-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026049275/0001213900-26-049275-index.htm)
 
-- **485BPOS** | Eaton Vance Variable Trust  (CIK 0001121746)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1121746/000113322826006945/0001133228-26-006945-index.htm)
-
 - **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826006989/0001133228-26-006989-index.htm)
-
-- **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826006937/0001133228-26-006937-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
