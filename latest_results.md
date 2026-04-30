@@ -15,14 +15,17 @@
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026049675/0001213900-26-049675-index.htm)
 
+- **10-K/A** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226020105/0001493152-26-020105-index.htm)
+
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
 
-- **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
-
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
+
+- **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
 
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
@@ -86,6 +89,9 @@
 
 - **20-F** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026048533/0001213900-26-048533-index.htm)
+
+- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226020261/0001493152-26-020261-index.htm)
 
 - **ARS** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000110465926051785/0001104659-26-051785-index.htm)
@@ -159,6 +165,9 @@
 - **20-F** | Trip.com Group Ltd  (TCOM, TRPCF)  (CIK 0001269238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1269238/000119312526183379/0001193125-26-183379-index.htm)
 
+- **485BPOS** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926014063/0000894189-26-014063-index.htm)
+
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000119/0001663577-26-000119-index.htm)
 
@@ -182,6 +191,9 @@
 
 - **20-F** | Vista Energy, S.A.B. de C.V.  (VIST, VSOGF)  (CIK 0001762506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/0001193125-26-187099-index.htm)
+
+- **485BPOS** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026050155/0001213900-26-050155-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000433/0001137360-26-000433-index.htm)
@@ -330,6 +342,9 @@
 - **20-F** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026049832/0001213900-26-049832-index.htm)
 
+- **485BPOS** | Six Circles Trust  (CIK 0001724826)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1724826/000119312526196812/0001193125-26-196812-index.htm)
+
 - **20-F** | Xunlei Ltd  (XNET)  (CIK 0001510593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1510593/000110465926050304/0001104659-26-050304-index.htm)
 
@@ -344,6 +359,9 @@
 
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
+
+- **18-K/A** | CANADA  (CIK 0000230098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312526196548/0001193125-26-196548-index.htm)
 
 - **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/0000009712-26-000040-index.htm)
@@ -423,6 +441,15 @@
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000073/0000783401-26-000073-index.htm)
 
+- **N-CSR** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000113322826007456/0001133228-26-007456-index.htm)
+
+- **N-CSR** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826007470/0001133228-26-007470-index.htm)
+
+- **1-K** | Cloudhands, Inc.  (CIK 0001832460)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1832460/000149315226020109/0001493152-26-020109-index.htm)
+
 - **20-F** | Trident Digital Tech Holdings Ltd  (TDTH)  (CIK 0001983550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1983550/000121390026048646/0001213900-26-048646-index.htm)
 
@@ -465,6 +492,9 @@
 - **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
 
+- **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
+
 - **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026049971/0001213900-26-049971-index.htm)
 
@@ -503,6 +533,9 @@
 
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/0001104659-26-050536-index.htm)
+
+- **N-CSR** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826007458/0001133228-26-007458-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026049300/0001213900-26-049300-index.htm)
