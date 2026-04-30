@@ -21,6 +21,9 @@
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
+- **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
 
@@ -47,6 +50,12 @@
 
 - **10-K/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926013913/0001437749-26-013913-index.htm)
+
+- **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000013/0001383312-26-000013-index.htm)
+
+- **8-K** | ARROW FINANCIAL CORP  (AROW)  (CIK 0000717538)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/717538/000071753826000050/0000717538-26-000050-index.htm)
 
 - **8-K** | Tradeweb Markets Inc.  (TW)  (CIK 0001758730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1758730/000175873026000095/0001758730-26-000095-index.htm)
@@ -146,6 +155,9 @@
 
 - **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
+
+- **20-F** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026049733/0001213900-26-049733-index.htm)
 
 - **S-4/A** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926050502/0001104659-26-050502-index.htm)
