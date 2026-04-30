@@ -18,11 +18,11 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
 
-- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
-
 - **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826003279/0001683168-26-003279-index.htm)
@@ -65,6 +65,9 @@
 
 - **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926050472/0001104659-26-050472-index.htm)
+
+- **485BPOS** | Corgi ETF Trust I  (CIK 0002078265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000071/0002078265-26-000071-index.htm)
 
 - **ARS** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926005248/0001214659-26-005248-index.htm)
@@ -149,6 +152,9 @@
 
 - **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026048867/0001213900-26-048867-index.htm)
+
+- **20-F** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026050019/0001213900-26-050019-index.htm)
 
 - **20-F** | Trip.com Group Ltd  (TCOM, TRPCF)  (CIK 0001269238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1269238/000119312526183379/0001193125-26-183379-index.htm)
@@ -318,6 +324,9 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
+- **486BPOS** | Brookfield Infrastructure Income Fund Inc.  (CIK 0001955857)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1955857/000121390026050025/0001213900-26-050025-index.htm)
+
 - **20-F** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026049832/0001213900-26-049832-index.htm)
 
@@ -390,6 +399,9 @@
 - **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
 
+- **485BPOS** | Community Development Fund  (CIK 0001649227)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/0001398344-26-007764-index.htm)
+
 - **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
 
@@ -452,6 +464,9 @@
 
 - **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
+
+- **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026049971/0001213900-26-049971-index.htm)
 
 - **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XI  (CIK 0001091459)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1091459/000119312526191228/0001193125-26-191228-index.htm)
