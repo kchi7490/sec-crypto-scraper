@@ -9,8 +9,17 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226019373/0001493152-26-019373-index.htm)
 
+- **ARS** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026029021/0001628280-26-029021-index.htm)
+
+- **8-K** | Z Squared Inc.  (COEP, COEPW)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826003388/0001683168-26-003388-index.htm)
+
 - **ARS** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526187632/0001193125-26-187632-index.htm)
+
+- **20-F** | SAIHEAT Ltd  (SAIH, SAIHW)  (CIK 0001847075)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847075/000121390026050380/0001213900-26-050380-index.htm)
 
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000047/0001859392-26-000047-index.htm)
@@ -48,11 +57,14 @@
 - **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315226019609/0001493152-26-019609-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005364/0001214659-26-005364-index.htm)
+
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026027726/0001628280-26-027726-index.htm)
 
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005364/0001214659-26-005364-index.htm)
+- **20-F** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026050434/0001213900-26-050434-index.htm)
 
 - **424B3** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526191289/0001193125-26-191289-index.htm)
@@ -65,6 +77,9 @@
 
 - **ARS** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000092189526001123/0000921895-26-001123-index.htm)
+
+- **ARS** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926053153/0001104659-26-053153-index.htm)
 
 - **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000013/0001383312-26-000013-index.htm)
@@ -162,8 +177,14 @@
 - **S-1/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226019428/0001493152-26-019428-index.htm)
 
+- **DEF 14A** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000149315226020723/0001493152-26-020723-index.htm)
+
 - **DEF 14A** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/0001104659-26-053098-index.htm)
+
+- **DEF 14A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026029018/0001628280-26-029018-index.htm)
 
 - **20-F** | AMTD IDEA GROUP  (AMTD)  (CIK 0001769731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1769731/000121390026049333/0001213900-26-049333-index.htm)
@@ -248,6 +269,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226019241/0001493152-26-019241-index.htm)
+
+- **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526197835/0001193125-26-197835-index.htm)
 
 - **DEF 14A** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926049711/0001104659-26-049711-index.htm)
@@ -348,6 +372,12 @@
 - **DEF 14A** | SHOULDER INNOVATIONS, INC.  (SI)  (CIK 0001699350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1699350/000169935026000026/0001699350-26-000026-index.htm)
 
+- **DEF 14A** | CION Investment Corp  (CICB, CICC, CION)  (CIK 0001534254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534254/000114036126018322/0001140361-26-018322-index.htm)
+
+- **486BPOS** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000162828026028993/0001628280-26-028993-index.htm)
+
 - **424B3** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465926050323/0001104659-26-050323-index.htm)
 
@@ -426,6 +456,12 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
+- **20-F** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026050410/0001213900-26-050410-index.htm)
+
+- **20-F** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526197914/0001193125-26-197914-index.htm)
+
 - **486BPOS** | Brookfield Infrastructure Income Fund Inc.  (CIK 0001955857)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1955857/000121390026050025/0001213900-26-050025-index.htm)
 
@@ -447,8 +483,8 @@
 - **6-K/A** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226019277/0001493152-26-019277-index.htm)
 
-- **486BPOS** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000162828026028993/0001628280-26-028993-index.htm)
+- **485BPOS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000089418926014162/0000894189-26-014162-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000858/0001771146-26-000858-index.htm)
@@ -546,6 +582,12 @@
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000073/0000783401-26-000073-index.htm)
 
+- **N-CSR** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000113322826007456/0001133228-26-007456-index.htm)
+
+- **N-CSR** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826007470/0001133228-26-007470-index.htm)
+
 - **1-K** | Cloudhands, Inc.  (CIK 0001832460)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1832460/000149315226020109/0001493152-26-020109-index.htm)
 
@@ -642,9 +684,6 @@
 - **N-CSR** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826007458/0001133228-26-007458-index.htm)
 
-- **N-CSR** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826007470/0001133228-26-007470-index.htm)
-
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026049300/0001213900-26-049300-index.htm)
 
@@ -672,6 +711,9 @@
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526190578/0001193125-26-190578-index.htm)
 
+- **40-17G** | VanEck CLO Opportunities Fund  (CIK 0002095816)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2095816/000209581626000009/0002095816-26-000009-index.htm)
+
 - **DEF 14A** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926005251/0001214659-26-005251-index.htm)
 
@@ -680,4 +722,7 @@
 
 - **DEF 14A** | HCI Group, Inc.  (HCI, HCIIP)  (CIK 0001400810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1400810/000119312526191649/0001193125-26-191649-index.htm)
+
+- **10-Q** | iRhythm Holdings, Inc.  (IRTC)  (CIK 0001388658)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865826000039/0001388658-26-000039-index.htm)
 
