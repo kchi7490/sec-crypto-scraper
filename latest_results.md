@@ -171,6 +171,9 @@
 - **20-F** | Inter & Co, Inc.  (INTR)  (CIK 0001864163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864163/000207097926000185/0002070979-26-000185-index.htm)
 
+- **20-F** | PicS N.V.  (PICS)  (CIK 0001841644)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841644/000121390026049950/0001213900-26-049950-index.htm)
+
 - **20-F** | Vista Energy, S.A.B. de C.V.  (VIST, VSOGF)  (CIK 0001762506)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1762506/000119312526187099/0001193125-26-187099-index.htm)
 
@@ -288,6 +291,9 @@
 - **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926049845/0001104659-26-049845-index.htm)
 
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426007785/0001398344-26-007785-index.htm)
+
 - **20-F** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326002258/0001178913-26-002258-index.htm)
 
@@ -345,6 +351,9 @@
 - **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/0001193125-26-186406-index.htm)
 
+- **487** | FT 12851  (CIK 0002104966)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104966/000144554626003167/0001445546-26-003167-index.htm)
+
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191098/0001193125-26-191098-index.htm)
 
@@ -381,9 +390,6 @@
 - **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
 
-- **485BPOS** | Community Development Fund  (CIK 0001649227)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/0001398344-26-007764-index.htm)
-
 - **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
 
@@ -413,6 +419,9 @@
 
 - **485BPOS** | Eaton Vance Variable Trust  (CIK 0001121746)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1121746/000113322826006945/0001133228-26-006945-index.htm)
+
+- **485BPOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026049948/0001213900-26-049948-index.htm)
 
 - **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826006937/0001133228-26-006937-index.htm)
@@ -474,6 +483,9 @@
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026049278/0001213900-26-049278-index.htm)
 
+- **485BPOS** | AMCAP FUND  (CIK 0000004405)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/4405/000005193126000545/0000051931-26-000545-index.htm)
+
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/0001104659-26-050536-index.htm)
 
@@ -486,8 +498,14 @@
 - **485BPOS** | Eaton Vance Mutual Funds Trust  (CIK 0000745463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/745463/000113322826006989/0001133228-26-006989-index.htm)
 
+- **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828026028675/0001628280-26-028675-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006342/0000950103-26-006342-index.htm)
+
+- **485BPOS** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/0001445546-26-003178-index.htm)
 
 - **485BPOS** | PENN SERIES FUNDS INC  (CIK 0000702340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/702340/000119312526186687/0001193125-26-186687-index.htm)
