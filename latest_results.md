@@ -54,6 +54,9 @@
 - **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000013/0001383312-26-000013-index.htm)
 
+- **20-F** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026049770/0001213900-26-049770-index.htm)
+
 - **8-K** | ARROW FINANCIAL CORP  (AROW)  (CIK 0000717538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/717538/000071753826000050/0000717538-26-000050-index.htm)
 
@@ -156,6 +159,9 @@
 - **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
 
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000506/0001137360-26-000506-index.htm)
+
 - **20-F** | MoneyHero Ltd  (MNY, MNYWW)  (CIK 0001974044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974044/000121390026049733/0001213900-26-049733-index.htm)
 
@@ -203,6 +209,9 @@
 
 - **485BPOS** | Mutual Fund & Variable Insurance Trust  (CIK 0000810695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810695/000158064226002707/0001580642-26-002707-index.htm)
+
+- **20-F** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026028623/0001628280-26-028623-index.htm)
 
 - **DEF 14A** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226019441/0001493152-26-019441-index.htm)
@@ -252,6 +261,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026048146/0001213900-26-048146-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326002879/0001171843-26-002879-index.htm)
+
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926049823/0001104659-26-049823-index.htm)
 
@@ -300,6 +312,9 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
+- **20-F** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026049832/0001213900-26-049832-index.htm)
+
 - **20-F** | Xunlei Ltd  (XNET)  (CIK 0001510593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1510593/000110465926050304/0001104659-26-050304-index.htm)
 
@@ -308,6 +323,9 @@
 
 - **6-K/A** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226019277/0001493152-26-019277-index.htm)
+
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626000858/0001771146-26-000858-index.htm)
 
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
@@ -362,6 +380,9 @@
 
 - **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
+
+- **485BPOS** | Community Development Fund  (CIK 0001649227)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/0001398344-26-007764-index.htm)
 
 - **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
