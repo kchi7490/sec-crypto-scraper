@@ -219,17 +219,47 @@
 - **424B3** | ARES STRATEGIC INCOME FUND  (CIK 0001918712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1918712/000110465926050323/0001104659-26-050323-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026049374/0001213900-26-049374-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026048146/0001213900-26-048146-index.htm)
+
+- **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926049823/0001104659-26-049823-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926049909/0001104659-26-049909-index.htm)
-
-- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
 - **20-F** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019612/0001493152-26-019612-index.htm)
 
+- **6-K** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026048528/0001213900-26-048528-index.htm)
+
+- **20-F** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026049307/0001213900-26-049307-index.htm)
+
 - **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926049845/0001104659-26-049845-index.htm)
+
+- **20-F** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326002258/0001178913-26-002258-index.htm)
+
+- **20-F** | SciSparc Ltd.  (SPRC)  (CIK 0001611746)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611746/000121390026049322/0001213900-26-049322-index.htm)
+
+- **20-F** | AIFU Inc.  (AIFU)  (CIK 0001413855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413855/000121390026048631/0001213900-26-048631-index.htm)
+
+- **20-F** | Loma Negra Compania Industrial Argentina Sociedad Anonima  (LOMA)  (CIK 0001711375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711375/000171137526000030/0001711375-26-000030-index.htm)
+
+- **20-F** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950526000069/0001499505-26-000069-index.htm)
+
+- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
 - **20-F** | Xunlei Ltd  (XNET)  (CIK 0001510593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1510593/000110465926050304/0001104659-26-050304-index.htm)
@@ -237,23 +267,53 @@
 - **20-F** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026048773/0001213900-26-048773-index.htm)
 
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026049374/0001213900-26-049374-index.htm)
-
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026048146/0001213900-26-048146-index.htm)
-
 - **6-K/A** | Cuprina Holdings (Cayman) LTD  (CUPR)  (CIK 0001995704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995704/000149315226019277/0001493152-26-019277-index.htm)
+
+- **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191139/0001193125-26-191139-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191151/0001193125-26-191151-index.htm)
+
+- **485BPOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526186396/0001193125-26-186396-index.htm)
+
+- **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/0001193125-26-186406-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191098/0001193125-26-191098-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191124/0001193125-26-191124-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191081/0001193125-26-191081-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191072/0001193125-26-191072-index.htm)
+
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.htm)
+
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000021/0001559495-26-000021-index.htm)
+
+- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000013/0001559495-26-000013-index.htm)
+
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326006295/0000950103-26-006295-index.htm)
 
 - **485BPOS** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000270/0001396092-26-000270-index.htm)
-
-- **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
 
 - **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
@@ -278,9 +338,6 @@
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000073/0000783401-26-000073-index.htm)
-
-- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.htm)
 
 - **20-F** | Trident Digital Tech Holdings Ltd  (TDTH)  (CIK 0001983550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1983550/000121390026048646/0001213900-26-048646-index.htm)
@@ -315,41 +372,8 @@
 - **485BPOS** | Minnesota Life Insurance Co (RILA)  (CIK 0002032538)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2032538/000119312526184917/0001193125-26-184917-index.htm)
 
-- **485BPOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526186396/0001193125-26-186396-index.htm)
-
-- **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/0001193125-26-186406-index.htm)
-
 - **497** | Brighthouse Life Insurance Co (RILA MVA)  (CIK 0002041679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041679/000119312526183366/0001193125-26-183366-index.htm)
-
-- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.htm)
-
-- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000021/0001559495-26-000021-index.htm)
-
-- **20-F** | SILICOM LTD.  (SILC)  (CIK 0000916793)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/916793/000117891326002258/0001178913-26-002258-index.htm)
-
-- **20-F** | SciSparc Ltd.  (SPRC)  (CIK 0001611746)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1611746/000121390026049322/0001213900-26-049322-index.htm)
-
-- **485BPOS** | Symetra Life Insurance Co  (CIK 0001559495)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1559495/000155949526000013/0001559495-26-000013-index.htm)
-
-- **20-F** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950526000069/0001499505-26-000069-index.htm)
-
-- **20-F** | Loma Negra Compania Industrial Argentina Sociedad Anonima  (LOMA)  (CIK 0001711375)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1711375/000171137526000030/0001711375-26-000030-index.htm)
-
-- **20-F** | AIFU Inc.  (AIFU)  (CIK 0001413855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1413855/000121390026048631/0001213900-26-048631-index.htm)
-
-- **20-F** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026049307/0001213900-26-049307-index.htm)
 
 - **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XI  (CIK 0001091459)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1091459/000119312526191228/0001193125-26-191228-index.htm)
