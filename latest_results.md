@@ -285,6 +285,9 @@
 - **8-K** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226019685/0001493152-26-019685-index.htm)
 
+- **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000032/0001500217-26-000032-index.htm)
+
 - **DEF 14A** | SHOULDER INNOVATIONS, INC.  (SI)  (CIK 0001699350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1699350/000169935026000026/0001699350-26-000026-index.htm)
 
@@ -438,6 +441,9 @@
 - **18-K/A** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312526196548/0001193125-26-196548-index.htm)
 
+- **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526200695/0001193125-26-200695-index.htm)
+
 - **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/0000009712-26-000040-index.htm)
 
@@ -579,9 +585,6 @@
 - **1-K** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285926000001/0001812859-26-000001-index.htm)
 
-- **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526200695/0001193125-26-200695-index.htm)
-
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053878/0001104659-26-053878-index.htm)
 
@@ -608,6 +611,12 @@
 
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053971/0001104659-26-053971-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053967/0001104659-26-053967-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
@@ -641,6 +650,12 @@
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053923/0001104659-26-053923-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053939/0001104659-26-053939-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053942/0001104659-26-053942-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053692/0001104659-26-053692-index.htm)
