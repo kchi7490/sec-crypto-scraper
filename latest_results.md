@@ -24,11 +24,11 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
 
-- **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
-
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
+
+- **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
 
 - **ARS** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226020493/0001493152-26-020493-index.htm)
@@ -41,6 +41,9 @@
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005364/0001214659-26-005364-index.htm)
+
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026029127/0001628280-26-029127-index.htm)
 
 - **20-F** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026050434/0001213900-26-050434-index.htm)
@@ -144,6 +147,9 @@
 - **20-F** | Generation Essentials Group  (TGE, TGE-WT)  (CIK 0002053456)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2053456/000121390026049334/0001213900-26-049334-index.htm)
 
+- **424B4** | RRE Ventures Acquisition Corp.  (RREV)  (CIK 0002123969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123969/000119312526199374/0001193125-26-199374-index.htm)
+
 - **20-F** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312526191909/0001193125-26-191909-index.htm)
 
@@ -189,8 +195,17 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526197835/0001193125-26-197835-index.htm)
 
+- **8-K** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226020830/0001493152-26-020830-index.htm)
+
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000023/0001074828-26-000023-index.htm)
+
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000119312526193982/0001193125-26-193982-index.htm)
+
+- **8-K** | Big Digital Energy, Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026050704/0001213900-26-050704-index.htm)
 
 - **10-Q** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000036/0001865200-26-000036-index.htm)
@@ -258,6 +273,9 @@
 - **486BPOS** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000162828026028993/0001628280-26-028993-index.htm)
 
+- **486BPOS** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526198102/0001193125-26-198102-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026049374/0001213900-26-049374-index.htm)
 
@@ -315,6 +333,12 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
 
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026050703/0001213900-26-050703-index.htm)
+
+- **F-3/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226020826/0001493152-26-020826-index.htm)
+
 - **486BPOS** | Brookfield Infrastructure Income Fund Inc.  (CIK 0001955857)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1955857/000121390026050025/0001213900-26-050025-index.htm)
 
@@ -341,6 +365,9 @@
 
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926053560/0001104659-26-053560-index.htm)
 
 - **18-K/A** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312526196548/0001193125-26-196548-index.htm)
