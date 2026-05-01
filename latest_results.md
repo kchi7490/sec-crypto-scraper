@@ -60,6 +60,9 @@
 - **ARS** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000092189526001123/0000921895-26-001123-index.htm)
 
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926005379/0001214659-26-005379-index.htm)
+
 - **ARS** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926053153/0001104659-26-053153-index.htm)
 
@@ -168,6 +171,9 @@
 - **485BPOS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000089418926014063/0000894189-26-014063-index.htm)
 
+- **PRE 14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126018404/0001140361-26-018404-index.htm)
+
 - **20-F** | NOAH HOLDINGS LTD  (NOAH)  (CIK 0001499543)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499543/000110465926050892/0001104659-26-050892-index.htm)
 
@@ -203,6 +209,12 @@
 
 - **8-K** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226020830/0001493152-26-020830-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226020814/0001493152-26-020814-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526199155/0001193125-26-199155-index.htm)
 
 - **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000023/0001074828-26-000023-index.htm)
@@ -567,11 +579,20 @@
 - **1-K** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285926000001/0001812859-26-000001-index.htm)
 
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053735/0001104659-26-053735-index.htm)
+
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/0001104659-26-053308-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053701/0001104659-26-053701-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053738/0001104659-26-053738-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053752/0001104659-26-053752-index.htm)
 
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
@@ -579,8 +600,14 @@
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053733/0001104659-26-053733-index.htm)
 
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053774/0001104659-26-053774-index.htm)
+
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053686/0001104659-26-053686-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053779/0001104659-26-053779-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053682/0001104659-26-053682-index.htm)
@@ -665,4 +692,7 @@
 
 - **10-Q** | iRhythm Holdings, Inc.  (IRTC)  (CIK 0001388658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865826000039/0001388658-26-000039-index.htm)
+
+- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/0001628280-26-029112-index.htm)
 
