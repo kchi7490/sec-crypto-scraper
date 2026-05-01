@@ -24,11 +24,11 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
 
-- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
-
 - **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
 - **ARS** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226020493/0001493152-26-020493-index.htm)
@@ -105,6 +105,9 @@
 - **DEF 14A** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000040/0002055592-26-000040-index.htm)
 
+- **S-1/A** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226020803/0001493152-26-020803-index.htm)
+
 - **ARS** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000110465926051785/0001104659-26-051785-index.htm)
 
@@ -131,6 +134,9 @@
 
 - **DEF 14A** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000149315226020723/0001493152-26-020723-index.htm)
+
+- **1-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000123/0001663577-26-000123-index.htm)
 
 - **DEF 14A** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926053098/0001104659-26-053098-index.htm)
@@ -243,6 +249,9 @@
 - **20-F** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026028623/0001628280-26-028623-index.htm)
 
+- **DEF 14A** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000114036126018357/0001140361-26-018357-index.htm)
+
 - **DEF 14A** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226019441/0001493152-26-019441-index.htm)
 
@@ -270,11 +279,17 @@
 - **DEF 14A** | CION Investment Corp  (CICB, CICC, CION)  (CIK 0001534254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534254/000114036126018322/0001140361-26-018322-index.htm)
 
+- **N-2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526198119/0001193125-26-198119-index.htm)
+
 - **486BPOS** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000162828026028993/0001628280-26-028993-index.htm)
 
 - **486BPOS** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000119312526198102/0001193125-26-198102-index.htm)
+
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026050703/0001213900-26-050703-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026049374/0001213900-26-049374-index.htm)
@@ -327,14 +342,14 @@
 - **20-F** | Baiya International Group Inc.  (BIYA)  (CIK 0001944712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944712/000121390026050223/0001213900-26-050223-index.htm)
 
+- **20-F** | Ellomay Capital Ltd.  (ELLO)  (CIK 0000946394)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946394/000121390026050533/0001213900-26-050533-index.htm)
+
 - **20-F** | Adecoagro S.A.  (AGRO)  (CIK 0001499505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499505/000149950526000069/0001499505-26-000069-index.htm)
 
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226019616/0001493152-26-019616-index.htm)
-
-- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026050703/0001213900-26-050703-index.htm)
 
 - **F-3/A** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226020826/0001493152-26-020826-index.htm)
@@ -347,6 +362,9 @@
 
 - **20-F** | TNL Mediagene  (TNMG, TNMWF)  (CIK 0002013186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013186/000121390026049832/0001213900-26-049832-index.htm)
+
+- **20FR12B/A** | Fort Technology Inc  (FRTT)  (CIK 0002092967)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092967/000121390026050657/0001213900-26-050657-index.htm)
 
 - **485BPOS** | Six Circles Trust  (CIK 0001724826)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1724826/000119312526196812/0001193125-26-196812-index.htm)
@@ -366,8 +384,38 @@
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
 
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053588/0001104659-26-053588-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053630/0001104659-26-053630-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053592/0001104659-26-053592-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053633/0001104659-26-053633-index.htm)
+
+- **497** | LLANY SEPARATE ACCOUNT S FOR FLEXIBLE PREMIUM VARIABLE LIFE INSURANCE  (CIK 0001081039)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081039/000110465926053562/0001104659-26-053562-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053644/0001104659-26-053644-index.htm)
+
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926053560/0001104659-26-053560-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053648/0001104659-26-053648-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926053567/0001104659-26-053567-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053642/0001104659-26-053642-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053634/0001104659-26-053634-index.htm)
 
 - **18-K/A** | CANADA  (CIK 0000230098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/230098/000119312526196548/0001193125-26-196548-index.htm)
@@ -375,14 +423,62 @@
 - **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/0000009712-26-000040-index.htm)
 
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053616/0001104659-26-053616-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053601/0001104659-26-053601-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053599/0001104659-26-053599-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053586/0001104659-26-053586-index.htm)
+
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191139/0001193125-26-191139-index.htm)
+
+- **497** | LINCOLN LIFE & ANNUITY FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001051629)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051629/000110465926053621/0001104659-26-053621-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053578/0001104659-26-053578-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053611/0001104659-26-053611-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053639/0001104659-26-053639-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191151/0001193125-26-191151-index.htm)
 
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053571/0001104659-26-053571-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053646/0001104659-26-053646-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053604/0001104659-26-053604-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053584/0001104659-26-053584-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053580/0001104659-26-053580-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053645/0001104659-26-053645-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053585/0001104659-26-053585-index.htm)
+
 - **487** | FT 12851  (CIK 0002104966)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2104966/000144554626003167/0001445546-26-003167-index.htm)
+
+- **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053595/0001104659-26-053595-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191098/0001193125-26-191098-index.htm)
@@ -447,6 +543,9 @@
 - **485BPOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126009403/0001999371-26-009403-index.htm)
 
+- **1-K** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226020807/0001493152-26-020807-index.htm)
+
 - **485BPOS** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126009592/0001999371-26-009592-index.htm)
 
@@ -458,6 +557,9 @@
 
 - **1-K** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285926000001/0001812859-26-000001-index.htm)
+
+- **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/0001104659-26-053308-index.htm)
 
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
