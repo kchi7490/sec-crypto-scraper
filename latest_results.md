@@ -42,6 +42,9 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005364/0001214659-26-005364-index.htm)
 
+- **POS AM** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126009730/0001999371-26-009730-index.htm)
+
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026029127/0001628280-26-029127-index.htm)
 
@@ -117,6 +120,9 @@
 - **DEF 14A** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026049329/0001213900-26-049329-index.htm)
 
+- **S-1/A** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026050904/0001213900-26-050904-index.htm)
+
 - **S-1/A** | HealthLynked Corp  (HLYK)  (CIK 0001680139)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1680139/000121390026050297/0001213900-26-050297-index.htm)
 
@@ -128,6 +134,9 @@
 
 - **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926053120/0001104659-26-053120-index.htm)
+
+- **10-K** | GridAI Technologies Corp.  (GRDX)  (CIK 0001604191)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465926054106/0001104659-26-054106-index.htm)
 
 - **DEF 14A** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000032/0001818874-26-000032-index.htm)
@@ -207,23 +216,8 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526197835/0001193125-26-197835-index.htm)
 
-- **8-K** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226020830/0001493152-26-020830-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226020814/0001493152-26-020814-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526199155/0001193125-26-199155-index.htm)
-
-- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000023/0001074828-26-000023-index.htm)
-
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000119312526193982/0001193125-26-193982-index.htm)
-
-- **8-K** | Big Digital Energy, Inc.  (MIGI)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026050704/0001213900-26-050704-index.htm)
 
 - **10-Q** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000036/0001865200-26-000036-index.htm)
@@ -261,9 +255,6 @@
 - **20-F** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026028623/0001628280-26-028623-index.htm)
 
-- **DEF 14A** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000114036126018357/0001140361-26-018357-index.htm)
-
 - **DEF 14A** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226019441/0001493152-26-019441-index.htm)
 
@@ -282,11 +273,17 @@
 - **424B3** | Greenland Energy Co  (GLND)  (CIK 0002093507)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093507/000182912626004106/0001829126-26-004106-index.htm)
 
+- **S-8** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826003419/0001683168-26-003419-index.htm)
+
 - **8-K** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226019685/0001493152-26-019685-index.htm)
 
 - **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000032/0001500217-26-000032-index.htm)
+
+- **S-3** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226002715/0001477932-26-002715-index.htm)
 
 - **DEF 14A** | SHOULDER INNOVATIONS, INC.  (SI)  (CIK 0001699350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1699350/000169935026000026/0001699350-26-000026-index.htm)
@@ -395,6 +392,9 @@
 
 - **485BPOS** | MORGAN STANLEY INSTITUTIONAL FUND INC  (CIK 0000836487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836487/000113322826007524/0001133228-26-007524-index.htm)
+
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926014458/0001437749-26-014458-index.htm)
 
 - **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526192282/0001193125-26-192282-index.htm)
@@ -519,6 +519,15 @@
 - **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000044/0000009712-26-000044-index.htm)
 
+- **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526201326/0001193125-26-201326-index.htm)
+
+- **N-CSRS** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526201303/0001193125-26-201303-index.htm)
+
+- **S-1** | Lakewood-Amedex Biotherapeutics Inc.  (LABT)  (CIK 0002079272)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079272/000121390026050936/0001213900-26-050936-index.htm)
+
 - **424B3** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000061/0000946155-26-000061-index.htm)
 
@@ -527,6 +536,9 @@
 
 - **485BPOS** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000139834426007914/0001398344-26-007914-index.htm)
+
+- **497** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526201140/0001193125-26-201140-index.htm)
 
 - **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
@@ -557,6 +569,9 @@
 
 - **N-CSR** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000113322826007456/0001133228-26-007456-index.htm)
+
+- **20-F** | NFT Ltd  (MI)  (CIK 0001958713)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1958713/000121390026050939/0001213900-26-050939-index.htm)
 
 - **N-CSR** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826007470/0001133228-26-007470-index.htm)
@@ -618,17 +633,17 @@
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053967/0001104659-26-053967-index.htm)
 
-- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
-
-- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053817/0001104659-26-053817-index.htm)
-
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053782/0001104659-26-053782-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053899/0001104659-26-053899-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053817/0001104659-26-053817-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053733/0001104659-26-053733-index.htm)
@@ -723,6 +738,21 @@
 - **485BPOS** | FIRST TRUST EXCHANGE-TRADED FUND  (CIK 0001329377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/0001445546-26-003178-index.htm)
 
+- **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238626000016/0001592386-26-000016-index.htm)
+
+- **8-K** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226020830/0001493152-26-020830-index.htm)
+
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000023/0001074828-26-000023-index.htm)
+
+- **8-K** | Big Digital Energy, Inc.  (MIGI)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026050704/0001213900-26-050704-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526199155/0001193125-26-199155-index.htm)
+
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526190578/0001193125-26-190578-index.htm)
 
@@ -731,6 +761,9 @@
 
 - **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/0001628280-26-029112-index.htm)
+
+- **DEF 14A** | Skillz Inc.  (SKLZ)  (CIK 0001801661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1801661/000114036126018357/0001140361-26-018357-index.htm)
 
 - **DEF 14A** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926005251/0001214659-26-005251-index.htm)
