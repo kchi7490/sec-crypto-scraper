@@ -24,11 +24,11 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000020/0001818874-26-000020-index.htm)
 
-- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
-
 - **20-F** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226019771/0001493152-26-019771-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000062/0001783879-26-000062-index.htm)
 
 - **ARS** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226020493/0001493152-26-020493-index.htm)
@@ -375,6 +375,27 @@
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.htm)
 
+- **485BPOS** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000139834426007914/0001398344-26-007914-index.htm)
+
+- **486BPOS** | Alternative Investment Partners Absolute Return Fund STS  (CIK 0001343668)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.htm)
+
+- **485BPOS** | Community Development Fund  (CIK 0001649227)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/0001398344-26-007764-index.htm)
+
+- **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
+
+- **485BPOS** | Natixis Funds Trust II  (CIK 0000052136)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/52136/000113322826007261/0001133228-26-007261-index.htm)
+
+- **485BPOS** | Natixis Funds Trust I  (CIK 0000770540)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/770540/000113322826007254/0001133228-26-007254-index.htm)
+
+- **485BPOS** | LOOMIS SAYLES FUNDS II  (CIK 0000872649)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/872649/000113322826007258/0001133228-26-007258-index.htm)
+
 - **10-K/A** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226020421/0001493152-26-020421-index.htm)
 
@@ -449,9 +470,6 @@
 
 - **1-K** | Park View OZ REIT Inc  (PVOZ)  (CIK 0001824204)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824204/000121465926005355/0001214659-26-005355-index.htm)
-
-- **485BPOS** | WILSHIRE MUTUAL FUNDS INC  (CIK 0000890453)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/890453/000089418926013914/0000894189-26-013914-index.htm)
 
 - **485BPOS** | PACIFIC SELECT FUND  (CIK 0000813900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/0001104659-26-050536-index.htm)
