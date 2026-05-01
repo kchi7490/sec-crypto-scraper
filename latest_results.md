@@ -579,6 +579,12 @@
 - **1-K** | RSE Innovation, LLC  (CIK 0001812859)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812859/000181285926000001/0001812859-26-000001-index.htm)
 
+- **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526200695/0001193125-26-200695-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053878/0001104659-26-053878-index.htm)
+
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053735/0001104659-26-053735-index.htm)
 
@@ -592,10 +598,28 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053738/0001104659-26-053738-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053840/0001104659-26-053840-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053752/0001104659-26-053752-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053871/0001104659-26-053871-index.htm)
 
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053817/0001104659-26-053817-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053782/0001104659-26-053782-index.htm)
+
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053899/0001104659-26-053899-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053733/0001104659-26-053733-index.htm)
@@ -616,10 +640,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026049971/0001213900-26-049971-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053923/0001104659-26-053923-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053692/0001104659-26-053692-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053690/0001104659-26-053690-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053808/0001104659-26-053808-index.htm)
 
 - **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053695/0001104659-26-053695-index.htm)
@@ -684,6 +714,9 @@
 - **40-17G** | VanEck CLO Opportunities Fund  (CIK 0002095816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095816/000209581626000009/0002095816-26-000009-index.htm)
 
+- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/0001628280-26-029112-index.htm)
+
 - **DEF 14A** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926005251/0001214659-26-005251-index.htm)
 
@@ -692,7 +725,4 @@
 
 - **10-Q** | iRhythm Holdings, Inc.  (IRTC)  (CIK 0001388658)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1388658/000138865826000039/0001388658-26-000039-index.htm)
-
-- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026029112/0001628280-26-029112-index.htm)
 
