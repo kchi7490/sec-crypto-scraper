@@ -399,11 +399,17 @@
 - **497** | LLANY SEPARATE ACCOUNT S FOR FLEXIBLE PREMIUM VARIABLE LIFE INSURANCE  (CIK 0001081039)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081039/000110465926053562/0001104659-26-053562-index.htm)
 
+- **497** | Lincoln Life Flexible Premium Variable Life Account JF-A  (CIK 0000757552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757552/000110465926053650/0001104659-26-053650-index.htm)
+
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053644/0001104659-26-053644-index.htm)
 
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S  (CIK 0001080299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080299/000110465926053560/0001104659-26-053560-index.htm)
+
+- **497** | Lincoln Life Flexible Premium Variable Life Account JF-A  (CIK 0000757552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757552/000110465926053653/0001104659-26-053653-index.htm)
 
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT R  (CIK 0001051932)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053648/0001104659-26-053648-index.htm)
@@ -445,10 +451,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1051932/000110465926053578/0001104659-26-053578-index.htm)
 
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053611/0001104659-26-053611-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053639/0001104659-26-053639-index.htm)
 
 - **497** | LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT M  (CIK 0001048607)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053639/0001104659-26-053639-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048607/000110465926053611/0001104659-26-053611-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526191151/0001193125-26-191151-index.htm)
@@ -494,6 +500,9 @@
 
 - **485BPOS** | PRINCIPAL LIFE INSURANCE CO  (CIK 0000009712)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9712/000000971226000044/0000009712-26-000044-index.htm)
+
+- **424B3** | TIAA REAL ESTATE ACCOUNT  (CIK 0000946155)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/946155/000094615526000061/0000946155-26-000061-index.htm)
 
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.htm)
@@ -561,11 +570,32 @@
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/0001104659-26-053308-index.htm)
 
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053701/0001104659-26-053701-index.htm)
+
 - **485BPOS** | Aspida Life Insurance Co  (CIK 0001934234)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.htm)
 
+- **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053733/0001104659-26-053733-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053686/0001104659-26-053686-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053682/0001104659-26-053682-index.htm)
+
 - **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026049971/0001213900-26-049971-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053692/0001104659-26-053692-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053690/0001104659-26-053690-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053695/0001104659-26-053695-index.htm)
 
 - **485BPOS** | SBL VARIABLE ANNUITY ACCOUNT XI  (CIK 0001091459)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1091459/000119312526191228/0001193125-26-191228-index.htm)
