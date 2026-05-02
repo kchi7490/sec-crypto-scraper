@@ -231,9 +231,6 @@
 - **10-12G** | HarbourVest Private Equity Secondaries Fund (TE) L.P.  (CIK 0002117580)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2117580/000119312526197159/0001193125-26-197159-index.htm)
 
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226020932/0001493152-26-020932-index.htm)
-
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000029/0001805526-26-000029-index.htm)
 
@@ -519,17 +516,17 @@
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053967/0001104659-26-053967-index.htm)
 
-- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
-
-- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053817/0001104659-26-053817-index.htm)
-
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053782/0001104659-26-053782-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053899/0001104659-26-053899-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053860/0001104659-26-053860-index.htm)
+
+- **497** | LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N  (CIK 0001048606)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1048606/000110465926053817/0001104659-26-053817-index.htm)
 
 - **497** | LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES  (CIK 0001093278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1093278/000110465926053733/0001104659-26-053733-index.htm)
