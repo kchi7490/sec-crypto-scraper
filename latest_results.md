@@ -6,9 +6,6 @@
 - **8-K** | AI Financial Corp  (AIFC, ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226020950/0001493152-26-020950-index.htm)
 
-- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/0001633917-26-000065-index.htm)
-
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226021183/0001493152-26-021183-index.htm)
 
@@ -48,6 +45,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026029526/0001628280-26-029526-index.htm)
 
+- **10-Q** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000028/0001819989-26-000028-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526202611/0001193125-26-202611-index.htm)
 
@@ -59,6 +59,9 @@
 
 - **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026051590/0001213900-26-051590-index.htm)
+
+- **485BPOS** | Strategy Shares  (CIK 0001506213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226002927/0001580642-26-002927-index.htm)
 
 - **424B4** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026051150/0001213900-26-051150-index.htm)
@@ -131,4 +134,13 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426008178/0001398344-26-008178-index.htm)
+
+- **1-A** | UNATION, Inc.  (CIK 0001549679)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026051813/0001213900-26-051813-index.htm)
+
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/0001633917-26-000065-index.htm)
+
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126009928/0001999371-26-009928-index.htm)
 
