@@ -6,6 +6,9 @@
 - **8-K** | AI Financial Corp  (AIFC, ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226020950/0001493152-26-020950-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226021183/0001493152-26-021183-index.htm)
+
 - **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826003457/0001683168-26-003457-index.htm)
 
@@ -17,6 +20,9 @@
 
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584126000021/0001475841-26-000021-index.htm)
+
+- **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000109/0000008818-26-000109-index.htm)
 
 - **S-4/A** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226020967/0001493152-26-020967-index.htm)
@@ -51,6 +57,12 @@
 - **424B4** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026051097/0001213900-26-051097-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000165/0001099910-26-000165-index.htm)
+
+- **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
+
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000046/0001726978-26-000046-index.htm)
 
@@ -62,6 +74,9 @@
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226021020/0001493152-26-021020-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926014727/0001437749-26-014727-index.htm)
 
 - **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226021021/0001493152-26-021021-index.htm)
@@ -77,6 +92,9 @@
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026029528/0001628280-26-029528-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000074/0001383395-26-000074-index.htm)
 
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626004405/0001829126-26-004405-index.htm)
