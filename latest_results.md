@@ -6,6 +6,9 @@
 - **8-K** | AI Financial Corp  (AIFC, ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226020950/0001493152-26-020950-index.htm)
 
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/0001633917-26-000065-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226021183/0001493152-26-021183-index.htm)
 
@@ -48,6 +51,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526202611/0001193125-26-202611-index.htm)
 
+- **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000025/0001819989-26-000025-index.htm)
+
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000165/0001099910-26-000165-index.htm)
+
 - **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026051590/0001213900-26-051590-index.htm)
 
@@ -56,9 +65,6 @@
 
 - **424B4** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026051097/0001213900-26-051097-index.htm)
-
-- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000165/0001099910-26-000165-index.htm)
 
 - **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
