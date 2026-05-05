@@ -15,6 +15,9 @@
 - **S-4/A** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226021307/0001493152-26-021307-index.htm)
 
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026052300/0001213900-26-052300-index.htm)
+
 - **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826003457/0001683168-26-003457-index.htm)
 
@@ -27,8 +30,14 @@
 - **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926054883/0001104659-26-054883-index.htm)
 
+- **S-1/A** | Bitwise Hyperliquid ETF  (CIK 0002088139)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000121390026052317/0001213900-26-052317-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000024/0001050446-26-000024-index.htm)
+
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026052303/0001213900-26-052303-index.htm)
 
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000147584126000021/0001475841-26-000021-index.htm)
@@ -68,6 +77,9 @@
 
 - **S-1** | Keystone Acquisition Corp.  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026051706/0001213900-26-051706-index.htm)
+
+- **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000067/0001633917-26-000067-index.htm)
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926014604/0001437749-26-014604-index.htm)
@@ -114,6 +126,12 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926014727/0001437749-26-014727-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926014860/0001437749-26-014860-index.htm)
+
+- **POS AM** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026052205/0001213900-26-052205-index.htm)
+
 - **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226021021/0001493152-26-021021-index.htm)
 
@@ -125,6 +143,9 @@
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000119312526203509/0001193125-26-203509-index.htm)
+
+- **N-4/A** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000116409826001285/0001164098-26-001285-index.htm)
 
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026029528/0001628280-26-029528-index.htm)
@@ -138,14 +159,14 @@
 - **424B2** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000121465926005479/0001214659-26-005479-index.htm)
 
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926014860/0001437749-26-014860-index.htm)
-
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226021018/0001493152-26-021018-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002286/0001062993-26-002286-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126010025/0001999371-26-010025-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526206324/0001193125-26-206324-index.htm)
@@ -165,8 +186,8 @@
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/0001213900-26-051673-index.htm)
 
-- **POS AM** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026052205/0001213900-26-052205-index.htm)
+- **424B3** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026052329/0001213900-26-052329-index.htm)
 
 - **10-Q** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226002763/0001477932-26-002763-index.htm)
@@ -176,6 +197,9 @@
 
 - **1-A** | UNATION, Inc.  (CIK 0001549679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026051813/0001213900-26-051813-index.htm)
+
+- **425** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926005614/0001214659-26-005614-index.htm)
 
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000019/0001335258-26-000019-index.htm)
@@ -188,4 +212,10 @@
 
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526206329/0001193125-26-206329-index.htm)
+
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526206606/0001193125-26-206606-index.htm)
+
+- **DEF 14A** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926055725/0001104659-26-055725-index.htm)
 
