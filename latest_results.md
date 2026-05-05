@@ -6,6 +6,9 @@
 - **8-K** | AI Financial Corp  (AIFC, ALTS)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226020950/0001493152-26-020950-index.htm)
 
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/0001633917-26-000065-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226021183/0001493152-26-021183-index.htm)
 
@@ -134,12 +137,6 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426008178/0001398344-26-008178-index.htm)
-
-- **1-A** | UNATION, Inc.  (CIK 0001549679)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026051813/0001213900-26-051813-index.htm)
-
-- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000065/0001633917-26-000065-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126009928/0001999371-26-009928-index.htm)
