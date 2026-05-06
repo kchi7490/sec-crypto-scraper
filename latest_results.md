@@ -60,11 +60,11 @@
 - **10-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026051139/0001213900-26-051139-index.htm)
 
-- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312526206370/0001193125-26-206370-index.htm)
-
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026051331/0001213900-26-051331-index.htm)
+
+- **10-Q** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312526206370/0001193125-26-206370-index.htm)
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055891/0001104659-26-055891-index.htm)
@@ -123,6 +123,12 @@
 - **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
 
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000046/0001726978-26-000046-index.htm)
+
+- **S-3** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000820/0001640334-26-000820-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026052428/0001213900-26-052428-index.htm)
 
@@ -174,6 +180,9 @@
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226021018/0001493152-26-021018-index.htm)
 
+- **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226021401/0001493152-26-021401-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002286/0001062993-26-002286-index.htm)
 
@@ -194,9 +203,6 @@
 
 - **N-CSRS** | HIGH INCOME SECURITIES FUND  (PCF)  (CIK 0000810943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810943/000199937126009864/0001999371-26-009864-index.htm)
-
-- **S-3** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000820/0001640334-26-000820-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/0001213900-26-051673-index.htm)
@@ -230,4 +236,7 @@
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526206606/0001193125-26-206606-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226021420/0001493152-26-021420-index.htm)
 
