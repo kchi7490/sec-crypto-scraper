@@ -192,11 +192,11 @@
 - **424B2** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000121465926005479/0001214659-26-005479-index.htm)
 
-- **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226021401/0001493152-26-021401-index.htm)
-
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226021018/0001493152-26-021018-index.htm)
+
+- **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226021401/0001493152-26-021401-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002340/0001062993-26-002340-index.htm)
