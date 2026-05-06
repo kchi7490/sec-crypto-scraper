@@ -66,6 +66,9 @@
 - **424B3** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026051331/0001213900-26-051331-index.htm)
 
+- **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055891/0001104659-26-055891-index.htm)
+
 - **10-Q** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000028/0001819989-26-000028-index.htm)
 
@@ -93,6 +96,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526202611/0001193125-26-202611-index.htm)
 
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055894/0001104659-26-055894-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000025/0001819989-26-000025-index.htm)
 
@@ -117,17 +123,17 @@
 - **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
 
-- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000046/0001726978-26-000046-index.htm)
-
-- **S-3** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000820/0001640334-26-000820-index.htm)
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026052428/0001213900-26-052428-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026051155/0001213900-26-051155-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226021020/0001493152-26-021020-index.htm)
+
+- **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226021405/0001493152-26-021405-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926014727/0001437749-26-014727-index.htm)
@@ -188,6 +194,9 @@
 
 - **N-CSRS** | HIGH INCOME SECURITIES FUND  (PCF)  (CIK 0000810943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810943/000199937126009864/0001999371-26-009864-index.htm)
+
+- **S-3** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000820/0001640334-26-000820-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/0001213900-26-051673-index.htm)
