@@ -111,9 +111,6 @@
 - **424B4** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026051097/0001213900-26-051097-index.htm)
 
-- **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
-
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000046/0001726978-26-000046-index.htm)
 
@@ -185,6 +182,9 @@
 
 - **N-CSRS** | HIGH INCOME SECURITIES FUND  (PCF)  (CIK 0000810943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810943/000199937126009864/0001999371-26-009864-index.htm)
+
+- **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/0001213900-26-051673-index.htm)
