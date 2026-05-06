@@ -75,6 +75,9 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026030151/0001628280-26-030151-index.htm)
 
+- **253G2** | McQueen Labs Series, LLC  (CIK 0002025795)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025795/000149315226021447/0001493152-26-021447-index.htm)
+
 - **424B5** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926055663/0001104659-26-055663-index.htm)
 
@@ -89,6 +92,12 @@
 
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926014604/0001437749-26-014604-index.htm)
+
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000537/0001137360-26-000537-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000536/0001137360-26-000536-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026029526/0001628280-26-029526-index.htm)
@@ -119,6 +128,9 @@
 
 - **424B4** | Quantum Leap Acquisition Corp  (QLEP)  (CIK 0002102155)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102155/000121390026051097/0001213900-26-051097-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226021420/0001493152-26-021420-index.htm)
 
 - **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
@@ -184,6 +196,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226021401/0001493152-26-021401-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002340/0001062993-26-002340-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002286/0001062993-26-002286-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
@@ -209,6 +224,9 @@
 
 - **424B3** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026052329/0001213900-26-052329-index.htm)
+
+- **424B3** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026031021/0001628280-26-031021-index.htm)
 
 - **10-Q** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226002763/0001477932-26-002763-index.htm)
@@ -236,7 +254,4 @@
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526206606/0001193125-26-206606-index.htm)
-
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226021420/0001493152-26-021420-index.htm)
 
