@@ -81,6 +81,9 @@
 - **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000067/0001633917-26-000067-index.htm)
 
+- **10-Q** | Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)  (CIK 0002082866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082866/000208286626000043/0002082866-26-000043-index.htm)
+
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926014604/0001437749-26-014604-index.htm)
 
