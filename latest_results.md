@@ -252,6 +252,9 @@
 - **10-Q** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774926015656/0001437749-26-015656-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026032070/0001628280-26-032070-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026052428/0001213900-26-052428-index.htm)
 
@@ -283,10 +286,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000074/0001383395-26-000074-index.htm)
 
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526210354/0001193125-26-210354-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000147793226002835/0001477932-26-002835-index.htm)
 
-- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026032070/0001628280-26-032070-index.htm)
+- **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526210354/0001193125-26-210354-index.htm)
 
 - **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226021401/0001493152-26-021401-index.htm)
@@ -351,9 +354,6 @@
 - **N-CSRS** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000139834426008588/0001398344-26-008588-index.htm)
 
-- **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/0001818874-26-000037-index.htm)
-
 - **425** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926005614/0001214659-26-005614-index.htm)
 
@@ -365,9 +365,6 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026052826/0001213900-26-052826-index.htm)
-
-- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526209710/0001193125-26-209710-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526209181/0001193125-26-209181-index.htm)
@@ -384,11 +381,11 @@
 - **10-Q** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526208449/0001193125-26-208449-index.htm)
 
-- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226021568/0001493152-26-021568-index.htm)
-
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526206329/0001193125-26-206329-index.htm)
+
+- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526209710/0001193125-26-209710-index.htm)
 
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226021724/0001493152-26-021724-index.htm)
@@ -396,8 +393,14 @@
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526206606/0001193125-26-206606-index.htm)
 
+- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226021568/0001493152-26-021568-index.htm)
+
 - **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000025/0000934549-26-000025-index.htm)
+
+- **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/0001818874-26-000037-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326006915/0000950103-26-006915-index.htm)
