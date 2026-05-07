@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526209619/0001193125-26-209619-index.htm)
+
+- **10-Q** | Bitwise 10 Crypto Index ETF  (BITW)  (CIK 0001723788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1723788/000119312526209458/0001193125-26-209458-index.htm)
+
 - **S-1/A** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626004635/0001829126-26-004635-index.htm)
 
@@ -24,11 +30,11 @@
 - **S-1/A** | Bitwise Hyperliquid ETF  (CIK 0002088139)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000121390026052317/0001213900-26-052317-index.htm)
 
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000024/0001050446-26-000024-index.htm)
-
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000031/0001050446-26-000031-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000024/0001050446-26-000024-index.htm)
 
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026052303/0001213900-26-052303-index.htm)
@@ -74,6 +80,9 @@
 
 - **424B5** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926055663/0001104659-26-055663-index.htm)
+
+- **10-Q** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036126019398/0001140361-26-019398-index.htm)
 
 - **S-1/A** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026052910/0001213900-26-052910-index.htm)
@@ -135,6 +144,9 @@
 - **DEF 14A** | Boxlight Corp  (BOXL)  (CIK 0001624512)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1624512/000121390026051854/0001213900-26-051854-index.htm)
 
+- **F-1** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026052984/0001213900-26-052984-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026052428/0001213900-26-052428-index.htm)
 
@@ -180,14 +192,23 @@
 - **N-4/A** | PACIFIC LIFE & ANNUITY CO  (CIK 0001094010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1094010/000110465926056310/0001104659-26-056310-index.htm)
 
+- **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526209708/0001193125-26-209708-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126010025/0001999371-26-010025-index.htm)
+
+- **10-Q** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526209705/0001193125-26-209705-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000720/0001096906-26-000720-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000119312526206324/0001193125-26-206324-index.htm)
+
+- **1-K** | RSE Collection, LLC  (CIK 0001688804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880426000013/0001688804-26-000013-index.htm)
 
 - **424B3** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026052329/0001213900-26-052329-index.htm)
@@ -204,6 +225,9 @@
 - **N-CSRS** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000139834426008588/0001398344-26-008588-index.htm)
 
+- **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/0001818874-26-000037-index.htm)
+
 - **425** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926005614/0001214659-26-005614-index.htm)
 
@@ -215,6 +239,9 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026052826/0001213900-26-052826-index.htm)
+
+- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526209710/0001193125-26-209710-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526209181/0001193125-26-209181-index.htm)
@@ -231,9 +258,15 @@
 - **10-Q** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526208449/0001193125-26-208449-index.htm)
 
+- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226021568/0001493152-26-021568-index.htm)
+
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000119312526206329/0001193125-26-206329-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526206606/0001193125-26-206606-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326006915/0000950103-26-006915-index.htm)
 
