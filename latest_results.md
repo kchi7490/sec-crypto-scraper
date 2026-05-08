@@ -120,6 +120,9 @@
 - **10-Q** | Pinnacle Financial Partners, Inc.  (PNFP, PNFP-PA, PNFP-PB, PNFP-PC)  (CIK 0002082866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082866/000208286626000043/0002082866-26-000043-index.htm)
 
+- **DEF 14A** | PVH CORP. /DE/  (PVH)  (CIK 0000078239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/78239/000121390026053710/0001213900-26-053710-index.htm)
+
 - **N-CSR** | COLUMBIA FUNDS SERIES TRUST  (CIK 0001097519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1097519/000119312526208502/0001193125-26-208502-index.htm)
 
@@ -261,11 +264,23 @@
 - **10-Q** | Bitwise Bitcoin ETF  (BITB)  (CIK 0001763415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1763415/000119312526209293/0001193125-26-209293-index.htm)
 
+- **10-Q** | Bitwise Dogecoin ETF  (BWOW)  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000119312526214119/0001193125-26-214119-index.htm)
+
 - **10-Q** | Bitwise Ethereum ETF  (ETHW)  (CIK 0002013744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2013744/000119312526209331/0001193125-26-209331-index.htm)
 
 - **10-Q** | Bitwise Solana Staking ETF  (BSOL)  (CIK 0002045872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045872/000119312526209326/0001193125-26-209326-index.htm)
+
+- **10-Q** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526214111/0001193125-26-214111-index.htm)
+
+- **10-Q** | Bitwise Chainlink ETF  (CLNK)  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000119312526214104/0001193125-26-214104-index.htm)
+
+- **10-Q** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000119312526214157/0001193125-26-214157-index.htm)
 
 - **N-4/A** | PACIFIC LIFE & ANNUITY CO  (CIK 0001094010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1094010/000110465926056310/0001104659-26-056310-index.htm)
@@ -281,6 +296,9 @@
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000720/0001096906-26-000720-index.htm)
+
+- **487** | FT 12909  (CIK 0002109414)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109414/000144554626003580/0001445546-26-003580-index.htm)
 
 - **485APOS** | Equitable Financial Life Insurance Co of America (RILA)  (CIK 0002038891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038891/000119312526213567/0001193125-26-213567-index.htm)
