@@ -33,6 +33,9 @@
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526212109/0001193125-26-212109-index.htm)
 
+- **DEFA14A** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000119312526215001/0001193125-26-215001-index.htm)
+
 - **10-Q** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226021991/0001493152-26-021991-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **10-Q** | HyOrc Corp  (HYOR)  (CIK 0001070789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1070789/000149315226021720/0001493152-26-021720-index.htm)
+
+- **S-1/A** | Canary Staked CRO ETF  (CIK 0002069288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2069288/000199937126010358/0001999371-26-010358-index.htm)
 
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926056237/0001104659-26-056237-index.htm)
@@ -63,6 +69,12 @@
 - **10-Q** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226021761/0001493152-26-021761-index.htm)
 
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026032994/0001628280-26-032994-index.htm)
+
+- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026032992/0001628280-26-032992-index.htm)
+
 - **10-Q** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226021500/0001493152-26-021500-index.htm)
 
@@ -78,8 +90,14 @@
 - **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926015917/0001437749-26-015917-index.htm)
 
+- **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126020229/0001140361-26-020229-index.htm)
+
 - **10-Q** | ALLIANCE RESOURCE PARTNERS LP  (ARLP)  (CIK 0001086600)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1086600/000110465926057964/0001104659-26-057964-index.htm)
+
+- **485APOS** | BLACKROCK FUNDS  (CIK 0000844779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/844779/000119312526214946/0001193125-26-214946-index.htm)
 
 - **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026053457/0001213900-26-053457-index.htm)
@@ -96,6 +114,9 @@
 - **424B4** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026053081/0001213900-26-053081-index.htm)
 
+- **S-3ASR** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026032988/0001628280-26-032988-index.htm)
+
 - **10-K** | Winvest Group Ltd  (WNLV)  (CIK 0001558740)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1558740/000147793226002885/0001477932-26-002885-index.htm)
 
@@ -107,6 +128,9 @@
 
 - **8-K** | Shift4 Payments, Inc.  (FOUR, FOUR-PA)  (CIK 0001794669)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1794669/000179466926000018/0001794669-26-000018-index.htm)
+
+- **S-3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026032968/0001628280-26-032968-index.htm)
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055891/0001104659-26-055891-index.htm)
@@ -173,6 +197,9 @@
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000537/0001137360-26-000537-index.htm)
+
+- **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226021996/0001493152-26-021996-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000536/0001137360-26-000536-index.htm)
@@ -284,6 +311,9 @@
 
 - **10-Q** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000143774926015656/0001437749-26-015656-index.htm)
+
+- **PRE 14A** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326002442/0001062993-26-002442-index.htm)
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026032070/0001628280-26-032070-index.htm)
