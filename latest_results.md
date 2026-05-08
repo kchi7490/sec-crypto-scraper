@@ -45,6 +45,9 @@
 - **10-Q** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226021500/0001493152-26-021500-index.htm)
 
+- **10-Q** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828026032565/0001628280-26-032565-index.htm)
+
 - **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226021749/0001493152-26-021749-index.htm)
 
