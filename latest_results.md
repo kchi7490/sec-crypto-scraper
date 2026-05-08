@@ -150,6 +150,12 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226021610/0001493152-26-021610-index.htm)
 
+- **DEFA14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326002406/0001062993-26-002406-index.htm)
+
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/0001878848-26-000025-index.htm)
+
 - **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026031396/0001628280-26-031396-index.htm)
 
@@ -159,8 +165,17 @@
 - **SCHEDULE 13D/A** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026053091/0001213900-26-053091-index.htm)
 
+- **8-K/A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003196/0001171843-26-003196-index.htm)
+
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/0001193125-26-212032-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000083/0001083301-26-000083-index.htm)
+
+- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000026/0001878848-26-000026-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026031246/0001628280-26-031246-index.htm)
@@ -219,6 +234,9 @@
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226021405/0001493152-26-021405-index.htm)
 
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000416/0001279569-26-000416-index.htm)
+
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526001738/0001185185-26-001738-index.htm)
 
@@ -270,6 +288,9 @@
 - **485APOS** | Equitable Financial Life Insurance Co (RILA)  (CIK 0002039145)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039145/000119312526213512/0001193125-26-213512-index.htm)
 
+- **N-CSRS** | FIRST TRUST EXCHANGE-TRADED FUND VIII  (CIK 0001667919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1667919/000144554626003573/0001445546-26-003573-index.htm)
+
 - **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000003/0001690010-26-000003-index.htm)
 
@@ -282,8 +303,8 @@
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826042668/0001410368-26-042668-index.htm)
 
-- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000026/0001878848-26-000026-index.htm)
+- **N-CSRS** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000139834426008588/0001398344-26-008588-index.htm)
 
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226021724/0001493152-26-021724-index.htm)
@@ -314,15 +335,6 @@
 
 - **10-Q** | Processa Pharmaceuticals, Inc.  (PCSA)  (CIK 0001533743)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1533743/000149315226021721/0001493152-26-021721-index.htm)
-
-- **DEFA14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326002406/0001062993-26-002406-index.htm)
-
-- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/0001878848-26-000025-index.htm)
-
-- **8-K/A** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003196/0001171843-26-003196-index.htm)
 
 - **10-Q** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000025/0000934549-26-000025-index.htm)
