@@ -15,6 +15,9 @@
 - **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000054/0001679788-26-000054-index.htm)
 
+- **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000149315226021825/0001493152-26-021825-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005696/0001214659-26-005696-index.htm)
 
@@ -48,6 +51,9 @@
 - **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000015/0001383312-26-000015-index.htm)
 
+- **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026053457/0001213900-26-053457-index.htm)
+
 - **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926015531/0001437749-26-015531-index.htm)
 
@@ -65,6 +71,9 @@
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926055891/0001104659-26-055891-index.htm)
+
+- **10-Q** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526212519/0001193125-26-212519-index.htm)
 
 - **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026032200/0001628280-26-032200-index.htm)
@@ -89,6 +98,9 @@
 
 - **10-Q** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000053/0000736772-26-000053-index.htm)
+
+- **10-Q** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000222/0001769628-26-000222-index.htm)
 
 - **10-Q** | VALLEY NATIONAL BANCORP  (VLY, VLYPN, VLYPO, VLYPP)  (CIK 0000714310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/714310/000071431026000027/0000714310-26-000027-index.htm)
@@ -132,6 +144,12 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226021610/0001493152-26-021610-index.htm)
 
+- **DEFA14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326002406/0001062993-26-002406-index.htm)
+
+- **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/0001878848-26-000025-index.htm)
+
 - **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026031396/0001628280-26-031396-index.htm)
 
@@ -143,6 +161,12 @@
 
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526212032/0001193125-26-212032-index.htm)
+
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000083/0001083301-26-000083-index.htm)
+
+- **10-Q** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000026/0001878848-26-000026-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000162828026031246/0001628280-26-031246-index.htm)
