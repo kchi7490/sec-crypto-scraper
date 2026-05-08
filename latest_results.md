@@ -39,6 +39,9 @@
 - **8-K** | Better Home & Finance Holding Co  (BETR, BETRW)  (CIK 0001835856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1835856/000162828026031685/0001628280-26-031685-index.htm)
 
+- **S-4/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926057839/0001104659-26-057839-index.htm)
+
 - **10-Q** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226021761/0001493152-26-021761-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **424B4** | Vernal Capital Acquisition Corp.  (CIK 0002081690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081690/000121390026053081/0001213900-26-053081-index.htm)
+
+- **10-K** | Winvest Group Ltd  (WNLV)  (CIK 0001558740)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1558740/000147793226002885/0001477932-26-002885-index.htm)
 
 - **POS AM** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390026053349/0001213900-26-053349-index.htm)
@@ -243,6 +249,9 @@
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526001738/0001185185-26-001738-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002431/0001062993-26-002431-index.htm)
+
 - **497** | TRANSAMERICA LIFE INSURANCE CO  (CIK 0001164098)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1164098/000116409826001355/0001164098-26-001355-index.htm)
 
@@ -320,6 +329,9 @@
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826042668/0001410368-26-042668-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526214375/0001193125-26-214375-index.htm)
 
 - **N-CSRS** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000139834426008588/0001398344-26-008588-index.htm)
