@@ -225,12 +225,6 @@
 - **10-Q** | ARKO Corp.  (ARKO)  (CIK 0001823794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823794/000119312526210273/0001193125-26-210273-index.htm)
 
-- **8-K** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000119312526214636/0001193125-26-214636-index.htm)
-
-- **F-1** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026052984/0001213900-26-052984-index.htm)
-
 - **8-K** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000119312526214637/0001193125-26-214637-index.htm)
 
@@ -263,6 +257,9 @@
 
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526210354/0001193125-26-210354-index.htm)
+
+- **F-1** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026052984/0001213900-26-052984-index.htm)
 
 - **RW** | Kraneshares Crypto Trust  (CIK 0002073505)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073505/000182912626004730/0001829126-26-004730-index.htm)
