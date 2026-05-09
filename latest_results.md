@@ -300,11 +300,11 @@
 - **10-Q** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526209705/0001193125-26-209705-index.htm)
 
-- **10-Q** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526214595/0001193125-26-214595-index.htm)
-
 - **10-Q** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526214623/0001193125-26-214623-index.htm)
+
+- **10-Q** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526214595/0001193125-26-214595-index.htm)
 
 - **10-Q** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526214593/0001193125-26-214593-index.htm)
