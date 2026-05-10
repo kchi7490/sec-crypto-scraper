@@ -159,11 +159,11 @@
 - **10-Q** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000119312526214599/0001193125-26-214599-index.htm)
 
-- **10-Q** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526214595/0001193125-26-214595-index.htm)
-
 - **10-Q** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000119312526214623/0001193125-26-214623-index.htm)
+
+- **10-Q** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000119312526214595/0001193125-26-214595-index.htm)
 
 - **10-Q** | Grayscale Chainlink Trust ETF  (GLNK)  (CIK 0001852025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852025/000119312526214593/0001193125-26-214593-index.htm)
