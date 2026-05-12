@@ -96,6 +96,9 @@
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026054195/0001213900-26-054195-index.htm)
 
+- **485APOS** | Krane Shares Trust  (CIK 0001547576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000182912626004964/0001829126-26-004964-index.htm)
+
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000035/0001815776-26-000035-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **424B3** | Golub Capital Private Credit Fund  (CIK 0001930087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926058517/0001104659-26-058517-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002492/0001062993-26-002492-index.htm)
 
 - **10-Q** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226022250/0001493152-26-022250-index.htm)
@@ -125,6 +131,9 @@
 
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/0001876042-26-000150-index.htm)
+
+- **485BPOS** | JPMORGAN TRUST IV  (CIK 0001659326)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1659326/000119312526217424/0001193125-26-217424-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007063/0000950103-26-007063-index.htm)
