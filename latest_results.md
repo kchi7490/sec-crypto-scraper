@@ -111,6 +111,18 @@
 - **424B3** | Golub Capital Private Credit Fund  (CIK 0001930087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926058517/0001104659-26-058517-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026054748/0001213900-26-054748-index.htm)
+
+- **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026054714/0001213900-26-054714-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026054724/0001213900-26-054724-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226022403/0001493152-26-022403-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002492/0001062993-26-002492-index.htm)
 
