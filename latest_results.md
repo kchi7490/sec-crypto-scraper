@@ -21,14 +21,23 @@
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026033631/0001628280-26-033631-index.htm)
 
+- **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826003707/0001683168-26-003707-index.htm)
+
 - **20-F** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026054456/0001213900-26-054456-index.htm)
+
+- **8-K** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022417/0001493152-26-022417-index.htm)
 
 - **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526216921/0001193125-26-216921-index.htm)
 
 - **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526215888/0001193125-26-215888-index.htm)
+
+- **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/0001493152-26-022422-index.htm)
 
 - **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526217036/0001193125-26-217036-index.htm)
@@ -45,8 +54,14 @@
 - **S-1** | Enhanced Group Inc.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026033674/0001628280-26-033674-index.htm)
 
+- **F-1/A** | Hacker Interstellar Inc.  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026054761/0001213900-26-054761-index.htm)
+
 - **20-F** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000082/0001383395-26-000082-index.htm)
+
+- **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126010552/0001999371-26-010552-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526215803/0001193125-26-215803-index.htm)
@@ -99,8 +114,14 @@
 - **10-Q** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226022154/0001493152-26-022154-index.htm)
 
+- **S-1/A** | Berto Acquisition Corp. II  (GUAC)  (CIK 0002081515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626005001/0001829126-26-005001-index.htm)
+
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026054195/0001213900-26-054195-index.htm)
+
+- **485APOS** | Krane Shares Trust  (CIK 0001547576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000182912626004964/0001829126-26-004964-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000035/0001815776-26-000035-index.htm)
@@ -110,9 +131,6 @@
 
 - **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000037/0001815776-26-000037-index.htm)
-
-- **485APOS** | Krane Shares Trust  (CIK 0001547576)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1547576/000182912626004964/0001829126-26-004964-index.htm)
 
 - **424B3** | Golub Capital Private Credit Fund  (CIK 0001930087)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930087/000110465926058517/0001104659-26-058517-index.htm)
@@ -138,17 +156,11 @@
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226022403/0001493152-26-022403-index.htm)
 
-- **F-1/A** | Hacker Interstellar Inc.  (CIK 0002070237)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026054761/0001213900-26-054761-index.htm)
-
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002492/0001062993-26-002492-index.htm)
 
 - **10-Q** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226022250/0001493152-26-022250-index.htm)
-
-- **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826003707/0001683168-26-003707-index.htm)
 
 - **424B4** | Conexeu Sciences Inc.  (CIK 0002066836)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066836/000106299326002473/0001062993-26-002473-index.htm)
@@ -164,12 +176,6 @@
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526216867/0001193125-26-216867-index.htm)
-
-- **8-K** | TON Strategy Co  (TONX)  (CIK 0001566610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022417/0001493152-26-022417-index.htm)
-
-- **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/0001493152-26-022422-index.htm)
 
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/0001876042-26-000150-index.htm)
