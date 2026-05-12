@@ -24,11 +24,17 @@
 - **20-F** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026054456/0001213900-26-054456-index.htm)
 
+- **8-K** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022417/0001493152-26-022417-index.htm)
+
 - **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526216921/0001193125-26-216921-index.htm)
 
 - **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526215888/0001193125-26-215888-index.htm)
+
+- **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/0001493152-26-022422-index.htm)
 
 - **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526217036/0001193125-26-217036-index.htm)
@@ -44,6 +50,9 @@
 
 - **S-1** | Enhanced Group Inc.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026033674/0001628280-26-033674-index.htm)
+
+- **F-1/A** | Hacker Interstellar Inc.  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026054761/0001213900-26-054761-index.htm)
 
 - **20-F** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000082/0001383395-26-000082-index.htm)
@@ -81,8 +90,14 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926005936/0001214659-26-005936-index.htm)
 
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002517/0001062993-26-002517-index.htm)
+
 - **424B3** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226022277/0001493152-26-022277-index.htm)
+
+- **S-1/A** | GSR V Acquisition Corp.  (GSRV)  (CIK 0002111762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2111762/000121390026054867/0001213900-26-054867-index.htm)
 
 - **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526216861/0001193125-26-216861-index.htm)
@@ -114,11 +129,20 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026054748/0001213900-26-054748-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390026054760/0001213900-26-054760-index.htm)
+
 - **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026054714/0001213900-26-054714-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026054724/0001213900-26-054724-index.htm)
+
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126020719/0001140361-26-020719-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002515/0001062993-26-002515-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226022403/0001493152-26-022403-index.htm)
