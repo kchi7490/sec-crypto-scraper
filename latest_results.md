@@ -27,6 +27,18 @@
 - **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000148/0001876042-26-000148-index.htm)
 
+- **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126010634/0001999371-26-010634-index.htm)
+
+- **10-Q** | Canary XRP ETF  (CIK 0002039505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937126010641/0001999371-26-010641-index.htm)
+
+- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937126010640/0001999371-26-010640-index.htm)
+
+- **10-Q** | Canary Litecoin ETF  (CIK 0002039461)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937126010636/0001999371-26-010636-index.htm)
+
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026033631/0001628280-26-033631-index.htm)
 
@@ -38,6 +50,12 @@
 
 - **10-Q** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226022629/0001493152-26-022629-index.htm)
+
+- **10-Q** | Medalist Diversified, Inc.  (MDRR)  (CIK 0001654595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465926060239/0001104659-26-060239-index.htm)
+
+- **10-Q** | Canary Staked SUI ETF  (SUIS)  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126010642/0001999371-26-010642-index.htm)
 
 - **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926059396/0001104659-26-059396-index.htm)
@@ -51,6 +69,9 @@
 - **20-F** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026054456/0001213900-26-054456-index.htm)
 
+- **424B3** | ReserveOne Holdings, Inc.  (RONE)  (CIK 0002078721)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078721/000121390026055811/0001213900-26-055811-index.htm)
+
 - **8-K** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022417/0001493152-26-022417-index.htm)
 
@@ -59,6 +80,12 @@
 
 - **S-1/A** | Grayscale HYPE ETF  (GHYP)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526215888/0001193125-26-215888-index.htm)
+
+- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000028/0001740604-26-000028-index.htm)
+
+- **10-Q** | NetBrands Corp.  (NBND)  (CIK 0001725911)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725911/000149315226022713/0001493152-26-022713-index.htm)
 
 - **10-Q** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000027/0001074828-26-000027-index.htm)
@@ -93,6 +120,9 @@
 - **424B3** | 21Shares Hyperliquid ETF  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026054478/0001213900-26-054478-index.htm)
 
+- **10-Q** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312526221625/0001193125-26-221625-index.htm)
+
 - **424B3** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926059595/0001104659-26-059595-index.htm)
 
@@ -101,6 +131,9 @@
 
 - **DEFM14A** | FG Merger II Corp.  (FGMC, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000110465926059599/0001104659-26-059599-index.htm)
+
+- **10-Q** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026055798/0001213900-26-055798-index.htm)
 
 - **S-1** | Enhanced Group Inc.  (APAD, APADR, APADU)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000162828026033674/0001628280-26-033674-index.htm)
@@ -137,6 +170,9 @@
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000150760526000014/0001507605-26-000014-index.htm)
+
+- **10-Q** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465926006093/0001214659-26-006093-index.htm)
 
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226022631/0001493152-26-022631-index.htm)
@@ -204,6 +240,12 @@
 - **8-K** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226022240/0001493152-26-022240-index.htm)
 
+- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526221596/0001193125-26-221596-index.htm)
+
+- **DEF 14A** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003051/0001477932-26-003051-index.htm)
+
 - **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000037/0001815776-26-000037-index.htm)
 
@@ -254,6 +296,9 @@
 
 - **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026055474/0001213900-26-055474-index.htm)
+
+- **N-CEN/A** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526221365/0001193125-26-221365-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009036/0001398344-26-009036-index.htm)
