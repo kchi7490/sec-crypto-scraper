@@ -66,11 +66,11 @@
 - **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926059396/0001104659-26-059396-index.htm)
 
-- **10-Q** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000034/0001627282-26-000034-index.htm)
-
 - **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826003707/0001683168-26-003707-index.htm)
+
+- **10-Q** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000034/0001627282-26-000034-index.htm)
 
 - **S-1/A** | Grayscale Aave Trust (AAVE)  (CIK 0002040120)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040120/000119312526219381/0001193125-26-219381-index.htm)
@@ -96,6 +96,9 @@
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000028/0001740604-26-000028-index.htm)
 
+- **10-Q** | Healthier Choices Management Corp.  (HCMC)  (CIK 0000844856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/844856/000149315226022965/0001493152-26-022965-index.htm)
+
 - **497** | Corgi ETF Trust I  (CIK 0002078265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000127/0002078265-26-000127-index.htm)
 
@@ -119,6 +122,9 @@
 
 - **10-Q** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000031/0001740604-26-000031-index.htm)
+
+- **S-4/A** | Parataxis Holdings Inc.  (CIK 0002079180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926060958/0001104659-26-060958-index.htm)
 
 - **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226022422/0001493152-26-022422-index.htm)
@@ -258,9 +264,6 @@
 - **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126020719/0001140361-26-020719-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926060767/0001104659-26-060767-index.htm)
-
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002515/0001062993-26-002515-index.htm)
 
@@ -273,6 +276,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026056239/0001213900-26-056239-index.htm)
 
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926060767/0001104659-26-060767-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002492/0001062993-26-002492-index.htm)
 
@@ -281,6 +287,9 @@
 
 - **10-Q** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000114036126020861/0001140361-26-020861-index.htm)
+
+- **487** | FT 12912  (CIK 0002109418)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109418/000144554626003629/0001445546-26-003629-index.htm)
 
 - **487** | FTP 5  (CIK 0002087894)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087894/000144554626003606/0001445546-26-003606-index.htm)
@@ -318,6 +327,9 @@
 - **10-Q** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003001/0001477932-26-003001-index.htm)
 
+- **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626000798/0001096906-26-000798-index.htm)
+
 - **10-Q** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926016734/0001437749-26-016734-index.htm)
 
@@ -338,6 +350,9 @@
 
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
+
+- **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226022933/0001493152-26-022933-index.htm)
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026055369/0001213900-26-055369-index.htm)
