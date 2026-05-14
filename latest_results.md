@@ -96,11 +96,11 @@
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056840/0001213900-26-056840-index.htm)
 
-- **10-Q** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000034/0001627282-26-000034-index.htm)
-
 - **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826003707/0001683168-26-003707-index.htm)
+
+- **10-Q** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000034/0001627282-26-000034-index.htm)
 
 - **10-Q** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226023145/0001493152-26-023145-index.htm)
@@ -490,10 +490,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009036/0001398344-26-009036-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009097/0001398344-26-009097-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009095/0001398344-26-009095-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009095/0001398344-26-009095-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009097/0001398344-26-009097-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009098/0001398344-26-009098-index.htm)
@@ -534,6 +534,9 @@
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
 
+- **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226022933/0001493152-26-022933-index.htm)
+
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026055369/0001213900-26-055369-index.htm)
 
@@ -548,7 +551,4 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007232/0000950103-26-007232-index.htm)
-
-- **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226022933/0001493152-26-022933-index.htm)
 
