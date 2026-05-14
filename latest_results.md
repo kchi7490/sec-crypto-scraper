@@ -501,17 +501,11 @@
 - **10-Q** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003001/0001477932-26-003001-index.htm)
 
-- **10-Q** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000048/0002026478-26-000048-index.htm)
-
 - **10-Q** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926016734/0001437749-26-016734-index.htm)
 
 - **10-Q** | Insight Digital Partners II  (DYOR, DYORU, DYORW)  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390026055145/0001213900-26-055145-index.htm)
-
-- **10-Q** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003932/0001683168-26-003932-index.htm)
 
 - **10-Q** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526221069/0001193125-26-221069-index.htm)
@@ -522,14 +516,11 @@
 - **10-Q** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926060662/0001104659-26-060662-index.htm)
 
-- **10-Q** | AB Private Credit Investors Corp  (CIK 0001634452)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1634452/000119312526224298/0001193125-26-224298-index.htm)
-
-- **10-Q** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526223866/0001193125-26-223866-index.htm)
-
 - **NT 10-Q** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526219592/0001193125-26-219592-index.htm)
+
+- **10-Q** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826003932/0001683168-26-003932-index.htm)
 
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
@@ -539,6 +530,12 @@
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000121390026055369/0001213900-26-055369-index.htm)
+
+- **10-Q** | AB Private Credit Investors Corp  (CIK 0001634452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1634452/000119312526224298/0001193125-26-224298-index.htm)
+
+- **10-Q** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526223866/0001193125-26-223866-index.htm)
 
 - **10-Q** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000121390026056583/0001213900-26-056583-index.htm)
@@ -551,4 +548,7 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007232/0000950103-26-007232-index.htm)
+
+- **10-Q** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000048/0002026478-26-000048-index.htm)
 
