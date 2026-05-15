@@ -72,6 +72,9 @@
 - **10-Q** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226022629/0001493152-26-022629-index.htm)
 
+- **10-Q** | Investview, Inc.  (INVU, INVUP)  (CIK 0000862651)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862651/000149315226023510/0001493152-26-023510-index.htm)
+
 - **10-Q** | Medalist Diversified, Inc.  (MDRR)  (CIK 0001654595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465926060239/0001104659-26-060239-index.htm)
 
@@ -354,6 +357,9 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526221596/0001193125-26-221596-index.htm)
 
+- **NT 10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000034/0001805526-26-000034-index.htm)
+
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000869/0001640334-26-000869-index.htm)
 
@@ -480,6 +486,12 @@
 - **10-Q** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526223866/0001193125-26-223866-index.htm)
 
+- **SCHEDULE 13G/A** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000157862126000079/0001578621-26-000079-index.htm)
+
+- **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526225482/0001193125-26-225482-index.htm)
+
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
 
@@ -500,10 +512,4 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007232/0000950103-26-007232-index.htm)
-
-- **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526225482/0001193125-26-225482-index.htm)
-
-- **NT 10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000034/0001805526-26-000034-index.htm)
 
