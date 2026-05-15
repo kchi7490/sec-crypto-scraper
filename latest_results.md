@@ -75,11 +75,11 @@
 - **10-Q** | Medalist Diversified, Inc.  (MDRR)  (CIK 0001654595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1654595/000110465926060239/0001104659-26-060239-index.htm)
 
-- **10-Q** | Canary Staked SUI ETF  (SUIS)  (CIK 0002060703)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126010642/0001999371-26-010642-index.htm)
-
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056828/0001213900-26-056828-index.htm)
+
+- **10-Q** | Canary Staked SUI ETF  (SUIS)  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126010642/0001999371-26-010642-index.htm)
 
 - **20-F** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926060362/0001104659-26-060362-index.htm)
@@ -89,6 +89,9 @@
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056960/0001213900-26-056960-index.htm)
+
+- **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226023439/0001493152-26-023439-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056840/0001213900-26-056840-index.htm)
@@ -351,9 +354,6 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526221596/0001193125-26-221596-index.htm)
 
-- **NT 10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000034/0001805526-26-000034-index.htm)
-
 - **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000869/0001640334-26-000869-index.htm)
 
@@ -432,6 +432,9 @@
 - **10-Q** | BONK, INC.  (BNKK)  (CIK 0001760903)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226022743/0001493152-26-022743-index.htm)
 
+- **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226003167/0001477932-26-003167-index.htm)
+
 - **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026055474/0001213900-26-055474-index.htm)
 
@@ -477,9 +480,6 @@
 - **10-Q** | AB Commercial Real Estate Private Debt Fund, LLC  (CIK 0001876255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876255/000119312526223866/0001193125-26-223866-index.htm)
 
-- **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526225482/0001193125-26-225482-index.htm)
-
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
 
@@ -500,4 +500,10 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007232/0000950103-26-007232-index.htm)
+
+- **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526225482/0001193125-26-225482-index.htm)
+
+- **NT 10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000034/0001805526-26-000034-index.htm)
 
