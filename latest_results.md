@@ -18,6 +18,9 @@
 - **10-Q** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026056079/0001213900-26-056079-index.htm)
 
+- **10-Q** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000050/0002055592-26-000050-index.htm)
+
 - **10-Q** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026055938/0001213900-26-055938-index.htm)
 
@@ -80,6 +83,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026034804/0001628280-26-034804-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056960/0001213900-26-056960-index.htm)
 
 - **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026056840/0001213900-26-056840-index.htm)
@@ -174,6 +180,9 @@
 - **10-Q** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000031/0001740604-26-000031-index.htm)
 
+- **10-Q** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026057116/0001213900-26-057116-index.htm)
+
 - **S-4/A** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926060958/0001104659-26-060958-index.htm)
 
@@ -189,8 +198,14 @@
 - **10-Q** | Rumble Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026056616/0001213900-26-056616-index.htm)
 
+- **10-Q** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026057115/0001213900-26-057115-index.htm)
+
 - **10-Q** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226023076/0001493152-26-023076-index.htm)
+
+- **10-Q** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000206412426000029/0002064124-26-000029-index.htm)
 
 - **S-4** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626005168/0001829126-26-005168-index.htm)
@@ -288,6 +303,9 @@
 - **S-4** | McCarthy Finney, Inc.  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826003921/0001683168-26-003921-index.htm)
 
+- **20-F** | BeLive Holdings  (BLIV)  (CIK 0001982448)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1982448/000149315226023306/0001493152-26-023306-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226022618/0001493152-26-022618-index.htm)
 
@@ -329,6 +347,9 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026056783/0001213900-26-056783-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000449/0001279569-26-000449-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926016869/0001437749-26-016869-index.htm)
@@ -422,6 +443,9 @@
 
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526221991/0001193125-26-221991-index.htm)
+
+- **10-Q** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026056983/0001213900-26-056983-index.htm)
 
 - **10-Q** | Where Food Comes From, Inc.  (WFCF)  (CIK 0001360565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360565/000149315226022933/0001493152-26-022933-index.htm)
