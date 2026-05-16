@@ -375,20 +375,35 @@
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026056272/0001213900-26-056272-index.htm)
 
-- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026056239/0001213900-26-056239-index.htm)
-
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926060767/0001104659-26-060767-index.htm)
-
-- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026056783/0001213900-26-056783-index.htm)
-
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026056587/0001213900-26-056587-index.htm)
 
 - **6-K** | Quantum eMotion Corp  (QNC)  (CIK 0002106613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106613/000110465926062457/0001104659-26-062457-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926060767/0001104659-26-060767-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026057782/0001213900-26-057782-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026056783/0001213900-26-056783-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000449/0001279569-26-000449-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926016869/0001437749-26-016869-index.htm)
+
+- **6-K** | dLocal Ltd  (DLO)  (CIK 0001846832)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000184683226000019/0001846832-26-000019-index.htm)
+
+- **20-F** | TANTECH HOLDINGS LTD  (TANH)  (CIK 0001588084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588084/000147793226003132/0001477932-26-003132-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026056239/0001213900-26-056239-index.htm)
 
 - **F-3/A** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026057716/0001213900-26-057716-index.htm)
@@ -416,9 +431,6 @@
 
 - **487** | FT 12912  (CIK 0002109418)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109418/000144554626003629/0001445546-26-003629-index.htm)
-
-- **20-F** | TANTECH HOLDINGS LTD  (TANH)  (CIK 0001588084)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1588084/000147793226003132/0001477932-26-003132-index.htm)
 
 - **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326007179/0000950103-26-007179-index.htm)
