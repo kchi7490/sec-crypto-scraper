@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226024088/0001493152-26-024088-index.htm)
+
+- **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
+
 - **8-K** | Texas Pacific Land Corp  (TPL)  (CIK 0001811074)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811074/000181107426000040/0001811074-26-000040-index.htm)
 
@@ -29,6 +35,15 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002728/0001062993-26-002728-index.htm)
+
+- **6-K** | CREDICORP LTD  (BAP)  (CIK 0001001290)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001290/000114036126021835/0001140361-26-021835-index.htm)
+
+- **424B4** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226024106/0001493152-26-024106-index.htm)
+
+- **424B4** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226024102/0001493152-26-024102-index.htm)
 
 - **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026058054/0001213900-26-058054-index.htm)
