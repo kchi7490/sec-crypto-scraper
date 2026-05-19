@@ -15,8 +15,17 @@
 - **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
 
+- **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226024350/0001493152-26-024350-index.htm)
+
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826004092/0001683168-26-004092-index.htm)
+
 - **8-K** | Texas Pacific Land Corp  (TPL)  (CIK 0001811074)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811074/000181107426000040/0001811074-26-000040-index.htm)
+
+- **10-K** | Kindcard, Inc.  (KCRD)  (CIK 0001696025)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1696025/000147793226003300/0001477932-26-003300-index.htm)
 
 - **424B3** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226023984/0001493152-26-023984-index.htm)
@@ -29,6 +38,9 @@
 
 - **S-1/A** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226024274/0001493152-26-024274-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026036139/0001628280-26-036139-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
@@ -51,6 +63,9 @@
 - **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
 
+- **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026058746/0001213900-26-058746-index.htm)
+
 - **424B4** | Berto Acquisition Corp. II  (GUAC)  (CIK 0002081515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626005386/0001829126-26-005386-index.htm)
 
@@ -66,11 +81,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
-
 - **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026058130/0001213900-26-058130-index.htm)
