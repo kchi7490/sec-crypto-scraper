@@ -15,6 +15,9 @@
 - **10-Q** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003535/0001171843-26-003535-index.htm)
 
+- **10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000040/0001805526-26-000040-index.htm)
+
 - **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **8-K** | Texas Pacific Land Corp  (TPL)  (CIK 0001811074)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811074/000181107426000040/0001811074-26-000040-index.htm)
+
+- **N-CSRS/A** | Absolute Shares Trust  (CIK 0001591939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591939/000113322826008239/0001133228-26-008239-index.htm)
 
 - **10-K** | Kindcard, Inc.  (KCRD)  (CIK 0001696025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1696025/000147793226003300/0001477932-26-003300-index.htm)
@@ -72,11 +78,20 @@
 - **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
 
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926017818/0001437749-26-017818-index.htm)
+
 - **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026058746/0001213900-26-058746-index.htm)
 
 - **424B4** | Berto Acquisition Corp. II  (GUAC)  (CIK 0002081515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626005386/0001829126-26-005386-index.htm)
+
+- **S-1/A** | Innovative Digital Investors Acquisition Corp.  (CIK 0001997389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465926063967/0001104659-26-063967-index.htm)
+
+- **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
 
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026058432/0001213900-26-058432-index.htm)
@@ -93,11 +108,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -150,11 +165,14 @@
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/0001398344-26-009428-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326007391/0000950103-26-007391-index.htm)
 
-- **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
+- **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059103/0001213900-26-059103-index.htm)
 
 - **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059095/0001213900-26-059095-index.htm)
