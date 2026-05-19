@@ -9,6 +9,9 @@
 - **10-Q/A** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026058489/0001213900-26-058489-index.htm)
 
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226024255/0001493152-26-024255-index.htm)
+
 - **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **S-1/A** | Aeon Acquisition I Corp.  (AESP)  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226024251/0001493152-26-024251-index.htm)
+
+- **S-1/A** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226024274/0001493152-26-024274-index.htm)
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
@@ -39,6 +45,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024060/0001493152-26-024060-index.htm)
 
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002783/0001062993-26-002783-index.htm)
+
 - **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
 
@@ -50,6 +59,18 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926062847/0001104659-26-062847-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299326002785/0001062993-26-002785-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026058130/0001213900-26-058130-index.htm)
