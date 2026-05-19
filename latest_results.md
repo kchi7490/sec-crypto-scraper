@@ -12,6 +12,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226024255/0001493152-26-024255-index.htm)
 
+- **10-Q** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003535/0001171843-26-003535-index.htm)
+
 - **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **10-K** | Kindcard, Inc.  (KCRD)  (CIK 0001696025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1696025/000147793226003300/0001477932-26-003300-index.htm)
+
+- **10-Q** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226024426/0001493152-26-024426-index.htm)
 
 - **424B3** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226023984/0001493152-26-023984-index.htm)
@@ -44,6 +50,9 @@
 
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526230708/0001193125-26-230708-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526227918/0001193125-26-227918-index.htm)
@@ -72,6 +81,9 @@
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026058432/0001213900-26-058432-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326003540/0001171843-26-003540-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926062847/0001104659-26-062847-index.htm)
 
@@ -86,6 +98,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026058130/0001213900-26-058130-index.htm)
@@ -105,8 +120,17 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002779/0001062993-26-002779-index.htm)
 
+- **RW** | Truth Social Crypto Blue Chip ETF, B.T.  (CIK 0002075457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2075457/000110465926063809/0001104659-26-063809-index.htm)
+
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226024169/0001493152-26-024169-index.htm)
+
+- **RW** | TRUTH SOCIAL BITCOIN ETF, B.T.  (CIK 0002071486)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2071486/000110465926063802/0001104659-26-063802-index.htm)
+
+- **RW** | Truth Social Bitcoin & Ethereum ETF, B.T.  (CIK 0002072348)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2072348/000110465926063808/0001104659-26-063808-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/0001999371-26-011048-index.htm)
@@ -128,6 +152,12 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326007391/0000950103-26-007391-index.htm)
+
+- **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
+
+- **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059095/0001213900-26-059095-index.htm)
 
 - **DEFA14A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926062844/0001104659-26-062844-index.htm)
