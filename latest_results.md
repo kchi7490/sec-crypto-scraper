@@ -39,36 +39,6 @@
 - **S-1/A** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226024274/0001493152-26-024274-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026036139/0001628280-26-036139-index.htm)
-
-- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526227918/0001193125-26-227918-index.htm)
-
-- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026035808/0001628280-26-035808-index.htm)
-
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926006539/0001214659-26-006539-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024060/0001493152-26-024060-index.htm)
-
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002783/0001062993-26-002783-index.htm)
-
-- **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
-
-- **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026058746/0001213900-26-058746-index.htm)
-
-- **424B4** | Berto Acquisition Corp. II  (GUAC)  (CIK 0002081515)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626005386/0001829126-26-005386-index.htm)
-
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026058432/0001213900-26-058432-index.htm)
 
@@ -81,11 +51,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026058130/0001213900-26-058130-index.htm)
@@ -108,6 +78,9 @@
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226024169/0001493152-26-024169-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/0001999371-26-011048-index.htm)
+
 - **485APOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526228473/0001193125-26-228473-index.htm)
 
@@ -119,6 +92,33 @@
 
 - **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026058054/0001213900-26-058054-index.htm)
+
+- **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
+
+- **424B4** | Berto Acquisition Corp. II  (GUAC)  (CIK 0002081515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626005386/0001829126-26-005386-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026036139/0001628280-26-036139-index.htm)
+
+- **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026035808/0001628280-26-035808-index.htm)
+
+- **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024060/0001493152-26-024060-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926006539/0001214659-26-006539-index.htm)
+
+- **8-K** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026058746/0001213900-26-058746-index.htm)
 
 - **DEFA14A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926062844/0001104659-26-062844-index.htm)
