@@ -153,6 +153,9 @@
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
 
+- **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm)
+
 - **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526232789/0001193125-26-232789-index.htm)
 
@@ -168,6 +171,9 @@
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326003540/0001171843-26-003540-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000466/0001279569-26-000466-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926062847/0001104659-26-062847-index.htm)
 
@@ -177,11 +183,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -197,9 +203,6 @@
 
 - **6-K** | CREDICORP LTD  (BAP)  (CIK 0001001290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001290/000114036126021835/0001140361-26-021835-index.htm)
-
-- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000466/0001279569-26-000466-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326003513/0001171843-26-003513-index.htm)
@@ -275,9 +278,6 @@
 
 - **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059095/0001213900-26-059095-index.htm)
-
-- **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm)
 
 - **DEFA14A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926062844/0001104659-26-062844-index.htm)
