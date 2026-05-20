@@ -27,6 +27,9 @@
 - **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226024350/0001493152-26-024350-index.htm)
 
+- **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026059300/0001213900-26-059300-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826004092/0001683168-26-004092-index.htm)
 
@@ -63,6 +66,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026036139/0001628280-26-036139-index.htm)
 
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026059270/0001213900-26-059270-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
 
@@ -72,8 +78,14 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526227918/0001193125-26-227918-index.htm)
 
+- **8-K** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017874/0001437749-26-017874-index.htm)
+
 - **8-K** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026035808/0001628280-26-035808-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024511/0001493152-26-024511-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926006539/0001214659-26-006539-index.htm)
@@ -183,17 +195,8 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326007391/0000950103-26-007391-index.htm)
 
-- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026059270/0001213900-26-059270-index.htm)
-
-- **8-K** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017874/0001437749-26-017874-index.htm)
-
 - **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017875/0001437749-26-017875-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024511/0001493152-26-024511-index.htm)
 
 - **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059103/0001213900-26-059103-index.htm)
