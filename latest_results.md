@@ -117,11 +117,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
-
 - **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -182,6 +182,18 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326007391/0000950103-26-007391-index.htm)
+
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026059270/0001213900-26-059270-index.htm)
+
+- **8-K** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017874/0001437749-26-017874-index.htm)
+
+- **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017875/0001437749-26-017875-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226024511/0001493152-26-024511-index.htm)
 
 - **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059103/0001213900-26-059103-index.htm)
