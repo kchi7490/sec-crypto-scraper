@@ -6,14 +6,29 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226024088/0001493152-26-024088-index.htm)
 
+- **10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000068/0001788230-26-000068-index.htm)
+
+- **8-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226024639/0001493152-26-024639-index.htm)
+
 - **10-Q/A** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026058489/0001213900-26-058489-index.htm)
 
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226024255/0001493152-26-024255-index.htm)
 
+- **10-Q** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026059507/0001213900-26-059507-index.htm)
+
 - **10-Q** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003535/0001171843-26-003535-index.htm)
+
+- **10-Q** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226024644/0001493152-26-024644-index.htm)
+
+- **10-Q** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826004180/0001683168-26-004180-index.htm)
 
 - **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826004131/0001683168-26-004131-index.htm)
@@ -21,11 +36,17 @@
 - **10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000040/0001805526-26-000040-index.htm)
 
+- **8-K** | PEDEVCO CORP  (PED)  (CIK 0001141197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426005181/0001654954-26-005181-index.htm)
+
 - **8-K/A** | ADDENTAX GROUP CORP.  (ATXG)  (CIK 0001650101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1650101/000149315226024117/0001493152-26-024117-index.htm)
 
 - **424B3** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226024350/0001493152-26-024350-index.htm)
+
+- **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000771/0001731122-26-000771-index.htm)
 
 - **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026059300/0001213900-26-059300-index.htm)
@@ -35,6 +56,9 @@
 
 - **8-K** | Texas Pacific Land Corp  (TPL)  (CIK 0001811074)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811074/000181107426000040/0001811074-26-000040-index.htm)
+
+- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226003357/0001477932-26-003357-index.htm)
 
 - **N-CSRS/A** | Absolute Shares Trust  (CIK 0001591939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591939/000113322826008239/0001133228-26-008239-index.htm)
@@ -69,6 +93,9 @@
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026059270/0001213900-26-059270-index.htm)
 
+- **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926064506/0001104659-26-064506-index.htm)
+
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526227832/0001193125-26-227832-index.htm)
 
@@ -96,6 +123,9 @@
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002783/0001062993-26-002783-index.htm)
 
+- **10-Q** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026059602/0001213900-26-059602-index.htm)
+
 - **SCHEDULE 13D** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000119312526229103/0001193125-26-229103-index.htm)
 
@@ -113,6 +143,18 @@
 
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
+
+- **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm)
+
+- **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526232789/0001193125-26-232789-index.htm)
+
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000209630026000011/0002096300-26-000011-index.htm)
+
+- **10-Q** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000209630026000012/0002096300-26-000012-index.htm)
 
 - **424B2** | Blackstone Secured Lending Fund  (BXSL)  (CIK 0001736035)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1736035/000121390026058432/0001213900-26-058432-index.htm)
@@ -165,6 +207,9 @@
 - **RW** | Truth Social Crypto Blue Chip ETF, B.T.  (CIK 0002075457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075457/000110465926063809/0001104659-26-063809-index.htm)
 
+- **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626000845/0001096906-26-000845-index.htm)
+
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226024169/0001493152-26-024169-index.htm)
 
@@ -186,8 +231,14 @@
 - **424B4** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226024102/0001493152-26-024102-index.htm)
 
+- **S-1** | SPACE EXPLORATION TECHNOLOGIES CORP  (CIK 0001181412)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/0001628280-26-036936-index.htm)
+
 - **10-Q** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000121390026058054/0001213900-26-058054-index.htm)
+
+- **ABS-15G** | FEDERAL HOME LOAN MORTGAGE CORP  (FMCC, FMCCG, FMCCJ, FMCCL, FMCCN, FMCCO, FMCCS, FMCKJ, FMCKL, FMCKM, FMCKN, FMCKO, FREJN, FREJO)  (CIK 0001026214)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1026214/000119312526232715/0001193125-26-232715-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.htm)
@@ -195,11 +246,20 @@
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/0001398344-26-009428-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.htm)
+
+- **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326007391/0000950103-26-007391-index.htm)
 
 - **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017875/0001437749-26-017875-index.htm)
+
+- **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017955/0001437749-26-017955-index.htm)
 
 - **DEFA14A** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059103/0001213900-26-059103-index.htm)
