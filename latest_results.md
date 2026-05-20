@@ -15,6 +15,9 @@
 - **10-Q** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326003535/0001171843-26-003535-index.htm)
 
+- **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826004131/0001683168-26-004131-index.htm)
+
 - **10-Q** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000040/0001805526-26-000040-index.htm)
 
@@ -45,8 +48,14 @@
 - **S-1/A** | Gameverse Interactive Corp  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226024210/0001493152-26-024210-index.htm)
 
+- **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926064059/0001104659-26-064059-index.htm)
+
 - **S-1/A** | Aeon Acquisition I Corp.  (AESP)  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226024251/0001493152-26-024251-index.htm)
+
+- **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/0001104659-26-064065-index.htm)
 
 - **S-1/A** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226024274/0001493152-26-024274-index.htm)
@@ -108,11 +117,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -131,6 +140,9 @@
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326003513/0001171843-26-003513-index.htm)
+
+- **6-K** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926064052/0001104659-26-064052-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002779/0001062993-26-002779-index.htm)
