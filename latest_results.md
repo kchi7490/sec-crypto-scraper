@@ -9,6 +9,9 @@
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226024255/0001493152-26-024255-index.htm)
 
+- **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826004194/0001683168-26-004194-index.htm)
+
 - **10-Q** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026059507/0001213900-26-059507-index.htm)
 
@@ -111,6 +114,15 @@
 - **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm)
 
+- **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059728/0001213900-26-059728-index.htm)
+
+- **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059729/0001213900-26-059729-index.htm)
+
+- **F-1/A** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059736/0001213900-26-059736-index.htm)
+
 - **S-8** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526232789/0001193125-26-232789-index.htm)
 
@@ -132,11 +144,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
-
 - **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
