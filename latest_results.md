@@ -87,6 +87,9 @@
 - **8-K** | Bitcoin Depot Inc.  (BTM, BTMWW)  (CIK 0001901799)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901799/000119312526230708/0001193125-26-230708-index.htm)
 
+- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326002824/0001062993-26-002824-index.htm)
+
 - **8-K** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017874/0001437749-26-017874-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026059096/0001213900-26-059096-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226024742/0001493152-26-024742-index.htm)
 
 - **10-Q** | NVIDIA CORP  (NVDA)  (CIK 0001045810)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/0001045810-26-000052-index.htm)
@@ -153,8 +159,8 @@
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
 
-- **6-K** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926064052/0001104659-26-064052-index.htm)
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026059849/0001213900-26-059849-index.htm)
 
 - **RW** | Truth Social Crypto Blue Chip ETF, B.T.  (CIK 0002075457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075457/000110465926063809/0001104659-26-063809-index.htm)
@@ -174,20 +180,8 @@
 - **S-1** | SPACE EXPLORATION TECHNOLOGIES CORP  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/0001628280-26-036936-index.htm)
 
-- **ABS-15G** | FEDERAL HOME LOAN MORTGAGE CORP  (FMCC, FMCCG, FMCCJ, FMCCL, FMCCN, FMCCO, FMCCS, FMCKJ, FMCKL, FMCKM, FMCKN, FMCKO, FREJN, FREJO)  (CIK 0001026214)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1026214/000119312526232715/0001193125-26-232715-index.htm)
-
 - **10-Q** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278126000039/0001882781-26-000039-index.htm)
-
-- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/0001398344-26-009428-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.htm)
 
 - **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
