@@ -78,6 +78,12 @@
 - **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026037301/0001628280-26-037301-index.htm)
 
+- **SC 14D9/A** | GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326200/000093041326001691/0000930413-26-001691-index.htm)
+
+- **DEFA14A** | GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326200/000093041326001692/0000930413-26-001692-index.htm)
+
 - **424B4** | Aperture AC  (APUR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026060082/0001213900-26-060082-index.htm)
 
@@ -156,6 +162,9 @@
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526234571/0001193125-26-234571-index.htm)
 
+- **424B5** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026060158/0001213900-26-060158-index.htm)
+
 - **10-Q** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000209630026000012/0002096300-26-000012-index.htm)
 
@@ -174,11 +183,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -213,6 +222,9 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/0001999371-26-011048-index.htm)
 
+- **ABS-15G** | MFRA NQM Depositor, LLC  (CIK 0001803775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803775/000199937126011296/0001999371-26-011296-index.htm)
+
 - **497** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526233995/0001193125-26-233995-index.htm)
 
@@ -224,6 +236,9 @@
 
 - **ABS-15G** | FEDERAL HOME LOAN MORTGAGE CORP  (FMCC, FMCCG, FMCCJ, FMCCL, FMCCN, FMCCO, FMCCS, FMCKJ, FMCKL, FMCKM, FMCKN, FMCKO, FREJN, FREJO)  (CIK 0001026214)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1026214/000119312526232715/0001193125-26-232715-index.htm)
+
+- **10-Q** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793226003393/0001477932-26-003393-index.htm)
 
 - **10-Q** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278126000039/0001882781-26-000039-index.htm)
@@ -239,6 +254,24 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060153/0001213900-26-060153-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060163/0001213900-26-060163-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060161/0001213900-26-060161-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526234065/0001193125-26-234065-index.htm)
