@@ -102,6 +102,9 @@
 - **10-Q** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026059602/0001213900-26-059602-index.htm)
 
+- **S-1** | BTECH Corp  (CIK 0002086775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086775/000182912626005549/0001829126-26-005549-index.htm)
+
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926017818/0001437749-26-017818-index.htm)
 
@@ -150,17 +153,20 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
+
+- **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
 
 - **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026059849/0001213900-26-059849-index.htm)
+
+- **6-K** | Osisko Development Corp.  (ODV, ODVWZ, OSDVF)  (CIK 0001431852)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1431852/000110465926064052/0001104659-26-064052-index.htm)
 
 - **RW** | Truth Social Crypto Blue Chip ETF, B.T.  (CIK 0002075457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2075457/000110465926063809/0001104659-26-063809-index.htm)
@@ -177,11 +183,26 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/0001999371-26-011048-index.htm)
 
+- **497** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526233995/0001193125-26-233995-index.htm)
+
 - **S-1** | SPACE EXPLORATION TECHNOLOGIES CORP  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/0001628280-26-036936-index.htm)
 
+- **ABS-15G** | FEDERAL HOME LOAN MORTGAGE CORP  (FMCC, FMCCG, FMCCJ, FMCCL, FMCCN, FMCCO, FMCCS, FMCKJ, FMCKL, FMCKM, FMCKN, FMCKO, FREJN, FREJO)  (CIK 0001026214)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1026214/000119312526232715/0001193125-26-232715-index.htm)
+
 - **10-Q** | C2 Blockchain, Inc.  (CBLO)  (CIK 0001882781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1882781/000188278126000039/0001882781-26-000039-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/0001398344-26-009428-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.htm)
 
 - **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
