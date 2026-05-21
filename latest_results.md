@@ -12,6 +12,9 @@
 - **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826004194/0001683168-26-004194-index.htm)
 
+- **POS AM** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126011280/0001999371-26-011280-index.htm)
+
 - **10-Q** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026059507/0001213900-26-059507-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **10-Q** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226024426/0001493152-26-024426-index.htm)
+
+- **POS AM** | Xdata Group  (CIK 0002038688)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226024783/0001493152-26-024783-index.htm)
 
 - **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926064059/0001104659-26-064059-index.htm)
@@ -153,11 +159,11 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063468/0001104659-26-063468-index.htm)
 
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
-
 - **6-K** | Linkage Global Inc  (LGCB)  (CIK 0001969401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1969401/000121390026058707/0001213900-26-058707-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926063465/0001104659-26-063465-index.htm)
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226024427/0001493152-26-024427-index.htm)
@@ -203,6 +209,9 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526234065/0001193125-26-234065-index.htm)
 
 - **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
