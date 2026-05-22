@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526235600/0001193125-26-235600-index.htm)
+
 - **10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000068/0001788230-26-000068-index.htm)
 
@@ -11,6 +14,9 @@
 
 - **20-F** | INX Ltd  (CIK 0001725882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725882/000121390026060125/0001213900-26-060125-index.htm)
+
+- **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826004228/0001683168-26-004228-index.htm)
 
 - **POS AM** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126011280/0001999371-26-011280-index.htm)
@@ -95,6 +101,57 @@
 
 - **S-1** | BTECH Corp  (CIK 0002086775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086775/000182912626005549/0001829126-26-005549-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010944/0002071691-26-010944-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010948/0002071691-26-010948-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010938/0002071691-26-010938-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010939/0002071691-26-010939-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010953/0002071691-26-010953-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010957/0002071691-26-010957-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010955/0002071691-26-010955-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010950/0002071691-26-010950-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010947/0002071691-26-010947-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010945/0002071691-26-010945-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010956/0002071691-26-010956-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010954/0002071691-26-010954-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010946/0002071691-26-010946-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010942/0002071691-26-010942-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010941/0002071691-26-010941-index.htm)
+
+- **NPORT-P** | AQR Funds  (CIK 0001444822)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010936/0002071691-26-010936-index.htm)
+
+- **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026060328/0001213900-26-060328-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226024742/0001493152-26-024742-index.htm)
