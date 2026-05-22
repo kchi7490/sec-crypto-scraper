@@ -27,6 +27,9 @@
 - **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826004131/0001683168-26-004131-index.htm)
 
+- **S-1** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526234992/0001193125-26-234992-index.htm)
+
 - **8-K** | PEDEVCO CORP  (PED)  (CIK 0001141197)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1141197/000165495426005181/0001654954-26-005181-index.htm)
 
@@ -38,6 +41,9 @@
 
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000771/0001731122-26-000771-index.htm)
+
+- **10-K** | All In FutureTech Alliance, Inc.  (AGAE)  (CIK 0001708341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000117184326003627/0001171843-26-003627-index.htm)
 
 - **S-4/A** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026059300/0001213900-26-059300-index.htm)
@@ -181,10 +187,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060163/0001213900-26-060163-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060163/0001213900-26-060163-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060161/0001213900-26-060161-index.htm)
