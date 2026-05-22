@@ -216,6 +216,9 @@
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126011288/0001999371-26-011288-index.htm)
 
+- **487** | FT 12916  (CIK 0002109427)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109427/000144554626003959/0001445546-26-003959-index.htm)
+
 - **S-1** | SPACE EXPLORATION TECHNOLOGIES CORP  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/0001628280-26-036936-index.htm)
 
@@ -238,10 +241,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060153/0001213900-26-060153-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
@@ -251,6 +254,9 @@
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060161/0001213900-26-060161-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526235617/0001193125-26-235617-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526234065/0001193125-26-234065-index.htm)
