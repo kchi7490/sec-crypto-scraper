@@ -264,6 +264,9 @@
 - **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
 
+- **424B3** | iShares S&P GSCI Commodity-Indexed Trust  (GSG, ISMCF)  (CIK 0001332174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1332174/000143774926018223/0001437749-26-018223-index.htm)
+
 - **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017875/0001437749-26-017875-index.htm)
 
