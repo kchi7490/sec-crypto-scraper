@@ -9,6 +9,9 @@
 - **8-K** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226024639/0001493152-26-024639-index.htm)
 
+- **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003412/0001477932-26-003412-index.htm)
+
 - **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826004194/0001683168-26-004194-index.htm)
 
@@ -44,6 +47,9 @@
 
 - **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326007551/0000950103-26-007551-index.htm)
+
+- **S-3/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926006694/0001214659-26-006694-index.htm)
 
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000771/0001731122-26-000771-index.htm)
@@ -81,6 +87,12 @@
 - **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/0001104659-26-064065-index.htm)
 
+- **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226025043/0001493152-26-025043-index.htm)
+
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226025015/0001493152-26-025015-index.htm)
+
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026059270/0001213900-26-059270-index.htm)
 
@@ -102,6 +114,12 @@
 - **S-1** | BTECH Corp  (CIK 0002086775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086775/000182912626005549/0001829126-26-005549-index.htm)
 
+- **8-K** | LQR House Inc.  (YHC)  (CIK 0001843165)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026060557/0001213900-26-060557-index.htm)
+
+- **485APOS** | ETF Series Solutions  (CIK 0001540305)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1540305/000089418926015471/0000894189-26-015471-index.htm)
+
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010944/0002071691-26-010944-index.htm)
 
@@ -109,10 +127,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010948/0002071691-26-010948-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010938/0002071691-26-010938-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010939/0002071691-26-010939-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010939/0002071691-26-010939-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010938/0002071691-26-010938-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010953/0002071691-26-010953-index.htm)
@@ -198,6 +216,12 @@
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026060085/0001213900-26-060085-index.htm)
 
+- **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926065698/0001104659-26-065698-index.htm)
+
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005619/0001829126-26-005619-index.htm)
+
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226024836/0001493152-26-024836-index.htm)
 
@@ -247,6 +271,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060538/0001213900-26-060538-index.htm)
+
+- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
@@ -264,9 +291,6 @@
 - **10-Q** | LINGERIE FIGHTING CHAMPIONSHIPS, INC.  (BOTY)  (CIK 0001407704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1407704/000164033426000944/0001640334-26-000944-index.htm)
 
-- **424B3** | iShares S&P GSCI Commodity-Indexed Trust  (GSG, ISMCF)  (CIK 0001332174)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1332174/000143774926018223/0001437749-26-018223-index.htm)
-
 - **425** | Envirotech Vehicles, Inc.  (EVTV)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926017875/0001437749-26-017875-index.htm)
 
@@ -275,4 +299,7 @@
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526234764/0001193125-26-234764-index.htm)
+
+- **424B3** | iShares S&P GSCI Commodity-Indexed Trust  (GSG, ISMCF)  (CIK 0001332174)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1332174/000143774926018223/0001437749-26-018223-index.htm)
 
