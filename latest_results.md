@@ -193,10 +193,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060153/0001213900-26-060153-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060538/0001213900-26-060538-index.htm)
