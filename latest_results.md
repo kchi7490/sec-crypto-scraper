@@ -49,10 +49,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010948/0002071691-26-010948-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010939/0002071691-26-010939-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010938/0002071691-26-010938-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010938/0002071691-26-010938-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010939/0002071691-26-010939-index.htm)
 
 - **NPORT-P** | AQR Funds  (CIK 0001444822)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1444822/000207169126010953/0002071691-26-010953-index.htm)
