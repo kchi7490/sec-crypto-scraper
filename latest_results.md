@@ -6,20 +6,11 @@
 - **8-K** | Classover Holdings, Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003412/0001477932-26-003412-index.htm)
 
-- **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826004194/0001683168-26-004194-index.htm)
-
-- **20-F** | INX Ltd  (CIK 0001725882)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725882/000121390026060125/0001213900-26-060125-index.htm)
-
 - **F-1** | Coolbit Technologies Ltd  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002094/0001185185-26-002094-index.htm)
 
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826004228/0001683168-26-004228-index.htm)
-
-- **POS AM** | Canary HBAR ETF  (CIK 0002039458)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126011280/0001999371-26-011280-index.htm)
 
 - **S-1** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526234992/0001193125-26-234992-index.htm)
@@ -33,21 +24,6 @@
 - **10-K** | All In FutureTech Alliance, Inc.  (AGAE)  (CIK 0001708341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1708341/000117184326003627/0001171843-26-003627-index.htm)
 
-- **POS AM** | Xdata Group  (CIK 0002038688)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226024783/0001493152-26-024783-index.htm)
-
-- **424B3** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000162828026037301/0001628280-26-037301-index.htm)
-
-- **SC 14D9/A** | GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326200/000093041326001691/0000930413-26-001691-index.htm)
-
-- **DEFA14A** | GENCO SHIPPING & TRADING LTD  (GNK)  (CIK 0001326200)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326200/000093041326001692/0000930413-26-001692-index.htm)
-
-- **424B4** | Aperture AC  (APUR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026060082/0001213900-26-060082-index.htm)
-
 - **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226025043/0001493152-26-025043-index.htm)
 
@@ -56,12 +32,6 @@
 
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226025015/0001493152-26-025015-index.htm)
-
-- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326002824/0001062993-26-002824-index.htm)
-
-- **S-1** | BTECH Corp  (CIK 0002086775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2086775/000182912626005549/0001829126-26-005549-index.htm)
 
 - **8-K** | LQR House Inc.  (YHC)  (CIK 0001843165)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026060557/0001213900-26-060557-index.htm)
@@ -123,38 +93,8 @@
 - **8-K** | Functional Brands Inc.  (MEHA)  (CIK 0001837254)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837254/000121390026060328/0001213900-26-060328-index.htm)
 
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226024742/0001493152-26-024742-index.htm)
-
-- **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059728/0001213900-26-059728-index.htm)
-
-- **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059729/0001213900-26-059729-index.htm)
-
-- **F-1/A** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026059736/0001213900-26-059736-index.htm)
-
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926065815/0001104659-26-065815-index.htm)
-
-- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526234571/0001193125-26-234571-index.htm)
-
-- **424B5** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026060158/0001213900-26-060158-index.htm)
-
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026060051/0001213900-26-060051-index.htm)
-
-- **FWP** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026060042/0001213900-26-060042-index.htm)
-
-- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026059849/0001213900-26-059849-index.htm)
-
-- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026060085/0001213900-26-060085-index.htm)
 
 - **POS AM** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926065698/0001104659-26-065698-index.htm)
@@ -162,65 +102,23 @@
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005619/0001829126-26-005619-index.htm)
 
-- **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226024836/0001493152-26-024836-index.htm)
-
-- **ABS-15G** | MFRA NQM Depositor, LLC  (CIK 0001803775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1803775/000199937126011296/0001999371-26-011296-index.htm)
-
-- **497** | Direxion Shares ETF Trust  (CIK 0001424958)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526233995/0001193125-26-233995-index.htm)
-
-- **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126011288/0001999371-26-011288-index.htm)
-
 - **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826004270/0001683168-26-004270-index.htm)
 
 - **487** | FT 12916  (CIK 0002109427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109427/000144554626003959/0001445546-26-003959-index.htm)
 
-- **10-Q** | Apple iSports Group, Inc.  (AAPI)  (CIK 0001134982)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1134982/000147793226003393/0001477932-26-003393-index.htm)
-
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009702/0001398344-26-009702-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426009604/0001398344-26-009604-index.htm)
-
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060153/0001213900-26-060153-index.htm)
-
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060159/0001213900-26-060159-index.htm)
-
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060155/0001213900-26-060155-index.htm)
 
 - **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060538/0001213900-26-060538-index.htm)
 
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060157/0001213900-26-060157-index.htm)
-
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060163/0001213900-26-060163-index.htm)
-
-- **485APOS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026060161/0001213900-26-060161-index.htm)
-
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526235617/0001193125-26-235617-index.htm)
 
-- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526234065/0001193125-26-234065-index.htm)
-
 - **424B3** | iShares S&P GSCI Commodity-Indexed Trust  (GSG, ISMCF)  (CIK 0001332174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1332174/000143774926018223/0001437749-26-018223-index.htm)
-
-- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526234764/0001193125-26-234764-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237133/0001193125-26-237133-index.htm)
