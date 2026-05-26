@@ -30,6 +30,9 @@
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026060731/0001213900-26-060731-index.htm)
 
+- **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000068/0001898391-26-000068-index.htm)
+
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
 
@@ -38,4 +41,7 @@
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/0001193125-26-237367-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011415/0001999371-26-011415-index.htm)
 
