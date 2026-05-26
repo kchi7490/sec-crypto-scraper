@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226025174/0001493152-26-025174-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126022854/0001140361-26-022854-index.htm)
+
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237912/0001193125-26-237912-index.htm)
 
@@ -12,8 +15,20 @@
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826004286/0001683168-26-004286-index.htm)
 
+- **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315226025277/0001493152-26-025277-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237907/0001193125-26-237907-index.htm)
+
+- **10-K** | Veradigm Inc.  (CIK 0001124804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1124804/000119312526239413/0001193125-26-239413-index.htm)
+
+- **10-K** | CapForce Inc.  (CIK 0001293818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912626005672/0001829126-26-005672-index.htm)
+
+- **F-4** | Bleichroeder Acquisition France Merger Sub 2  (CIK 0002119292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026061033/0001213900-26-061033-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026037925/0001628280-26-037925-index.htm)
@@ -27,14 +42,35 @@
 - **S-1** | Columbus Circle Capital Corp III  (CIK 0002123471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123471/000118518526002099/0001185185-26-002099-index.htm)
 
+- **SCHEDULE 13D/A** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000121390026061030/0001213900-26-061030-index.htm)
+
+- **PRE 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000969/0001640334-26-000969-index.htm)
+
+- **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000966/0001640334-26-000966-index.htm)
+
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026060805/0001213900-26-060805-index.htm)
+
+- **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526002113/0001185185-26-002113-index.htm)
 
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026060731/0001213900-26-060731-index.htm)
 
+- **6-K** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465926066332/0001104659-26-066332-index.htm)
+
 - **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226025214/0001493152-26-025214-index.htm)
+
+- **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
+
+- **SCHEDULE 13D** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000213049026000003/0002130490-26-000003-index.htm)
 
 - **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000068/0001898391-26-000068-index.htm)
@@ -42,12 +78,24 @@
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
 
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126011467/0001999371-26-011467-index.htm)
+
 - **1-A/A** | UNATION, Inc.  (CIK 0001549679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026060771/0001213900-26-060771-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/0001193125-26-237367-index.htm)
 
+- **10-Q** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026061013/0001213900-26-061013-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011415/0001999371-26-011415-index.htm)
+
+- **485BPOS** | Tidal Trust I  (CIK 0001742912)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/0001999371-26-011465-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326007722/0000950103-26-007722-index.htm)
 
