@@ -63,6 +63,9 @@
 - **6-K** | SOLAI Ltd  (SLAI)  (CIK 0001517496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1517496/000110465926066332/0001104659-26-066332-index.htm)
 
+- **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526240473/0001193125-26-240473-index.htm)
+
 - **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226025214/0001493152-26-025214-index.htm)
 
@@ -72,11 +75,17 @@
 - **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
 
+- **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239876/0001193125-26-239876-index.htm)
+
 - **SCHEDULE 13D** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000213049026000003/0002130490-26-000003-index.htm)
 
 - **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000068/0001898391-26-000068-index.htm)
+
+- **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239878/0001193125-26-239878-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
@@ -95,6 +104,9 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011415/0001999371-26-011415-index.htm)
+
+- **10-Q** | GridAI Technologies Corp.  (GRDX)  (CIK 0001604191)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465926066519/0001104659-26-066519-index.htm)
 
 - **485BPOS** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/0001999371-26-011465-index.htm)
