@@ -27,11 +27,20 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237907/0001193125-26-237907-index.htm)
 
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026061582/0001213900-26-061582-index.htm)
+
 - **10-K** | Veradigm Inc.  (CIK 0001124804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1124804/000119312526239413/0001193125-26-239413-index.htm)
 
 - **10-K** | CapForce Inc.  (CIK 0001293818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912626005672/0001829126-26-005672-index.htm)
+
+- **F-4** | Embed Financial Group Holdings  (CIK 0002104943)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104943/000121390026061585/0001213900-26-061585-index.htm)
+
+- **PRER14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126023007/0001140361-26-023007-index.htm)
 
 - **F-4** | Bleichroeder Acquisition France Merger Sub 2  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026061033/0001213900-26-061033-index.htm)
@@ -50,6 +59,9 @@
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000109/0001083301-26-000109-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026061574/0001213900-26-061574-index.htm)
 
 - **S-1** | Columbus Circle Capital Corp III  (CIK 0002123471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123471/000118518526002099/0001185185-26-002099-index.htm)
@@ -77,6 +89,9 @@
 
 - **6-K** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226025425/0001493152-26-025425-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026061598/0001213900-26-061598-index.htm)
 
 - **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526002113/0001185185-26-002113-index.htm)
@@ -138,6 +153,9 @@
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126011467/0001999371-26-011467-index.htm)
 
+- **1-K** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226025452/0001493152-26-025452-index.htm)
+
 - **1-A/A** | UNATION, Inc.  (CIK 0001549679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026060771/0001213900-26-060771-index.htm)
 
@@ -152,6 +170,9 @@
 
 - **10-Q** | GridAI Technologies Corp.  (GRDX)  (CIK 0001604191)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465926066519/0001104659-26-066519-index.htm)
+
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526242094/0001193125-26-242094-index.htm)
 
 - **485BPOS** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/0001999371-26-011465-index.htm)
