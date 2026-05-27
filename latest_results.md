@@ -9,6 +9,9 @@
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237912/0001193125-26-237912-index.htm)
 
+- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926066610/0001104659-26-066610-index.htm)
+
 - **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000170/0001663577-26-000170-index.htm)
 
@@ -57,6 +60,9 @@
 - **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526002113/0001185185-26-002113-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026061243/0001213900-26-061243-index.htm)
+
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026060731/0001213900-26-060731-index.htm)
 
@@ -66,26 +72,29 @@
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526240473/0001193125-26-240473-index.htm)
 
+- **6-K** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000092797126000086/0000927971-26-000086-index.htm)
+
 - **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226025214/0001493152-26-025214-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026061105/0001213900-26-061105-index.htm)
 
-- **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
+- **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239878/0001193125-26-239878-index.htm)
 
 - **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239876/0001193125-26-239876-index.htm)
+
+- **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
 
 - **SCHEDULE 13D** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000213049026000003/0002130490-26-000003-index.htm)
 
 - **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000068/0001898391-26-000068-index.htm)
-
-- **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239878/0001193125-26-239878-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
