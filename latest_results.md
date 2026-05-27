@@ -15,6 +15,9 @@
 - **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000170/0001663577-26-000170-index.htm)
 
+- **424B3** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026038466/0001628280-26-038466-index.htm)
+
 - **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826004286/0001683168-26-004286-index.htm)
 
@@ -36,6 +39,12 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026037925/0001628280-26-037925-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526242029/0001193125-26-242029-index.htm)
+
+- **424B3** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526242046/0001193125-26-242046-index.htm)
+
 - **SC TO-I** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000687/0001193805-26-000687-index.htm)
 
@@ -51,11 +60,23 @@
 - **PRE 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000969/0001640334-26-000969-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000973/0001640334-26-000973-index.htm)
+
 - **424B5** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426000966/0001640334-26-000966-index.htm)
 
+- **PRER14A** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326002895/0001062993-26-002895-index.htm)
+
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026060805/0001213900-26-060805-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026061528/0001213900-26-061528-index.htm)
+
+- **6-K** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226025425/0001493152-26-025425-index.htm)
 
 - **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526002113/0001185185-26-002113-index.htm)
@@ -72,8 +93,14 @@
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526240473/0001193125-26-240473-index.htm)
 
+- **PRE 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026061500/0001213900-26-061500-index.htm)
+
 - **6-K** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000092797126000086/0000927971-26-000086-index.htm)
+
+- **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005715/0001829126-26-005715-index.htm)
 
 - **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226025214/0001493152-26-025214-index.htm)
@@ -98,6 +125,9 @@
 
 - **485BPOS** | Fidelity Greenwood Street Trust  (CIK 0001898391)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1898391/000189839126000068/0001898391-26-000068-index.htm)
+
+- **10-Q** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026061507/0001213900-26-061507-index.htm)
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
