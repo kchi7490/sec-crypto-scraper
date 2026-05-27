@@ -90,6 +90,9 @@
 - **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
 
+- **487** | FT 12917  (CIK 0002109428)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109428/000144554626003992/0001445546-26-003992-index.htm)
+
 - **SCHEDULE 13D** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000213049026000003/0002130490-26-000003-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
+
+- **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226025355/0001493152-26-025355-index.htm)
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126011467/0001999371-26-011467-index.htm)
