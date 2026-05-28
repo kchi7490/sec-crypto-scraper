@@ -30,6 +30,9 @@
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026061582/0001213900-26-061582-index.htm)
 
+- **S-1/A** | Grayscale Hyperliquid Staking ETF  (GHYP)  (CIK 0002107730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526243167/0001193125-26-243167-index.htm)
+
 - **10-K** | Veradigm Inc.  (CIK 0001124804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1124804/000119312526239413/0001193125-26-239413-index.htm)
 
@@ -60,6 +63,9 @@
 - **SC TO-I** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000687/0001193805-26-000687-index.htm)
 
+- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026061792/0001213900-26-061792-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000109/0001083301-26-000109-index.htm)
 
@@ -68,6 +74,9 @@
 
 - **S-1** | Columbus Circle Capital Corp III  (CIK 0002123471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123471/000118518526002099/0001185185-26-002099-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226025547/0001493152-26-025547-index.htm)
 
 - **SCHEDULE 13D/A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000121390026061030/0001213900-26-061030-index.htm)
@@ -84,6 +93,9 @@
 - **PRER14A** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326002895/0001062993-26-002895-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026061765/0001213900-26-061765-index.htm)
+
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926067239/0001104659-26-067239-index.htm)
 
@@ -92,6 +104,9 @@
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026061528/0001213900-26-061528-index.htm)
+
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026061805/0001213900-26-061805-index.htm)
 
 - **6-K** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226025425/0001493152-26-025425-index.htm)
@@ -122,6 +137,12 @@
 
 - **6-K** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000092797126000086/0000927971-26-000086-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226025543/0001493152-26-025543-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000092/0001383395-26-000092-index.htm)
 
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005715/0001829126-26-005715-index.htm)
@@ -156,6 +177,12 @@
 - **S-1/A** | Collab Z Inc.  (CLBZ)  (CIK 0002050338)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2050338/000121390026060720/0001213900-26-060720-index.htm)
 
+- **N-CSR** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000119312526243085/0001193125-26-243085-index.htm)
+
+- **485BPOS** | Eaton Vance Municipals Trust II  (CIK 0000914529)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/914529/000113322826008447/0001133228-26-008447-index.htm)
+
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226025355/0001493152-26-025355-index.htm)
 
@@ -165,11 +192,23 @@
 - **1-K** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226025452/0001493152-26-025452-index.htm)
 
+- **NPORT-P** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000141036826054521/0001410368-26-054521-index.htm)
+
 - **1-A/A** | UNATION, Inc.  (CIK 0001549679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026060771/0001213900-26-060771-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/0001193125-26-237367-index.htm)
+
+- **NPORT-P** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000207169126012510/0002071691-26-012510-index.htm)
+
+- **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000060/0001020660-26-000060-index.htm)
+
+- **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000059/0001020660-26-000059-index.htm)
 
 - **10-Q** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026061013/0001213900-26-061013-index.htm)
