@@ -1,61 +1,31 @@
 ## 📁 Other Filings
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226025174/0001493152-26-025174-index.htm)
-
-- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126022854/0001140361-26-022854-index.htm)
-
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237912/0001193125-26-237912-index.htm)
-
-- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926066610/0001104659-26-066610-index.htm)
-
-- **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000170/0001663577-26-000170-index.htm)
-
-- **424B3** | VanEck BNB ETF  (CIK 0002066824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026038466/0001628280-26-038466-index.htm)
-
-- **8-K** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826004286/0001683168-26-004286-index.htm)
-
-- **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315226025277/0001493152-26-025277-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237907/0001193125-26-237907-index.htm)
-
-- **425** | Northern Data AG  (CIK 0001863502)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026061582/0001213900-26-061582-index.htm)
-
-- **10-K** | Veradigm Inc.  (CIK 0001124804)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1124804/000119312526239413/0001193125-26-239413-index.htm)
-
-- **10-K** | CapForce Inc.  (CIK 0001293818)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912626005672/0001829126-26-005672-index.htm)
-
-- **F-4** | Embed Financial Group Holdings  (CIK 0002104943)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2104943/000121390026061585/0001213900-26-061585-index.htm)
-
-- **PRER14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126023007/0001140361-26-023007-index.htm)
-
-- **F-4** | Bleichroeder Acquisition France Merger Sub 2  (CIK 0002119292)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026061033/0001213900-26-061033-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026037925/0001628280-26-037925-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526237907/0001193125-26-237907-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526242029/0001193125-26-242029-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226025174/0001493152-26-025174-index.htm)
 
 - **424B3** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526242046/0001193125-26-242046-index.htm)
 
+- **8-K** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000114036126022854/0001140361-26-022854-index.htm)
+
 - **SC TO-I** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000687/0001193805-26-000687-index.htm)
+
+- **424B3** | VanEck BNB ETF  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026038466/0001628280-26-038466-index.htm)
 
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000109/0001083301-26-000109-index.htm)
@@ -114,6 +84,9 @@
 - **6-K** | BANK OF MONTREAL /CAN/  (BMO, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD, GDXU, JETD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000092797126000086/0000927971-26-000086-index.htm)
 
+- **F-4** | Bleichroeder Acquisition France Merger Sub 2  (CIK 0002119292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026061033/0001213900-26-061033-index.htm)
+
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005715/0001829126-26-005715-index.htm)
 
@@ -132,8 +105,20 @@
 - **10-Q** | T-REX Acquisition Corp.  (TRXA)  (CIK 0001437750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1437750/000147793226003434/0001477932-26-003434-index.htm)
 
+- **10-K** | Veradigm Inc.  (CIK 0001124804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1124804/000119312526239413/0001193125-26-239413-index.htm)
+
 - **487** | FT 12917  (CIK 0002109428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109428/000144554626003992/0001445546-26-003992-index.htm)
+
+- **10-K** | CapForce Inc.  (CIK 0001293818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912626005672/0001829126-26-005672-index.htm)
+
+- **F-4** | Embed Financial Group Holdings  (CIK 0002104943)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104943/000121390026061585/0001213900-26-061585-index.htm)
+
+- **PRER14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126023007/0001140361-26-023007-index.htm)
 
 - **SCHEDULE 13D** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000213049026000003/0002130490-26-000003-index.htm)
@@ -162,8 +147,14 @@
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/0001193125-26-237367-index.htm)
 
+- **8-K** | Vestand Inc.  (VSTD)  (CIK 0001898604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1898604/000149315226025277/0001493152-26-025277-index.htm)
+
 - **10-Q** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026061013/0001213900-26-061013-index.htm)
+
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026061582/0001213900-26-061582-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126011415/0001999371-26-011415-index.htm)
