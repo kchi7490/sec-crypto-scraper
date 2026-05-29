@@ -102,6 +102,9 @@
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000092/0001383395-26-000092-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026062408/0001213900-26-062408-index.htm)
+
 - **6-K** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626005715/0001829126-26-005715-index.htm)
 
@@ -110,6 +113,9 @@
 
 - **497K** | Direxion Shares ETF Trust  (CIK 0001424958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526239876/0001193125-26-239876-index.htm)
+
+- **497** | iShares U.S. ETF Trust  (CIK 0001524513)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1524513/000119312526245632/0001193125-26-245632-index.htm)
 
 - **487** | FT 12917  (CIK 0002109428)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109428/000144554626003992/0001445546-26-003992-index.htm)
@@ -124,6 +130,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026061507/0001213900-26-061507-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244988/0001193125-26-244988-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244897/0001193125-26-244897-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
@@ -131,9 +140,6 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244848/0001193125-26-244848-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244988/0001193125-26-244988-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244919/0001193125-26-244919-index.htm)
@@ -393,9 +399,6 @@
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244876/0001193125-26-244876-index.htm)
 
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244871/0001193125-26-244871-index.htm)
-
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426009851/0001888524-26-009851-index.htm)
 
@@ -443,6 +446,9 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244912/0001193125-26-244912-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244871/0001193125-26-244871-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244939/0001193125-26-244939-index.htm)
