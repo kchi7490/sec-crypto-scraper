@@ -9,6 +9,9 @@
 - **424B3** | VanEck BNB ETF  (CIK 0002066824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000162828026038466/0001628280-26-038466-index.htm)
 
+- **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926068289/0001104659-26-068289-index.htm)
+
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026061582/0001213900-26-061582-index.htm)
 
@@ -24,6 +27,12 @@
 - **10-Q** | Edgemode, Inc.  (EDGM)  (CIK 0001652958)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1652958/000168316826004353/0001683168-26-004353-index.htm)
 
+- **DEF 14A** | Alpha Star Acquisition Corp  (ALSAF, ALSTF, ALSUF, ALSWF)  (CIK 0001865111)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865111/000149315226026329/0001493152-26-026329-index.htm)
+
+- **424B3** | Xdata Group  (CIK 0002038688)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038688/000149315226026300/0001493152-26-026300-index.htm)
+
 - **S-1/A** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026062203/0001213900-26-062203-index.htm)
 
@@ -35,6 +44,12 @@
 
 - **PRER14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126023007/0001140361-26-023007-index.htm)
+
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000575/0001137360-26-000575-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000574/0001137360-26-000574-index.htm)
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526242029/0001193125-26-242029-index.htm)
@@ -132,8 +147,23 @@
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826008454/0001133228-26-008454-index.htm)
 
+- **S-1/A** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526247996/0001193125-26-247996-index.htm)
+
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826008457/0001133228-26-008457-index.htm)
+
+- **NPORT-P** | Virtus Event Opportunities Trust  (CIK 0001572617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1572617/000094040026022221/0000940400-26-022221-index.htm)
+
+- **NPORT-P** | MERGER FUND VL  (CIK 0001208133)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1208133/000094040026022206/0000940400-26-022206-index.htm)
+
+- **NPORT-P** | MERGER FUND  (CIK 0000701804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701804/000094040026022201/0000940400-26-022201-index.htm)
+
+- **NPORT-P** | Virtus Event Opportunities Trust  (CIK 0001572617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1572617/000094040026022213/0000940400-26-022213-index.htm)
 
 - **10-Q** | Nature's Miracle Holding Inc.  (NMHI, NMHIW)  (CIK 0001947861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1947861/000121390026061507/0001213900-26-061507-index.htm)
@@ -337,18 +367,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244934/0001193125-26-244934-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244869/0001193125-26-244869-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244883/0001193125-26-244883-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244942/0001193125-26-244942-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244989/0001193125-26-244989-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244937/0001193125-26-244937-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
@@ -359,6 +377,18 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244845/0001193125-26-244845-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244869/0001193125-26-244869-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244883/0001193125-26-244883-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244942/0001193125-26-244942-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244989/0001193125-26-244989-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244936/0001193125-26-244936-index.htm)
@@ -376,6 +406,12 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244980/0001193125-26-244980-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244872/0001193125-26-244872-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244862/0001193125-26-244862-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244959/0001193125-26-244959-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
@@ -385,28 +421,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244922/0001193125-26-244922-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244872/0001193125-26-244872-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244862/0001193125-26-244862-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244967/0001193125-26-244967-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244852/0001193125-26-244852-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244886/0001193125-26-244886-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244911/0001193125-26-244911-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244865/0001193125-26-244865-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244871/0001193125-26-244871-index.htm)
 
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426010334/0001888524-26-010334-index.htm)
@@ -426,6 +444,12 @@
 - **485BPOS** | Eaton Vance Municipals Trust II  (CIK 0000914529)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/914529/000113322826008447/0001133228-26-008447-index.htm)
 
+- **424B3** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026062798/0001213900-26-062798-index.htm)
+
+- **NPORT-P** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826056381/0001410368-26-056381-index.htm)
+
 - **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226025355/0001493152-26-025355-index.htm)
 
@@ -438,17 +462,14 @@
 - **NPORT-P** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000141036826054521/0001410368-26-054521-index.htm)
 
-- **485BPOS** | EUPAC FUND  (CIK 0000719603)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/719603/000005193126000586/0000051931-26-000586-index.htm)
-
 - **NPORT-P** | BlackRock Funds V  (CIK 0001738078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000207169126012510/0002071691-26-012510-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244924/0001193125-26-244924-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244923/0001193125-26-244923-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244923/0001193125-26-244923-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244924/0001193125-26-244924-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244891/0001193125-26-244891-index.htm)
@@ -463,16 +484,31 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244912/0001193125-26-244912-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244871/0001193125-26-244871-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244876/0001193125-26-244876-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526244939/0001193125-26-244939-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000060/0001020660-26-000060-index.htm)
+
+- **485BPOS** | EUPAC FUND  (CIK 0000719603)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/719603/000005193126000586/0000051931-26-000586-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000059/0001020660-26-000059-index.htm)
 
 - **10-Q** | GridAI Technologies Corp.  (GRDX)  (CIK 0001604191)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465926066519/0001104659-26-066519-index.htm)
+
+- **485BPOS** | Direxion Shares ETF Trust  (CIK 0001424958)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424958/000119312526248181/0001193125-26-248181-index.htm)
+
+- **10-Q** | ORIGINCLEAR, INC.  (OCLN)  (CIK 0001419793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419793/000109690626000879/0001096906-26-000879-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526245455/0001193125-26-245455-index.htm)
