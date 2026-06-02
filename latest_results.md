@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226026543/0001493152-26-026543-index.htm)
 
+- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003569/0001477932-26-003569-index.htm)
+
 - **8-K** | MOZAYYX Acquisition Corp.  (MZYX, MZYX-UN, MZYX-WT)  (CIK 0002097376)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097376/000121390026063573/0001213900-26-063573-index.htm)
 
@@ -15,11 +18,17 @@
 - **8-K/A** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000168316826004425/0001683168-26-004425-index.htm)
 
+- **S-1** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026063747/0001213900-26-063747-index.htm)
+
 - **S-1/A** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526250471/0001193125-26-250471-index.htm)
 
 - **S-4/A** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226026486/0001493152-26-026486-index.htm)
+
+- **8-K** | UNISYS CORP  (UIS)  (CIK 0000746838)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/0001104659-26-069244-index.htm)
 
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000043/0001805526-26-000043-index.htm)
@@ -39,8 +48,17 @@
 - **485APOS** | Tema ETF Trust  (CIK 0001944285)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944285/000199937126011826/0001999371-26-011826-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526249768/0001193125-26-249768-index.htm)
+
+- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026063809/0001213900-26-063809-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002965/0001062993-26-002965-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039283/0001628280-26-039283-index.htm)
@@ -51,6 +69,9 @@
 - **PRE 14A** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000114036126023589/0001140361-26-023589-index.htm)
 
+- **S-4** | US Elemental Inc.  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
+
 - **S-1** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526251569/0001193125-26-251569-index.htm)
 
@@ -59,6 +80,12 @@
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026063233/0001213900-26-063233-index.htm)
+
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926069145/0001104659-26-069145-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526252367/0001193125-26-252367-index.htm)
 
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390026063492/0001213900-26-063492-index.htm)
@@ -71,6 +98,9 @@
 
 - **F-3/A** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026063133/0001213900-26-063133-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002971/0001062993-26-002971-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000901/0001096906-26-000901-index.htm)
