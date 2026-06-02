@@ -6,6 +6,9 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003569/0001477932-26-003569-index.htm)
 
+- **8-K** | LQR House Inc.  (YHC)  (CIK 0001843165)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026063829/0001213900-26-063829-index.htm)
+
 - **8-K** | MOZAYYX Acquisition Corp.  (MZYX, MZYX-UN, MZYX-WT)  (CIK 0002097376)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097376/000121390026063573/0001213900-26-063573-index.htm)
 
@@ -30,6 +33,9 @@
 - **8-K** | UNISYS CORP  (UIS)  (CIK 0000746838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/0001104659-26-069244-index.htm)
 
+- **10-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002973/0001062993-26-002973-index.htm)
+
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000043/0001805526-26-000043-index.htm)
 
@@ -48,17 +54,8 @@
 - **485APOS** | Tema ETF Trust  (CIK 0001944285)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944285/000199937126011826/0001999371-26-011826-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
-
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526249768/0001193125-26-249768-index.htm)
-
-- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026063809/0001213900-26-063809-index.htm)
-
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002965/0001062993-26-002965-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039283/0001628280-26-039283-index.htm)
@@ -68,9 +65,6 @@
 
 - **PRE 14A** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000114036126023589/0001140361-26-023589-index.htm)
-
-- **S-4** | US Elemental Inc.  (CIK 0002134552)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
 
 - **S-1** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526251569/0001193125-26-251569-index.htm)
@@ -96,6 +90,9 @@
 - **N-14** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000110465926068720/0001104659-26-068720-index.htm)
 
+- **F-3/A** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926069294/0001104659-26-069294-index.htm)
+
 - **F-3/A** | Ebang International Holdings Inc.  (EBON)  (CIK 0001799290)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1799290/000121390026063133/0001213900-26-063133-index.htm)
 
@@ -114,6 +111,9 @@
 - **486APOS** | AMG Pantheon Fund, LLC  (CIK 0001609211)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1609211/000119312526251444/0001193125-26-251444-index.htm)
 
+- **S-1/A** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526253016/0001193125-26-253016-index.htm)
+
 - **S-1/A** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026039276/0001628280-26-039276-index.htm)
 
@@ -126,11 +126,17 @@
 - **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526249668/0001193125-26-249668-index.htm)
 
+- **S-4** | US Elemental Inc.  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
+
 - **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526251335/0001193125-26-251335-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/0001398344-26-010113-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008192/0000950103-26-008192-index.htm)
