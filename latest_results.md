@@ -60,6 +60,9 @@
 - **F-3/A** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226026625/0001493152-26-026625-index.htm)
 
+- **S-1/A** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226026951/0001493152-26-026951-index.htm)
+
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000181/0001663577-26-000181-index.htm)
 
@@ -86,6 +89,9 @@
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000202/0001099910-26-000202-index.htm)
+
+- **8-K** | GEN Restaurant Group, Inc.  (GENK)  (CIK 0001891856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1891856/000119312526254473/0001193125-26-254473-index.htm)
 
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000020/0001326380-26-000020-index.htm)
@@ -188,6 +194,9 @@
 
 - **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526251335/0001193125-26-251335-index.htm)
+
+- **13F-HR/A** | Parallel Advisors, LLC  (CIK 0001690010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000004/0001690010-26-000004-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/0001398344-26-010113-index.htm)
