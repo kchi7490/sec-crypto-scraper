@@ -114,6 +114,9 @@
 - **S-4** | US Elemental Inc.  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
 
+- **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526254665/0001193125-26-254665-index.htm)
+
 - **S-1** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526251569/0001193125-26-251569-index.htm)
 
@@ -138,6 +141,9 @@
 - **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390026063492/0001213900-26-063492-index.htm)
 
+- **S-4/A** | VYNE Therapeutics Inc.  (VYNE)  (CIK 0001566044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566044/000110465926069925/0001104659-26-069925-index.htm)
+
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226026862/0001493152-26-026862-index.htm)
 
@@ -158,6 +164,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002971/0001062993-26-002971-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003007/0001062993-26-003007-index.htm)
 
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000901/0001096906-26-000901-index.htm)
@@ -209,6 +218,9 @@
 
 - **485APOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526253092/0001193125-26-253092-index.htm)
+
+- **S-4** | Versa Bancorp  (CIK 0002100848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926069759/0001104659-26-069759-index.htm)
 
 - **40-17G** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000364/0001396092-26-000364-index.htm)
