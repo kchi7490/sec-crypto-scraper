@@ -69,11 +69,35 @@
 - **S-1** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226026911/0001493152-26-026911-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526249768/0001193125-26-249768-index.htm)
 
+- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026063809/0001213900-26-063809-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002965/0001062993-26-002965-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039283/0001628280-26-039283-index.htm)
+
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000202/0001099910-26-000202-index.htm)
+
+- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000020/0001326380-26-000020-index.htm)
+
+- **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026064209/0001213900-26-064209-index.htm)
+
+- **DEFA14A** | BOXABL Inc.  (CIK 0001816937)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315226026864/0001493152-26-026864-index.htm)
+
+- **8-K** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226026860/0001493152-26-026860-index.htm)
 
 - **S-1/A** | Innovative Digital Investors Acquisition Corp.  (IDIA)  (CIK 0001997389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997389/000110465926068822/0001104659-26-068822-index.htm)
@@ -81,8 +105,8 @@
 - **PRE 14A** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000114036126023589/0001140361-26-023589-index.htm)
 
-- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000202/0001099910-26-000202-index.htm)
+- **S-4** | US Elemental Inc.  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
 
 - **S-1** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526251569/0001193125-26-251569-index.htm)
@@ -156,23 +180,26 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008140/0000950103-26-008140-index.htm)
 
-- **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026064209/0001213900-26-064209-index.htm)
-
 - **40-17G** | Trailmark Series Trust  (CIK 0001643838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643838/000199937126011820/0001999371-26-011820-index.htm)
 
 - **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526249668/0001193125-26-249668-index.htm)
 
-- **S-4** | US Elemental Inc.  (CIK 0002134552)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
-
 - **N-CSR** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000119312526251335/0001193125-26-251335-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/0001398344-26-010113-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010204/0001398344-26-010204-index.htm)
+
+- **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526253882/0001193125-26-253882-index.htm)
+
+- **485APOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526253092/0001193125-26-253092-index.htm)
 
 - **40-17G** | World Funds Trust  (CIK 0001396092)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1396092/000139609226000364/0001396092-26-000364-index.htm)
@@ -182,12 +209,6 @@
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000149965526000020/0001499655-26-000020-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
-
-- **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000020/0001326380-26-000020-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526253781/0001193125-26-253781-index.htm)
@@ -200,9 +221,6 @@
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000149965526000019/0001499655-26-000019-index.htm)
-
-- **DEFA14A** | BOXABL Inc.  (CIK 0001816937)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1816937/000149315226026864/0001493152-26-026864-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008192/0000950103-26-008192-index.htm)
