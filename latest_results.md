@@ -39,6 +39,9 @@
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026064198/0001213900-26-064198-index.htm)
 
+- **N-CSRS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000113322826008833/0001133228-26-008833-index.htm)
+
 - **424B4** | Aeon Acquisition I Corp.  (AESP)  (CIK 0002082526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082526/000149315226027037/0001493152-26-027037-index.htm)
 
@@ -123,9 +126,6 @@
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526252367/0001193125-26-252367-index.htm)
 
-- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
-
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226026862/0001493152-26-026862-index.htm)
 
@@ -143,6 +143,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002971/0001062993-26-002971-index.htm)
+
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/0001771146-26-001142-index.htm)
@@ -167,6 +170,9 @@
 
 - **13F-HR/A** | Parallel Advisors, LLC  (CIK 0001690010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000004/0001690010-26-000004-index.htm)
+
+- **NPORT-P/A** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000207169126013149/0002071691-26-013149-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010204/0001398344-26-010204-index.htm)
