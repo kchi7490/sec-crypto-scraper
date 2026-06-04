@@ -9,6 +9,9 @@
 - **8-K** | LQR House Inc.  (YHC)  (CIK 0001843165)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026063829/0001213900-26-063829-index.htm)
 
+- **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002340/0001185185-26-002340-index.htm)
+
 - **S-1** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026063747/0001213900-26-063747-index.htm)
 
@@ -20,6 +23,9 @@
 
 - **424B3** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526253439/0001193125-26-253439-index.htm)
+
+- **10-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026065276/0001213900-26-065276-index.htm)
 
 - **8-K** | UNISYS CORP  (UIS)  (CIK 0000746838)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/746838/000110465926069244/0001104659-26-069244-index.htm)
@@ -126,6 +132,9 @@
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526252367/0001193125-26-252367-index.htm)
 
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
+
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226026862/0001493152-26-026862-index.htm)
 
@@ -144,9 +153,6 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326002971/0001062993-26-002971-index.htm)
 
-- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
-
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/0001771146-26-001142-index.htm)
 
@@ -156,6 +162,9 @@
 - **S-1/A** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526253016/0001193125-26-253016-index.htm)
 
+- **424B4** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526257410/0001193125-26-257410-index.htm)
+
 - **S-1/A** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026040364/0001628280-26-040364-index.htm)
 
@@ -164,6 +173,12 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008378/0000950103-26-008378-index.htm)
+
+- **C/A** | NeuroGym LLC  (CIK 0002089067)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
+
+- **485APOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312526257538/0001193125-26-257538-index.htm)
 
 - **497** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363226000787/0001623632-26-000787-index.htm)
