@@ -1,6 +1,9 @@
 ## 📁 Other Filings
 
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003637/0001477932-26-003637-index.htm)
+
+- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003569/0001477932-26-003569-index.htm)
 
 - **8-K** | LQR House Inc.  (YHC)  (CIK 0001843165)  
@@ -60,6 +63,9 @@
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326003037/0001062993-26-003037-index.htm)
 
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000030/0001074828-26-000030-index.htm)
+
 - **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026063809/0001213900-26-063809-index.htm)
 
@@ -96,6 +102,9 @@
 - **S-4** | US Elemental Inc.  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026063737/0001213900-26-063737-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
+
 - **424B2** | FS KKR Capital Corp  (FSK)  (CIK 0001422183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422183/000110465926070108/0001104659-26-070108-index.htm)
 
@@ -113,6 +122,9 @@
 
 - **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526252367/0001193125-26-252367-index.htm)
+
+- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226026862/0001493152-26-026862-index.htm)
