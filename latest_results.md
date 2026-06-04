@@ -36,6 +36,9 @@
 - **S-3** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526253831/0001193125-26-253831-index.htm)
 
+- **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026065394/0001213900-26-065394-index.htm)
+
 - **S-1/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226026896/0001493152-26-026896-index.htm)
 
@@ -69,6 +72,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026039677/0001628280-26-039677-index.htm)
 
+- **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000152013826000205/0001520138-26-000205-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326003037/0001062993-26-003037-index.htm)
 
@@ -80,6 +86,9 @@
 
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326002965/0001062993-26-002965-index.htm)
+
+- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065369/0001213900-26-065369-index.htm)
 
 - **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126023907/0001140361-26-023907-index.htm)
@@ -95,6 +104,9 @@
 
 - **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026064721/0001213900-26-064721-index.htm)
+
+- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926070584/0001104659-26-070584-index.htm)
 
 - **N-CSRS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000113322826008754/0001133228-26-008754-index.htm)
@@ -177,17 +189,11 @@
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
 
-- **485APOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312526257538/0001193125-26-257538-index.htm)
-
 - **497** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363226000787/0001623632-26-000787-index.htm)
 
 - **13F-HR/A** | Parallel Advisors, LLC  (CIK 0001690010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000004/0001690010-26-000004-index.htm)
-
-- **NPORT-P/A** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000207169126013149/0002071691-26-013149-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010204/0001398344-26-010204-index.htm)
@@ -224,4 +230,7 @@
 
 - **40-17G** | Precidian ETFs Trust  (CIK 0001499655)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499655/000149965526000019/0001499655-26-000019-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008540/0000950103-26-008540-index.htm)
 
