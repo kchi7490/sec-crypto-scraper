@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826004577/0001683168-26-004577-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003637/0001477932-26-003637-index.htm)
 
 - **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002340/0001185185-26-002340-index.htm)
+
+- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
 
 - **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526254665/0001193125-26-254665-index.htm)
@@ -14,6 +20,15 @@
 
 - **10-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026065276/0001213900-26-065276-index.htm)
+
+- **424B3** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026065825/0001213900-26-065825-index.htm)
+
+- **DEFM14A** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390026065822/0001213900-26-065822-index.htm)
+
+- **N-CSRS** | Valkyrie ETF Trust II  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322826008914/0001133228-26-008914-index.htm)
 
 - **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026065394/0001213900-26-065394-index.htm)
@@ -54,6 +69,9 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065369/0001213900-26-065369-index.htm)
 
+- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065506/0001213900-26-065506-index.htm)
+
 - **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126023907/0001140361-26-023907-index.htm)
 
@@ -69,8 +87,23 @@
 - **N-CSRS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000113322826008754/0001133228-26-008754-index.htm)
 
+- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226003547/0000035402-26-003547-index.htm)
+
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226003562/0000035402-26-003562-index.htm)
+
+- **N-CSR** | GPS Funds I  (CIK 0001131042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000113322826008928/0001133228-26-008928-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
+
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526259643/0001193125-26-259643-index.htm)
+
+- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001007/0001640334-26-001007-index.htm)
 
 - **424B2** | FS KKR Capital Corp  (FSK)  (CIK 0001422183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422183/000110465926070108/0001104659-26-070108-index.htm)
@@ -93,9 +126,6 @@
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926019259/0001437749-26-019259-index.htm)
 
-- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
-
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/0001771146-26-001142-index.htm)
 
@@ -111,6 +141,9 @@
 - **N-CSR** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322826008743/0001133228-26-008743-index.htm)
 
+- **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
+
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
 
@@ -119,6 +152,9 @@
 
 - **485APOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312526257538/0001193125-26-257538-index.htm)
+
+- **10-K/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926070987/0001104659-26-070987-index.htm)
 
 - **497** | Federated Hermes Money Market Obligations Trust  (CIK 0000856517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/856517/000162363226000787/0001623632-26-000787-index.htm)
@@ -131,9 +167,6 @@
 
 - **S-4** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926069759/0001104659-26-069759-index.htm)
-
-- **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
 
 - **N-CSR** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526258751/0001193125-26-258751-index.htm)
