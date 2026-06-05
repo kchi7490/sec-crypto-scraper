@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826004577/0001683168-26-004577-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003637/0001477932-26-003637-index.htm)
 
 - **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002340/0001185185-26-002340-index.htm)
+
+- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
 
 - **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526254665/0001193125-26-254665-index.htm)
@@ -54,6 +60,9 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065369/0001213900-26-065369-index.htm)
 
+- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065506/0001213900-26-065506-index.htm)
+
 - **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126023907/0001140361-26-023907-index.htm)
 
@@ -69,17 +78,29 @@
 - **N-CSRS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000113322826008754/0001133228-26-008754-index.htm)
 
+- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226003547/0000035402-26-003547-index.htm)
+
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226003562/0000035402-26-003562-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
 
 - **424B2** | FS KKR Capital Corp  (FSK)  (CIK 0001422183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422183/000110465926070108/0001104659-26-070108-index.htm)
 
+- **SCHEDULE 13D/A** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226027423/0001493152-26-027423-index.htm)
+
 - **424B3** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026064810/0001213900-26-064810-index.htm)
 
 - **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226027417/0001493152-26-027417-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003007/0001062993-26-003007-index.htm)
@@ -96,11 +117,11 @@
 - **S-1/A** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026040364/0001628280-26-040364-index.htm)
 
-- **N-CSR** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322826008743/0001133228-26-008743-index.htm)
-
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041013/0001628280-26-041013-index.htm)
+
+- **N-CSR** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322826008743/0001133228-26-008743-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
