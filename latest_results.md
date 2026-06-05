@@ -144,6 +144,9 @@
 - **S-4** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926069759/0001104659-26-069759-index.htm)
 
+- **N-CSR** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526258751/0001193125-26-258751-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008460/0000950103-26-008460-index.htm)
 
