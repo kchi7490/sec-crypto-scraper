@@ -99,8 +99,14 @@
 - **N-CSR** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322826008743/0001133228-26-008743-index.htm)
 
+- **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041013/0001628280-26-041013-index.htm)
+
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
+
+- **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526258295/0001193125-26-258295-index.htm)
 
 - **485APOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312526257538/0001193125-26-257538-index.htm)
