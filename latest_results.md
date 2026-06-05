@@ -1,16 +1,10 @@
 ## 📁 Other Filings
 
-- **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826004577/0001683168-26-004577-index.htm)
-
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003637/0001477932-26-003637-index.htm)
 
 - **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002340/0001185185-26-002340-index.htm)
-
-- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
 
 - **S-1/A** | Grayscale BNB ETF  (GBNB)  (CIK 0002106762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106762/000119312526254665/0001193125-26-254665-index.htm)
@@ -60,9 +54,6 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065369/0001213900-26-065369-index.htm)
 
-- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065506/0001213900-26-065506-index.htm)
-
 - **8-K** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126023907/0001140361-26-023907-index.htm)
 
@@ -77,12 +68,6 @@
 
 - **N-CSRS** | Collaborative Investment Series Trust  (CIK 0001719812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719812/000113322826008754/0001133228-26-008754-index.htm)
-
-- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226003547/0000035402-26-003547-index.htm)
-
-- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226003562/0000035402-26-003562-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
@@ -107,6 +92,9 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926019259/0001437749-26-019259-index.htm)
+
+- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/0001771146-26-001142-index.htm)
@@ -143,6 +131,9 @@
 
 - **S-4** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926069759/0001104659-26-069759-index.htm)
+
+- **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
 
 - **N-CSR** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526258751/0001193125-26-258751-index.htm)
