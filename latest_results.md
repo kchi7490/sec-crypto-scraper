@@ -129,6 +129,12 @@
 - **N-CSR** | GPS Funds I  (CIK 0001131042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000113322826008928/0001133228-26-008928-index.htm)
 
+- **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526259950/0001193125-26-259950-index.htm)
+
+- **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926019762/0001437749-26-019762-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
 
@@ -185,9 +191,6 @@
 
 - **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
-
-- **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926019762/0001437749-26-019762-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
