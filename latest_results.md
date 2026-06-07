@@ -3,17 +3,8 @@
 - **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826004577/0001683168-26-004577-index.htm)
 
-- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003637/0001477932-26-003637-index.htm)
-
-- **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002340/0001185185-26-002340-index.htm)
-
 - **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
-
-- **10-K** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000121390026065276/0001213900-26-065276-index.htm)
 
 - **424B3** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026065825/0001213900-26-065825-index.htm)
@@ -33,17 +24,8 @@
 - **N-CSRS** | Valkyrie ETF Trust II  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322826008914/0001133228-26-008914-index.htm)
 
-- **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026065394/0001213900-26-065394-index.htm)
-
 - **S-1** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226027509/0001493152-26-027509-index.htm)
-
-- **N-CSRS** | Amplify ETF Trust  (CIK 0001633061)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000113322826008833/0001133228-26-008833-index.htm)
-
-- **S-1/A** | Gameverse Interactive Corp  (CIK 0002017541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226027320/0001493152-26-027320-index.htm)
 
 - **424B5** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027521/0001493152-26-027521-index.htm)
@@ -57,23 +39,11 @@
 - **424B3** | IQM Finland Oy  (IQMX)  (CIK 0002113060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2113060/000119312526259957/0001193125-26-259957-index.htm)
 
-- **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000152013826000205/0001520138-26-000205-index.htm)
-
-- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000030/0001074828-26-000030-index.htm)
-
-- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065369/0001213900-26-065369-index.htm)
-
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065506/0001213900-26-065506-index.htm)
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027502/0001493152-26-027502-index.htm)
-
-- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926070584/0001104659-26-070584-index.htm)
 
 - **N-CSRS** | Tidal Trust I  (CIK 0001742912)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126012243/0001999371-26-012243-index.htm)
@@ -96,9 +66,6 @@
 - **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926019762/0001437749-26-019762-index.htm)
 
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226027206/0001493152-26-027206-index.htm)
-
 - **8-K** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526259992/0001193125-26-259992-index.htm)
 
@@ -111,17 +78,11 @@
 - **SCHEDULE 13D/A** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226027423/0001493152-26-027423-index.htm)
 
-- **6-K** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026065035/0001213900-26-065035-index.htm)
-
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226027417/0001493152-26-027417-index.htm)
 
 - **485BPOS** | Corgi ETF Trust I  (CIK 0002078265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000209/0002078265-26-000209-index.htm)
-
-- **424B4** | Liftoff Mobile, Inc.  (LFTO)  (CIK 0001850351)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1850351/000119312526257410/0001193125-26-257410-index.htm)
 
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041013/0001628280-26-041013-index.htm)
@@ -132,23 +93,14 @@
 - **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
 
-- **C/A** | NeuroGym LLC  (CIK 0002089067)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000209/0001872856-26-000209-index.htm)
-
 - **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526258295/0001193125-26-258295-index.htm)
-
-- **485APOS** | TWEEDY, BROWNE FUND INC.  (CIK 0000896975)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896975/000119312526257538/0001193125-26-257538-index.htm)
 
 - **10-K/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926070987/0001104659-26-070987-index.htm)
 
 - **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826057322/0001410368-26-057322-index.htm)
-
-- **NPORT-P/A** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000207169126013149/0002071691-26-013149-index.htm)
 
 - **N-CSR** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000119312526259907/0001193125-26-259907-index.htm)
@@ -158,7 +110,4 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008598/0000950103-26-008598-index.htm)
-
-- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008540/0000950103-26-008540-index.htm)
 
