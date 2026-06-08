@@ -3,11 +3,17 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027647/0001493152-26-027647-index.htm)
 
+- **N-CSR** | CYBER HORNET TRUST  (CIK 0001345125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000113322826008969/0001133228-26-008969-index.htm)
+
 - **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926007227/0001214659-26-007227-index.htm)
 
 - **S-3/A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226003676/0001477932-26-003676-index.htm)
+
+- **8-K** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026066255/0001213900-26-066255-index.htm)
 
 - **424B4** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026065972/0001213900-26-065972-index.htm)
@@ -48,11 +54,17 @@
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/0001628280-26-041365-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003098/0001062993-26-003098-index.htm)
+
 - **487** | FT 12977  (CIK 0002112780)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2112780/000144554626004257/0001445546-26-004257-index.htm)
 
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
+
+- **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326008625/0000950103-26-008625-index.htm)
