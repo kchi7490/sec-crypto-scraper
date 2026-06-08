@@ -48,6 +48,9 @@
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/0001628280-26-041365-index.htm)
 
+- **487** | FT 12977  (CIK 0002112780)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2112780/000144554626004257/0001445546-26-004257-index.htm)
+
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
