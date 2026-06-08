@@ -15,8 +15,14 @@
 - **8-K** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026066255/0001213900-26-066255-index.htm)
 
+- **425** | Northern Data AG  (CIK 0001863502)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026066327/0001213900-26-066327-index.htm)
+
 - **424B4** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026065972/0001213900-26-065972-index.htm)
+
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012382/0001999371-26-012382-index.htm)
 
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226027557/0001493152-26-027557-index.htm)
@@ -24,8 +30,17 @@
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226027556/0001493152-26-027556-index.htm)
 
+- **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226027765/0001493152-26-027765-index.htm)
+
 - **424B5** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026066052/0001213900-26-066052-index.htm)
+
+- **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226027724/0001493152-26-027724-index.htm)
+
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012389/0001999371-26-012389-index.htm)
 
 - **10-K** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526260688/0001193125-26-260688-index.htm)
@@ -42,14 +57,23 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526260709/0001193125-26-260709-index.htm)
 
+- **S-8** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000118518526002412/0001185185-26-002412-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
+
+- **N-CSR** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012380/0001999371-26-012380-index.htm)
 
 - **N-14 8C** | North Haven Private Income Fund LLC  (CIK 0001851322)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526260345/0001193125-26-260345-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926019787/0001437749-26-019787-index.htm)
+
+- **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026066338/0001213900-26-066338-index.htm)
 
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/0001628280-26-041365-index.htm)
@@ -65,6 +89,9 @@
 
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
+
+- **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000288/0001174610-26-000288-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326008625/0000950103-26-008625-index.htm)
