@@ -1,113 +1,56 @@
 ## 📁 Other Filings
 
-- **8-K** | Hawkeye Systems, Inc.  (HWKE)  (CIK 0001750777)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826004577/0001683168-26-004577-index.htm)
-
-- **S-1** | Grayscale Canton ETF  (CIK 0002138284)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.htm)
-
-- **424B3** | Securitize Holdings, Inc.  (SECZ)  (CIK 0002094496)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000121390026065825/0001213900-26-065825-index.htm)
-
-- **DEFM14A** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000121390026065822/0001213900-26-065822-index.htm)
-
-- **10-Q/A** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926019757/0001437749-26-019757-index.htm)
-
-- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026065857/0001213900-26-065857-index.htm)
-
-- **DEFM14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026065889/0001213900-26-065889-index.htm)
-
-- **N-CSRS** | Valkyrie ETF Trust II  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322826008914/0001133228-26-008914-index.htm)
-
-- **S-1** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226027509/0001493152-26-027509-index.htm)
-
-- **424B5** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027521/0001493152-26-027521-index.htm)
-
-- **DEF 14A** | Corvex, Inc.  (MOVE)  (CIK 0001734750)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1734750/000114036126024310/0001140361-26-024310-index.htm)
-
-- **DEFM14A** | Real Asset Acquisition Corp.  (RAAQ, RAAQU, RAAQW)  (CIK 0002052161)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2052161/000119312526259964/0001193125-26-259964-index.htm)
-
-- **424B3** | IQM Finland Oy  (IQMX)  (CIK 0002113060)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2113060/000119312526259957/0001193125-26-259957-index.htm)
-
-- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026065506/0001213900-26-065506-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027502/0001493152-26-027502-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226027647/0001493152-26-027647-index.htm)
 
-- **N-CSRS** | Tidal Trust I  (CIK 0001742912)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1742912/000199937126012243/0001999371-26-012243-index.htm)
+- **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926007227/0001214659-26-007227-index.htm)
 
-- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226003547/0000035402-26-003547-index.htm)
+- **S-3/A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226003676/0001477932-26-003676-index.htm)
 
-- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226003562/0000035402-26-003562-index.htm)
+- **424B4** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026065972/0001213900-26-065972-index.htm)
 
-- **N-CSR** | GPS Funds II  (CIK 0001504079)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1504079/000113322826008938/0001133228-26-008938-index.htm)
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226027557/0001493152-26-027557-index.htm)
 
-- **N-CSR** | GPS Funds I  (CIK 0001131042)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1131042/000113322826008928/0001133228-26-008928-index.htm)
+- **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226027556/0001493152-26-027556-index.htm)
 
-- **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526259950/0001193125-26-259950-index.htm)
+- **424B5** | CleanCore Solutions, Inc.  (ZONE)  (CIK 0001956741)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026066052/0001213900-26-066052-index.htm)
 
-- **8-K** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926019762/0001437749-26-019762-index.htm)
+- **10-K** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526260688/0001193125-26-260688-index.htm)
 
-- **8-K** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526259992/0001193125-26-259992-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026041386/0001628280-26-041386-index.htm)
 
-- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526259643/0001193125-26-259643-index.htm)
+- **8-K** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526260149/0001193125-26-260149-index.htm)
 
-- **DEF 14A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001007/0001640334-26-001007-index.htm)
+- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026066003/0001213900-26-066003-index.htm)
 
-- **SCHEDULE 13D/A** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226027423/0001493152-26-027423-index.htm)
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526260709/0001193125-26-260709-index.htm)
 
-- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226027417/0001493152-26-027417-index.htm)
+- **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
 
-- **485BPOS** | Corgi ETF Trust I  (CIK 0002078265)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000209/0002078265-26-000209-index.htm)
+- **N-14 8C** | North Haven Private Income Fund LLC  (CIK 0001851322)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526260345/0001193125-26-260345-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926019787/0001437749-26-019787-index.htm)
 
 - **FWP** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041013/0001628280-26-041013-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026041365/0001628280-26-041365-index.htm)
+
+- **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326008610/0000950103-26-008610-index.htm)
-
-- **S-1/A** | ERock, Inc.  (EROC)  (CIK 0002110029)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526258942/0001193125-26-258942-index.htm)
-
-- **424B4** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526258295/0001193125-26-258295-index.htm)
-
-- **10-K/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926070987/0001104659-26-070987-index.htm)
-
-- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826057322/0001410368-26-057322-index.htm)
-
-- **N-CSR** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000119312526259907/0001193125-26-259907-index.htm)
-
-- **N-CSR** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526258751/0001193125-26-258751-index.htm)
-
-- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008598/0000950103-26-008598-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326008625/0000950103-26-008625-index.htm)
 
