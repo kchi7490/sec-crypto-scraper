@@ -15,6 +15,9 @@
 - **8-K** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026066255/0001213900-26-066255-index.htm)
 
+- **F-1/A** | Web3Labs Global Inc.  (MDAT)  (CIK 0002091521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091521/000121390026066840/0001213900-26-066840-index.htm)
+
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026066327/0001213900-26-066327-index.htm)
 
@@ -60,6 +63,9 @@
 - **10-K** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526260688/0001193125-26-260688-index.htm)
 
+- **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000152013826000223/0001520138-26-000223-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026041386/0001628280-26-041386-index.htm)
 
@@ -78,6 +84,9 @@
 - **S-8** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000118518526002412/0001185185-26-002412-index.htm)
 
+- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026066829/0001213900-26-066829-index.htm)
+
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000775/0001193805-26-000775-index.htm)
 
@@ -86,6 +95,9 @@
 
 - **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026066499/0001213900-26-066499-index.htm)
+
+- **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012380/0001999371-26-012380-index.htm)
@@ -116,6 +128,9 @@
 
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
+
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001222/0001771146-26-001222-index.htm)
 
 - **4** | Raduenz Brian  (CIK 0002054312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054312/000119312526262112/0001193125-26-262112-index.htm)
