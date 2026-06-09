@@ -66,6 +66,9 @@
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026066003/0001213900-26-066003-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226027852/0001493152-26-027852-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526260709/0001193125-26-260709-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
+
+- **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026066499/0001213900-26-066499-index.htm)
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012380/0001999371-26-012380-index.htm)
