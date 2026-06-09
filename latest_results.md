@@ -126,11 +126,11 @@
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
-- **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
-
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001222/0001771146-26-001222-index.htm)
+
+- **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
 
 - **4** | Raduenz Brian  (CIK 0002054312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054312/000119312526262112/0001193125-26-262112-index.htm)
