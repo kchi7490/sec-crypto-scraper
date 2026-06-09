@@ -93,6 +93,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003098/0001062993-26-003098-index.htm)
 
+- **487** | FT 12977  (CIK 0002112780)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2112780/000144554626004257/0001445546-26-004257-index.htm)
+
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
