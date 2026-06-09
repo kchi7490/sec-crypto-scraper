@@ -27,6 +27,9 @@
 - **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226027773/0001493152-26-027773-index.htm)
 
+- **8-K** | Axiom Intelligence Acquisition Corp 1  (AXIN, AXINR, AXINU)  (CIK 0002057030)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057030/000121390026066551/0001213900-26-066551-index.htm)
+
 - **424B3** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226027557/0001493152-26-027557-index.htm)
 
