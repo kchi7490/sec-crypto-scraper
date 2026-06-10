@@ -12,6 +12,12 @@
 - **S-3/A** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226003676/0001477932-26-003676-index.htm)
 
+- **8-K** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/0001493152-26-028049-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/0001683168-26-004672-index.htm)
+
 - **8-K** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026066255/0001213900-26-066255-index.htm)
 
@@ -21,6 +27,9 @@
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026066327/0001213900-26-066327-index.htm)
 
+- **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020066/0001437749-26-020066-index.htm)
+
 - **424B4** | BlockchAIn Digital Infrastructure, Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026065972/0001213900-26-065972-index.htm)
 
@@ -29,6 +38,9 @@
 
 - **10-Q/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226027773/0001493152-26-027773-index.htm)
+
+- **S-1** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226028000/0001493152-26-028000-index.htm)
 
 - **8-K** | Axiom Intelligence Acquisition Corp 1  (AXIN, AXINR, AXINU)  (CIK 0002057030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057030/000121390026066551/0001213900-26-066551-index.htm)
@@ -56,6 +68,9 @@
 
 - **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226027771/0001493152-26-027771-index.htm)
+
+- **PRE 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026067182/0001213900-26-067182-index.htm)
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012389/0001999371-26-012389-index.htm)
@@ -90,9 +105,6 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026067042/0001213900-26-067042-index.htm)
 
-- **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020066/0001437749-26-020066-index.htm)
-
 - **S-8** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000118518526002412/0001185185-26-002412-index.htm)
 
@@ -105,26 +117,20 @@
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
 
-- **S-1** | OFA Group  (OFAL)  (CIK 0002036307)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226028000/0001493152-26-028000-index.htm)
-
 - **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026066499/0001213900-26-066499-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
 
+- **424H** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001721/0001539497-26-001721-index.htm)
+
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012380/0001999371-26-012380-index.htm)
 
-- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/0001683168-26-004672-index.htm)
-
 - **N-14 8C** | North Haven Private Income Fund LLC  (CIK 0001851322)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526260345/0001193125-26-260345-index.htm)
-
-- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390026067094/0001213900-26-067094-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926019787/0001437749-26-019787-index.htm)
@@ -159,6 +165,9 @@
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
+- **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
+
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
 
@@ -167,9 +176,6 @@
 
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926017700/0000894189-26-017700-index.htm)
-
-- **8-K** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/0001493152-26-028049-index.htm)
 
 - **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000288/0001174610-26-000288-index.htm)
