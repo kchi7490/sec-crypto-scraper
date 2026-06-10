@@ -112,10 +112,25 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026066829/0001213900-26-066829-index.htm)
 
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000788/0001193805-26-000788-index.htm)
+
+- **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000775/0001193805-26-000775-index.htm)
+
+- **424B3** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126012574/0001999371-26-012574-index.htm)
 
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
+
+- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
+
+- **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
 
 - **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026066499/0001213900-26-066499-index.htm)
@@ -129,11 +144,23 @@
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126012380/0001999371-26-012380-index.htm)
 
+- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003751/0001477932-26-003751-index.htm)
+
 - **N-14 8C** | North Haven Private Income Fund LLC  (CIK 0001851322)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526260345/0001193125-26-260345-index.htm)
 
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000121390026067094/0001213900-26-067094-index.htm)
+
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926019787/0001437749-26-019787-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226028102/0001493152-26-028102-index.htm)
+
+- **F-3/A** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026067333/0001213900-26-067333-index.htm)
 
 - **DEF 14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026066338/0001213900-26-066338-index.htm)
@@ -153,6 +180,9 @@
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026042070/0001628280-26-042070-index.htm)
 
+- **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
+
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003098/0001062993-26-003098-index.htm)
 
@@ -165,14 +195,17 @@
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
-- **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
-
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
 
 - **4** | Raduenz Brian  (CIK 0002054312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054312/000119312526262112/0001193125-26-262112-index.htm)
+
+- **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
+
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926020200/0001437749-26-020200-index.htm)
 
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926017700/0000894189-26-017700-index.htm)
