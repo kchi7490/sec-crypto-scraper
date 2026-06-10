@@ -120,14 +120,14 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003098/0001062993-26-003098-index.htm)
 
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001222/0001771146-26-001222-index.htm)
+
 - **487** | FT 12977  (CIK 0002112780)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2112780/000144554626004257/0001445546-26-004257-index.htm)
 
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
-
-- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001222/0001771146-26-001222-index.htm)
 
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
