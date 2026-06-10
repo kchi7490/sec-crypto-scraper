@@ -21,11 +21,23 @@
 - **8-K** | Keystone Acquisition Corp.  (KEYY)  (CIK 0002102771)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2102771/000121390026066255/0001213900-26-066255-index.htm)
 
+- **424B3** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126012574/0001999371-26-012574-index.htm)
+
 - **F-1/A** | Web3Labs Global Inc.  (MDAT)  (CIK 0002091521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091521/000121390026066840/0001213900-26-066840-index.htm)
 
+- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
+
 - **425** | Northern Data AG  (CIK 0001863502)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1863502/000121390026066327/0001213900-26-066327-index.htm)
+
+- **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
 
 - **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020066/0001437749-26-020066-index.htm)
@@ -117,23 +129,14 @@
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000775/0001193805-26-000775-index.htm)
 
-- **424B3** | Canary HBAR ETF  (CIK 0002039458)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126012574/0001999371-26-012574-index.htm)
-
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/0000950103-26-008635-index.htm)
 
-- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
-
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
-
-- **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
-
 - **S-1/A** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026066499/0001213900-26-066499-index.htm)
+
+- **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
@@ -180,14 +183,14 @@
 - **6-K** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026042070/0001628280-26-042070-index.htm)
 
-- **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
-
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003098/0001062993-26-003098-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001222/0001771146-26-001222-index.htm)
+
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926020200/0001437749-26-020200-index.htm)
 
 - **487** | FT 12977  (CIK 0002112780)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2112780/000144554626004257/0001445546-26-004257-index.htm)
@@ -195,24 +198,30 @@
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.htm)
 
+- **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
+
 - **N-CSR** | Destra Multi-Alternative Fund  (DMA)  (CIK 0001523289)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1523289/000182912626006176/0001829126-26-006176-index.htm)
+
+- **424B4** | ERock, Inc.  (EROC)  (CIK 0002110029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526265898/0001193125-26-265898-index.htm)
 
 - **4** | Raduenz Brian  (CIK 0002054312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054312/000119312526262112/0001193125-26-262112-index.htm)
 
-- **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
-
-- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926020200/0001437749-26-020200-index.htm)
-
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926017700/0000894189-26-017700-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008787/0000950103-26-008787-index.htm)
 
 - **485BPOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000288/0001174610-26-000288-index.htm)
 
 - **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326008625/0000950103-26-008625-index.htm)
+
+- **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226028105/0001493152-26-028105-index.htm)
 
