@@ -3,8 +3,14 @@
 - **8-K** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226028049/0001493152-26-028049-index.htm)
 
+- **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007365/0001214659-26-007365-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/0001683168-26-004672-index.htm)
+
+- **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926072831/0001104659-26-072831-index.htm)
 
 - **8-K** | TransparentBusiness, Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626006331/0001829126-26-006331-index.htm)
@@ -15,11 +21,11 @@
 - **F-1/A** | Web3Labs Global Inc.  (MDAT)  (CIK 0002091521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091521/000121390026066840/0001213900-26-066840-index.htm)
 
-- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
-
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
+
+- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
 
 - **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
@@ -39,6 +45,9 @@
 - **PRE 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026067182/0001213900-26-067182-index.htm)
 
+- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/0001829126-26-006354-index.htm)
+
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226028223/0001493152-26-028223-index.htm)
 
@@ -51,6 +60,9 @@
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526265129/0001193125-26-265129-index.htm)
 
+- **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926072951/0001104659-26-072951-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226027852/0001493152-26-027852-index.htm)
 
@@ -59,6 +71,9 @@
 
 - **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026066829/0001213900-26-066829-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007363/0001214659-26-007363-index.htm)
 
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000788/0001193805-26-000788-index.htm)
@@ -75,14 +90,14 @@
 - **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
 
+- **DEF 14A** | PSQ Holdings, Inc.  (PSQH, PSQH-WT)  (CIK 0001847064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847064/000114036126024933/0001140361-26-024933-index.htm)
+
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126012614/0001999371-26-012614-index.htm)
 
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
-
-- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/0001829126-26-006354-index.htm)
 
 - **424H** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001721/0001539497-26-001721-index.htm)
@@ -126,6 +141,9 @@
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926020200/0001437749-26-020200-index.htm)
 
+- **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826009159/0001133228-26-009159-index.htm)
+
 - **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
 
@@ -137,6 +155,9 @@
 
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926017700/0000894189-26-017700-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526267315/0001193125-26-267315-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326008787/0000950103-26-008787-index.htm)
