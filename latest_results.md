@@ -39,9 +39,6 @@
 - **PRE 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026067182/0001213900-26-067182-index.htm)
 
-- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/0001829126-26-006354-index.htm)
-
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226028223/0001493152-26-028223-index.htm)
 
@@ -84,6 +81,9 @@
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
 
+- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/0001829126-26-006354-index.htm)
+
 - **424H** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001721/0001539497-26-001721-index.htm)
 
@@ -108,6 +108,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026066532/0001213900-26-066532-index.htm)
 
+- **6-K** | Bitzero Holdings Inc.  (AIBZ, BTZRF)  (CIK 0002100457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626000997/0001753926-26-000997-index.htm)
+
 - **6-K** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390026067098/0001213900-26-067098-index.htm)
 
@@ -128,6 +131,9 @@
 
 - **424B4** | ERock, Inc.  (EROC)  (CIK 0002110029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110029/000119312526265898/0001193125-26-265898-index.htm)
+
+- **N-CEN** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000141036826057847/0001410368-26-057847-index.htm)
 
 - **N-CEN** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000089418926017700/0000894189-26-017700-index.htm)
