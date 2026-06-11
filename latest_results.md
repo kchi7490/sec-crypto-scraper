@@ -6,6 +6,9 @@
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/0001683168-26-004672-index.htm)
 
+- **8-K** | TransparentBusiness, Inc.  (CIK 0001740742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626006331/0001829126-26-006331-index.htm)
+
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126012574/0001999371-26-012574-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020066/0001437749-26-020066-index.htm)
+
+- **10-Q** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000025/0001326380-26-000025-index.htm)
 
 - **S-1** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226028000/0001493152-26-028000-index.htm)
@@ -53,6 +59,9 @@
 
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000788/0001193805-26-000788-index.htm)
+
+- **8-K** | BILI Social International, Inc.  (AGGI)  (CIK 0001109262)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1109262/000168316826004722/0001683168-26-004722-index.htm)
 
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000775/0001193805-26-000775-index.htm)
