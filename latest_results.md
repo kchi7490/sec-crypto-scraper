@@ -39,6 +39,12 @@
 - **PRE 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026067182/0001213900-26-067182-index.htm)
 
+- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/0001829126-26-006354-index.htm)
+
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226028223/0001493152-26-028223-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526265131/0001193125-26-265131-index.htm)
 
@@ -72,11 +78,17 @@
 - **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
 
+- **485APOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126012614/0001999371-26-012614-index.htm)
+
 - **F-1/A** | Cansince Innovations Inc.  (CIK 0002058930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058930/000121390026066792/0001213900-26-066792-index.htm)
 
 - **424H** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001721/0001539497-26-001721-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226028226/0001493152-26-028226-index.htm)
 
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003751/0001477932-26-003751-index.htm)
@@ -86,6 +98,9 @@
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226028102/0001493152-26-028102-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926072672/0001104659-26-072672-index.htm)
 
 - **F-3/A** | NewcelX Ltd.  (NCEL)  (CIK 0001783036)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783036/000121390026067333/0001213900-26-067333-index.htm)
