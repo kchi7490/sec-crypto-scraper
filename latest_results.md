@@ -21,11 +21,11 @@
 - **424B3** | Canary HBAR ETF  (CIK 0002039458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126012574/0001999371-26-012574-index.htm)
 
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
-
 - **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067344/0001213900-26-067344-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
 
 - **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
@@ -119,6 +119,9 @@
 
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926020200/0001437749-26-020200-index.htm)
+
+- **487** | FT 12979  (CIK 0002112782)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2112782/000144554626004366/0001445546-26-004366-index.htm)
 
 - **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826009159/0001133228-26-009159-index.htm)
