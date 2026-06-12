@@ -27,6 +27,12 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
 
+- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326008934/0000950103-26-008934-index.htm)
+
+- **425** | Securitize, Inc.  (CIK 0001762096)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326008932/0000950103-26-008932-index.htm)
+
 - **S-1/A** | Grayscale Near Trust (NEAR)  (GSNR)  (CIK 0002025000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025000/000119312526269337/0001193125-26-269337-index.htm)
 
@@ -35,6 +41,12 @@
 
 - **S-1/A** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020066/0001437749-26-020066-index.htm)
+
+- **424B3** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020497/0001437749-26-020497-index.htm)
+
+- **485APOS** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012776/0001999371-26-012776-index.htm)
 
 - **10-Q** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000025/0001326380-26-000025-index.htm)
@@ -54,6 +66,9 @@
 - **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226028321/0001493152-26-028321-index.htm)
 
+- **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000189/0001663577-26-000189-index.htm)
+
 - **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226028223/0001493152-26-028223-index.htm)
 
@@ -69,6 +84,9 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000121390026067042/0001213900-26-067042-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226028483/0001493152-26-028483-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007363/0001214659-26-007363-index.htm)
 
@@ -83,6 +101,9 @@
 
 - **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068287/0001213900-26-068287-index.htm)
+
+- **S-1** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026068372/0001213900-26-068372-index.htm)
 
 - **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
@@ -173,6 +194,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/0001174610-26-000325-index.htm)
+
+- **497** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012778/0001999371-26-012778-index.htm)
 
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226028105/0001493152-26-028105-index.htm)
