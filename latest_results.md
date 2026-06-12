@@ -27,6 +27,9 @@
 - **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067349/0001213900-26-067349-index.htm)
 
+- **S-1/A** | Grayscale Near Trust (NEAR)  (GSNR)  (CIK 0002025000)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025000/000119312526269337/0001193125-26-269337-index.htm)
+
 - **DEFA14A** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026067350/0001213900-26-067350-index.htm)
 
@@ -69,11 +72,17 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007363/0001214659-26-007363-index.htm)
 
+- **S-3/A** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119380526000804/0001193805-26-000804-index.htm)
+
 - **SC TO-I/A** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000119380526000788/0001193805-26-000788-index.htm)
 
 - **8-K** | BILI Social International, Inc.  (AGGI)  (CIK 0001109262)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1109262/000168316826004722/0001683168-26-004722-index.htm)
+
+- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068287/0001213900-26-068287-index.htm)
 
 - **S-4** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/0001062993-26-003144-index.htm)
@@ -89,6 +98,9 @@
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226028226/0001493152-26-028226-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000041/0001815776-26-000041-index.htm)
 
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226003751/0001477932-26-003751-index.htm)
@@ -132,6 +144,9 @@
 - **8-A12B** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020341/0001437749-26-020341-index.htm)
 
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068291/0001213900-26-068291-index.htm)
+
 - **485BPOS** | RBB Fund Trust  (CIK 0001618627)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.htm)
 
@@ -152,6 +167,9 @@
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000324/0001174610-26-000324-index.htm)
+
+- **497** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000331/0001174610-26-000331-index.htm)
 
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/0001174610-26-000325-index.htm)
