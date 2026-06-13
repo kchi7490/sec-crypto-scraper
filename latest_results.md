@@ -84,6 +84,30 @@
 - **6-K** | Bitzero Holdings Inc.  (AIBZ, BTZRF)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626000997/0001753926-26-000997-index.htm)
 
+- **487** | FT 12979  (CIK 0002112782)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2112782/000144554626004366/0001445546-26-004366-index.htm)
+
+- **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000113322826009159/0001133228-26-009159-index.htm)
+
+- **424B4** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/0001628280-26-042639-index.htm)
+
+- **8-A12B** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020341/0001437749-26-020341-index.htm)
+
+- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068291/0001213900-26-068291-index.htm)
+
+- **N-CEN** | SCHWAB STRATEGIC TRUST  (CIK 0001454889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1454889/000141036826057847/0001410368-26-057847-index.htm)
+
+- **N-2/A** | Buttonwood First Access Fund Ltd.  (CIK 0002104046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2104046/000121390026067890/0001213900-26-067890-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526267315/0001193125-26-267315-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000324/0001174610-26-000324-index.htm)
 
@@ -98,7 +122,4 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008859/0000950103-26-008859-index.htm)
-
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068291/0001213900-26-068291-index.htm)
 
