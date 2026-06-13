@@ -108,14 +108,17 @@
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526267315/0001193125-26-267315-index.htm)
 
-- **497** | CoinShares ETF Trust  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012778/0001999371-26-012778-index.htm)
-
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000324/0001174610-26-000324-index.htm)
 
+- **497** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000331/0001174610-26-000331-index.htm)
+
 - **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/0001174610-26-000325-index.htm)
+
+- **497** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012778/0001999371-26-012778-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326008859/0000950103-26-008859-index.htm)
