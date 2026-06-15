@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226028622/0001493152-26-028622-index.htm)
 
+- **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002508/0001185185-26-002508-index.htm)
+
 - **S-4** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026068446/0001213900-26-068446-index.htm)
 
@@ -23,4 +26,10 @@
 
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
+
+- **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+
+- **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
 
