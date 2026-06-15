@@ -1,53 +1,26 @@
 ## 📁 Other Filings
 
-- **425** | Cantor Equity Partners II, Inc.  (CEPT)  (CIK 0002034269)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034269/000095010326008934/0000950103-26-008934-index.htm)
-
-- **425** | Securitize, Inc.  (CIK 0001762096)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1762096/000095010326008932/0000950103-26-008932-index.htm)
-
-- **S-1/A** | Grayscale Near Trust (NEAR)  (GSNR)  (CIK 0002025000)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2025000/000119312526269337/0001193125-26-269337-index.htm)
-
-- **424B3** | iShares Bitcoin Premium Income ETF  (CIK 0002089969)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926020497/0001437749-26-020497-index.htm)
-
-- **485APOS** | CoinShares ETF Trust  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012776/0001999371-26-012776-index.htm)
-
-- **S-1/A** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226028336/0001493152-26-028336-index.htm)
-
-- **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000189/0001663577-26-000189-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226028483/0001493152-26-028483-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226028622/0001493152-26-028622-index.htm)
 
-- **S-3/A** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119380526000804/0001193805-26-000804-index.htm)
+- **S-4** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026068446/0001213900-26-068446-index.htm)
 
-- **8-K** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068287/0001213900-26-068287-index.htm)
+- **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026068442/0001213900-26-068442-index.htm)
 
-- **S-1** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026068372/0001213900-26-068372-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026043032/0001628280-26-043032-index.htm)
 
-- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000041/0001815776-26-000041-index.htm)
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526270311/0001193125-26-270311-index.htm)
 
-- **487** | FT 12979  (CIK 0002112782)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2112782/000144554626004366/0001445546-26-004366-index.htm)
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526270366/0001193125-26-270366-index.htm)
 
-- **424B4** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/0001628280-26-042639-index.htm)
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226028601/0001493152-26-028601-index.htm)
 
-- **425** | M3-Brigade Acquisition V Corp.  (MBAV, MBAVU, MBAVW)  (CIK 0002016072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026068291/0001213900-26-068291-index.htm)
-
-- **497** | PROSHARES TRUST  (CIK 0001174610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000331/0001174610-26-000331-index.htm)
-
-- **497** | CoinShares ETF Trust  (CIK 0001877493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126012778/0001999371-26-012778-index.htm)
+- **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
 
