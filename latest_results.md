@@ -15,6 +15,9 @@
 - **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002508/0001185185-26-002508-index.htm)
 
+- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526272886/0001193125-26-272886-index.htm)
+
 - **S-4** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026068446/0001213900-26-068446-index.htm)
 
@@ -42,6 +45,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526270366/0001193125-26-270366-index.htm)
 
+- **S-1** | Market Technology Acquisition Corp  (CIK 0002133136)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026069333/0001213900-26-069333-index.htm)
+
 - **10-12G/A** | HarbourVest Private Equity Secondaries Fund (TE) L.P.  (CIK 0002117580)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2117580/000119312526272456/0001193125-26-272456-index.htm)
 
@@ -57,11 +63,8 @@
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926020727/0001437749-26-020727-index.htm)
 
-- **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
-
-- **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+- **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126012919/0001999371-26-012919-index.htm)
 
 - **10-12G** | American CryptoFed  (CIK 0001881928)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881928/000188192826000006/0001881928-26-000006-index.htm)
@@ -69,14 +72,26 @@
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/0001999371-26-012872-index.htm)
 
-- **NPORT-P/A** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826061868/0001410368-26-061868-index.htm)
-
 - **S-1/A** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626000960/0001096906-26-000960-index.htm)
 
+- **487** | FT 12982  (CIK 0002119974)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119974/000144554626004402/0001445546-26-004402-index.htm)
+
+- **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
+
+- **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+
+- **NPORT-P/A** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826061868/0001410368-26-061868-index.htm)
+
 - **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026068988/0001213900-26-068988-index.htm)
+
+- **NT N-CEN** | CYBER HORNET TRUST  (CIK 0001345125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000089418926017888/0000894189-26-017888-index.htm)
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
