@@ -21,6 +21,9 @@
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526271242/0001193125-26-271242-index.htm)
 
+- **F-4** | OpenPayd Global Holdings Ltd  (CIK 0002119416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119416/000182912626006526/0001829126-26-006526-index.htm)
+
 - **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026068442/0001213900-26-068442-index.htm)
 
@@ -51,11 +54,17 @@
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/0001999371-26-012872-index.htm)
 
+- **487** | FT 12982  (CIK 0002119974)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119974/000144554626004402/0001445546-26-004402-index.htm)
+
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
 
 - **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+
+- **NPORT-P/A** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826061868/0001410368-26-061868-index.htm)
 
 - **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026068988/0001213900-26-068988-index.htm)
