@@ -45,3 +45,6 @@
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
 
+- **SCHEDULE 13D/A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000091228226000837/0000912282-26-000837-index.htm)
+
