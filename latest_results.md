@@ -6,6 +6,12 @@
 - **10-Q** | DevvStream Corp.  (DEVS)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000114036126025221/0001140361-26-025221-index.htm)
 
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004847/0001683168-26-004847-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826004852/0001683168-26-004852-index.htm)
+
 - **F-1/A** | Coolbit Technologies Ltd  (CBAI)  (CIK 0002082729)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082729/000118518526002508/0001185185-26-002508-index.htm)
 
@@ -36,11 +42,23 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226028601/0001493152-26-028601-index.htm)
 
+- **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926020727/0001437749-26-020727-index.htm)
+
+- **10-12G** | American CryptoFed  (CIK 0001881928)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881928/000188192826000006/0001881928-26-000006-index.htm)
+
+- **485APOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/0001999371-26-012872-index.htm)
+
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
 
 - **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+
+- **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026068988/0001213900-26-068988-index.htm)
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
