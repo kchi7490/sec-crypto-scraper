@@ -48,6 +48,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526270366/0001193125-26-270366-index.htm)
 
+- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026069432/0001213900-26-069432-index.htm)
+
 - **S-1** | Market Technology Acquisition Corp  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026069333/0001213900-26-069333-index.htm)
 
@@ -98,7 +101,4 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
-
-- **SCHEDULE 13D/A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000091228226000837/0000912282-26-000837-index.htm)
 
