@@ -18,8 +18,14 @@
 - **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526272886/0001193125-26-272886-index.htm)
 
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069434/0001213900-26-069434-index.htm)
+
 - **S-4** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026068446/0001213900-26-068446-index.htm)
+
+- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069436/0001213900-26-069436-index.htm)
 
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526271242/0001193125-26-271242-index.htm)
@@ -101,4 +107,7 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
+
+- **SCHEDULE 13D/A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000091228226000837/0000912282-26-000837-index.htm)
 
