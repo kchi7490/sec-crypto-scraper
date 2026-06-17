@@ -18,8 +18,14 @@
 - **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526272886/0001193125-26-272886-index.htm)
 
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069434/0001213900-26-069434-index.htm)
+
 - **S-4** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026068446/0001213900-26-068446-index.htm)
+
+- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069436/0001213900-26-069436-index.htm)
 
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526271242/0001193125-26-271242-index.htm)
@@ -42,20 +48,29 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007477/0001214659-26-007477-index.htm)
 
+- **POSASR** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003227/0001062993-26-003227-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526270366/0001193125-26-270366-index.htm)
 
+- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026069432/0001213900-26-069432-index.htm)
+
+- **424B4** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026069612/0001213900-26-069612-index.htm)
+
 - **S-1** | Market Technology Acquisition Corp  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026069333/0001213900-26-069333-index.htm)
+
+- **424B3** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003240/0001062993-26-003240-index.htm)
 
 - **10-12G/A** | HarbourVest Private Equity Secondaries Fund (TE) L.P.  (CIK 0002117580)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2117580/000119312526272456/0001193125-26-272456-index.htm)
 
 - **10-12G/A** | HarbourVest Private Equity Secondaries Fund L.P.  (CIK 0002097887)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097887/000119312526272445/0001193125-26-272445-index.htm)
-
-- **POSASR** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003227/0001062993-26-003227-index.htm)
 
 - **DEFR14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026069284/0001213900-26-069284-index.htm)
@@ -90,12 +105,6 @@
 - **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
 
-- **424B4** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026069612/0001213900-26-069612-index.htm)
-
-- **424B3** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003240/0001062993-26-003240-index.htm)
-
 - **NPORT-P/A** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826061868/0001410368-26-061868-index.htm)
 
@@ -116,9 +125,6 @@
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
-
-- **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926075150/0001104659-26-075150-index.htm)
 
 - **SCHEDULE 13D/A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000091228226000837/0000912282-26-000837-index.htm)
