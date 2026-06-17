@@ -93,6 +93,9 @@
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
 
+- **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826004910/0001683168-26-004910-index.htm)
+
 - **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
 
@@ -104,6 +107,9 @@
 
 - **NT N-CEN** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000089418926017888/0000894189-26-017888-index.htm)
+
+- **N-CEN/A** | CYBER HORNET TRUST  (CIK 0001345125)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000089418926017909/0000894189-26-017909-index.htm)
 
 - **10-Q** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926020632/0001437749-26-020632-index.htm)
