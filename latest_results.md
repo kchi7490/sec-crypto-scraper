@@ -81,6 +81,9 @@
 - **424B3** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526270270/0001193125-26-270270-index.htm)
 
+- **RW** | Bitwise Bitcoin & Ethereum ETF  (CIK 0002046328)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2046328/000121390026068578/0001213900-26-068578-index.htm)
+
 - **NPORT-P/A** | Coatue Innovative Strategies Fund  (CIK 0002044519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044519/000141036826061868/0001410368-26-061868-index.htm)
 
