@@ -42,14 +42,23 @@
 - **10-12G/A** | HarbourVest Private Equity Secondaries Fund (TE) L.P.  (CIK 0002117580)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2117580/000119312526272456/0001193125-26-272456-index.htm)
 
+- **S-4/A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826004950/0001683168-26-004950-index.htm)
+
 - **10-12G/A** | HarbourVest Private Equity Secondaries Fund L.P.  (CIK 0002097887)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097887/000119312526272445/0001193125-26-272445-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226029211/0001493152-26-029211-index.htm)
 
 - **DEFR14A** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026069284/0001213900-26-069284-index.htm)
 
 - **6-K** | BitVentures Ltd  (BVC)  (CIK 0001785680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1785680/000143774926020727/0001437749-26-020727-index.htm)
+
+- **F-3/A** | The9 LTD  (NCTY)  (CIK 0001296774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926075465/0001104659-26-075465-index.htm)
 
 - **S-1/A** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126012919/0001999371-26-012919-index.htm)
@@ -86,4 +95,7 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010980/0001398344-26-010980-index.htm)
+
+- **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026069777/0001213900-26-069777-index.htm)
 
