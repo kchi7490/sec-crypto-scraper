@@ -99,9 +99,6 @@
 - **SUPPL** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299326003265/0001062993-26-003265-index.htm)
 
-- **F-3/A** | The9 LTD  (NCTY)  (CIK 0001296774)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926075465/0001104659-26-075465-index.htm)
-
 - **485APOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526275515/0001193125-26-275515-index.htm)
 
@@ -126,23 +123,11 @@
 - **10-Q** | Kindcard, Inc.  (KCRD)  (CIK 0001696025)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1696025/000147793226003908/0001477932-26-003908-index.htm)
 
-- **N-CEN/A** | CYBER HORNET TRUST  (CIK 0001345125)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000089418926017909/0000894189-26-017909-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010980/0001398344-26-010980-index.htm)
-
-- **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626006668/0001829126-26-006668-index.htm)
-
-- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526276049/0001193125-26-276049-index.htm)
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009233/0000950103-26-009233-index.htm)
 
 - **425** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026069777/0001213900-26-069777-index.htm)
-
-- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009233/0000950103-26-009233-index.htm)
 
 - **10-Q** | BASIN ELECTRIC POWER COOPERATIVE  (CIK 0000720515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720515/000162828026044203/0001628280-26-044203-index.htm)
