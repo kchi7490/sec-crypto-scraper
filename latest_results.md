@@ -3,9 +3,6 @@
 - **8-K** | SRx Health Solutions, Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226029254/0001493152-26-029254-index.htm)
 
-- **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926075150/0001104659-26-075150-index.htm)
-
 - **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007574/0001214659-26-007574-index.htm)
 
@@ -27,17 +24,8 @@
 - **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926075843/0001104659-26-075843-index.htm)
 
-- **10-12G** | Glow Holdings, Inc.  (CIK 0001114859)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1114859/000168316826004901/0001683168-26-004901-index.htm)
-
-- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069434/0001213900-26-069434-index.htm)
-
 - **PRE 14A** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026070208/0001213900-26-070208-index.htm)
-
-- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026069436/0001213900-26-069436-index.htm)
 
 - **S-4/A** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226029236/0001493152-26-029236-index.htm)
@@ -66,20 +54,8 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR, BMNEP)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226029361/0001493152-26-029361-index.htm)
 
-- **POSASR** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003227/0001062993-26-003227-index.htm)
-
-- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026069432/0001213900-26-069432-index.htm)
-
-- **424B4** | Cantor Equity Partners VII, Inc.  (CAES)  (CIK 0002087965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2087965/000121390026069612/0001213900-26-069612-index.htm)
-
 - **8-K** | RUM Group Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026070201/0001213900-26-070201-index.htm)
-
-- **424B3** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326003240/0001062993-26-003240-index.htm)
 
 - **S-4/A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826004950/0001683168-26-004950-index.htm)
@@ -105,9 +81,6 @@
 - **485APOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526275515/0001193125-26-275515-index.htm)
 
-- **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826004910/0001683168-26-004910-index.htm)
-
 - **485APOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526275509/0001193125-26-275509-index.htm)
 
@@ -122,15 +95,6 @@
 
 - **NPORT-P/A** | BlackRock Funds V  (CIK 0001738078)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000207169126013355/0002071691-26-013355-index.htm)
-
-- **10-Q** | Kindcard, Inc.  (KCRD)  (CIK 0001696025)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1696025/000147793226003908/0001477932-26-003908-index.htm)
-
-- **N-CEN/A** | CYBER HORNET TRUST  (CIK 0001345125)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000089418926017909/0000894189-26-017909-index.htm)
-
-- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426010980/0001398344-26-010980-index.htm)
 
 - **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626006668/0001829126-26-006668-index.htm)
