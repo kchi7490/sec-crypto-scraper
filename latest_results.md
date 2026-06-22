@@ -45,6 +45,9 @@
 - **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
 
+- **424B5** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226029639/0001493152-26-029639-index.htm)
+
 - **6-K** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000119312526276623/0001193125-26-276623-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **N-CSRS** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000119312526276848/0001193125-26-276848-index.htm)
+
+- **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226029641/0001493152-26-029641-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009274/0000950103-26-009274-index.htm)
