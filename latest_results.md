@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029804/0001493152-26-029804-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226029507/0001493152-26-029507-index.htm)
 
@@ -12,11 +15,23 @@
 - **424B5** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029734/0001493152-26-029734-index.htm)
 
+- **10-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000148254126000019/0001482541-26-000019-index.htm)
+
+- **10-Q/A** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029788/0001493152-26-029788-index.htm)
+
+- **10-Q/A** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029789/0001493152-26-029789-index.htm)
+
 - **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026070862/0001213900-26-070862-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026070865/0001213900-26-070865-index.htm)
+
+- **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226029811/0001493152-26-029811-index.htm)
 
 - **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026070613/0001213900-26-070613-index.htm)
@@ -24,11 +39,17 @@
 - **PRE 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036126025957/0001140361-26-025957-index.htm)
 
+- **F-4** | WISeSat.Space Holdings Corp.  (CIK 0002101411)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026071078/0001213900-26-071078-index.htm)
+
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000630/0001137360-26-000630-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000627/0001137360-26-000627-index.htm)
+
+- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029784/0001493152-26-029784-index.htm)
 
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
@@ -53,6 +74,9 @@
 
 - **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
+
+- **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026071102/0001213900-26-071102-index.htm)
 
 - **20-F** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026070607/0001213900-26-070607-index.htm)
