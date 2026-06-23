@@ -18,6 +18,9 @@
 - **10-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000148254126000019/0001482541-26-000019-index.htm)
 
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013285/0001999371-26-013285-index.htm)
+
 - **10-Q/A** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029788/0001493152-26-029788-index.htm)
 
@@ -65,6 +68,15 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526276717/0001193125-26-276717-index.htm)
+
+- **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071186/0001213900-26-071186-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071192/0001213900-26-071192-index.htm)
+
+- **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926021459/0001437749-26-021459-index.htm)
 
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029520/0001493152-26-029520-index.htm)
@@ -119,9 +131,6 @@
 
 - **20-F/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026070267/0001213900-26-070267-index.htm)
-
-- **487** | FT 12984  (CIK 0002119977)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
 
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826009338/0001133228-26-009338-index.htm)
