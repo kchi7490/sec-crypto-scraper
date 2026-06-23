@@ -132,6 +132,9 @@
 - **20-F/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026070267/0001213900-26-070267-index.htm)
 
+- **487** | FT 12984  (CIK 0002119977)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
+
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826009338/0001133228-26-009338-index.htm)
 
