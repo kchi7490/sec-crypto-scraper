@@ -6,6 +6,12 @@
 - **8-K** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm)
 
+- **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026070862/0001213900-26-070862-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026070865/0001213900-26-070865-index.htm)
+
 - **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026070613/0001213900-26-070613-index.htm)
 
@@ -18,35 +24,14 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000627/0001137360-26-000627-index.htm)
 
-- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026044484/0001628280-26-044484-index.htm)
-
-- **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526276717/0001193125-26-276717-index.htm)
-
-- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029520/0001493152-26-029520-index.htm)
-
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003293/0001062993-26-003293-index.htm)
-
-- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
+- **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
 
 - **20-F** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026070607/0001213900-26-070607-index.htm)
 
-- **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
-
-- **424B5** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226029639/0001493152-26-029639-index.htm)
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226029714/0001493152-26-029714-index.htm)
 
 - **6-K** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000119312526276623/0001193125-26-276623-index.htm)
@@ -87,6 +72,24 @@
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009274/0000950103-26-009274-index.htm)
 
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526278557/0001193125-26-278557-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026044484/0001628280-26-044484-index.htm)
+
+- **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
+
+- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
+
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326009255/0000950103-26-009255-index.htm)
+
+- **424B5** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226029639/0001493152-26-029639-index.htm)
 
