@@ -1,5 +1,23 @@
 ## 📁 Other Filings
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226029507/0001493152-26-029507-index.htm)
+
+- **8-K** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm)
+
+- **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026070613/0001213900-26-070613-index.htm)
+
+- **PRE 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036126025957/0001140361-26-025957-index.htm)
+
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000630/0001137360-26-000630-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000627/0001137360-26-000627-index.htm)
+
 - **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
 
@@ -12,9 +30,6 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526276717/0001193125-26-276717-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226029507/0001493152-26-029507-index.htm)
-
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029520/0001493152-26-029520-index.htm)
 
@@ -26,9 +41,6 @@
 
 - **20-F** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026070607/0001213900-26-070607-index.htm)
-
-- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000627/0001137360-26-000627-index.htm)
 
 - **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
@@ -63,17 +75,14 @@
 - **20-F/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026070267/0001213900-26-070267-index.htm)
 
-- **PRE 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036126025957/0001140361-26-025957-index.htm)
-
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826009338/0001133228-26-009338-index.htm)
 
 - **N-CSRS** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000119312526276848/0001193125-26-276848-index.htm)
 
-- **DEF 14A** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026070613/0001213900-26-070613-index.htm)
+- **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226029641/0001493152-26-029641-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009274/0000950103-26-009274-index.htm)
