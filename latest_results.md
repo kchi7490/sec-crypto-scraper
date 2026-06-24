@@ -51,11 +51,53 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000627/0001137360-26-000627-index.htm)
 
-- **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
+- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029784/0001493152-26-029784-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026044484/0001628280-26-044484-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526278557/0001193125-26-278557-index.htm)
+
+- **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526276717/0001193125-26-276717-index.htm)
+
+- **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071186/0001213900-26-071186-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071192/0001213900-26-071192-index.htm)
+
+- **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926021459/0001437749-26-021459-index.htm)
+
+- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029520/0001493152-26-029520-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003293/0001062993-26-003293-index.htm)
+
+- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
+
+- **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026071102/0001213900-26-071102-index.htm)
 
 - **20-F** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026070607/0001213900-26-070607-index.htm)
+
+- **424B2** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001846/0001539497-26-001846-index.htm)
+
+- **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
 
 - **424B5** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226029639/0001493152-26-029639-index.htm)
@@ -96,15 +138,6 @@
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826009338/0001133228-26-009338-index.htm)
 
-- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029784/0001493152-26-029784-index.htm)
-
-- **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026071102/0001213900-26-071102-index.htm)
-
-- **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
-
 - **N-CSRS** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000119312526276848/0001193125-26-276848-index.htm)
 
@@ -113,21 +146,6 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009274/0000950103-26-009274-index.htm)
-
-- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526278557/0001193125-26-278557-index.htm)
-
-- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526277492/0001193125-26-277492-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026044484/0001628280-26-044484-index.htm)
-
-- **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
-
-- **424B2** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001846/0001539497-26-001846-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326009255/0000950103-26-009255-index.htm)
