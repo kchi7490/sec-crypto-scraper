@@ -21,11 +21,23 @@
 - **8-K** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526002595/0001185185-26-002595-index.htm)
 
+- **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
+
+- **S-3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526281283/0001193125-26-281283-index.htm)
+
 - **424B5** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029734/0001493152-26-029734-index.htm)
 
 - **S-1/A** | Canary Staked TRX ETF  (CIK 0002064768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126013365/0001999371-26-013365-index.htm)
+
+- **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026071608/0001213900-26-071608-index.htm)
+
+- **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026071609/0001213900-26-071609-index.htm)
 
 - **10-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000148254126000019/0001482541-26-000019-index.htm)
@@ -83,6 +95,9 @@
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007704/0001214659-26-007704-index.htm)
+
+- **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526281239/0001193125-26-281239-index.htm)
 
 - **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
@@ -186,11 +201,14 @@
 - **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226029641/0001493152-26-029641-index.htm)
 
-- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013319/0001999371-26-013319-index.htm)
+- **485APOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.htm)
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009274/0000950103-26-009274-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013319/0001999371-26-013319-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326009255/0000950103-26-009255-index.htm)
