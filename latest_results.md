@@ -1,10 +1,19 @@
 ## 📁 Other Filings
 
+- **10-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226029927/0001493152-26-029927-index.htm)
+
+- **10-K/A** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226029925/0001493152-26-029925-index.htm)
+
 - **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029804/0001493152-26-029804-index.htm)
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226029507/0001493152-26-029507-index.htm)
+
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226029921/0001493152-26-029921-index.htm)
 
 - **424B3** | T. Rowe Price Active Crypto ETF  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126013250/0001999371-26-013250-index.htm)
@@ -45,6 +54,9 @@
 - **PRE 14A** | GAXOS.AI INC.  (GXAI)  (CIK 0001895618)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895618/000114036126025957/0001140361-26-025957-index.htm)
 
+- **PRER14A** | HEALTHY CHOICE WELLNESS CORP.  (HCWC)  (CIK 0001948864)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1948864/000149315226029922/0001493152-26-029922-index.htm)
+
 - **F-4** | WISeSat.Space Holdings Corp.  (CIK 0002101411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026071078/0001213900-26-071078-index.htm)
 
@@ -68,6 +80,9 @@
 
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526278557/0001193125-26-278557-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926007704/0001214659-26-007704-index.htm)
 
 - **8-K** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/0001493152-26-029608-index.htm)
@@ -93,6 +108,9 @@
 - **8-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/0001213900-26-070375-index.htm)
 
+- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/0001213900-26-071315-index.htm)
+
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026071102/0001213900-26-071102-index.htm)
 
@@ -102,11 +120,11 @@
 - **424B2** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001846/0001539497-26-001846-index.htm)
 
-- **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/0001213900-26-071315-index.htm)
-
 - **10-12G** | B-Scada, Inc.  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226029474/0001493152-26-029474-index.htm)
+
+- **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003978/0001477932-26-003978-index.htm)
 
 - **424B5** | OXBRIDGE RE HOLDINGS Ltd  (OXBR, OXBRW)  (CIK 0001584831)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1584831/000149315226029639/0001493152-26-029639-index.htm)
