@@ -9,6 +9,9 @@
 - **8-K** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029804/0001493152-26-029804-index.htm)
 
+- **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026071931/0001213900-26-071931-index.htm)
+
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226029921/0001493152-26-029921-index.htm)
 
@@ -126,6 +129,24 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003978/0001477932-26-003978-index.htm)
 
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226029714/0001493152-26-029714-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926077092/0001104659-26-077092-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026071303/0001213900-26-071303-index.htm)
+
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026071385/0001213900-26-071385-index.htm)
+
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926077019/0001104659-26-077019-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226030010/0001493152-26-030010-index.htm)
+
 - **487** | FT 12984  (CIK 0002119977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
 
@@ -134,6 +155,12 @@
 
 - **S-1/A** | Advasa Holdings, Inc.  (ADBT)  (CIK 0002084227)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084227/000149315226030005/0001493152-26-030005-index.htm)
+
+- **N-CSR** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322826009573/0001133228-26-009573-index.htm)
+
+- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326008027/0001099263-26-008027-index.htm)
 
 - **485APOS** | 360 Funds  (CIK 0001319067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1319067/000199937126013444/0001999371-26-013444-index.htm)
