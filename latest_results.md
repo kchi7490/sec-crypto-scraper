@@ -21,6 +21,9 @@
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
 
+- **8-K** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226030163/0001493152-26-030163-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226030042/0001493152-26-030042-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **S-3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526281283/0001193125-26-281283-index.htm)
+
+- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126013516/0001999371-26-013516-index.htm)
 
 - **424B5** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029734/0001493152-26-029734-index.htm)
@@ -84,8 +90,14 @@
 - **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026071382/0001213900-26-071382-index.htm)
 
+- **F-1** | ChainOn Group Ltd  (CIK 0002095150)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2095150/000149315226030109/0001493152-26-030109-index.htm)
+
 - **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026071788/0001213900-26-071788-index.htm)
+
+- **S-1** | LINCOLN BANCORP /IA/  (CIK 0000906205)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906205/000162828026045588/0001628280-26-045588-index.htm)
 
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029784/0001493152-26-029784-index.htm)
@@ -101,6 +113,9 @@
 
 - **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071186/0001213900-26-071186-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226001875/0000950142-26-001875-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026071192/0001213900-26-071192-index.htm)
@@ -119,6 +134,9 @@
 
 - **424B3** | Solidion Technology Inc.  (STI)  (CIK 0001881551)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881551/000121390026071102/0001213900-26-071102-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000640/0001137360-26-000640-index.htm)
 
 - **424B2** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001846/0001539497-26-001846-index.htm)
@@ -141,11 +159,17 @@
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026071385/0001213900-26-071385-index.htm)
 
+- **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226030131/0001493152-26-030131-index.htm)
+
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926077019/0001104659-26-077019-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226030010/0001493152-26-030010-index.htm)
+
+- **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826005105/0001683168-26-005105-index.htm)
 
 - **487** | FT 12984  (CIK 0002119977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
