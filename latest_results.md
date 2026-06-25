@@ -18,6 +18,9 @@
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
 
+- **8-K** | Flash Sports & Media Holdings, Inc.  (FLZH, UGRO)  (CIK 0001706524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1706524/000121390026071639/0001213900-26-071639-index.htm)
+
 - **S-3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526281283/0001193125-26-281283-index.htm)
 
@@ -32,6 +35,12 @@
 
 - **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026071609/0001213900-26-071609-index.htm)
+
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071673/0001213900-26-071673-index.htm)
+
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
 
 - **10-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000148254126000019/0001482541-26-000019-index.htm)
@@ -54,8 +63,14 @@
 - **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226029811/0001493152-26-029811-index.htm)
 
+- **DEF 14A** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226030032/0001493152-26-030032-index.htm)
+
 - **PRER14A** | HEALTHY CHOICE WELLNESS CORP.  (HCWC)  (CIK 0001948864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1948864/000149315226029922/0001493152-26-029922-index.htm)
+
+- **S-1/A** | Gameverse Interactive Corp  (CIK 0002017541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226029982/0001493152-26-029982-index.htm)
 
 - **F-4** | WISeSat.Space Holdings Corp.  (CIK 0002101411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026071078/0001213900-26-071078-index.htm)
@@ -84,6 +99,9 @@
 - **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926021459/0001437749-26-021459-index.htm)
 
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003340/0001062993-26-003340-index.htm)
+
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/0001213900-26-071315-index.htm)
 
@@ -92,6 +110,9 @@
 
 - **424B2** | WELLS FARGO COMMERCIAL MORTGAGE SECURITIES INC  (CIK 0000850779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/850779/000153949726001846/0001539497-26-001846-index.htm)
+
+- **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526281837/0001193125-26-281837-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003978/0001477932-26-003978-index.htm)
@@ -111,11 +132,17 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926077019/0001104659-26-077019-index.htm)
 
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226030010/0001493152-26-030010-index.htm)
+
 - **487** | FT 12984  (CIK 0002119977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
 
 - **485BPOS** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000091728626000089/0000917286-26-000089-index.htm)
+
+- **S-1/A** | Advasa Holdings, Inc.  (ADBT)  (CIK 0002084227)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084227/000149315226030005/0001493152-26-030005-index.htm)
 
 - **485APOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.htm)
