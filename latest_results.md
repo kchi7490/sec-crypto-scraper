@@ -18,6 +18,9 @@
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226030042/0001493152-26-030042-index.htm)
+
 - **8-K** | Flash Sports & Media Holdings, Inc.  (FLZH, UGRO)  (CIK 0001706524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1706524/000121390026071639/0001213900-26-071639-index.htm)
 
@@ -78,6 +81,9 @@
 - **424B5** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026071382/0001213900-26-071382-index.htm)
 
+- **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026071788/0001213900-26-071788-index.htm)
+
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226029784/0001493152-26-029784-index.htm)
 
@@ -102,6 +108,9 @@
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003340/0001062993-26-003340-index.htm)
 
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003344/0001062993-26-003344-index.htm)
+
 - **8-K** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000121390026071315/0001213900-26-071315-index.htm)
 
@@ -117,24 +126,6 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226003978/0001477932-26-003978-index.htm)
 
-- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226029714/0001493152-26-029714-index.htm)
-
-- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926077092/0001104659-26-077092-index.htm)
-
-- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026071303/0001213900-26-071303-index.htm)
-
-- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026071385/0001213900-26-071385-index.htm)
-
-- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926077019/0001104659-26-077019-index.htm)
-
-- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226030010/0001493152-26-030010-index.htm)
-
 - **487** | FT 12984  (CIK 0002119977)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119977/000144554626004572/0001445546-26-004572-index.htm)
 
@@ -143,6 +134,9 @@
 
 - **S-1/A** | Advasa Holdings, Inc.  (ADBT)  (CIK 0002084227)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084227/000149315226030005/0001493152-26-030005-index.htm)
+
+- **485APOS** | 360 Funds  (CIK 0001319067)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1319067/000199937126013444/0001999371-26-013444-index.htm)
 
 - **485APOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.htm)
