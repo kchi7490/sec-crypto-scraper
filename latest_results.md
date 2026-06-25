@@ -39,6 +39,9 @@
 - **424B5** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226029734/0001493152-26-029734-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000077/0001783879-26-000077-index.htm)
+
 - **S-1/A** | Canary Staked TRX ETF  (CIK 0002064768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126013365/0001999371-26-013365-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071673/0001213900-26-071673-index.htm)
+
+- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526283059/0001193125-26-283059-index.htm)
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
