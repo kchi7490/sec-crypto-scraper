@@ -15,11 +15,11 @@
 - **8-K** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026072231/0001213900-26-072231-index.htm)
 
-- **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
-
 - **8-K** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226030163/0001493152-26-030163-index.htm)
+
+- **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226030042/0001493152-26-030042-index.htm)
@@ -156,12 +156,12 @@
 - **485APOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.htm)
 
-- **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
-
 - **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826009578/0001133228-26-009578-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013319/0001999371-26-013319-index.htm)
+
+- **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
 
