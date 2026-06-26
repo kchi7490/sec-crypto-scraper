@@ -12,6 +12,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226029921/0001493152-26-029921-index.htm)
 
+- **8-K** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026072231/0001213900-26-072231-index.htm)
+
 - **8-K** | CEA Industries Inc.  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/0001493152-26-029966-index.htm)
 
@@ -50,6 +53,9 @@
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
+
+- **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926021738/0001437749-26-021738-index.htm)
 
 - **DEF 14A** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226030032/0001493152-26-030032-index.htm)
@@ -107,6 +113,12 @@
 
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026071385/0001213900-26-071385-index.htm)
+
+- **6-K** | Yiren Digital Ltd.  (YRD)  (CIK 0001631761)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1631761/000121390026072295/0001213900-26-072295-index.htm)
+
+- **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026072183/0001213900-26-072183-index.htm)
 
 - **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226030131/0001493152-26-030131-index.htm)
