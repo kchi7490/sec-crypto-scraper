@@ -48,11 +48,11 @@
 - **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071673/0001213900-26-071673-index.htm)
 
-- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
-
 - **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526283059/0001193125-26-283059-index.htm)
+
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
 
 - **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926021738/0001437749-26-021738-index.htm)
@@ -62,6 +62,9 @@
 
 - **PRER14A** | HEALTHY CHOICE WELLNESS CORP.  (HCWC)  (CIK 0001948864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1948864/000149315226029922/0001493152-26-029922-index.htm)
+
+- **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006917/0001829126-26-006917-index.htm)
 
 - **S-1/A** | Gameverse Interactive Corp  (CIK 0002017541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226029982/0001493152-26-029982-index.htm)
@@ -152,6 +155,9 @@
 
 - **485APOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.htm)
+
+- **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
 
 - **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826009578/0001133228-26-009578-index.htm)
