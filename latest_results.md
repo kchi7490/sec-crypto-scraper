@@ -144,6 +144,3 @@
 - **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
 
-- **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826009578/0001133228-26-009578-index.htm)
-
