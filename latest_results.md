@@ -24,11 +24,11 @@
 - **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071673/0001213900-26-071673-index.htm)
 
-- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526283059/0001193125-26-283059-index.htm)
-
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
+
+- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526283059/0001193125-26-283059-index.htm)
 
 - **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926021738/0001437749-26-021738-index.htm)
@@ -126,6 +126,12 @@
 - **11-K** | INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/51143/000005114326000064/0000051143-26-000064-index.htm)
 
+- **N-CSR** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322826009573/0001133228-26-009573-index.htm)
+
+- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326008027/0001099263-26-008027-index.htm)
+
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126013640/0001999371-26-013640-index.htm)
 
@@ -134,12 +140,6 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426011312/0001398344-26-011312-index.htm)
-
-- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326008027/0001099263-26-008027-index.htm)
-
-- **N-CSR** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322826009573/0001133228-26-009573-index.htm)
 
 - **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
