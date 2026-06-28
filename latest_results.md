@@ -1,34 +1,7 @@
 ## 📁 Other Filings
 
-- **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026071931/0001213900-26-071931-index.htm)
-
 - **8-K** | StableCoinX Inc.  (USDE)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026072231/0001213900-26-072231-index.htm)
-
-- **8-K** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226030163/0001493152-26-030163-index.htm)
-
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226030042/0001493152-26-030042-index.htm)
-
-- **8-K** | Flash Sports & Media Holdings, Inc.  (FLZH, UGRO)  (CIK 0001706524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1706524/000121390026071639/0001213900-26-071639-index.htm)
-
-- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126013516/0001999371-26-013516-index.htm)
-
-- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000077/0001783879-26-000077-index.htm)
-
-- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071673/0001213900-26-071673-index.htm)
-
-- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026071653/0001213900-26-071653-index.htm)
-
-- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526283059/0001193125-26-283059-index.htm)
 
 - **S-1** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926021738/0001437749-26-021738-index.htm)
@@ -42,41 +15,17 @@
 - **10-Q** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226030343/0001493152-26-030343-index.htm)
 
-- **DEF 14A** | Canton Strategic Holdings, Inc.  (CNTN)  (CIK 0001861657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1861657/000149315226030032/0001493152-26-030032-index.htm)
-
 - **S-4/A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626006917/0001829126-26-006917-index.htm)
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000149315226030333/0001493152-26-030333-index.htm)
 
-- **S-1/A** | Gameverse Interactive Corp  (CIK 0002017541)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2017541/000149315226029982/0001493152-26-029982-index.htm)
-
-- **F-1** | ChainOn Group Ltd  (CIK 0002095150)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2095150/000149315226030109/0001493152-26-030109-index.htm)
-
-- **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026071788/0001213900-26-071788-index.htm)
-
-- **S-1** | LINCOLN BANCORP /IA/  (CIK 0000906205)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/906205/000162828026045588/0001628280-26-045588-index.htm)
-
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000035/0001326380-26-000035-index.htm)
 
-- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226001875/0000950142-26-001875-index.htm)
-
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465926078276/0001104659-26-078276-index.htm)
-
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003340/0001062993-26-003340-index.htm)
-
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003344/0001062993-26-003344-index.htm)
 
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526285672/0001193125-26-285672-index.htm)
@@ -84,14 +33,8 @@
 - **S-1/A** | Columbus Circle Capital Corp III  (CCCT)  (CIK 0002123471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123471/000118518526002689/0001185185-26-002689-index.htm)
 
-- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000640/0001137360-26-000640-index.htm)
-
 - **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026072698/0001213900-26-072698-index.htm)
-
-- **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000119312526281837/0001193125-26-281837-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004047/0001477932-26-004047-index.htm)
@@ -105,45 +48,18 @@
 - **485BPOS** | Volatility Shares Trust  (CIK 0001884021)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1884021/000121390026072183/0001213900-26-072183-index.htm)
 
-- **6-K** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226030131/0001493152-26-030131-index.htm)
-
-- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226030010/0001493152-26-030010-index.htm)
-
-- **1-A/A** | Tranquil Healthcare Fund I, LLC  (CIK 0002096363)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096363/000168316826005105/0001683168-26-005105-index.htm)
-
-- **487** | FT 12987  (CIK 0002119983)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2119983/000144554626004607/0001445546-26-004607-index.htm)
-
-- **S-1/A** | Advasa Holdings, Inc.  (ADBT)  (CIK 0002084227)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2084227/000149315226030005/0001493152-26-030005-index.htm)
-
 - **485BPOS** | Brinker Capital Destinations Trust  (CIK 0001688680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688680/000113322826009686/0001133228-26-009686-index.htm)
 
 - **11-K** | INTERNATIONAL BUSINESS MACHINES CORP  (IBM)  (CIK 0000051143)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/51143/000005114326000064/0000051143-26-000064-index.htm)
 
-- **N-CSR** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000113322826009573/0001133228-26-009573-index.htm)
-
-- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326008027/0001099263-26-008027-index.htm)
-
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126013640/0001999371-26-013640-index.htm)
-
-- **485APOS** | 360 Funds  (CIK 0001319067)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1319067/000199937126013444/0001999371-26-013444-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426011312/0001398344-26-011312-index.htm)
 
 - **485APOS** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.htm)
-
-- **485BPOS** | Eaton Vance Growth Trust  (CIK 0000102816)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/102816/000113322826009578/0001133228-26-009578-index.htm)
 
