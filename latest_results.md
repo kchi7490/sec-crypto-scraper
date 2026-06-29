@@ -138,9 +138,6 @@
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000124/0000836346-26-000124-index.htm)
 
-- **486BPOS** | Stone Ridge Trust V  (LENDX)  (CIK 0001658645)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1658645/000119312526288766/0001193125-26-288766-index.htm)
-
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426011765/0001888524-26-011765-index.htm)
 
