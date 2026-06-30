@@ -9,8 +9,14 @@
 - **20-F** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026046005/0001628280-26-046005-index.htm)
 
+- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226031156/0001493152-26-031156-index.htm)
+
 - **10-Q** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926078841/0001104659-26-078841-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026073316/0001213900-26-073316-index.htm)
 
 - **10-K** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036126026719/0001140361-26-026719-index.htm)
@@ -23,6 +29,12 @@
 
 - **10-K** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036126026753/0001140361-26-026753-index.htm)
+
+- **DEF 14A** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026073367/0001213900-26-073367-index.htm)
+
+- **424B3** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026073252/0001213900-26-073252-index.htm)
 
 - **10-K** | 21Shares Polkadot ETF  (CIK 0002054247)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026073214/0001213900-26-073214-index.htm)
@@ -57,11 +69,23 @@
 - **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526288677/0001193125-26-288677-index.htm)
 
+- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/0001185185-26-002723-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002725/0001185185-26-002725-index.htm)
+
+- **PRE 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000014/0001591956-26-000014-index.htm)
+
 - **S-1** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004060/0001477932-26-004060-index.htm)
 
 - **6-K/A** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926078609/0001104659-26-078609-index.htm)
+
+- **6-K** | 707 Cayman Holdings Ltd.  (JEM)  (CIK 0002018222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2018222/000149315226031181/0001493152-26-031181-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026072921/0001213900-26-072921-index.htm)
@@ -83,6 +107,9 @@
 
 - **F-3** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026072755/0001213900-26-072755-index.htm)
+
+- **20-F** | PayPay Corp  (PAYP)  (CIK 0002080845)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080845/000119312526289382/0001193125-26-289382-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026072867/0001213900-26-072867-index.htm)
