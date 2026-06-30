@@ -141,6 +141,3 @@
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426011765/0001888524-26-011765-index.htm)
 
-- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526288164/0001193125-26-288164-index.htm)
-
