@@ -153,11 +153,11 @@
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000123/0000836346-26-000123-index.htm)
 
-- **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000122/0000836346-26-000122-index.htm)
-
 - **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000077/0000072499-26-000077-index.htm)
+
+- **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000122/0000836346-26-000122-index.htm)
 
 - **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000075/0000072499-26-000075-index.htm)
@@ -179,4 +179,7 @@
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526288164/0001193125-26-288164-index.htm)
+
+- **485BPOS** | WASHINGTON MUTUAL INVESTORS FUND  (CIK 0000104865)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/104865/000005193126000618/0000051931-26-000618-index.htm)
 
