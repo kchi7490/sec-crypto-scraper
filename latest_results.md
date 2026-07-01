@@ -39,11 +39,11 @@
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026073316/0001213900-26-073316-index.htm)
 
-- **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026073782/0001213900-26-073782-index.htm)
-
 - **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073854/0001213900-26-073854-index.htm)
+
+- **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026073782/0001213900-26-073782-index.htm)
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073853/0001213900-26-073853-index.htm)
@@ -150,6 +150,9 @@
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004120/0001477932-26-004120-index.htm)
 
+- **PRE 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793226004146/0001477932-26-004146-index.htm)
+
 - **S-1** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004060/0001477932-26-004060-index.htm)
 
@@ -219,11 +222,11 @@
 - **497** | Corgi ETF Trust I  (CIK 0002078265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000295/0002078265-26-000295-index.htm)
 
-- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926078610/0001104659-26-078610-index.htm)
-
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926022020/0001437749-26-022020-index.htm)
+
+- **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
 
 - **10-KT** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226030531/0001493152-26-030531-index.htm)
@@ -261,17 +264,14 @@
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000124/0000836346-26-000124-index.htm)
 
+- **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926022277/0001437749-26-022277-index.htm)
+
 - **486BPOS** | Stone Ridge Trust V  (LENDX)  (CIK 0001658645)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1658645/000119312526288766/0001193125-26-288766-index.htm)
 
-- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426011765/0001888524-26-011765-index.htm)
-
-- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426012127/0001888524-26-012127-index.htm)
-
-- **18-K** | REPUBLIC OF THE PHILIPPINES  (CIK 0001030717)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1030717/000119312526291732/0001193125-26-291732-index.htm)
+- **N-CSRS** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000119312526292177/0001193125-26-292177-index.htm)
 
 - **485APOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000059/0002040519-26-000059-index.htm)
@@ -284,6 +284,9 @@
 
 - **485BPOS** | WASHINGTON MUTUAL INVESTORS FUND  (CIK 0000104865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/104865/000005193126000618/0000051931-26-000618-index.htm)
+
+- **18-K** | REPUBLIC OF THE PHILIPPINES  (CIK 0001030717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1030717/000119312526291732/0001193125-26-291732-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/0001999371-26-013968-index.htm)
