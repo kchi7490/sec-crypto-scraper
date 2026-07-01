@@ -42,11 +42,11 @@
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026073316/0001213900-26-073316-index.htm)
 
-- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073854/0001213900-26-073854-index.htm)
-
 - **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026073782/0001213900-26-073782-index.htm)
+
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073854/0001213900-26-073854-index.htm)
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073853/0001213900-26-073853-index.htm)
@@ -249,6 +249,9 @@
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926022020/0001437749-26-022020-index.htm)
 
+- **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
+
 - **10-KT** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226030531/0001493152-26-030531-index.htm)
 
@@ -293,9 +296,6 @@
 
 - **N-CSRS** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000119312526292177/0001193125-26-292177-index.htm)
-
-- **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426011765/0001888524-26-011765-index.htm)
