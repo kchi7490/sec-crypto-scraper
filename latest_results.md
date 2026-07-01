@@ -231,9 +231,6 @@
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426012127/0001888524-26-012127-index.htm)
 
-- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526288164/0001193125-26-288164-index.htm)
-
 - **485BPOS** | WASHINGTON MUTUAL INVESTORS FUND  (CIK 0000104865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/104865/000005193126000618/0000051931-26-000618-index.htm)
 
