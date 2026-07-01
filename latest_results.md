@@ -36,6 +36,12 @@
 - **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026073782/0001213900-26-073782-index.htm)
 
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073854/0001213900-26-073854-index.htm)
+
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026073853/0001213900-26-073853-index.htm)
+
 - **10-K** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036126026719/0001140361-26-026719-index.htm)
 
@@ -81,11 +87,17 @@
 - **S-3** | ChronoScale Corp  (CHRN)  (CIK 0001549084)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000149315226031335/0001493152-26-031335-index.htm)
 
+- **10-K/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226031366/0001493152-26-031366-index.htm)
+
 - **10-K** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774926021988/0001437749-26-021988-index.htm)
 
 - **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312526287454/0001193125-26-287454-index.htm)
+
+- **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000199/0001663577-26-000199-index.htm)
 
 - **10-12G/A** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926078956/0001104659-26-078956-index.htm)
@@ -101,6 +113,9 @@
 
 - **8-K** | Scilex Holding Co  (SCLX, SCLXW)  (CIK 0001820190)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820190/000119312526288677/0001193125-26-288677-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003439/0001062993-26-003439-index.htm)
 
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/0001185185-26-002723-index.htm)
@@ -122,6 +137,9 @@
 
 - **S-1** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004060/0001477932-26-004060-index.htm)
+
+- **6-K** | 707 Cayman Holdings Ltd.  (JEM)  (CIK 0002018222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2018222/000149315226031430/0001493152-26-031430-index.htm)
 
 - **6-K/A** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926078609/0001104659-26-078609-index.htm)
@@ -165,8 +183,14 @@
 - **6-K/A** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626006994/0001829126-26-006994-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026073949/0001213900-26-073949-index.htm)
+
 - **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226031319/0001493152-26-031319-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226031419/0001493152-26-031419-index.htm)
 
 - **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465926078555/0001104659-26-078555-index.htm)
@@ -237,6 +261,12 @@
 - **485BPOS** | WASHINGTON MUTUAL INVESTORS FUND  (CIK 0000104865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/104865/000005193126000618/0000051931-26-000618-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/0001999371-26-013968-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326009818/0000950103-26-009818-index.htm)
+
+- **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926007984/0001214659-26-007984-index.htm)
 
