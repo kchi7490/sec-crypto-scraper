@@ -102,6 +102,9 @@
 - **S-3** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312526287454/0001193125-26-287454-index.htm)
 
+- **424B3** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026074046/0001213900-26-074046-index.htm)
+
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000199/0001663577-26-000199-index.htm)
 
@@ -237,11 +240,11 @@
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000123/0000836346-26-000123-index.htm)
 
-- **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000077/0000072499-26-000077-index.htm)
-
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000122/0000836346-26-000122-index.htm)
+
+- **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000077/0000072499-26-000077-index.htm)
 
 - **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000075/0000072499-26-000075-index.htm)
@@ -263,6 +266,15 @@
 
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426012127/0001888524-26-012127-index.htm)
+
+- **18-K** | REPUBLIC OF THE PHILIPPINES  (CIK 0001030717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1030717/000119312526291732/0001193125-26-291732-index.htm)
+
+- **485APOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000059/0002040519-26-000059-index.htm)
+
+- **485APOS** | MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C  (CIK 0000906564)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/906564/000090656426000063/0000906564-26-000063-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526288164/0001193125-26-288164-index.htm)
