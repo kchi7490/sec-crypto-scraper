@@ -12,11 +12,11 @@
 - **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926007963/0001214659-26-007963-index.htm)
 
-- **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026074559/0001213900-26-074559-index.htm)
-
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226031451/0001493152-26-031451-index.htm)
+
+- **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026074559/0001213900-26-074559-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005178/0001683168-26-005178-index.htm)
@@ -62,6 +62,9 @@
 
 - **10-K** | TEL INSTRUMENT ELECTRONICS CORP  (CIK 0000096885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96885/000118518526002742/0001185185-26-002742-index.htm)
+
+- **S-1** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000149315226031976/0001493152-26-031976-index.htm)
 
 - **F-3** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026074583/0001213900-26-074583-index.htm)
@@ -168,6 +171,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226031671/0001493152-26-031671-index.htm)
 
+- **S-3/A** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326004454/0001171843-26-004454-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004120/0001477932-26-004120-index.htm)
 
@@ -185,9 +191,6 @@
 
 - **6-K** | 707 Cayman Holdings Ltd.  (JEM)  (CIK 0002018222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2018222/000149315226031430/0001493152-26-031430-index.htm)
-
-- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026046867/0001628280-26-046867-index.htm)
 
 - **6-K** | BIT ORIGIN Ltd  (BTOG)  (CIK 0001735556)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735556/000110465926079335/0001104659-26-079335-index.htm)
@@ -209,6 +212,9 @@
 
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026073949/0001213900-26-073949-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026046867/0001628280-26-046867-index.htm)
 
 - **6-K** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226031319/0001493152-26-031319-index.htm)
@@ -266,6 +272,9 @@
 
 - **485APOS** | MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C  (CIK 0000906564)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906564/000090656426000063/0000906564-26-000063-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426011661/0001398344-26-011661-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426011643/0001398344-26-011643-index.htm)
