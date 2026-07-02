@@ -9,6 +9,9 @@
 - **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926007963/0001214659-26-007963-index.htm)
 
+- **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026074559/0001213900-26-074559-index.htm)
+
 - **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226031451/0001493152-26-031451-index.htm)
 
@@ -48,6 +51,9 @@
 - **10-K** | TEL INSTRUMENT ELECTRONICS CORP  (CIK 0000096885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/96885/000118518526002742/0001185185-26-002742-index.htm)
 
+- **F-3** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026074583/0001213900-26-074583-index.htm)
+
 - **S-4/A** | Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526002745/0001185185-26-002745-index.htm)
 
@@ -78,32 +84,17 @@
 - **S-1/A** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000199/0001663577-26-000199-index.htm)
 
-- **8-K** | iShares Bitcoin Premium Income ETF  (BITA)  (CIK 0002089969)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926022313/0001437749-26-022313-index.htm)
+- **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026074553/0001213900-26-074553-index.htm)
 
-- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003439/0001062993-26-003439-index.htm)
-
-- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/0001185185-26-002723-index.htm)
-
-- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002725/0001185185-26-002725-index.htm)
-
-- **485APOS** | Strategy Shares  (CIK 0001506213)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226004066/0001580642-26-004066-index.htm)
-
-- **F-3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226031593/0001493152-26-031593-index.htm)
-
-- **10-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026073749/0001213900-26-073749-index.htm)
-
-- **PRE 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000014/0001591956-26-000014-index.htm)
+- **F-1** | Genneia S.A.  (CIK 0001745621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1745621/000162828026046688/0001628280-26-046688-index.htm)
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226031440/0001493152-26-031440-index.htm)
+
+- **485APOS** | Strategy Shares  (CIK 0001506213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226004066/0001580642-26-004066-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004120/0001477932-26-004120-index.htm)
@@ -144,14 +135,32 @@
 - **SUPPL** | POWERBANK Corp  (PBK)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315226031318/0001493152-26-031318-index.htm)
 
+- **F-3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226031593/0001493152-26-031593-index.htm)
+
 - **424B2** | BANK OF MONTREAL /CAN/  (BMO, AIQD, AIQU, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000121465926007912/0001214659-26-007912-index.htm)
 
 - **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
 
+- **8-K** | iShares Bitcoin Premium Income ETF  (BITA)  (CIK 0002089969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926022313/0001437749-26-022313-index.htm)
+
 - **S-1/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926022277/0001437749-26-022277-index.htm)
+
+- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/0001185185-26-002723-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002725/0001185185-26-002725-index.htm)
+
+- **PRE 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000014/0001591956-26-000014-index.htm)
+
+- **10-K** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026073749/0001213900-26-073749-index.htm)
 
 - **N-CSRS** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000119312526292177/0001193125-26-292177-index.htm)
