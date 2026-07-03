@@ -6,11 +6,11 @@
 - **S-1** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226031598/0001493152-26-031598-index.htm)
 
-- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226031451/0001493152-26-031451-index.htm)
-
 - **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026074559/0001213900-26-074559-index.htm)
+
+- **8-K** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226031451/0001493152-26-031451-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005201/0001683168-26-005201-index.htm)
@@ -150,6 +150,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003491/0001062993-26-003491-index.htm)
 
+- **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
+
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326010158/0000950103-26-010158-index.htm)
 
@@ -161,9 +164,6 @@
 
 - **N-CSRS** | SCHWAB CAPITAL TRUST  (CIK 0000904333)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/904333/000119312526292177/0001193125-26-292177-index.htm)
-
-- **1-A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000001/0002135077-26-000001-index.htm)
 
 - **18-K** | REPUBLIC OF THE PHILIPPINES  (CIK 0001030717)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1030717/000119312526291732/0001193125-26-291732-index.htm)
