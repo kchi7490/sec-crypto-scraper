@@ -36,6 +36,24 @@
 - **F-1** | Genneia S.A.  (CIK 0001745621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1745621/000162828026046688/0001628280-26-046688-index.htm)
 
+- **8-K** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503426000005/0002015034-26-000005-index.htm)
+
+- **8-K** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000158848926000002/0001588489-26-000002-index.htm)
+
+- **8-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000173240926000003/0001732409-26-000003-index.htm)
+
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000226/0001099910-26-000226-index.htm)
+
+- **10-K** | UNIVERSAL SAFETY PRODUCTS, INC.  (UUU)  (CIK 0000102109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/102109/000110465926080359/0001104659-26-080359-index.htm)
+
+- **F-1** | Cumberland Farms Ltd  (CIK 0002123232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526293820/0001193125-26-293820-index.htm)
+
 - **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045526000005/0002020455-26-000005-index.htm)
 
@@ -47,9 +65,6 @@
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226031671/0001493152-26-031671-index.htm)
-
-- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000226/0001099910-26-000226-index.htm)
 
 - **S-3/A** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326004454/0001171843-26-004454-index.htm)
@@ -68,9 +83,6 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000618/0001279569-26-000618-index.htm)
-
-- **F-1** | Cumberland Farms Ltd  (CIK 0002123232)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526293820/0001193125-26-293820-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003491/0001062993-26-003491-index.htm)
@@ -104,9 +116,6 @@
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526294304/0001193125-26-294304-index.htm)
-
-- **10-K** | UNIVERSAL SAFETY PRODUCTS, INC.  (UUU)  (CIK 0000102109)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/102109/000110465926080359/0001104659-26-080359-index.htm)
 
 - **N-CSRS** | CALAMOS INVESTMENT TRUST/IL  (CIK 0000826732)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/826732/000110465926080185/0001104659-26-080185-index.htm)
