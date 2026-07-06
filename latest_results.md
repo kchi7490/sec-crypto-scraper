@@ -12,6 +12,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026047102/0001628280-26-047102-index.htm)
 
+- **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000044/0001074828-26-000044-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826005288/0001683168-26-005288-index.htm)
 
@@ -24,6 +27,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526295586/0001193125-26-295586-index.htm)
 
+- **8-K** | American Bitcoin Corp.  (ABTC)  (CIK 0001755953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1755953/000119312526296396/0001193125-26-296396-index.htm)
+
 - **DEF 14A** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926022672/0001437749-26-022672-index.htm)
 
@@ -33,8 +39,14 @@
 - **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026075248/0001213900-26-075248-index.htm)
 
+- **S-3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004204/0001477932-26-004204-index.htm)
+
 - **N-2** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000114036126027516/0001140361-26-027516-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926080834/0001104659-26-080834-index.htm)
 
 - **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426003695/0001292814-26-003695-index.htm)
