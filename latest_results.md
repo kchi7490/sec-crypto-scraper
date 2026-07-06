@@ -1,38 +1,44 @@
 ## 📁 Other Filings
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026047102/0001628280-26-047102-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526295586/0001193125-26-295586-index.htm)
+
+- **DEF 14A** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926022672/0001437749-26-022672-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226032090/0001493152-26-032090-index.htm)
+
+- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226032086/0001493152-26-032086-index.htm)
+
+- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026075248/0001213900-26-075248-index.htm)
+
+- **424B2** | Marex Group Ltd  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312526295611/0001193125-26-295611-index.htm)
+
+- **N-2** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000114036126027516/0001140361-26-027516-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026075254/0001213900-26-075254-index.htm)
 
 - **20-F** | MITSUBISHI UFJ FINANCIAL GROUP INC  (MUFG, MBFJF)  (CIK 0000067088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67088/000162828026047095/0001628280-26-047095-index.htm)
 
-- **N-2** | T. Rowe Price OHA Select Private Credit Fund  (CIK 0001901164)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1901164/000114036126027516/0001140361-26-027516-index.htm)
-
 - **N-CSRS** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526295431/0001193125-26-295431-index.htm)
 
-- **424B2** | Marex Group Ltd  (MRX)  (CIK 0001997464)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312526295611/0001193125-26-295611-index.htm)
+- **487** | FT 13057  (CIK 0002129804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2129804/000144554626004818/0001445546-26-004818-index.htm)
 
 - **8-K/A** | Synergy Empire Ltd  (CIK 0001766267)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1766267/000149315226032112/0001493152-26-032112-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226032090/0001493152-26-032090-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026047102/0001628280-26-047102-index.htm)
-
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826005288/0001683168-26-005288-index.htm)
-
-- **DEF 14A** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926022672/0001437749-26-022672-index.htm)
-
-- **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026075248/0001213900-26-075248-index.htm)
-
-- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526295586/0001193125-26-295586-index.htm)
 
