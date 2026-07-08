@@ -30,6 +30,9 @@
 - **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000044/0001074828-26-000044-index.htm)
 
+- **S-1/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000921/0001731122-26-000921-index.htm)
+
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826005288/0001683168-26-005288-index.htm)
 
@@ -117,11 +120,17 @@
 - **20-F** | MITSUBISHI UFJ FINANCIAL GROUP INC  (MUFG, MBFJF)  (CIK 0000067088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/67088/000162828026047095/0001628280-26-047095-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000643/0001279569-26-000643-index.htm)
+
 - **N-CSRS** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526295431/0001193125-26-295431-index.htm)
 
 - **487** | FT 13057  (CIK 0002129804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2129804/000144554626004818/0001445546-26-004818-index.htm)
+
+- **487** | FT 13058  (CIK 0002129805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2129805/000144554626004976/0001445546-26-004976-index.htm)
 
 - **N-CSR** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326002036/0000930413-26-002036-index.htm)
