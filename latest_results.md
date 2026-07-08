@@ -18,8 +18,14 @@
 - **8-K** | House of Doge Inc.  (TBH, HODO)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026076056/0001213900-26-076056-index.htm)
 
+- **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076250/0001213900-26-076250-index.htm)
+
 - **10-Q/A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315226032269/0001493152-26-032269-index.htm)
+
+- **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076252/0001213900-26-076252-index.htm)
 
 - **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000044/0001074828-26-000044-index.htm)
@@ -66,8 +72,17 @@
 - **8-K** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/0001654954-26-006537-index.htm)
 
+- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226004260/0000035402-26-004260-index.htm)
+
+- **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226004284/0000035402-26-004284-index.htm)
+
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026075978/0001213900-26-075978-index.htm)
+
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226004269/0000035402-26-004269-index.htm)
 
 - **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026076068/0001213900-26-076068-index.htm)
@@ -107,6 +122,9 @@
 
 - **487** | FT 13057  (CIK 0002129804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2129804/000144554626004818/0001445546-26-004818-index.htm)
+
+- **N-CSR** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326002036/0000930413-26-002036-index.htm)
 
 - **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026075688/0001213900-26-075688-index.htm)
