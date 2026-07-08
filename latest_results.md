@@ -105,6 +105,9 @@
 - **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026075688/0001213900-26-075688-index.htm)
 
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026076079/0001213900-26-076079-index.htm)
+
 - **485BPOS** | Kurv ETF Trust  (CIK 0001782952)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000199937126014447/0001999371-26-014447-index.htm)
 
