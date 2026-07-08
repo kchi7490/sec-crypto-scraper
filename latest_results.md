@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226032090/0001493152-26-032090-index.htm)
 
+- **S-1/A** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226032512/0001493152-26-032512-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004189/0001477932-26-004189-index.htm)
 
@@ -20,6 +23,9 @@
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076357/0001213900-26-076357-index.htm)
+
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076405/0001213900-26-076405-index.htm)
 
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076250/0001213900-26-076250-index.htm)
@@ -50,6 +56,9 @@
 
 - **424B3** | D. Boral ARC Merger Corp  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626007331/0001829126-26-007331-index.htm)
+
+- **POS AM** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226032530/0001493152-26-032530-index.htm)
 
 - **424B2** | Marex Group Ltd  (MRX)  (CIK 0001997464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000119312526295611/0001193125-26-295611-index.htm)
@@ -170,4 +179,7 @@
 
 - **425** | EBAY INC  (EBAY)  (CIK 0001065088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000119312526296631/0001193125-26-296631-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010413/0000950103-26-010413-index.htm)
 
