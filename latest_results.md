@@ -18,6 +18,9 @@
 - **8-K** | House of Doge Inc.  (TBH, HODO)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026076056/0001213900-26-076056-index.htm)
 
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076357/0001213900-26-076357-index.htm)
+
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076250/0001213900-26-076250-index.htm)
 
@@ -72,6 +75,9 @@
 - **8-K** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026075248/0001213900-26-075248-index.htm)
 
+- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026076376/0001213900-26-076376-index.htm)
+
 - **8-K** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426006537/0001654954-26-006537-index.htm)
 
@@ -80,6 +86,9 @@
 
 - **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226004284/0000035402-26-004284-index.htm)
+
+- **DEF 14A** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026076369/0001213900-26-076369-index.htm)
 
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026075978/0001213900-26-075978-index.htm)
@@ -108,11 +117,20 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926080834/0001104659-26-080834-index.htm)
 
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026076377/0001213900-26-076377-index.htm)
+
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026076378/0001213900-26-076378-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026075756/0001213900-26-075756-index.htm)
 
 - **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426003695/0001292814-26-003695-index.htm)
+
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326010401/0000950103-26-010401-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026075254/0001213900-26-075254-index.htm)
