@@ -24,6 +24,9 @@
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014634/0001999371-26-014634-index.htm)
 
+- **8-K/A** | Titan Acquisition Corp.  (TACH, TACHU, TACHW)  (CIK 0002009183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2009183/000182912626007471/0001829126-26-007471-index.htm)
+
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226032604/0001493152-26-032604-index.htm)
 
@@ -123,11 +126,11 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926022865/0001437749-26-022865-index.htm)
 
-- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026076378/0001213900-26-076378-index.htm)
-
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026076377/0001213900-26-076377-index.htm)
+
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026076378/0001213900-26-076378-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026075756/0001213900-26-075756-index.htm)
