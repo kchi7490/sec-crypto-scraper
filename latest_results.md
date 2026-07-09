@@ -39,11 +39,17 @@
 - **424B3** | Digital Asset Acquisition Corp.  (DAAQ, DAAQU, DAAQW)  (CIK 0002052162)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2052162/000149315226032276/0001493152-26-032276-index.htm)
 
+- **10-K** | WidFit Inc.  (CIK 0001912954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000191295426000008/0001912954-26-000008-index.htm)
+
 - **DEFM14A** | D. Boral ARC Acquisition I Corp.  (BCAR, BCARU, BCARW)  (CIK 0002065779)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065779/000182912626007326/0001829126-26-007326-index.htm)
 
 - **424B3** | D. Boral ARC Merger Corp  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626007331/0001829126-26-007331-index.htm)
+
+- **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014636/0001999371-26-014636-index.htm)
 
 - **POS AM** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226032530/0001493152-26-032530-index.htm)
