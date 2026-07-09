@@ -24,6 +24,9 @@
 - **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076252/0001213900-26-076252-index.htm)
 
+- **S-1** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226032565/0001493152-26-032565-index.htm)
+
 - **S-1/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000921/0001731122-26-000921-index.htm)
 
@@ -93,8 +96,14 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000643/0001279569-26-000643-index.htm)
 
+- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226032579/0001493152-26-032579-index.htm)
+
 - **487** | FT 13058  (CIK 0002129805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2129805/000144554626004976/0001445546-26-004976-index.htm)
+
+- **1-A** | UNLOCKD, Inc.  (CIK 0001395005)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826005366/0001683168-26-005366-index.htm)
 
 - **N-CSR** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000093041326002036/0000930413-26-002036-index.htm)
@@ -110,6 +119,9 @@
 
 - **485BPOS** | Kurv ETF Trust  (CIK 0001782952)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000199937126014447/0001999371-26-014447-index.htm)
+
+- **S-4/A** | Versa Bancorp  (CIK 0002100848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926082024/0001104659-26-082024-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014413/0001999371-26-014413-index.htm)
