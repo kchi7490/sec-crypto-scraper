@@ -15,6 +15,9 @@
 - **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076405/0001213900-26-076405-index.htm)
 
+- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226032604/0001493152-26-032604-index.htm)
+
 - **8-K** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076250/0001213900-26-076250-index.htm)
 
@@ -48,6 +51,9 @@
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526298007/0001193125-26-298007-index.htm)
 
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226002012/0000950142-26-002012-index.htm)
+
 - **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026076376/0001213900-26-076376-index.htm)
 
@@ -60,11 +66,17 @@
 - **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226004284/0000035402-26-004284-index.htm)
 
+- **N-CSR** | Cambria ETF Trust  (CIK 0001529390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937126014603/0001999371-26-014603-index.htm)
+
 - **DEF 14A** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026076369/0001213900-26-076369-index.htm)
 
 - **8-K** | 21Shares Ethereum ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026075978/0001213900-26-075978-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226032609/0001493152-26-032609-index.htm)
 
 - **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226004269/0000035402-26-004269-index.htm)
