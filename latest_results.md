@@ -9,8 +9,14 @@
 - **S-1/A** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226032512/0001493152-26-032512-index.htm)
 
+- **S-1** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926082644/0001104659-26-082644-index.htm)
+
 - **ARS** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026076706/0001213900-26-076706-index.htm)
+
+- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226032864/0001493152-26-032864-index.htm)
 
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076357/0001213900-26-076357-index.htm)
@@ -62,6 +68,12 @@
 
 - **10-K** | WidFit Inc.  (CIK 0001912954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000191295426000008/0001912954-26-000008-index.htm)
+
+- **S-3/A** | ChronoScale Holdings Corp  (CHRN)  (CIK 0001549084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000149315226032840/0001493152-26-032840-index.htm)
+
+- **S-3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026077219/0001213900-26-077219-index.htm)
 
 - **10-K** | Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315226032786/0001493152-26-032786-index.htm)
@@ -138,6 +150,9 @@
 - **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226004269/0000035402-26-004269-index.htm)
 
+- **8-K** | XMax Inc.  (XMAX)  (CIK 0001473334)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1473334/000149315226032855/0001493152-26-032855-index.htm)
+
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026076377/0001213900-26-076377-index.htm)
 
@@ -188,6 +203,9 @@
 
 - **S-4/A** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926082024/0001104659-26-082024-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010525/0000950103-26-010525-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010413/0000950103-26-010413-index.htm)
