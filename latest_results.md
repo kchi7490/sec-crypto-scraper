@@ -51,11 +51,17 @@
 - **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076855/0001213900-26-076855-index.htm)
 
+- **F-3/A** | SAIHEAT Ltd  (SAIH, SAIHW)  (CIK 0001847075)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847075/000121390026076924/0001213900-26-076924-index.htm)
+
 - **S-1** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226032565/0001493152-26-032565-index.htm)
 
 - **10-K** | WidFit Inc.  (CIK 0001912954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1912954/000191295426000008/0001912954-26-000008-index.htm)
+
+- **10-K** | Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315226032786/0001493152-26-032786-index.htm)
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014636/0001999371-26-014636-index.htm)
@@ -71,6 +77,9 @@
 
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226002012/0000950142-26-002012-index.htm)
+
+- **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526300314/0001193125-26-300314-index.htm)
 
 - **424B3** | Greenidge Generation Holdings Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000092189526001786/0000921895-26-001786-index.htm)
@@ -105,6 +114,9 @@
 - **424B4** | Columbus Circle Capital Corp III  (CCCT)  (CIK 0002123471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123471/000118518526002862/0001185185-26-002862-index.htm)
 
+- **S-4/A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826005430/0001683168-26-005430-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226032609/0001493152-26-032609-index.htm)
 
@@ -122,6 +134,12 @@
 
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326010401/0000950103-26-010401-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026076925/0001213900-26-076925-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000657/0001279569-26-000657-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000643/0001279569-26-000643-index.htm)
