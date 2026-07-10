@@ -75,6 +75,9 @@
 - **POS AM** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226032530/0001493152-26-032530-index.htm)
 
+- **F-4/A** | WISeSat.Space Holdings Corp.  (WSAT)  (CIK 0002101411)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026077088/0001213900-26-077088-index.htm)
+
 - **8-K** | LM FUNDING AMERICA, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526298007/0001193125-26-298007-index.htm)
 
@@ -119,6 +122,15 @@
 
 - **S-4/A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826005430/0001683168-26-005430-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000683/0001137360-26-000683-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000686/0001137360-26-000686-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000684/0001137360-26-000684-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226032609/0001493152-26-032609-index.htm)
