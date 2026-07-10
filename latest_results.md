@@ -33,6 +33,24 @@
 - **10-Q/A** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315226032658/0001493152-26-032658-index.htm)
 
+- **DEFA14A** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076902/0001213900-26-076902-index.htm)
+
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076854/0001213900-26-076854-index.htm)
+
+- **8-K** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076850/0001213900-26-076850-index.htm)
+
+- **425** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076834/0001213900-26-076834-index.htm)
+
+- **425** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026076830/0001213900-26-076830-index.htm)
+
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026076855/0001213900-26-076855-index.htm)
+
 - **S-1** | Leef Brands Inc.  (LEEEF)  (CIK 0001711141)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1711141/000149315226032565/0001493152-26-032565-index.htm)
 
@@ -41,6 +59,9 @@
 
 - **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014636/0001999371-26-014636-index.htm)
+
+- **POS AM** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226032750/0001493152-26-032750-index.htm)
 
 - **POS AM** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226032530/0001493152-26-032530-index.htm)
@@ -72,6 +93,9 @@
 - **N-CSR** | Cambria ETF Trust  (CIK 0001529390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1529390/000199937126014603/0001999371-26-014603-index.htm)
 
+- **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026076891/0001213900-26-076891-index.htm)
+
 - **DEF 14A** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026076369/0001213900-26-076369-index.htm)
 
@@ -87,11 +111,11 @@
 - **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226004269/0000035402-26-004269-index.htm)
 
-- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026076378/0001213900-26-076378-index.htm)
-
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026076377/0001213900-26-076377-index.htm)
+
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026076378/0001213900-26-076378-index.htm)
 
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326010460/0000950103-26-010460-index.htm)
@@ -101,6 +125,9 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000643/0001279569-26-000643-index.htm)
+
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926082390/0001104659-26-082390-index.htm)
 
 - **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226032579/0001493152-26-032579-index.htm)
