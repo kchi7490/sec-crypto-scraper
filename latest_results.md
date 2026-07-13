@@ -3,6 +3,9 @@
 - **FWP** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014792/0001999371-26-014792-index.htm)
 
+- **10-Q** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226033087/0001493152-26-033087-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226032951/0001493152-26-032951-index.htm)
 
@@ -11,6 +14,15 @@
 
 - **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926082893/0001104659-26-082893-index.htm)
+
+- **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000052/0001074828-26-000052-index.htm)
+
+- **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526302124/0001193125-26-302124-index.htm)
+
+- **S-1/A** | Ionic Digital Inc.  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526002919/0001185185-26-002919-index.htm)
 
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226033041/0001493152-26-033041-index.htm)
@@ -35,6 +47,9 @@
 
 - **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000017/0001591956-26-000017-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026077668/0001213900-26-077668-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026077364/0001213900-26-077364-index.htm)
