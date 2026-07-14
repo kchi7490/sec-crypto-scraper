@@ -9,6 +9,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226032951/0001493152-26-032951-index.htm)
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014982/0001999371-26-014982-index.htm)
+
 - **424B3** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226032953/0001493152-26-032953-index.htm)
 
@@ -36,11 +39,20 @@
 - **10-K** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005522/0001683168-26-005522-index.htm)
 
+- **10-K** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315226033212/0001493152-26-033212-index.htm)
+
+- **10-K** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390026078029/0001213900-26-078029-index.htm)
+
 - **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926083477/0001104659-26-083477-index.htm)
 
 - **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926083475/0001104659-26-083475-index.htm)
+
+- **S-1/A** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226033216/0001493152-26-033216-index.htm)
 
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226033041/0001493152-26-033041-index.htm)
