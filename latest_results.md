@@ -33,6 +33,9 @@
 - **10-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226033093/0001493152-26-033093-index.htm)
 
+- **10-K** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005522/0001683168-26-005522-index.htm)
+
 - **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926083477/0001104659-26-083477-index.htm)
 
@@ -60,6 +63,9 @@
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526302448/0001193125-26-302448-index.htm)
 
+- **10-Q** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000162828026048157/0001628280-26-048157-index.htm)
+
 - **8-K/A** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002914/0001185185-26-002914-index.htm)
 
@@ -72,6 +78,9 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000051/0001726978-26-000051-index.htm)
 
+- **DEF 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793226004302/0001477932-26-004302-index.htm)
+
 - **6-K** | Youxin Technology Ltd  (YAAS)  (CIK 0001964946)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964946/000149315226033109/0001493152-26-033109-index.htm)
 
@@ -80,6 +89,9 @@
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026077364/0001213900-26-077364-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083490/0001104659-26-083490-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
@@ -92,4 +104,7 @@
 
 - **DEF 14C** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000047/0001074828-26-000047-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010612/0000950103-26-010612-index.htm)
 
