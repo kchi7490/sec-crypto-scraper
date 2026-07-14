@@ -75,6 +75,9 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026077364/0001213900-26-077364-index.htm)
 
+- **485APOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
+
 - **ABS-15G** | Aspire Depositor, LLC  (CIK 0002100736)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100736/000092963826002590/0000929638-26-002590-index.htm)
 
