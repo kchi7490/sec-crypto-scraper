@@ -18,11 +18,20 @@
 - **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000052/0001074828-26-000052-index.htm)
 
+- **S-4/A** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026077712/0001213900-26-077712-index.htm)
+
+- **10-K** | BlueOne Technologies, Inc.  (BCRD)  (CIK 0001496690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000168316826005495/0001683168-26-005495-index.htm)
+
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526302124/0001193125-26-302124-index.htm)
 
 - **S-1/A** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526002919/0001185185-26-002919-index.htm)
+
+- **10-K** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226033093/0001493152-26-033093-index.htm)
 
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226033041/0001493152-26-033041-index.htm)
@@ -39,6 +48,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526301483/0001193125-26-301483-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526302448/0001193125-26-302448-index.htm)
+
 - **8-K/A** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002914/0001185185-26-002914-index.htm)
 
@@ -47,6 +59,9 @@
 
 - **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000017/0001591956-26-000017-index.htm)
+
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000051/0001726978-26-000051-index.htm)
 
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026077668/0001213900-26-077668-index.htm)
