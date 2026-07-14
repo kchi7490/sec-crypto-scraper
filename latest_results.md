@@ -33,6 +33,12 @@
 - **10-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226033093/0001493152-26-033093-index.htm)
 
+- **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926083477/0001104659-26-083477-index.htm)
+
+- **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926083475/0001104659-26-083475-index.htm)
+
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226033041/0001493152-26-033041-index.htm)
 
