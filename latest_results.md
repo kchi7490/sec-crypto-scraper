@@ -120,6 +120,12 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
 
+- **C/A** | NeuroGym LLC  (CIK 0002089067)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000245/0001872856-26-000245-index.htm)
+
+- **FWP** | Web3Labs Global Inc.  (MDAT)  (CIK 0002091521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091521/000121390026078199/0001213900-26-078199-index.htm)
+
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
 
