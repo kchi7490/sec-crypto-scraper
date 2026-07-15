@@ -99,6 +99,9 @@
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002915/0001185185-26-002915-index.htm)
 
+- **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
+
 - **DEF 14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000017/0001591956-26-000017-index.htm)
 
@@ -122,6 +125,12 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
+
+- **ABS-15G** | Loan Funding Structure III LLC  (CIK 0002110018)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2110018/000153949726001958/0001539497-26-001958-index.htm)
+
+- **424B4** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000143774926023622/0001437749-26-023622-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000245/0001872856-26-000245-index.htm)
