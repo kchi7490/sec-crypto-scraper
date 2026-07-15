@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014984/0001999371-26-014984-index.htm)
+
+- **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
+
 - **FWP** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014792/0001999371-26-014792-index.htm)
 
@@ -45,6 +51,9 @@
 - **10-K** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390026078029/0001213900-26-078029-index.htm)
 
+- **20-F** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026078044/0001213900-26-078044-index.htm)
+
 - **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926083477/0001104659-26-083477-index.htm)
 
@@ -71,12 +80,6 @@
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526301483/0001193125-26-301483-index.htm)
-
-- **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
-
-- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014984/0001999371-26-014984-index.htm)
 
 - **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526302448/0001193125-26-302448-index.htm)
@@ -111,8 +114,8 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083490/0001104659-26-083490-index.htm)
 
-- **20-F** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026078044/0001213900-26-078044-index.htm)
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
