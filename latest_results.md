@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014984/0001999371-26-014984-index.htm)
+
+- **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
+
 - **FWP** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014792/0001999371-26-014792-index.htm)
 
@@ -44,6 +50,9 @@
 
 - **10-K** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390026078029/0001213900-26-078029-index.htm)
+
+- **20-F** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026078044/0001213900-26-078044-index.htm)
 
 - **S-1/A** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926083477/0001104659-26-083477-index.htm)
