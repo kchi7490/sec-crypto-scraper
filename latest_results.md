@@ -99,6 +99,9 @@
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526002915/0001185185-26-002915-index.htm)
 
+- **S-4** | Sono Group S.a r.l.  (CIK 0002083142)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326004694/0001171843-26-004694-index.htm)
+
 - **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
 
