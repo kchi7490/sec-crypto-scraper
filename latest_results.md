@@ -6,9 +6,6 @@
 - **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
 
-- **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000218/0001663577-26-000218-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226033460/0001493152-26-033460-index.htm)
 
@@ -60,8 +57,17 @@
 - **S-1/A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226033216/0001493152-26-033216-index.htm)
 
+- **424B3** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226033548/0001493152-26-033548-index.htm)
+
+- **424B3** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226033544/0001493152-26-033544-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226033111/0001493152-26-033111-index.htm)
+
+- **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000218/0001663577-26-000218-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226033447/0001493152-26-033447-index.htm)
@@ -90,6 +96,9 @@
 - **DEF 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793226004302/0001477932-26-004302-index.htm)
 
+- **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004358/0001477932-26-004358-index.htm)
+
 - **S-1/A** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004332/0001477932-26-004332-index.htm)
 
@@ -102,8 +111,14 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083490/0001104659-26-083490-index.htm)
 
+- **F-4** | WISeKey International Corp.  (CIK 0002107968)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2107968/000121390026078729/0001213900-26-078729-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003693/0001062993-26-003693-index.htm)
 
 - **ABS-15G** | Loan Funding Structure III LLC  (CIK 0002110018)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2110018/000153949726001958/0001539497-26-001958-index.htm)
@@ -114,6 +129,9 @@
 - **487** | FT 13062  (CIK 0002130913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2130913/000144554626005144/0001445546-26-005144-index.htm)
 
+- **10-K/A** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390026078693/0001213900-26-078693-index.htm)
+
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000245/0001872856-26-000245-index.htm)
 
@@ -122,6 +140,9 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
+
+- **N-4/A** | Athene Annuity & Life Assurance Co of New York  (CIK 0001590625)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1590625/000159062526000053/0001590625-26-000053-index.htm)
 
 - **486BPOS** | Jackson Credit Opportunities Fund  (CIK 0001982467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1982467/000199937126015115/0001999371-26-015115-index.htm)
