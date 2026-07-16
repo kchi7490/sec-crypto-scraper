@@ -6,6 +6,9 @@
 - **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
 
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226033460/0001493152-26-033460-index.htm)
+
 - **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226033350/0001493152-26-033350-index.htm)
 
@@ -75,6 +78,9 @@
 - **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226033459/0001493152-26-033459-index.htm)
+
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000051/0001726978-26-000051-index.htm)
 
@@ -107,6 +113,12 @@
 
 - **485APOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126014940/0001999371-26-014940-index.htm)
+
+- **486BPOS** | Jackson Credit Opportunities Fund  (CIK 0001982467)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1982467/000199937126015115/0001999371-26-015115-index.htm)
+
+- **486BPOS** | Jackson Real Assets Fund  (CIK 0002003497)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2003497/000199937126015118/0001999371-26-015118-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010612/0000950103-26-010612-index.htm)
