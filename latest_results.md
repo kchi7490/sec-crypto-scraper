@@ -90,6 +90,9 @@
 - **S-1/A** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004332/0001477932-26-004332-index.htm)
 
+- **424B3** | North Haven Private Income Fund LLC  (CIK 0001851322)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526305687/0001193125-26-305687-index.htm)
+
 - **6-K** | Youxin Technology Ltd  (YAAS)  (CIK 0001964946)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964946/000149315226033109/0001493152-26-033109-index.htm)
 
