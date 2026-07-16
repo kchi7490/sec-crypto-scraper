@@ -13,6 +13,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014982/0001999371-26-014982-index.htm)
 
 - **10-Q** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226004328/0001477932-26-004328-index.htm)
+
+- **10-Q** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226004314/0001477932-26-004314-index.htm)
 
 - **S-4/A** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
@@ -23,6 +26,9 @@
 
 - **10-K** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226033093/0001493152-26-033093-index.htm)
+
+- **20-F** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004704/0001171843-26-004704-index.htm)
 
 - **10-K** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005522/0001683168-26-005522-index.htm)
@@ -42,6 +48,9 @@
 - **S-1/A** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926083475/0001104659-26-083475-index.htm)
 
+- **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000216/0001663577-26-000216-index.htm)
+
 - **S-1/A** | FullPAC, Inc.  (CIK 0002076148)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226033216/0001493152-26-033216-index.htm)
 
@@ -57,6 +66,9 @@
 - **S-4** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326004694/0001171843-26-004694-index.htm)
 
+- **8-K** | NextPlat Corp  (NXPL)  (CIK 0001058307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1058307/000143774926023651/0001437749-26-023651-index.htm)
+
 - **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
 
@@ -65,6 +77,9 @@
 
 - **DEF 14A** | CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.  (CELZ)  (CIK 0001187953)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1187953/000147793226004302/0001477932-26-004302-index.htm)
+
+- **S-1/A** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004332/0001477932-26-004332-index.htm)
 
 - **6-K** | Youxin Technology Ltd  (YAAS)  (CIK 0001964946)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964946/000149315226033109/0001493152-26-033109-index.htm)
