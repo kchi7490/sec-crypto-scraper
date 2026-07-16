@@ -6,9 +6,6 @@
 - **8-K** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126014983/0001999371-26-014983-index.htm)
 
-- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226033460/0001493152-26-033460-index.htm)
-
 - **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226033350/0001493152-26-033350-index.htm)
 
@@ -68,6 +65,9 @@
 
 - **8-K** | BIO-PATH HOLDINGS, INC.  (BPTH)  (CIK 0001133818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1133818/000166357726000218/0001663577-26-000218-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226033460/0001493152-26-033460-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226033447/0001493152-26-033447-index.htm)
@@ -149,6 +149,9 @@
 
 - **486BPOS** | Jackson Real Assets Fund  (CIK 0002003497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003497/000199937126015118/0001999371-26-015118-index.htm)
+
+- **8-K/A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026048523/0001628280-26-048523-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326010612/0000950103-26-010612-index.htm)
