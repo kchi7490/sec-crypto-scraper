@@ -45,6 +45,9 @@
 - **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000216/0001663577-26-000216-index.htm)
 
+- **F-1/A** | Genneia S.A.  (GENN)  (CIK 0001745621)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1745621/000162828026048569/0001628280-26-048569-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226033447/0001493152-26-033447-index.htm)
 
@@ -107,4 +110,7 @@
 
 - **486BPOS** | Jackson Real Assets Fund  (CIK 0002003497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2003497/000199937126015118/0001999371-26-015118-index.htm)
+
+- **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000007/0001479844-26-000007-index.htm)
 
