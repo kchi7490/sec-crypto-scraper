@@ -24,6 +24,9 @@
 - **8-K/A** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026048523/0001628280-26-048523-index.htm)
 
+- **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000119312526308023/0001193125-26-308023-index.htm)
+
 - **10-Q** | Awareness Group, Inc.  (TAAG)  (CIK 0001386044)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1386044/000147793226004328/0001477932-26-004328-index.htm)
 
@@ -108,6 +111,12 @@
 - **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026079205/0001213900-26-079205-index.htm)
 
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026079267/0001213900-26-079267-index.htm)
+
+- **425** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026079268/0001213900-26-079268-index.htm)
+
 - **F-4** | WISeKey International Corp.  (CIK 0002107968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107968/000121390026078729/0001213900-26-078729-index.htm)
 
@@ -155,6 +164,12 @@
 
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000007/0001479844-26-000007-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026079257/0001213900-26-079257-index.htm)
+
+- **485BPOS** | Innovator ETFs Trust  (CIK 0001415726)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/0001213900-26-079269-index.htm)
 
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/0001193125-26-307039-index.htm)
