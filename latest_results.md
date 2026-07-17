@@ -42,6 +42,12 @@
 - **20-F** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026078044/0001213900-26-078044-index.htm)
 
+- **485APOS** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000111/0000768847-26-000111-index.htm)
+
+- **485APOS** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000112/0000768847-26-000112-index.htm)
+
 - **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000216/0001663577-26-000216-index.htm)
 
@@ -92,6 +98,9 @@
 
 - **487** | FT 13062  (CIK 0002130913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2130913/000144554626005144/0001445546-26-005144-index.htm)
+
+- **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826010500/0001133228-26-010500-index.htm)
 
 - **C/A** | NeuroGym LLC  (CIK 0002089067)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089067/000187285626000245/0001872856-26-000245-index.htm)
