@@ -72,6 +72,9 @@
 - **F-4** | WISeKey International Corp.  (CIK 0002107968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107968/000121390026078729/0001213900-26-078729-index.htm)
 
+- **6-K** | NOMURA HOLDINGS INC  (NMR, NRSCF)  (CIK 0001163653)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1163653/000119312526306701/0001193125-26-306701-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
 
