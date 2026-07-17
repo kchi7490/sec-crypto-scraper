@@ -33,6 +33,9 @@
 - **20-F** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004704/0001171843-26-004704-index.htm)
 
+- **PRE 14A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426006723/0001654954-26-006723-index.htm)
+
 - **10-K** | FREQUENCY ELECTRONICS INC  (FEIM)  (CIK 0000039020)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/39020/000118518526002997/0001185185-26-002997-index.htm)
 
