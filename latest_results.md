@@ -114,3 +114,6 @@
 - **13F-HR** | Diversified Trust Co  (CIK 0001479844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1479844/000147984426000007/0001479844-26-000007-index.htm)
 
+- **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/0001193125-26-307039-index.htm)
+
