@@ -54,6 +54,9 @@
 - **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000166357726000216/0001663577-26-000216-index.htm)
 
+- **10-12B/A** | Private Bancorp of America, Inc.  (CIK 0001705284)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705284/000119312526307732/0001193125-26-307732-index.htm)
+
 - **F-1/A** | Genneia S.A.  (GENN)  (CIK 0001745621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1745621/000162828026048569/0001628280-26-048569-index.htm)
 
@@ -69,8 +72,17 @@
 - **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
 
+- **8-K** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045526000010/0002020455-26-000010-index.htm)
+
+- **8-K** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000172521026000010/0001725210-26-000010-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226033459/0001493152-26-033459-index.htm)
+
+- **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000189667726000011/0001896677-26-000011-index.htm)
 
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004358/0001477932-26-004358-index.htm)
@@ -128,4 +140,13 @@
 
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/0001193125-26-307039-index.htm)
+
+- **40-17G** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000113/0000768847-26-000113-index.htm)
+
+- **424B3** | Grayscale Ethereum Staking ETF  (ETHE)  (CIK 0001725210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725210/000172521026000011/0001725210-26-000011-index.htm)
+
+- **424B3** | Grayscale Ethereum Staking Mini ETF  (ETH)  (CIK 0002020455)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2020455/000202045526000011/0002020455-26-000011-index.htm)
 
