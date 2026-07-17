@@ -57,17 +57,26 @@
 - **10-12B/A** | Private Bancorp of America, Inc.  (CIK 0001705284)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705284/000119312526307732/0001193125-26-307732-index.htm)
 
+- **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226033753/0001493152-26-033753-index.htm)
+
 - **F-1/A** | Genneia S.A.  (GENN)  (CIK 0001745621)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1745621/000162828026048569/0001628280-26-048569-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226033447/0001493152-26-033447-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926008676/0001214659-26-008676-index.htm)
+
 - **S-4** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326004694/0001171843-26-004694-index.htm)
 
 - **8-K** | NextPlat Corp  (NXPL)  (CIK 0001058307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058307/000143774926023651/0001437749-26-023651-index.htm)
+
+- **S-3** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026079177/0001213900-26-079177-index.htm)
 
 - **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000059/0001836875-26-000059-index.htm)
@@ -84,6 +93,9 @@
 - **8-K** | Grayscale Solana Staking ETF  (GSOL)  (CIK 0001896677)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1896677/000189667726000011/0001896677-26-000011-index.htm)
 
+- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001198/0001640334-26-001198-index.htm)
+
 - **424B3** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226004358/0001477932-26-004358-index.htm)
 
@@ -93,6 +105,9 @@
 - **424B3** | North Haven Private Income Fund LLC  (CIK 0001851322)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1851322/000119312526305687/0001193125-26-305687-index.htm)
 
+- **6-K** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026079205/0001213900-26-079205-index.htm)
+
 - **F-4** | WISeKey International Corp.  (CIK 0002107968)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107968/000121390026078729/0001213900-26-078729-index.htm)
 
@@ -101,6 +116,9 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926083751/0001104659-26-083751-index.htm)
+
+- **6-K** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226033779/0001493152-26-033779-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003693/0001062993-26-003693-index.htm)
@@ -140,6 +158,9 @@
 
 - **485BPOS** | DoubleLine ETF Trust  (CIK 0001886172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/0001193125-26-307039-index.htm)
+
+- **485APOS** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000117461026000432/0001174610-26-000432-index.htm)
 
 - **40-17G** | VanEck Funds  (CIK 0000768847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000113/0000768847-26-000113-index.htm)
