@@ -66,3 +66,6 @@
 - **10-Q** | Pineapple Financial Inc.  (PAPL)  (CIK 0001938109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938109/000149315226033926/0001493152-26-033926-index.htm)
 
+- **485APOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126015461/0001999371-26-015461-index.htm)
+
