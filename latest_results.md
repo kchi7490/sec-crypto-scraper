@@ -9,9 +9,6 @@
 - **S-1** | Grayscale Worldcoin ETF  (CIK 0002145351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2145351/000119312526308957/0001193125-26-308957-index.htm)
 
-- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526309340/0001193125-26-309340-index.htm)
-
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
 
@@ -41,6 +38,9 @@
 
 - **S-3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026079673/0001213900-26-079673-index.htm)
+
+- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526309340/0001193125-26-309340-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
