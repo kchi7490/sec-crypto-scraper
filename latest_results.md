@@ -9,6 +9,9 @@
 - **S-1** | Grayscale Worldcoin ETF  (CIK 0002145351)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2145351/000119312526308957/0001193125-26-308957-index.htm)
 
+- **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
+
 - **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026079568/0001213900-26-079568-index.htm)
 
