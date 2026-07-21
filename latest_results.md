@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226033855/0001493152-26-033855-index.htm)
 
+- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004422/0001477932-26-004422-index.htm)
+
 - **S-3/A** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326004778/0001171843-26-004778-index.htm)
 
@@ -11,6 +14,9 @@
 
 - **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526309340/0001193125-26-309340-index.htm)
+
+- **8-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000027/0000316709-26-000027-index.htm)
 
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
