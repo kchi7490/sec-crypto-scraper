@@ -24,6 +24,9 @@
 - **424B3** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI, FFAIW)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026079568/0001213900-26-079568-index.htm)
 
+- **F-4/A** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026080119/0001213900-26-080119-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026048764/0001628280-26-048764-index.htm)
 
@@ -48,14 +51,14 @@
 - **S-3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026079673/0001213900-26-079673-index.htm)
 
-- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
-
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026079409/0001213900-26-079409-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000681/0001279569-26-000681-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
 
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926085217/0001104659-26-085217-index.htm)
