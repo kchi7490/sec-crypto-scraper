@@ -42,6 +42,9 @@
 - **S-3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026079673/0001213900-26-079673-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026079409/0001213900-26-079409-index.htm)
 
