@@ -42,6 +42,9 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926084862/0001104659-26-084862-index.htm)
 
+- **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
+
 - **8-K** | Vulcan Infrastructure & Power Inc.  (GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119380526000990/0001193805-26-000990-index.htm)
 
