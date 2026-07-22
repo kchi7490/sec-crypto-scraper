@@ -84,6 +84,12 @@
 - **487** | FT 13064  (CIK 0002130915)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2130915/000144554626005267/0001445546-26-005267-index.htm)
 
+- **8-A12B** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926085727/0001104659-26-085727-index.htm)
+
+- **8-A12B** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926085728/0001104659-26-085728-index.htm)
+
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012331/0001398344-26-012331-index.htm)
 
