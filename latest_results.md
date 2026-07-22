@@ -6,6 +6,12 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004422/0001477932-26-004422-index.htm)
 
+- **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
+
+- **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
+
 - **S-3/A** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326004778/0001171843-26-004778-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026080237/0001213900-26-080237-index.htm)
+
+- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000056/0001726978-26-000056-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
