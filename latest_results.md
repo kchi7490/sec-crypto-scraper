@@ -27,6 +27,9 @@
 - **8-K** | NextTrip, Inc.  (NTRP)  (CIK 0000788611)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/788611/000149315226034192/0001493152-26-034192-index.htm)
 
+- **N-2/A** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000162828026049234/0001628280-26-049234-index.htm)
+
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **8-A12B** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926085728/0001104659-26-085728-index.htm)
+
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012331/0001398344-26-012331-index.htm)
