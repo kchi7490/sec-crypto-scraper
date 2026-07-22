@@ -18,6 +18,9 @@
 - **8-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000027/0000316709-26-000027-index.htm)
 
+- **8-K** | NextTrip, Inc.  (NTRP)  (CIK 0000788611)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/788611/000149315226034192/0001493152-26-034192-index.htm)
+
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
 
@@ -53,6 +56,9 @@
 
 - **S-3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026079673/0001213900-26-079673-index.htm)
+
+- **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026080237/0001213900-26-080237-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
