@@ -69,6 +69,9 @@
 - **8-A12B** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926085728/0001104659-26-085728-index.htm)
 
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000316/0001081400-26-000316-index.htm)
+
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm)
 
