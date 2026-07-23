@@ -3,6 +3,9 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004422/0001477932-26-004422-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm)
+
 - **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
+
+- **10-K/A** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005722/0001683168-26-005722-index.htm)
 
 - **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526312793/0001193125-26-312793-index.htm)
