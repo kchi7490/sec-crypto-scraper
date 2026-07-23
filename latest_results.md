@@ -9,6 +9,9 @@
 - **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
 
+- **8-K** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000171893926000045/0001718939-26-000045-index.htm)
+
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
 
