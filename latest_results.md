@@ -24,8 +24,14 @@
 - **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
 
+- **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526312793/0001193125-26-312793-index.htm)
+
 - **F-4/A** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026080119/0001213900-26-080119-index.htm)
+
+- **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026080591/0001213900-26-080591-index.htm)
 
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026079805/0001213900-26-079805-index.htm)
@@ -60,6 +66,12 @@
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm)
 
+- **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/0001628280-26-049270-index.htm)
+
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126015461/0001999371-26-015461-index.htm)
+
+- **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000060/0001726978-26-000060-index.htm)
 
