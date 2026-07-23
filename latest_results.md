@@ -9,11 +9,14 @@
 - **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
 
-- **8-K** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000171893926000045/0001718939-26-000045-index.htm)
+- **8-K** | BOXABL Inc.  (BXBL, FGMCR, FGMCU)  (CIK 0001906364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000149315226034441/0001493152-26-034441-index.htm)
 
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
+
+- **8-K** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000171893926000045/0001718939-26-000045-index.htm)
 
 - **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526309340/0001193125-26-309340-index.htm)
@@ -24,6 +27,9 @@
 - **8-K** | NextTrip, Inc.  (NTRP)  (CIK 0000788611)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/788611/000149315226034192/0001493152-26-034192-index.htm)
 
+- **424B3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000969/0001731122-26-000969-index.htm)
+
 - **N-2/A** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000162828026049234/0001628280-26-049234-index.htm)
 
@@ -33,11 +39,20 @@
 - **10-K/A** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005722/0001683168-26-005722-index.htm)
 
+- **424B3** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926086356/0001104659-26-086356-index.htm)
+
+- **424B3** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926086351/0001104659-26-086351-index.htm)
+
 - **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526312793/0001193125-26-312793-index.htm)
 
 - **F-4/A** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026080119/0001213900-26-080119-index.htm)
+
+- **F-1/A** | YPF Energia Electrica S.A.  (YLUZ)  (CIK 0002133716)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2133716/000119312526314581/0001193125-26-314581-index.htm)
 
 - **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026080591/0001213900-26-080591-index.htm)
@@ -47,9 +62,6 @@
 
 - **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
-
-- **424B3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000969/0001731122-26-000969-index.htm)
 
 - **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026080237/0001213900-26-080237-index.htm)
@@ -86,6 +98,9 @@
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000316/0001081400-26-000316-index.htm)
+
+- **ABS-15G** | Santander Bank, N.A.  (CIK 0002058366)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2058366/000110465926086333/0001104659-26-086333-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm)
