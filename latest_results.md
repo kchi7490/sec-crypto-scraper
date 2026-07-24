@@ -54,6 +54,9 @@
 - **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026080591/0001213900-26-080591-index.htm)
 
+- **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465926086506/0001104659-26-086506-index.htm)
+
 - **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
 
@@ -74,6 +77,9 @@
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000684/0001279569-26-000684-index.htm)
+
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226034479/0001493152-26-034479-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126029422/0001140361-26-029422-index.htm)
