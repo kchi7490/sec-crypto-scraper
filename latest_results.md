@@ -1,8 +1,5 @@
 ## 📁 Other Filings
 
-- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004422/0001477932-26-004422-index.htm)
-
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm)
 
@@ -18,12 +15,6 @@
 - **8-K** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000171893926000045/0001718939-26-000045-index.htm)
 
-- **S-1/A** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526309340/0001193125-26-309340-index.htm)
-
-- **8-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000027/0000316709-26-000027-index.htm)
-
 - **8-K** | NextTrip, Inc.  (NTRP)  (CIK 0000788611)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/788611/000149315226034192/0001493152-26-034192-index.htm)
 
@@ -32,9 +23,6 @@
 
 - **N-2/A** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000162828026049234/0001628280-26-049234-index.htm)
-
-- **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326004784/0001171843-26-004784-index.htm)
 
 - **10-K/A** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005722/0001683168-26-005722-index.htm)
@@ -48,17 +36,11 @@
 - **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526312793/0001193125-26-312793-index.htm)
 
-- **F-4/A** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026080119/0001213900-26-080119-index.htm)
-
 - **F-1/A** | YPF Energia Electrica S.A.  (YLUZ)  (CIK 0002133716)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133716/000119312526314581/0001193125-26-314581-index.htm)
 
 - **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026080591/0001213900-26-080591-index.htm)
-
-- **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026079805/0001213900-26-079805-index.htm)
 
 - **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
@@ -72,17 +54,11 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000056/0001726978-26-000056-index.htm)
 
-- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026079816/0001213900-26-079816-index.htm)
-
 - **6-K** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026080291/0001213900-26-080291-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000684/0001279569-26-000684-index.htm)
-
-- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000110465926085217/0001104659-26-085217-index.htm)
 
 - **424B5** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126029422/0001140361-26-029422-index.htm)
@@ -107,9 +83,6 @@
 
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/0001628280-26-049270-index.htm)
-
-- **485APOS** | Tidal Trust V  (CIK 0002081107)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126015461/0001999371-26-015461-index.htm)
 
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000060/0001726978-26-000060-index.htm)
