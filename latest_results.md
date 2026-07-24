@@ -21,11 +21,20 @@
 - **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
 
+- **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526316280/0001193125-26-316280-index.htm)
+
 - **8-K** | BOXABL Inc.  (BXBL, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000149315226034441/0001493152-26-034441-index.htm)
 
+- **S-1/A** | Canary Staked TRX ETF  (CIK 0002064768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126015859/0001999371-26-015859-index.htm)
+
 - **20-F** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000119312526315001/0001193125-26-315001-index.htm)
+
+- **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526316271/0001193125-26-316271-index.htm)
 
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
@@ -51,6 +60,9 @@
 - **10-K/A** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826005722/0001683168-26-005722-index.htm)
 
+- **S-1** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000149315226034628/0001493152-26-034628-index.htm)
+
 - **PRER14A** | HEALTHY CHOICE WELLNESS CORP.  (HCWC)  (CIK 0001948864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1948864/000149315226034557/0001493152-26-034557-index.htm)
 
@@ -74,6 +86,9 @@
 
 - **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
+
+- **8-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526316284/0001193125-26-316284-index.htm)
 
 - **10-K** | IMMERSION CORP  (IMMR)  (CIK 0001058811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1058811/000119312526316089/0001193125-26-316089-index.htm)
@@ -148,10 +163,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000779/0000898745-26-000779-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000780/0000898745-26-000780-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000786/0000898745-26-000786-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000786/0000898745-26-000786-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000780/0000898745-26-000780-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000784/0000898745-26-000784-index.htm)
@@ -160,10 +175,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000782/0000898745-26-000782-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000789/0000898745-26-000789-index.htm)
