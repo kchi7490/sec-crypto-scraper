@@ -1,5 +1,14 @@
 ## 📁 Other Filings
 
+- **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026081061/0001213900-26-081061-index.htm)
+
+- **POS EX** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026081097/0001213900-26-081097-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026081058/0001213900-26-081058-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm)
 
@@ -8,6 +17,9 @@
 
 - **8-K** | BOXABL Inc.  (BXBL, FGMCR, FGMCU)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000149315226034441/0001493152-26-034441-index.htm)
+
+- **20-F** | MOGU Inc.  (MOGU)  (CIK 0001743971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743971/000119312526315001/0001193125-26-315001-index.htm)
 
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
@@ -54,6 +66,9 @@
 - **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000056/0001726978-26-000056-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926024362/0001437749-26-024362-index.htm)
+
 - **6-K** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026080291/0001213900-26-080291-index.htm)
 
@@ -66,8 +81,14 @@
 - **8-A12B** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926085727/0001104659-26-085727-index.htm)
 
+- **EFFECT** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/999999999526002410/9999999995-26-002410-index.htm)
+
 - **8-A12B** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926085728/0001104659-26-085728-index.htm)
+
+- **EFFECT** | Morgan Stanley Solana Trust  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/999999999526002409/9999999995-26-002409-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000320/0001081400-26-000320-index.htm)
@@ -86,4 +107,7 @@
 
 - **10-Q** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000060/0001726978-26-000060-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011119/0000950103-26-011119-index.htm)
 
