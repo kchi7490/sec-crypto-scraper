@@ -63,6 +63,9 @@
 - **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
 
+- **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000047/0001156375-26-000047-index.htm)
+
 - **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026080237/0001213900-26-080237-index.htm)
 
