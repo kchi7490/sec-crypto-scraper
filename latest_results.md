@@ -18,9 +18,6 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826005723/0001683168-26-005723-index.htm)
 
-- **S-1/A** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/0001104659-26-085808-index.htm)
-
 - **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526316280/0001193125-26-316280-index.htm)
 
@@ -36,23 +33,14 @@
 - **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526316271/0001193125-26-316271-index.htm)
 
-- **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/0001628280-26-049213-index.htm)
-
 - **8-K** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000171893926000045/0001718939-26-000045-index.htm)
 
 - **10-Q** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026081419/0001213900-26-081419-index.htm)
 
-- **8-K** | NextTrip, Inc.  (NTRP)  (CIK 0000788611)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/788611/000149315226034192/0001493152-26-034192-index.htm)
-
 - **424B3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226000969/0001731122-26-000969-index.htm)
-
-- **N-2/A** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000162828026049234/0001628280-26-049234-index.htm)
 
 - **PRER14A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426006865/0001654954-26-006865-index.htm)
@@ -84,9 +72,6 @@
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465926086506/0001104659-26-086506-index.htm)
 
-- **8-K** | Ionic Digital Inc.  (CIK 0002007691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003071/0001185185-26-003071-index.htm)
-
 - **8-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526316284/0001193125-26-316284-index.htm)
 
@@ -96,14 +81,8 @@
 - **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000047/0001156375-26-000047-index.htm)
 
-- **S-1/A** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026080237/0001213900-26-080237-index.htm)
-
 - **8-K** | XMax Inc.  (XMAX)  (CIK 0001473334)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1473334/000149315226034412/0001493152-26-034412-index.htm)
-
-- **8-K** | Goosehead Insurance, Inc.  (GSHD)  (CIK 0001726978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1726978/000172697826000056/0001726978-26-000056-index.htm)
 
 - **6-K/A** | Jiuzi Holdings, Inc.  (JZXN)  (CIK 0001816172)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1816172/000121390026081367/0001213900-26-081367-index.htm)
@@ -113,12 +92,6 @@
 
 - **F-3/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026081394/0001213900-26-081394-index.htm)
-
-- **6-K** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026080291/0001213900-26-080291-index.htm)
-
-- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000684/0001279569-26-000684-index.htm)
 
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226034479/0001493152-26-034479-index.htm)
@@ -132,14 +105,8 @@
 - **253G1** | UNLOCKD, Inc.  (BFCH)  (CIK 0001395005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826005755/0001683168-26-005755-index.htm)
 
-- **8-A12B** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926085727/0001104659-26-085727-index.htm)
-
 - **EFFECT** | Morgan Stanley Ethereum Trust  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/999999999526002410/9999999995-26-002410-index.htm)
-
-- **8-A12B** | Morgan Stanley Solana Trust  (CIK 0002103547)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926085728/0001104659-26-085728-index.htm)
 
 - **EFFECT** | Morgan Stanley Solana Trust  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/999999999526002409/9999999995-26-002409-index.htm)
@@ -156,17 +123,14 @@
 - **ABS-15G** | Santander Bank, N.A.  (CIK 0002058366)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058366/000110465926086333/0001104659-26-086333-index.htm)
 
-- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.htm)
-
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000779/0000898745-26-000779-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000786/0000898745-26-000786-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000780/0000898745-26-000780-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000780/0000898745-26-000780-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000786/0000898745-26-000786-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000784/0000898745-26-000784-index.htm)
@@ -175,10 +139,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000782/0000898745-26-000782-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000789/0000898745-26-000789-index.htm)
