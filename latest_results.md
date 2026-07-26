@@ -88,10 +88,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000782/0000898745-26-000782-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000778/0000898745-26-000778-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000787/0000898745-26-000787-index.htm)
 
 - **NPORT-P** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526000789/0000898745-26-000789-index.htm)
