@@ -6,6 +6,9 @@
 - **8-K** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026081840/0001213900-26-081840-index.htm)
 
+- **8-K/A** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526003142/0001185185-26-003142-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004512/0001477932-26-004512-index.htm)
 
@@ -75,12 +78,6 @@
 - **6-K** | Magic Empire Global Ltd  (MEGL)  (CIK 0001881472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881472/000149315226034728/0001493152-26-034728-index.htm)
 
-- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003843/0001062993-26-003843-index.htm)
-
-- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
-
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126016941/0002071691-26-016941-index.htm)
 
@@ -146,6 +143,9 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.htm)
+
+- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
 
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126016028/0001999371-26-016028-index.htm)
