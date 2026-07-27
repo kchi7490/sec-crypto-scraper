@@ -3,14 +3,38 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226034720/0001493152-26-034720-index.htm)
 
+- **8-K** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026081840/0001213900-26-081840-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004512/0001477932-26-004512-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
 
+- **424B3** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926087111/0001104659-26-087111-index.htm)
+
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926087128/0001104659-26-087128-index.htm)
+
+- **8-K/A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026081833/0001213900-26-081833-index.htm)
+
 - **S-4/A** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026081567/0001213900-26-081567-index.htm)
+
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/0001144879-26-000044-index.htm)
+
+- **424B2** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326011210/0000950103-26-011210-index.htm)
+
+- **PREM14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026081847/0001213900-26-081847-index.htm)
+
+- **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526318131/0001193125-26-318131-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026049666/0001628280-26-049666-index.htm)
@@ -30,8 +54,14 @@
 - **424B4** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026081597/0001213900-26-081597-index.htm)
 
+- **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026081845/0001213900-26-081845-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000703/0001279569-26-000703-index.htm)
+
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026081810/0001213900-26-081810-index.htm)
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926086772/0001104659-26-086772-index.htm)
@@ -47,6 +77,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003843/0001062993-26-003843-index.htm)
+
+- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
 
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126016941/0002071691-26-016941-index.htm)
@@ -125,4 +158,7 @@
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011179/0000950103-26-011179-index.htm)
+
+- **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011204/0000950103-26-011204-index.htm)
 
