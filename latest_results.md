@@ -78,6 +78,12 @@
 - **6-K** | Magic Empire Global Ltd  (MEGL)  (CIK 0001881472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1881472/000149315226034728/0001493152-26-034728-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003843/0001062993-26-003843-index.htm)
+
+- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
+
 - **NPORT-P** | Franklin California Tax Free Income Fund  (CIK 0000225375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/225375/000207169126016941/0002071691-26-016941-index.htm)
 
@@ -109,10 +115,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016983/0002071691-26-016983-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
@@ -143,9 +149,6 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.htm)
-
-- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
 
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126016028/0001999371-26-016028-index.htm)
