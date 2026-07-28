@@ -33,8 +33,14 @@
 - **S-4/A** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000121390026081567/0001213900-26-081567-index.htm)
 
+- **S-1/A** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926024678/0001437749-26-024678-index.htm)
+
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/0001144879-26-000044-index.htm)
+
+- **424B4** | Ionic Digital Inc.  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003152/0001185185-26-003152-index.htm)
 
 - **424B2** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326011210/0000950103-26-011210-index.htm)
@@ -72,11 +78,20 @@
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126015868/0001999371-26-015868-index.htm)
 
+- **N-CSR/A** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016249/0001999371-26-016249-index.htm)
+
 - **424B4** | Market Technology Acquisition Corp  (MTAK)  (CIK 0002133136)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2133136/000121390026081597/0001213900-26-081597-index.htm)
 
+- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004655/0001580642-26-004655-index.htm)
+
 - **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026081845/0001213900-26-081845-index.htm)
+
+- **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000043/0001500217-26-000043-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000703/0001279569-26-000703-index.htm)
@@ -142,19 +157,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016983/0002071691-26-016983-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016967/0002071691-26-016967-index.htm)
@@ -179,6 +194,9 @@
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.htm)
+
+- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326002200/0000930413-26-002200-index.htm)
 
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126016028/0001999371-26-016028-index.htm)
