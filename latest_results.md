@@ -139,10 +139,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016983/0002071691-26-016983-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
@@ -166,10 +166,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016971/0002071691-26-016971-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016942/0002071691-26-016942-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016946/0002071691-26-016946-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016946/0002071691-26-016946-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016942/0002071691-26-016942-index.htm)
+
+- **485BPOS** | Eaton Vance Investment Trust  (CIK 0000779991)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/779991/000113322826010801/0001133228-26-010801-index.htm)
 
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.htm)
@@ -180,8 +183,17 @@
 - **NPORT-P** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000207169126016938/0002071691-26-016938-index.htm)
 
+- **N-CSRS** | MFS INVESTMENT GRADE MUNICIPAL TRUST  (CIK 0000847411)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847411/000119312526319002/0001193125-26-319002-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016018/0001999371-26-016018-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082002/0001213900-26-082002-index.htm)
+
+- **485APOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126016182/0001999371-26-016182-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011179/0000950103-26-011179-index.htm)
