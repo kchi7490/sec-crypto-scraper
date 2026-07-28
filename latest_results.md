@@ -15,11 +15,11 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004512/0001477932-26-004512-index.htm)
 
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
-
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/0001633917-26-000080-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
 
 - **424B3** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926087111/0001104659-26-087111-index.htm)
@@ -84,6 +84,12 @@
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026081810/0001213900-26-081810-index.htm)
 
+- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326004911/0001171843-26-004911-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026081993/0001213900-26-081993-index.htm)
+
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926086772/0001104659-26-086772-index.htm)
 
@@ -98,6 +104,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003843/0001062993-26-003843-index.htm)
+
+- **487** | FT 13067  (CIK 0002130918)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2130918/000144554626005522/0001445546-26-005522-index.htm)
 
 - **485BPOS** | iShares, Inc.  (CIK 0000930667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
@@ -142,10 +151,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016967/0002071691-26-016967-index.htm)
