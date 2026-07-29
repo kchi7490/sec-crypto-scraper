@@ -15,6 +15,9 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004512/0001477932-26-004512-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000113/0001783879-26-000113-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
 
@@ -24,11 +27,23 @@
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/0001818874-26-000050-index.htm)
 
+- **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926088139/0001104659-26-088139-index.htm)
+
 - **424B3** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926087111/0001104659-26-087111-index.htm)
 
+- **424B3** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326005015/0001171843-26-005015-index.htm)
+
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926087128/0001104659-26-087128-index.htm)
+
+- **F-1** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026082801/0001213900-26-082801-index.htm)
+
+- **10-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000048/0001144879-26-000048-index.htm)
 
 - **8-K/A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026081833/0001213900-26-081833-index.htm)
@@ -38,6 +53,12 @@
 
 - **S-1/A** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926024678/0001437749-26-024678-index.htm)
+
+- **F-3/A** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026082852/0001213900-26-082852-index.htm)
+
+- **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526324183/0001193125-26-324183-index.htm)
 
 - **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000044/0001144879-26-000044-index.htm)
@@ -72,6 +93,9 @@
 - **S-4** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026082489/0001213900-26-082489-index.htm)
 
+- **S-1/A** | FullPAC, Inc.  (CIK 0002076148)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226035201/0001493152-26-035201-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026049666/0001628280-26-049666-index.htm)
 
@@ -83,6 +107,12 @@
 
 - **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000014/0001839341-26-000014-index.htm)
+
+- **8-K** | POWERCOMPUTE, INC.  (LMFA)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526323727/0001193125-26-323727-index.htm)
+
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009158/0001214659-26-009158-index.htm)
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000012/0001839341-26-000012-index.htm)
@@ -165,6 +195,9 @@
 - **485BPOS** | iShares, Inc.  (CIK 0000930667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526318139/0001193125-26-318139-index.htm)
 
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826010961/0001133228-26-010961-index.htm)
+
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426013848/0001888524-26-013848-index.htm)
 
@@ -211,10 +244,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016978/0002071691-26-016978-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016986/0002071691-26-016986-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016967/0002071691-26-016967-index.htm)
@@ -263,6 +296,9 @@
 
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126016028/0001999371-26-016028-index.htm)
+
+- **S-4/A** | Versa Bancorp  (CIK 0002100848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926088225/0001104659-26-088225-index.htm)
 
 - **NPORT-P** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000207169126016938/0002071691-26-016938-index.htm)
