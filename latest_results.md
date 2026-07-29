@@ -15,11 +15,11 @@
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004512/0001477932-26-004512-index.htm)
 
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
-
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/0001633917-26-000080-index.htm)
+
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226034717/0001493152-26-034717-index.htm)
 
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/0001818874-26-000050-index.htm)
@@ -89,6 +89,9 @@
 
 - **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000013/0001839341-26-000013-index.htm)
+
+- **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082577/0001213900-26-082577-index.htm)
 
 - **S-1** | Karman Line Acquisition Corp.  (CIK 0002134856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134856/000182912626007847/0001829126-26-007847-index.htm)
@@ -228,6 +231,9 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.htm)
 
+- **497** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000003014626000322/0000030146-26-000322-index.htm)
+
 - **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326002200/0000930413-26-002200-index.htm)
 
@@ -240,6 +246,30 @@
 - **N-CSRS** | MFS INVESTMENT GRADE MUNICIPAL TRUST  (CIK 0000847411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/847411/000119312526319002/0001193125-26-319002-index.htm)
 
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006233/0002048251-26-006233-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006235/0002048251-26-006235-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006217/0002048251-26-006217-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006231/0002048251-26-006231-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006216/0002048251-26-006216-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006226/0002048251-26-006226-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006220/0002048251-26-006220-index.htm)
+
+- **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006228/0002048251-26-006228-index.htm)
+
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016018/0001999371-26-016018-index.htm)
 
@@ -248,6 +278,9 @@
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082375/0001213900-26-082375-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082579/0001213900-26-082579-index.htm)
 
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126016182/0001999371-26-016182-index.htm)
