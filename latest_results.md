@@ -153,6 +153,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326003843/0001062993-26-003843-index.htm)
 
+- **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001520/0001771146-26-001520-index.htm)
+
 - **425** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026082517/0001213900-26-082517-index.htm)
 
@@ -199,10 +202,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016983/0002071691-26-016983-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016968/0002071691-26-016968-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016959/0002071691-26-016959-index.htm)
 
 - **NPORT-P** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000207169126016970/0002071691-26-016970-index.htm)
