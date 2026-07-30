@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000087/0001679788-26-000087-index.htm)
+
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004535/0001477932-26-004535-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **F-1** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026082801/0001213900-26-082801-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000162828026051027/0001628280-26-051027-index.htm)
 
 - **10-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000048/0001144879-26-000048-index.htm)
@@ -116,6 +122,9 @@
 
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000043/0001500217-26-000043-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026083332/0001213900-26-083332-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326004911/0001171843-26-004911-index.htm)
