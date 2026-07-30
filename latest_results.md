@@ -9,6 +9,9 @@
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/0001633917-26-000080-index.htm)
 
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000114/0001783879-26-000114-index.htm)
+
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000050/0001818874-26-000050-index.htm)
 
@@ -81,11 +84,20 @@
 - **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082577/0001213900-26-082577-index.htm)
 
+- **20-F/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026050791/0001628280-26-050791-index.htm)
+
 - **N-CSR/A** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016249/0001999371-26-016249-index.htm)
 
+- **20-F** | Rectitude Holdings Ltd.  (RECT)  (CIK 0001995116)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995116/000121390026083027/0001213900-26-083027-index.htm)
+
 - **S-4/A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826005815/0001683168-26-005815-index.htm)
+
+- **PREM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126030109/0001140361-26-030109-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004655/0001580642-26-004655-index.htm)
@@ -113,6 +125,9 @@
 
 - **425** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026082517/0001213900-26-082517-index.htm)
+
+- **425** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026083017/0001213900-26-083017-index.htm)
 
 - **487** | FT 13067  (CIK 0002130918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2130918/000144554626005522/0001445546-26-005522-index.htm)
