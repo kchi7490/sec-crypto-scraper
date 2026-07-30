@@ -18,6 +18,9 @@
 - **8-K** | BNB PLUS CORP.  (BNBX)  (CIK 0000744452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/744452/000110465926088139/0001104659-26-088139-index.htm)
 
+- **8-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526325026/0001193125-26-325026-index.htm)
+
 - **424B3** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326005015/0001171843-26-005015-index.htm)
 
@@ -48,6 +51,9 @@
 - **S-1/A** | Dune Acquisition Corp III  (CIK 0002095476)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026081909/0001213900-26-081909-index.htm)
 
+- **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/0001571949-26-000011-index.htm)
+
 - **S-1** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026082502/0001213900-26-082502-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **F-1** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226035243/0001493152-26-035243-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226035326/0001493152-26-035326-index.htm)
 
 - **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000014/0001839341-26-000014-index.htm)
@@ -112,10 +121,16 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326004911/0001171843-26-004911-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026083074/0001213900-26-083074-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026082559/0001213900-26-082559-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026081993/0001213900-26-081993-index.htm)
+
+- **6-K** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026083046/0001213900-26-083046-index.htm)
 
 - **20-F** | HDFC BANK LTD  (HDB)  (CIK 0001144967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144967/000119312526322004/0001193125-26-322004-index.htm)
