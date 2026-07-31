@@ -66,6 +66,15 @@
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526327131/0001193125-26-327131-index.htm)
 
+- **F-4/A** | OpenPayd Global Holdings Ltd  (OP)  (CIK 0002119416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119416/000182912626008153/0001829126-26-008153-index.htm)
+
+- **424B5** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119726000133/0001381197-26-000133-index.htm)
+
+- **424B5** | Interactive Brokers Group, Inc.  (IBKR)  (CIK 0001381197)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1381197/000138119726000138/0001381197-26-000138-index.htm)
+
 - **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/0001571949-26-000011-index.htm)
 
@@ -143,6 +152,9 @@
 
 - **6-K** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026083643/0001213900-26-083643-index.htm)
+
+- **497K** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526327977/0001193125-26-327977-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001520/0001771146-26-001520-index.htm)
