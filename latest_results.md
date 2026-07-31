@@ -111,6 +111,12 @@
 - **10-Q** | Virtu Financial, Inc.  (VIRT)  (CIK 0001592386)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592386/000159238626000028/0001592386-26-000028-index.htm)
 
+- **F-1** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008247/0001829126-26-008247-index.htm)
+
+- **F-1** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008246/0001829126-26-008246-index.htm)
+
 - **S-4** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026082489/0001213900-26-082489-index.htm)
 
@@ -122,6 +128,9 @@
 
 - **F-4/A** | Mango Financial Group Ltd  (CIK 0002085210)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085210/000149315226035630/0001493152-26-035630-index.htm)
+
+- **424B3** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526328880/0001193125-26-328880-index.htm)
 
 - **F-4/A** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026084072/0001213900-26-084072-index.htm)
@@ -152,6 +161,9 @@
 
 - **20-F/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026050791/0001628280-26-050791-index.htm)
+
+- **10-Q** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026084130/0001213900-26-084130-index.htm)
 
 - **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026051239/0001628280-26-051239-index.htm)
