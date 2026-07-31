@@ -45,8 +45,14 @@
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000034/0001335258-26-000034-index.htm)
 
+- **10-Q** | FRANKLIN RESOURCES INC  (BEN)  (CIK 0000038777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38777/000003877726000217/0000038777-26-000217-index.htm)
+
 - **F-3/A** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026082852/0001213900-26-082852-index.htm)
+
+- **485BPOS** | BLACKROCK FUNDS  (CIK 0000844779)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/844779/000119312526327203/0001193125-26-327203-index.htm)
 
 - **10-Q** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926025065/0001437749-26-025065-index.htm)
@@ -56,6 +62,9 @@
 
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526324183/0001193125-26-324183-index.htm)
+
+- **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526327131/0001193125-26-327131-index.htm)
 
 - **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/0001571949-26-000011-index.htm)
@@ -122,6 +131,9 @@
 
 - **20-F** | HDFC BANK LTD  (HDB)  (CIK 0001144967)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1144967/000119312526322004/0001193125-26-322004-index.htm)
+
+- **6-K** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026083643/0001213900-26-083643-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001520/0001771146-26-001520-index.htm)
@@ -209,6 +221,9 @@
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082579/0001213900-26-082579-index.htm)
+
+- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026051239/0001628280-26-051239-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011452/0000950103-26-011452-index.htm)
