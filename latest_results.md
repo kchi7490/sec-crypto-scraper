@@ -3,17 +3,11 @@
 - **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000087/0001679788-26-000087-index.htm)
 
-- **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226004535/0001477932-26-004535-index.htm)
-
 - **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000088/0001679788-26-000088-index.htm)
 
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000113/0001783879-26-000113-index.htm)
-
-- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000080/0001633917-26-000080-index.htm)
 
 - **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000114/0001783879-26-000114-index.htm)
@@ -45,9 +39,6 @@
 - **8-K** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000034/0001335258-26-000034-index.htm)
 
-- **S-1/A** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926024678/0001437749-26-024678-index.htm)
-
 - **F-3/A** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000121390026082852/0001213900-26-082852-index.htm)
 
@@ -57,26 +48,11 @@
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526324183/0001193125-26-324183-index.htm)
 
-- **424B4** | Ionic Digital Inc.  (CIK 0002007691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000118518526003152/0001185185-26-003152-index.htm)
-
-- **10-K** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774926024698/0001437749-26-024698-index.htm)
-
-- **486BPOS** | USVC Venture Capital Access Fund  (CIK 0001858660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1858660/000199937126016261/0001999371-26-016261-index.htm)
-
-- **S-1/A** | Dune Acquisition Corp III  (CIK 0002095476)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026081909/0001213900-26-081909-index.htm)
-
 - **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000011/0001571949-26-000011-index.htm)
 
 - **S-1** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026082502/0001213900-26-082502-index.htm)
-
-- **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000082/0001633917-26-000082-index.htm)
 
 - **S-4** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026082489/0001213900-26-082489-index.htm)
@@ -90,20 +66,11 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226035326/0001493152-26-035326-index.htm)
 
-- **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000014/0001839341-26-000014-index.htm)
-
 - **8-K** | POWERCOMPUTE, INC.  (LMFA)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526323727/0001193125-26-323727-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009158/0001214659-26-009158-index.htm)
-
-- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000012/0001839341-26-000012-index.htm)
-
-- **8-K** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000013/0001839341-26-000013-index.htm)
 
 - **10-K/A** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326003909/0001062993-26-003909-index.htm)
@@ -114,9 +81,6 @@
 - **20-F/A** | Prenetics Global Ltd  (PRE, PRENW)  (CIK 0001876431)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876431/000162828026050791/0001628280-26-050791-index.htm)
 
-- **N-CSR/A** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016249/0001999371-26-016249-index.htm)
-
 - **20-F** | Rectitude Holdings Ltd.  (RECT)  (CIK 0001995116)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995116/000121390026083027/0001213900-26-083027-index.htm)
 
@@ -126,29 +90,14 @@
 - **PREM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126030109/0001140361-26-030109-index.htm)
 
-- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004655/0001580642-26-004655-index.htm)
-
-- **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226035046/0001493152-26-035046-index.htm)
-
-- **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000043/0001500217-26-000043-index.htm)
-
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026083332/0001213900-26-083332-index.htm)
-
-- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326004911/0001171843-26-004911-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026083074/0001213900-26-083074-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026082559/0001213900-26-082559-index.htm)
-
-- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026081993/0001213900-26-081993-index.htm)
 
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001272/0001753926-26-001272-index.htm)
@@ -171,9 +120,6 @@
 - **425** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026083017/0001213900-26-083017-index.htm)
 
-- **487** | FT 13067  (CIK 0002130918)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2130918/000144554626005522/0001445546-26-005522-index.htm)
-
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826010961/0001133228-26-010961-index.htm)
 
@@ -185,9 +131,6 @@
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000121/0000783401-26-000121-index.htm)
-
-- **485BPOS** | Eaton Vance Investment Trust  (CIK 0000779991)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/779991/000113322826010801/0001133228-26-010801-index.htm)
 
 - **497** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000003014626000322/0000030146-26-000322-index.htm)
@@ -210,14 +153,8 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026003735/0001592900-26-003735-index.htm)
 
-- **485BPOS** | TIAA-CREF FUNDS  (CIK 0001084380)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1084380/000093041326002200/0000930413-26-002200-index.htm)
-
 - **S-4/A** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926088225/0001104659-26-088225-index.htm)
-
-- **N-CSRS** | MFS INVESTMENT GRADE MUNICIPAL TRUST  (CIK 0000847411)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/847411/000119312526319002/0001193125-26-319002-index.htm)
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006233/0002048251-26-006233-index.htm)
@@ -246,20 +183,11 @@
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000035/0001335258-26-000035-index.htm)
 
-- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082002/0001213900-26-082002-index.htm)
-
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126016408/0001999371-26-016408-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082375/0001213900-26-082375-index.htm)
-
-- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026082579/0001213900-26-082579-index.htm)
-
-- **485APOS** | Tidal Trust V  (CIK 0002081107)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126016182/0001999371-26-016182-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326011452/0000950103-26-011452-index.htm)
