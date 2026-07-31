@@ -21,11 +21,17 @@
 - **8-K** | Lite Strategy, Inc.  (LITS)  (CIK 0001262104)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1262104/000119312526325026/0001193125-26-325026-index.htm)
 
+- **S-1** | Securitize Corp.  (SECZ)  (CIK 0002094496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000162828026051182/0001628280-26-051182-index.htm)
+
 - **10-Q** | Reliance Global Group, Inc.  (EZRA)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226035504/0001493152-26-035504-index.htm)
 
 - **424B3** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326005015/0001171843-26-005015-index.htm)
+
+- **8-K/A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000036/0001050446-26-000036-index.htm)
 
 - **F-1** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026082801/0001213900-26-082801-index.htm)
@@ -44,6 +50,9 @@
 
 - **10-Q** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926025065/0001437749-26-025065-index.htm)
+
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926009324/0001214659-26-009324-index.htm)
 
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526324183/0001193125-26-324183-index.htm)
@@ -93,6 +102,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026083332/0001213900-26-083332-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926025165/0001437749-26-025165-index.htm)
+
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026083074/0001213900-26-083074-index.htm)
 
@@ -131,6 +143,12 @@
 
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000121/0000783401-26-000121-index.htm)
+
+- **20-F** | Waton Financial Ltd  (WTF)  (CIK 0001987363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1987363/000114036126030310/0001140361-26-030310-index.htm)
+
+- **485BPOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126016528/0001999371-26-016528-index.htm)
 
 - **497** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000003014626000322/0000030146-26-000322-index.htm)
@@ -179,6 +197,9 @@
 
 - **NPORT-P** | SEI TAX EXEMPT TRUST  (CIK 0000701817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/701817/000204825126006228/0002048251-26-006228-index.htm)
+
+- **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926088924/0001104659-26-088924-index.htm)
 
 - **10-Q** | Live Nation Entertainment, Inc.  (LYV)  (CIK 0001335258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1335258/000133525826000035/0001335258-26-000035-index.htm)
