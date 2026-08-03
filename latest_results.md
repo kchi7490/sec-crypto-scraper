@@ -18,6 +18,9 @@
 - **424B4** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226035717/0001493152-26-035717-index.htm)
 
+- **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926025339/0001437749-26-025339-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026051539/0001628280-26-051539-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **S-4/A** | Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000775/000182912626008251/0001829126-26-008251-index.htm)
+
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326011615/0000950103-26-011615-index.htm)
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084295/0001213900-26-084295-index.htm)
