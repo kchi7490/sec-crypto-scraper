@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226035752/0001493152-26-035752-index.htm)
 
+- **S-1/A** | Bitwise NEAR ETF  (CIK 0002067111)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000119312526329988/0001193125-26-329988-index.htm)
+
 - **DEFM14A** | DevvStream Corp.  (DEVSF)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000121390026084258/0001213900-26-084258-index.htm)
 
@@ -47,6 +50,12 @@
 
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326011615/0000950103-26-011615-index.htm)
+
+- **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626008268/0001829126-26-008268-index.htm)
+
+- **1-A POS** | UNLOCKD, Inc.  (BFCH)  (CIK 0001395005)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826005910/0001683168-26-005910-index.htm)
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084295/0001213900-26-084295-index.htm)
