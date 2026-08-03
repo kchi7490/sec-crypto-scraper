@@ -27,6 +27,9 @@
 - **20-F** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026084178/0001213900-26-084178-index.htm)
 
+- **PRE 14A** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226035855/0001493152-26-035855-index.htm)
+
 - **424B4** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226035717/0001493152-26-035717-index.htm)
 
@@ -54,6 +57,9 @@
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084293/0001213900-26-084293-index.htm)
 
+- **S-3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001005/0001731122-26-001005-index.htm)
+
 - **8-K** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026084223/0001213900-26-084223-index.htm)
 
@@ -71,6 +77,9 @@
 
 - **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526330541/0001193125-26-330541-index.htm)
+
+- **10-Q** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526330842/0001193125-26-330842-index.htm)
 
 - **S-4/A** | Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000775/000182912626008251/0001829126-26-008251-index.htm)
