@@ -33,6 +33,9 @@
 - **20-F** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026084178/0001213900-26-084178-index.htm)
 
+- **10-Q** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000041/0001819989-26-000041-index.htm)
+
 - **PRE 14A** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226035855/0001493152-26-035855-index.htm)
 
@@ -107,6 +110,9 @@
 
 - **6-K** | PN Smart Energy Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000192998026000411/0001929980-26-000411-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926090114/0001104659-26-090114-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000103/0001383395-26-000103-index.htm)
