@@ -24,6 +24,9 @@
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/0001050446-26-000044-index.htm)
 
+- **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/0001185185-26-003263-index.htm)
+
 - **DEFM14A** | DevvStream Corp.  (DEVSF)  (CIK 0001854480)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854480/000121390026084258/0001213900-26-084258-index.htm)
 
@@ -90,6 +93,12 @@
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000242/0001099910-26-000242-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009551/0001214659-26-009551-index.htm)
+
+- **10-Q** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000070/0001865200-26-000070-index.htm)
+
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000149315226035933/0001493152-26-035933-index.htm)
 
@@ -98,6 +107,9 @@
 
 - **S-3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001005/0001731122-26-001005-index.htm)
+
+- **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326005204/0001171843-26-005204-index.htm)
 
 - **8-K** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026084223/0001213900-26-084223-index.htm)
@@ -132,6 +144,9 @@
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026052613/0001628280-26-052613-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026085240/0001213900-26-085240-index.htm)
+
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326011615/0000950103-26-011615-index.htm)
 
@@ -152,6 +167,9 @@
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503426000008/0002015034-26-000008-index.htm)
+
+- **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326011889/0000950103-26-011889-index.htm)
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084295/0001213900-26-084295-index.htm)
@@ -176,6 +194,9 @@
 
 - **424B3** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926090374/0001104659-26-090374-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026085275/0001213900-26-085275-index.htm)
 
 - **10-Q** | Grayscale Ethereum Classic Trust (ETC)  (ETCG)  (CIK 0001705181)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705181/000170518126000006/0001705181-26-000006-index.htm)
