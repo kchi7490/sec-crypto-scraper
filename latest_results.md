@@ -87,6 +87,9 @@
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326011615/0000950103-26-011615-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000103/0001383395-26-000103-index.htm)
+
 - **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626008268/0001829126-26-008268-index.htm)
 
@@ -95,6 +98,15 @@
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084295/0001213900-26-084295-index.htm)
+
+- **1-A** | Arte Consulting Inc.  (CIK 0002137570)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2137570/000213757026000005/0002137570-26-000005-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013383/0001398344-26-013383-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013381/0001398344-26-013381-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013286/0001398344-26-013286-index.htm)
