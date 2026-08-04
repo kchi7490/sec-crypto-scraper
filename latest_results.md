@@ -9,6 +9,9 @@
 - **S-1/A** | Bitwise NEAR ETF  (CIK 0002067111)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000119312526329988/0001193125-26-329988-index.htm)
 
+- **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000022/0001383312-26-000022-index.htm)
+
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/0001050446-26-000044-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **S-1** | 1776 Acquisition Corp  (CIK 0002115818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2115818/000121390026084648/0001213900-26-084648-index.htm)
+
+- **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926090025/0001104659-26-090025-index.htm)
 
 - **20-F** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026084178/0001213900-26-084178-index.htm)
@@ -57,6 +63,18 @@
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084293/0001213900-26-084293-index.htm)
 
+- **424B7** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126031055/0001140361-26-031055-index.htm)
+
+- **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000038/0001819989-26-000038-index.htm)
+
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926090041/0001104659-26-090041-index.htm)
+
+- **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000149315226035933/0001493152-26-035933-index.htm)
+
 - **S-3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001005/0001731122-26-001005-index.htm)
 
@@ -86,6 +104,9 @@
 
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326011615/0000950103-26-011615-index.htm)
+
+- **6-K** | PN Smart Energy Ltd  (PN)  (CIK 0002001288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000192998026000411/0001929980-26-000411-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000103/0001383395-26-000103-index.htm)
