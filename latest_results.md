@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526335171/0001193125-26-335171-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226035752/0001493152-26-035752-index.htm)
 
@@ -75,6 +78,9 @@
 - **10-Q** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000041/0001819989-26-000041-index.htm)
 
+- **10-Q** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000075/0000736772-26-000075-index.htm)
+
 - **PRE 14A** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226035855/0001493152-26-035855-index.htm)
 
@@ -87,6 +93,9 @@
 - **10-Q** | Cohen & Co Inc.  (COHN)  (CIK 0001270436)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1270436/000143774926025339/0001437749-26-025339-index.htm)
 
+- **424B3** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026085694/0001213900-26-085694-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026051539/0001628280-26-051539-index.htm)
 
@@ -98,6 +107,9 @@
 
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526333965/0001193125-26-333965-index.htm)
+
+- **8-K** | Next Technology Holding Inc.  (NXTT)  (CIK 0001784970)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784970/000121390026085658/0001213900-26-085658-index.htm)
 
 - **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000058/0001074828-26-000058-index.htm)
@@ -122,6 +134,9 @@
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000242/0001099910-26-000242-index.htm)
+
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526335117/0001193125-26-335117-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009551/0001214659-26-009551-index.htm)
@@ -158,6 +173,12 @@
 
 - **10-Q** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026052535/0001628280-26-052535-index.htm)
+
+- **PRE 14C** | Vulcan Infrastructure & Power Inc.  (VIP, GREE, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000092189526001969/0000921895-26-001969-index.htm)
+
+- **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004912/0001580642-26-004912-index.htm)
 
 - **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526330562/0001193125-26-330562-index.htm)
@@ -201,6 +222,9 @@
 - **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626008268/0001829126-26-008268-index.htm)
 
+- **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326011953/0000950103-26-011953-index.htm)
+
 - **487** | FT 13109  (CIK 0002132783)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132783/000144554626005723/0001445546-26-005723-index.htm)
 
@@ -215,6 +239,9 @@
 
 - **424B3** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026084295/0001213900-26-084295-index.htm)
+
+- **10-Q** | Figma, Inc.  (FIG)  (CIK 0001579878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579878/000162828026053348/0001628280-26-053348-index.htm)
 
 - **FWP** | BANK OF MONTREAL /CAN/  (BMO, AIQD, AIQU, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000183988226038497/0001839882-26-038497-index.htm)
@@ -257,6 +284,12 @@
 
 - **10-Q** | TransparentBusiness, Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626008347/0001829126-26-008347-index.htm)
+
+- **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026053368/0001628280-26-053368-index.htm)
+
+- **10-Q** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926009661/0001214659-26-009661-index.htm)
 
 - **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000248/0001876042-26-000248-index.htm)
