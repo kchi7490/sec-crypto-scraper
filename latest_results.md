@@ -3,6 +3,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226035752/0001493152-26-035752-index.htm)
 
+- **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000149315226036089/0001493152-26-036089-index.htm)
+
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000084/0001859392-26-000084-index.htm)
+
 - **8-K** | Marqeta, Inc.  (MQ)  (CIK 0001522540)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1522540/000152254026000061/0001522540-26-000061-index.htm)
 
@@ -12,6 +18,12 @@
 - **S-1/A** | Bitwise NEAR ETF  (CIK 0002067111)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000119312526329988/0001193125-26-329988-index.htm)
 
+- **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926090713/0001104659-26-090713-index.htm)
+
+- **8-K** | SilverBox Corp IV  (SBXD, SBXD-UN, SBXD-WT)  (CIK 0002015947)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2015947/000110465926090712/0001104659-26-090712-index.htm)
+
 - **8-K** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000138331226000022/0001383312-26-000022-index.htm)
 
@@ -20,6 +32,15 @@
 
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000131/0000008818-26-000131-index.htm)
+
+- **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413826000014/0001974138-26-000014-index.htm)
+
+- **10-Q** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000197413826000016/0001974138-26-000016-index.htm)
+
+- **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000246/0001876042-26-000246-index.htm)
 
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/0001050446-26-000044-index.htm)
@@ -44,6 +65,9 @@
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926090025/0001104659-26-090025-index.htm)
+
+- **1-A** | Naoris Quantum Protocol Inc.  (CIK 0002145466)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2145466/000121390026085345/0001213900-26-085345-index.htm)
 
 - **20-F** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026084178/0001213900-26-084178-index.htm)
@@ -105,8 +129,14 @@
 - **8-K** | Angel Studios, Inc.  (ANGX)  (CIK 0001865200)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000068/0001865200-26-000068-index.htm)
 
+- **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000162/0001083301-26-000162-index.htm)
+
 - **S-3** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001005/0001731122-26-001005-index.htm)
+
+- **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000031/0000934549-26-000031-index.htm)
 
 - **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326005204/0001171843-26-005204-index.htm)
@@ -190,6 +220,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013381/0001398344-26-013381-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013506/0001398344-26-013506-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013286/0001398344-26-013286-index.htm)
 
 - **424B3** | Versa Bancorp  (CIK 0002100848)  
@@ -203,6 +236,9 @@
 
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000158848926000005/0001588489-26-000005-index.htm)
+
+- **10-Q** | TransparentBusiness, Inc.  (CIK 0001740742)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626008347/0001829126-26-008347-index.htm)
 
 - **10-Q** | Grayscale Stellar Lumens Trust (XLM)  (GXLM)  (CIK 0001761325)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761325/000176132526000008/0001761325-26-000008-index.htm)
