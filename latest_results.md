@@ -78,6 +78,9 @@
 - **PRE 14A** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226035855/0001493152-26-035855-index.htm)
 
+- **485APOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526334189/0001193125-26-334189-index.htm)
+
 - **424B4** | East West Ave Acquisition Corp.  (EWAV)  (CIK 0002100704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100704/000149315226035717/0001493152-26-035717-index.htm)
 
@@ -198,6 +201,9 @@
 - **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626008268/0001829126-26-008268-index.htm)
 
+- **487** | FT 13109  (CIK 0002132783)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2132783/000144554626005723/0001445546-26-005723-index.htm)
+
 - **1-A POS** | UNLOCKD, Inc.  (BFCH)  (CIK 0001395005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826005910/0001683168-26-005910-index.htm)
 
@@ -218,9 +224,6 @@
 
 - **1-A** | Arte Consulting Inc.  (CIK 0002137570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2137570/000213757026000005/0002137570-26-000005-index.htm)
-
-- **485APOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526334189/0001193125-26-334189-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013383/0001398344-26-013383-index.htm)
