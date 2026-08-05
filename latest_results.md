@@ -225,6 +225,12 @@
 - **1-A** | Arte Consulting Inc.  (CIK 0002137570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2137570/000213757026000005/0002137570-26-000005-index.htm)
 
+- **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000005/0001690010-26-000005-index.htm)
+
+- **N-2/A** | Global X Venture & Innovation Fund  (CIK 0001997641)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997641/000121390026085534/0001213900-26-085534-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013383/0001398344-26-013383-index.htm)
 
