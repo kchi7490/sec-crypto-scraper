@@ -219,6 +219,9 @@
 - **1-A** | Arte Consulting Inc.  (CIK 0002137570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2137570/000213757026000005/0002137570-26-000005-index.htm)
 
+- **485APOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526334189/0001193125-26-334189-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013383/0001398344-26-013383-index.htm)
 
