@@ -15,6 +15,9 @@
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226036201/0001493152-26-036201-index.htm)
 
+- **10-Q** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926026004/0001437749-26-026004-index.htm)
+
 - **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926090713/0001104659-26-090713-index.htm)
 
@@ -45,14 +48,29 @@
 - **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000246/0001876042-26-000246-index.htm)
 
+- **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926026000/0001437749-26-026000-index.htm)
+
 - **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/0001185185-26-003263-index.htm)
 
 - **10-Q/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000098/0001017386-26-000098-index.htm)
 
+- **10-Q/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000103/0001017386-26-000103-index.htm)
+
+- **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526336752/0001193125-26-336752-index.htm)
+
+- **20-F/A** | Alpha Compute Corp  (ALP)  (CIK 0001095435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1095435/000117184326005284/0001171843-26-005284-index.htm)
+
 - **DEF 14A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000165495426007256/0001654954-26-007256-index.htm)
+
+- **10-K/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000101/0001017386-26-000101-index.htm)
 
 - **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926090025/0001104659-26-090025-index.htm)
@@ -62,6 +80,9 @@
 
 - **10-Q** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000041/0001819989-26-000041-index.htm)
+
+- **10-Q** | CITIZENS FINANCIAL SERVICES INC  (CZFS)  (CIK 0000739421)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/739421/000114036126031479/0001140361-26-031479-index.htm)
 
 - **10-Q** | CNB FINANCIAL CORP/PA  (CCNE, CCNEP)  (CIK 0000736772)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/736772/000073677226000075/0000736772-26-000075-index.htm)
@@ -80,6 +101,9 @@
 
 - **424B3** | Bleichroeder Acquisition France Merger Sub 2  (PSQL)  (CIK 0002119292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2119292/000121390026085694/0001213900-26-085694-index.htm)
+
+- **DEFM14A** | Bleichroeder Acquisition Corp. II  (BBCQ, BBCQU, BBCQW)  (CIK 0002088295)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088295/000121390026085816/0001213900-26-085816-index.htm)
 
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009663/0001214659-26-009663-index.htm)
@@ -156,6 +180,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026085240/0001213900-26-085240-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926026045/0001437749-26-026045-index.htm)
+
 - **6-K** | PN Smart Energy Ltd  (PN)  (CIK 0002001288)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2001288/000192998026000411/0001929980-26-000411-index.htm)
 
@@ -165,14 +192,23 @@
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000103/0001383395-26-000103-index.htm)
 
+- **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526336755/0001193125-26-336755-index.htm)
+
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326011953/0000950103-26-011953-index.htm)
+
+- **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000139834426013614/0001398344-26-013614-index.htm)
 
 - **10-Q** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826005992/0001683168-26-005992-index.htm)
 
 - **487** | FT 13109  (CIK 0002132783)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132783/000144554626005723/0001445546-26-005723-index.htm)
+
+- **10-Q** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/0001099590-26-000023-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Mini Trust ETF  (BTC)  (CIK 0002015034)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2015034/000201503426000008/0002015034-26-000008-index.htm)
