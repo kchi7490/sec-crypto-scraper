@@ -243,6 +243,12 @@
 - **10-Q** | Grayscale XRP Trust ETF  (GXRP)  (CIK 0002037427)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037427/000203742726000007/0002037427-26-000007-index.htm)
 
+- **485APOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826011209/0001133228-26-011209-index.htm)
+
+- **18-K/A** | EUROPEAN INVESTMENT BANK  (CIK 0000033745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/33745/000095015726000853/0000950157-26-000853-index.htm)
+
 - **1-A** | Arte Consulting Inc.  (CIK 0002137570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2137570/000213757026000005/0002137570-26-000005-index.htm)
 
