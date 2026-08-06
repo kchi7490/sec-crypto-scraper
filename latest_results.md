@@ -141,6 +141,12 @@
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004912/0001580642-26-004912-index.htm)
 
+- **8-K** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926025654/0001437749-26-025654-index.htm)
+
+- **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226036192/0001493152-26-036192-index.htm)
+
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026052613/0001628280-26-052613-index.htm)
 
@@ -206,9 +212,6 @@
 
 - **424B3** | Versa Bancorp  (CIK 0002100848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100848/000110465926090374/0001104659-26-090374-index.htm)
-
-- **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226036192/0001493152-26-036192-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026085275/0001213900-26-085275-index.htm)
