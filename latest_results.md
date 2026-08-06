@@ -6,8 +6,14 @@
 - **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000149315226036089/0001493152-26-036089-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226036277/0001493152-26-036277-index.htm)
+
 - **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000084/0001859392-26-000084-index.htm)
+
+- **8-K** | Vystar Corp  (VYST)  (CIK 0001308027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1308027/000149315226036272/0001493152-26-036272-index.htm)
 
 - **8-K** | Marqeta, Inc.  (MQ)  (CIK 0001522540)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1522540/000152254026000061/0001522540-26-000061-index.htm)
@@ -105,11 +111,17 @@
 - **DEFM14A** | Bleichroeder Acquisition Corp. II  (BBCQ, BBCQU, BBCQW)  (CIK 0002088295)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088295/000121390026085816/0001213900-26-085816-index.htm)
 
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526336941/0001193125-26-336941-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926009663/0001214659-26-009663-index.htm)
 
 - **10-Q** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000108330126000166/0001083301-26-000166-index.htm)
+
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526336938/0001193125-26-336938-index.htm)
 
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526333965/0001193125-26-333965-index.htm)
@@ -173,6 +185,9 @@
 
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026052613/0001628280-26-052613-index.htm)
+
+- **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000191384726000002/0001913847-26-000002-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026085419/0001213900-26-085419-index.htm)
