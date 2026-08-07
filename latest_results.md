@@ -198,6 +198,12 @@
 - **PRE 14C** | Vulcan Infrastructure & Power Inc.  (VIP, GREE, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000092189526001969/0000921895-26-001969-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000737/0001137360-26-000737-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000735/0001137360-26-000735-index.htm)
+
 - **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226004912/0001580642-26-004912-index.htm)
 
@@ -258,6 +264,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026086407/0001213900-26-086407-index.htm)
 
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326012064/0000950103-26-012064-index.htm)
+
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526336755/0001193125-26-336755-index.htm)
 
@@ -314,6 +323,9 @@
 
 - **N-2/A** | Global X Venture & Innovation Fund  (CIK 0001997641)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1997641/000121390026085534/0001213900-26-085534-index.htm)
+
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826078476/0001410368-26-078476-index.htm)
 
 - **N-CSR** | Starboard Investment Trust  (CIK 0001464413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1464413/000199937126017282/0001999371-26-017282-index.htm)
