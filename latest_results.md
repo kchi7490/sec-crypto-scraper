@@ -192,6 +192,9 @@
 - **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226004810/0000035402-26-004810-index.htm)
 
+- **N-CSR** | Kurv ETF Trust  (CIK 0001782952)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1782952/000113322826011255/0001133228-26-011255-index.htm)
+
 - **N-CSRS** | Horizon Funds  (CIK 0001643174)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1643174/000139834426013674/0001398344-26-013674-index.htm)
 
@@ -267,6 +270,9 @@
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326012064/0000950103-26-012064-index.htm)
 
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326012068/0000950103-26-012068-index.htm)
+
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526336755/0001193125-26-336755-index.htm)
 
@@ -278,6 +284,9 @@
 
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326011953/0000950103-26-011953-index.htm)
+
+- **10-Q** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226036513/0001493152-26-036513-index.htm)
 
 - **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000139834426013614/0001398344-26-013614-index.htm)
@@ -335,6 +344,9 @@
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/0001193125-26-339745-index.htm)
+
+- **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226036523/0001493152-26-036523-index.htm)
 
 - **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000054/0001818874-26-000054-index.htm)
