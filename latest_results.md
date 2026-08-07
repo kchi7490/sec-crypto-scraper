@@ -72,6 +72,9 @@
 - **10-Q/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000098/0001017386-26-000098-index.htm)
 
+- **N-CSRS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126017336/0001999371-26-017336-index.htm)
+
 - **10-Q/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000103/0001017386-26-000103-index.htm)
 
@@ -317,6 +320,9 @@
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013506/0001398344-26-013506-index.htm)
+
+- **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/0001193125-26-339745-index.htm)
 
 - **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000054/0001818874-26-000054-index.htm)
