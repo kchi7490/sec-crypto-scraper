@@ -345,6 +345,9 @@
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/0001193125-26-339745-index.htm)
 
+- **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000019/0001765048-26-000019-index.htm)
+
 - **10-Q** | MGT CAPITAL INVESTMENTS, INC.  (MGTI)  (CIK 0001001601)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1001601/000149315226036523/0001493152-26-036523-index.htm)
 
@@ -362,6 +365,9 @@
 
 - **10-Q** | TransparentBusiness, Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626008347/0001829126-26-008347-index.htm)
+
+- **10-Q** | BioScience Health Innovations, Inc.  (BHIC)  (CIK 0001784440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1784440/000109690626001173/0001096906-26-001173-index.htm)
 
 - **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026053368/0001628280-26-053368-index.htm)
