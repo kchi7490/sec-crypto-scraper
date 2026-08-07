@@ -66,6 +66,9 @@
 - **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926026000/0001437749-26-026000-index.htm)
 
+- **10-Q** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828026054575/0001628280-26-054575-index.htm)
+
 - **10-Q/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000098/0001017386-26-000098-index.htm)
 
@@ -204,11 +207,20 @@
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026085419/0001213900-26-085419-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000758/0001279569-26-000758-index.htm)
+
 - **20-F** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026086126/0001213900-26-086126-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926026045/0001437749-26-026045-index.htm)
+
+- **20-F** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526003323/0001185185-26-003323-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026086407/0001213900-26-086407-index.htm)
 
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526336755/0001193125-26-336755-index.htm)
