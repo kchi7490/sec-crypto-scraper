@@ -24,8 +24,23 @@
 - **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226036201/0001493152-26-036201-index.htm)
 
+- **10-Q** | Canary Litecoin ETF  (CIK 0002039461)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039461/000199937126017440/0001999371-26-017440-index.htm)
+
+- **10-Q** | Canary XRP ETF  (CIK 0002039505)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039505/000199937126017438/0001999371-26-017438-index.htm)
+
+- **10-Q** | Canary HBAR ETF  (CIK 0002039458)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039458/000199937126017437/0001999371-26-017437-index.htm)
+
+- **10-Q** | Canary Marinade Solana ETF  (SOLC)  (CIK 0002041869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2041869/000199937126017436/0001999371-26-017436-index.htm)
+
 - **10-Q** | iShares Bitcoin Trust ETF  (IBIT)  (CIK 0001980994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1980994/000143774926026004/0001437749-26-026004-index.htm)
+
+- **10-Q** | Canary Staked SUI ETF  (SUIS)  (CIK 0002060703)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060703/000199937126017439/0001999371-26-017439-index.htm)
 
 - **425** | Parataxis Holdings Inc.  (CIK 0002079180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079180/000110465926090713/0001104659-26-090713-index.htm)
@@ -213,6 +228,9 @@
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000119312526335117/0001193125-26-335117-index.htm)
 
+- **424B5** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000118518526003335/0001185185-26-003335-index.htm)
+
 - **8-K** | Berto Acquisition Corp. II  (GUAC, GUACU, GUACW)  (CIK 0002081515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081515/000182912626008442/0001829126-26-008442-index.htm)
 
@@ -239,6 +257,9 @@
 
 - **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226004810/0000035402-26-004810-index.htm)
+
+- **8-K** | VanEck BNB ETF  (VBNB)  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000206682426000008/0002066824-26-000008-index.htm)
 
 - **DEFA14A** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004102/0001062993-26-004102-index.htm)
@@ -360,6 +381,9 @@
 - **N-CSR** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000139834426013614/0001398344-26-013614-index.htm)
 
+- **10-Q** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226036658/0001493152-26-036658-index.htm)
+
 - **10-Q** | NOCERA, INC.  (NCRA)  (CIK 0001756180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1756180/000168316826005992/0001683168-26-005992-index.htm)
 
@@ -425,6 +449,9 @@
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013506/0001398344-26-013506-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426013842/0001398344-26-013842-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/0001193125-26-339745-index.htm)
