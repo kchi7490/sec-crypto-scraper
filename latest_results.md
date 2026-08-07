@@ -243,6 +243,12 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926026045/0001437749-26-026045-index.htm)
 
+- **6-K** | Santander UK plc  (SNTUF, STNDF)  (CIK 0001087711)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1087711/000108771126000019/0001087711-26-000019-index.htm)
+
+- **6-K** | SANTANDER UK GROUP HOLDINGS PLC  (CIK 0001649373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1649373/000164937326000032/0001649373-26-000032-index.htm)
+
 - **20-F** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526003323/0001185185-26-003323-index.htm)
 
