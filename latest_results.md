@@ -189,6 +189,9 @@
 - **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226036192/0001493152-26-036192-index.htm)
 
+- **10-Q** | QuidelOrtho Corp  (QDEL)  (CIK 0001906324)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906324/000190632426000033/0001906324-26-000033-index.htm)
+
 - **10-Q** | TUCOWS INC /PA/  (TCX)  (CIK 0000909494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/909494/000090949426000003/0000909494-26-000003-index.htm)
 
@@ -228,6 +231,9 @@
 - **10-Q** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526338382/0001193125-26-338382-index.htm)
 
+- **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526338689/0001193125-26-338689-index.htm)
+
 - **487** | FT 13109  (CIK 0002132783)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132783/000144554626005723/0001445546-26-005723-index.htm)
 
@@ -246,6 +252,9 @@
 - **POS AM** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026085741/0001213900-26-085741-index.htm)
 
+- **10-Q** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526338680/0001193125-26-338680-index.htm)
+
 - **485APOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826011209/0001133228-26-011209-index.htm)
 
@@ -263,6 +272,9 @@
 
 - **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000054/0001818874-26-000054-index.htm)
+
+- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526338719/0001193125-26-338719-index.htm)
 
 - **10-Q** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526337679/0001193125-26-337679-index.htm)
