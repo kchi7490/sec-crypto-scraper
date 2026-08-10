@@ -15,6 +15,9 @@
 - **10-Q** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055275/0001628280-26-055275-index.htm)
 
+- **424B5** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226036918/0001493152-26-036918-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026054984/0001628280-26-054984-index.htm)
 
@@ -47,6 +50,12 @@
 
 - **10-Q** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526342594/0001193125-26-342594-index.htm)
+
+- **424B5** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008548/0001829126-26-008548-index.htm)
+
+- **424B5** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008547/0001829126-26-008547-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026054983/0001628280-26-054983-index.htm)
