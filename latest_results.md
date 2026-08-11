@@ -48,6 +48,9 @@
 - **8-K/A** | LQR House Inc.  (YHC)  (CIK 0001843165)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026087324/0001213900-26-087324-index.htm)
 
+- **10-Q** | BlueOne Technologies, Inc.  (BCRD)  (CIK 0001496690)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000168316826006192/0001683168-26-006192-index.htm)
+
 - **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226037002/0001493152-26-037002-index.htm)
 
