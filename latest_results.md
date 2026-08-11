@@ -36,8 +36,14 @@
 - **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526342985/0001193125-26-342985-index.htm)
 
+- **10-Q** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226037161/0001493152-26-037161-index.htm)
+
 - **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526342989/0001193125-26-342989-index.htm)
+
+- **8-K** | High Roller Technologies, Inc.  (ROLR)  (CIK 0001947210)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1947210/000175392626001423/0001753926-26-001423-index.htm)
 
 - **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026777/0001437749-26-026777-index.htm)
@@ -56,6 +62,18 @@
 
 - **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226037002/0001493152-26-037002-index.htm)
+
+- **10-Q** | Apex Treasury Corp  (APXT, APXTU, APXTW)  (CIK 0002079253)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079253/000121390026087813/0001213900-26-087813-index.htm)
+
+- **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526344728/0001193125-26-344728-index.htm)
+
+- **10-Q** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526344668/0001193125-26-344668-index.htm)
+
+- **10-K** | Global Arena Holding, Inc.  (CIK 0001138724)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1138724/000149315226037140/0001493152-26-037140-index.htm)
 
 - **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926093448/0001104659-26-093448-index.htm)
@@ -99,6 +117,9 @@
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926093406/0001104659-26-093406-index.htm)
 
+- **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526344543/0001193125-26-344543-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526341297/0001193125-26-341297-index.htm)
 
@@ -117,8 +138,14 @@
 - **8-K** | RUM Group Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026087234/0001213900-26-087234-index.htm)
 
+- **10-Q** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000119312526344720/0001193125-26-344720-index.htm)
+
 - **10-Q** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312526342349/0001193125-26-342349-index.htm)
+
+- **S-1/A** | Karman Line Acquisition Corp.  (XTER)  (CIK 0002134856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134856/000182912626008622/0001829126-26-008622-index.htm)
 
 - **10-Q** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226036764/0001493152-26-036764-index.htm)
@@ -126,8 +153,20 @@
 - **DEFM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/0001140361-26-031922-index.htm)
 
+- **424B3** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826006208/0001683168-26-006208-index.htm)
+
+- **DEFM14A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826006207/0001683168-26-006207-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000051/0001815776-26-000051-index.htm)
+
 - **8-K** | Mereo BioPharma Group plc  (MREO)  (CIK 0001719714)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719714/000119312526343482/0001193125-26-343482-index.htm)
+
+- **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000052/0001815776-26-000052-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026086938/0001213900-26-086938-index.htm)
@@ -150,8 +189,14 @@
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326012127/0000950103-26-012127-index.htm)
 
+- **10-Q** | iShares Bitcoin Premium Income ETF  (BITA)  (CIK 0002089969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926027004/0001437749-26-027004-index.htm)
+
 - **10-Q** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626001190/0001096906-26-001190-index.htm)
+
+- **10-Q** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926027003/0001437749-26-027003-index.htm)
 
 - **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526341961/0001193125-26-341961-index.htm)
@@ -171,6 +216,12 @@
 - **10-Q** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000091/0001859392-26-000091-index.htm)
 
+- **10-Q** | SIEBERT FINANCIAL CORP  (SIEB)  (CIK 0000065596)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/65596/000121390026087833/0001213900-26-087833-index.htm)
+
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000143774926026832/0001437749-26-026832-index.htm)
+
+- **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893426000659/0001438934-26-000659-index.htm)
 
