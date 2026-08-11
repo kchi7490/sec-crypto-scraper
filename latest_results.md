@@ -12,6 +12,9 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055276/0001628280-26-055276-index.htm)
 
+- **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026839/0001437749-26-026839-index.htm)
+
 - **10-Q** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055275/0001628280-26-055275-index.htm)
 
@@ -23,6 +26,12 @@
 
 - **8-K** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026055258/0001628280-26-055258-index.htm)
+
+- **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526342985/0001193125-26-342985-index.htm)
+
+- **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526342989/0001193125-26-342989-index.htm)
 
 - **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026777/0001437749-26-026777-index.htm)
@@ -38,6 +47,9 @@
 
 - **10-Q** | RUM Group Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026087311/0001213900-26-087311-index.htm)
+
+- **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026055453/0001628280-26-055453-index.htm)
 
 - **424B5** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526341345/0001193125-26-341345-index.htm)
@@ -105,6 +117,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026087067/0001213900-26-087067-index.htm)
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000119312526342793/0001193125-26-342793-index.htm)
+
 - **10-Q** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000119312526341871/0001193125-26-341871-index.htm)
 
@@ -117,6 +132,12 @@
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126017443/0001999371-26-017443-index.htm)
 
+- **10-Q** | Insight Digital Partners II  (DYOR, DYORU, DYORW)  (CIK 0002079292)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390026087412/0001213900-26-087412-index.htm)
+
 - **10-Q** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000091/0001859392-26-000091-index.htm)
+
+- **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000143774926026832/0001437749-26-026832-index.htm)
 
