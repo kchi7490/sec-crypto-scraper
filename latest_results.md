@@ -42,6 +42,9 @@
 - **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026777/0001437749-26-026777-index.htm)
 
+- **10-Q** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226037040/0001493152-26-037040-index.htm)
+
 - **10-Q** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026054985/0001628280-26-054985-index.htm)
 
@@ -149,6 +152,9 @@
 
 - **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526341961/0001193125-26-341961-index.htm)
+
+- **487** | FT 13113  (CIK 0002132790)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2132790/000144554626005966/0001445546-26-005966-index.htm)
 
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126017443/0001999371-26-017443-index.htm)
