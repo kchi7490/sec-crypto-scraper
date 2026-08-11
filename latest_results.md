@@ -48,6 +48,9 @@
 - **8-K/A** | LQR House Inc.  (YHC)  (CIK 0001843165)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026087324/0001213900-26-087324-index.htm)
 
+- **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226037002/0001493152-26-037002-index.htm)
+
 - **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926093448/0001104659-26-093448-index.htm)
 
@@ -117,8 +120,14 @@
 - **DEFM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/0001140361-26-031922-index.htm)
 
+- **8-K** | Mereo BioPharma Group plc  (MREO)  (CIK 0001719714)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1719714/000119312526343482/0001193125-26-343482-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026086938/0001213900-26-086938-index.htm)
+
+- **6-K** | eToro Group Ltd.  (ETOR)  (CIK 0001493318)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1493318/000121390026087525/0001213900-26-087525-index.htm)
 
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026087249/0001213900-26-087249-index.htm)
