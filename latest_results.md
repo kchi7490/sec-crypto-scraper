@@ -12,11 +12,17 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055276/0001628280-26-055276-index.htm)
 
+- **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926009911/0001214659-26-009911-index.htm)
+
 - **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026839/0001437749-26-026839-index.htm)
 
 - **10-Q** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055275/0001628280-26-055275-index.htm)
+
+- **8-K/A** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026087885/0001213900-26-087885-index.htm)
 
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087472/0001213900-26-087472-index.htm)
@@ -81,6 +87,9 @@
 - **10-Q** | RUM Group Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026087311/0001213900-26-087311-index.htm)
 
+- **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037203/0001493152-26-037203-index.htm)
+
 - **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026055453/0001628280-26-055453-index.htm)
 
@@ -95,6 +104,9 @@
 
 - **10-Q** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526342594/0001193125-26-342594-index.htm)
+
+- **424B3** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026087850/0001213900-26-087850-index.htm)
 
 - **424B5** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008548/0001829126-26-008548-index.htm)
@@ -132,6 +144,9 @@
 - **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226036768/0001493152-26-036768-index.htm)
 
+- **8-K** | Powerfleet, Inc.  (AIOT)  (CIK 0001774170)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1774170/000149315226037165/0001493152-26-037165-index.htm)
+
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/0001193125-26-342079-index.htm)
 
@@ -152,6 +167,9 @@
 
 - **DEFM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/0001140361-26-031922-index.htm)
+
+- **DEFM14A** | AUDDIA INC.  (AUUD)  (CIK 0001554818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1554818/000168316826006211/0001683168-26-006211-index.htm)
 
 - **424B3** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826006208/0001683168-26-006208-index.htm)
@@ -179,6 +197,9 @@
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026087067/0001213900-26-087067-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026087863/0001213900-26-087863-index.htm)
 
 - **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000119312526342793/0001193125-26-342793-index.htm)
@@ -216,12 +237,15 @@
 - **10-Q** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000091/0001859392-26-000091-index.htm)
 
-- **10-Q** | SIEBERT FINANCIAL CORP  (SIEB)  (CIK 0000065596)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/65596/000121390026087833/0001213900-26-087833-index.htm)
+- **NT 10-Q** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004186/0001062993-26-004186-index.htm)
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000143774926026832/0001437749-26-026832-index.htm)
 
 - **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893426000659/0001438934-26-000659-index.htm)
+
+- **10-Q** | SIEBERT FINANCIAL CORP  (SIEB)  (CIK 0000065596)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/65596/000121390026087833/0001213900-26-087833-index.htm)
 
