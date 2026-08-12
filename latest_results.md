@@ -30,8 +30,14 @@
 - **10-Q** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087471/0001213900-26-087471-index.htm)
 
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926094849/0001104659-26-094849-index.htm)
+
 - **424B5** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226036918/0001493152-26-036918-index.htm)
+
+- **10-Q** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826006270/0001683168-26-006270-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026054984/0001628280-26-054984-index.htm)
@@ -53,6 +59,9 @@
 
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926094445/0001104659-26-094445-index.htm)
+
+- **8-K** | Securitize Corp.  (SECZ)  (CIK 0002094496)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000162828026056164/0001628280-26-056164-index.htm)
 
 - **10-Q** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026777/0001437749-26-026777-index.htm)
@@ -93,6 +102,9 @@
 - **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037203/0001493152-26-037203-index.htm)
 
+- **20-F** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026088354/0001213900-26-088354-index.htm)
+
 - **10-Q** | Exodus Movement, Inc.  (EXOD)  (CIK 0001821534)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821534/000162828026055453/0001628280-26-055453-index.htm)
 
@@ -114,6 +126,9 @@
 - **10-Q** | Semnur Pharmaceuticals, Inc.  (SMNR, SMNRW)  (CIK 0001913577)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913577/000119312526342594/0001193125-26-342594-index.htm)
 
+- **10-Q** | Q/C TECHNOLOGIES, INC.  (QCLS)  (CIK 0001321834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1321834/000149315226037333/0001493152-26-037333-index.htm)
+
 - **424B3** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026087850/0001213900-26-087850-index.htm)
 
@@ -125,6 +140,9 @@
 
 - **424B5** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008547/0001829126-26-008547-index.htm)
+
+- **10-Q** | CoinShares Bitcoin ETF  (BRRR)  (CIK 0001841175)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1841175/000199937126017701/0001999371-26-017701-index.htm)
 
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087483/0001213900-26-087483-index.htm)
@@ -194,6 +212,9 @@
 
 - **DEFM14A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826006207/0001683168-26-006207-index.htm)
+
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226037336/0001493152-26-037336-index.htm)
 
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000051/0001815776-26-000051-index.htm)
@@ -269,6 +290,9 @@
 
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126017443/0001999371-26-017443-index.htm)
+
+- **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526346725/0001193125-26-346725-index.htm)
 
 - **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826006245/0001683168-26-006245-index.htm)
