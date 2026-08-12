@@ -12,6 +12,9 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000162828026055276/0001628280-26-055276-index.htm)
 
+- **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000052/0001805526-26-000052-index.htm)
+
 - **S-4/A** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926009911/0001214659-26-009911-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **10-Q** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087471/0001213900-26-087471-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826006277/0001683168-26-006277-index.htm)
 
 - **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926094849/0001104659-26-094849-index.htm)
@@ -60,6 +66,9 @@
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926094445/0001104659-26-094445-index.htm)
 
+- **10-Q** | WisdomTree Bitcoin Fund  (BTCW)  (CIK 0001850391)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1850391/000121465926009996/0001214659-26-009996-index.htm)
+
 - **8-K** | Securitize Corp.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000162828026056164/0001628280-26-056164-index.htm)
 
@@ -75,6 +84,9 @@
 - **8-K/A** | LQR House Inc.  (YHC)  (CIK 0001843165)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026087324/0001213900-26-087324-index.htm)
 
+- **10-Q** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037377/0001493152-26-037377-index.htm)
+
 - **10-Q** | BlueOne Technologies, Inc.  (BCRD)  (CIK 0001496690)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1496690/000168316826006192/0001683168-26-006192-index.htm)
 
@@ -89,6 +101,9 @@
 
 - **10-Q** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526344668/0001193125-26-344668-index.htm)
+
+- **485BPOS** | UBS Series Funds  (CIK 0001060517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1060517/000119312526347086/0001193125-26-347086-index.htm)
 
 - **10-K** | Global Arena Holding, Inc.  (CIK 0001138724)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1138724/000149315226037140/0001493152-26-037140-index.htm)
@@ -219,8 +234,23 @@
 - **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000051/0001815776-26-000051-index.htm)
 
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526346904/0001193125-26-346904-index.htm)
+
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000209630026000023/0002096300-26-000023-index.htm)
+
 - **8-K** | Mereo BioPharma Group plc  (MREO)  (CIK 0001719714)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1719714/000119312526343482/0001193125-26-343482-index.htm)
+
+- **10-Q** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001323/0001640334-26-001323-index.htm)
+
+- **10-Q** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000209630026000022/0002096300-26-000022-index.htm)
+
+- **8-K** | Nuveen Churchill Private Capital Income Fund  (CIK 0001911066)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1911066/000162828026056227/0001628280-26-056227-index.htm)
 
 - **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000052/0001815776-26-000052-index.htm)
@@ -243,6 +273,9 @@
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026087067/0001213900-26-087067-index.htm)
 
+- **6-K** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026088400/0001213900-26-088400-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026087863/0001213900-26-087863-index.htm)
 
@@ -251,6 +284,9 @@
 
 - **10-Q** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000119312526341871/0001193125-26-341871-index.htm)
+
+- **10-Q** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/0001213900-26-088407-index.htm)
 
 - **10-Q** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526346245/0001193125-26-346245-index.htm)
@@ -273,17 +309,26 @@
 - **10-Q** | iShares Bitcoin Premium Income ETF  (BITA)  (CIK 0002089969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089969/000143774926027004/0001437749-26-027004-index.htm)
 
+- **10-Q** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026088437/0001213900-26-088437-index.htm)
+
 - **10-Q** | Boumarang Inc.  (CIK 0002034161)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034161/000109690626001190/0001096906-26-001190-index.htm)
 
 - **10-Q** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926027003/0001437749-26-027003-index.htm)
 
+- **10-Q** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000050/0001740604-26-000050-index.htm)
+
 - **485BPOS** | GUARDIAN INSURANCE & ANNUITY CO INC  (CIK 0000044393)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/44393/000119312526341961/0001193125-26-341961-index.htm)
 
 - **487** | FT 13113  (CIK 0002132790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132790/000144554626005966/0001445546-26-005966-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/0001398344-26-014222-index.htm)
 
 - **497** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000108140026000340/0001081400-26-000340-index.htm)
@@ -309,12 +354,24 @@
 - **10-Q** | SIEBERT FINANCIAL CORP  (SIEB)  (CIK 0000065596)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/65596/000121390026087833/0001213900-26-087833-index.htm)
 
+- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000048/0001740604-26-000048-index.htm)
+
 - **NT 10-Q** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004186/0001062993-26-004186-index.htm)
+
+- **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037386/0001493152-26-037386-index.htm)
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000143774926026832/0001437749-26-026832-index.htm)
 
 - **N-PX** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000143893426000659/0001438934-26-000659-index.htm)
+
+- **10-Q** | First Tracks Biotherapeutics, Inc.  (TRAX)  (CIK 0002091349)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091349/000119312526346931/0001193125-26-346931-index.htm)
+
+- **10-Q** | SERA PROGNOSTICS, INC.  (SERA)  (CIK 0001534969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534969/000119312526346862/0001193125-26-346862-index.htm)
 
