@@ -96,6 +96,12 @@
 - **424B5** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526341345/0001193125-26-341345-index.htm)
 
+- **424B5** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526345662/0001193125-26-345662-index.htm)
+
+- **10-Q** | CoreWeave, Inc.  (CRWV)  (CIK 0001769628)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/0001769628-26-000366-index.htm)
+
 - **F-3ASR** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026087012/0001213900-26-087012-index.htm)
 
@@ -107,6 +113,9 @@
 
 - **424B3** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026087850/0001213900-26-087850-index.htm)
+
+- **DEFM14A** | Inflection Point Acquisition Corp. V  (IPEX, IPEXR, IPEXU)  (CIK 0002028355)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028355/000121390026087896/0001213900-26-087896-index.htm)
 
 - **424B5** | Veraxa Biotech Holding AG  (VRXA, VRXAW)  (CIK 0002079109)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079109/000182912626008548/0001829126-26-008548-index.htm)
@@ -125,6 +134,9 @@
 
 - **8-K/A** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526341362/0001193125-26-341362-index.htm)
+
+- **8-K/A** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026087992/0001213900-26-087992-index.htm)
 
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926093406/0001104659-26-093406-index.htm)
