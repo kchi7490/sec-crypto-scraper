@@ -216,6 +216,9 @@
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026087249/0001213900-26-087249-index.htm)
 
+- **6-K** | Marex Group Ltd  (MRX)  (CIK 0001997464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000067/0001997464-26-000067-index.htm)
+
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026087067/0001213900-26-087067-index.htm)
 
@@ -251,6 +254,9 @@
 
 - **497** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126017443/0001999371-26-017443-index.htm)
+
+- **10-Q** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826006245/0001683168-26-006245-index.htm)
 
 - **10-Q** | Insight Digital Partners II  (DYOR, DYORU, DYORW)  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390026087412/0001213900-26-087412-index.htm)
