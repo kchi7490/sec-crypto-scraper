@@ -186,17 +186,26 @@
 - **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000181247726000021/0001812477-26-000021-index.htm)
 
+- **10-Q** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026088483/0001213900-26-088483-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004117/0001062993-26-004117-index.htm)
 
 - **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226036768/0001493152-26-036768-index.htm)
 
+- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000048/0001740604-26-000048-index.htm)
+
 - **8-K** | Powerfleet, Inc.  (AIOT)  (CIK 0001774170)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1774170/000149315226037165/0001493152-26-037165-index.htm)
 
 - **8-K** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/0001193125-26-342079-index.htm)
+
+- **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037386/0001493152-26-037386-index.htm)
 
 - **8-K** | RUM Group Inc.  (RUM, RUMBW)  (CIK 0001830081)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830081/000121390026087234/0001213900-26-087234-index.htm)
@@ -219,6 +228,12 @@
 - **DEFM14A** | AtaiBeckley Inc.  (ATAI)  (CIK 0002081043)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/0001140361-26-031922-index.htm)
 
+- **S-1** | Fast Finance Pay Corp.  (CIK 0002109616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109616/000149315226037415/0001493152-26-037415-index.htm)
+
+- **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026088478/0001213900-26-088478-index.htm)
+
 - **DEFM14A** | AUDDIA INC.  (AUUD)  (CIK 0001554818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1554818/000168316826006211/0001683168-26-006211-index.htm)
 
@@ -227,6 +242,9 @@
 
 - **DEFM14A** | McCarthy Finney, Inc.  (MCFN)  (CIK 0002131882)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131882/000168316826006207/0001683168-26-006207-index.htm)
+
+- **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226037445/0001493152-26-037445-index.htm)
 
 - **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226037336/0001493152-26-037336-index.htm)
@@ -318,6 +336,9 @@
 - **10-Q** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926027003/0001437749-26-027003-index.htm)
 
+- **10-Q** | 21Shares Sui ETF  (TSUI)  (CIK 0002061626)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2061626/000121390026088492/0001213900-26-088492-index.htm)
+
 - **10-Q** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000050/0001740604-26-000050-index.htm)
 
@@ -326,6 +347,9 @@
 
 - **487** | FT 13113  (CIK 0002132790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132790/000144554626005966/0001445546-26-005966-index.htm)
+
+- **S-1** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037453/0001493152-26-037453-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/0001398344-26-014222-index.htm)
@@ -354,14 +378,8 @@
 - **10-Q** | SIEBERT FINANCIAL CORP  (SIEB)  (CIK 0000065596)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/65596/000121390026087833/0001213900-26-087833-index.htm)
 
-- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000048/0001740604-26-000048-index.htm)
-
 - **NT 10-Q** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004186/0001062993-26-004186-index.htm)
-
-- **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037386/0001493152-26-037386-index.htm)
 
 - **10-Q** | Dominari Holdings Inc.  (DOMH)  (CIK 0000012239)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/12239/000143774926026832/0001437749-26-026832-index.htm)
@@ -374,4 +392,7 @@
 
 - **10-Q** | SERA PROGNOSTICS, INC.  (SERA)  (CIK 0001534969)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534969/000119312526346862/0001193125-26-346862-index.htm)
+
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000138570226000004/0001385702-26-000004-index.htm)
 
