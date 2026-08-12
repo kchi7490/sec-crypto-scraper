@@ -231,6 +231,21 @@
 - **10-Q** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000119312526341871/0001193125-26-341871-index.htm)
 
+- **10-Q** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526346245/0001193125-26-346245-index.htm)
+
+- **10-Q** | Bitwise Dogecoin ETF  (BWOW)  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000119312526346238/0001193125-26-346238-index.htm)
+
+- **10-Q** | Bitwise Chainlink ETF  (CLNK)  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000119312526346239/0001193125-26-346239-index.htm)
+
+- **10-Q** | Bitwise Hyperliquid ETF  (BHYP)  (CIK 0002088139)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088139/000119312526346228/0001193125-26-346228-index.htm)
+
+- **10-Q** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000119312526346250/0001193125-26-346250-index.htm)
+
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326012127/0000950103-26-012127-index.htm)
 
