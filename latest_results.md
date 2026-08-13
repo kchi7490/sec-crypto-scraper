@@ -66,6 +66,9 @@
 - **10-Q** | FG Nexus Inc.  (FGNX, FGNXP)  (CIK 0001591890)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591890/000149315226037445/0001493152-26-037445-index.htm)
 
+- **10-Q** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026088709/0001213900-26-088709-index.htm)
+
 - **10-Q** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037377/0001493152-26-037377-index.htm)
 
