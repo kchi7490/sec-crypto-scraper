@@ -96,6 +96,9 @@
 - **10-K** | Global Arena Holding, Inc.  (CIK 0001138724)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1138724/000149315226037140/0001493152-26-037140-index.htm)
 
+- **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826006306/0001683168-26-006306-index.htm)
+
 - **S-1** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037453/0001493152-26-037453-index.htm)
 
@@ -129,11 +132,17 @@
 - **8-K** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087483/0001213900-26-087483-index.htm)
 
+- **10-Q** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226037603/0001493152-26-037603-index.htm)
+
 - **8-K/A** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026087992/0001213900-26-087992-index.htm)
 
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526344543/0001193125-26-344543-index.htm)
+
+- **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026088768/0001213900-26-088768-index.htm)
 
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000048/0001740604-26-000048-index.htm)
