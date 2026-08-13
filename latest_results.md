@@ -267,6 +267,12 @@
 - **10-Q** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000050/0001740604-26-000050-index.htm)
 
+- **10-K** | Global-Smart.Tech Inc.  (GSMT)  (CIK 0001940243)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940243/000194024326000019/0001940243-26-000019-index.htm)
+
+- **487** | FT 13114  (CIK 0002132791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2132791/000144554626006012/0001445546-26-006012-index.htm)
+
 - **487** | FT 13113  (CIK 0002132790)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132790/000144554626005966/0001445546-26-005966-index.htm)
 
@@ -290,6 +296,9 @@
 
 - **10-Q** | Insight Digital Partners II  (DYOR, DYORU, DYORW)  (CIK 0002079292)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2079292/000121390026087412/0001213900-26-087412-index.htm)
+
+- **10-Q** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526348514/0001193125-26-348514-index.htm)
 
 - **10-Q** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926094449/0001104659-26-094449-index.htm)
