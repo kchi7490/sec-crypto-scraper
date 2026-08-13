@@ -339,9 +339,6 @@
 - **10-Q** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/0001213900-26-088407-index.htm)
 
-- **10-Q** | VanEck Avalanche ETF  (VAVX)  (CIK 0002060717)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000093041326002502/0000930413-26-002502-index.htm)
-
 - **10-Q** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526346245/0001193125-26-346245-index.htm)
 
@@ -395,6 +392,9 @@
 
 - **10-Q** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026089151/0001213900-26-089151-index.htm)
+
+- **10-Q** | VanEck Avalanche ETF  (VAVX)  (CIK 0002060717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000093041326002502/0000930413-26-002502-index.htm)
 
 - **10-Q** | Bitcoin Infrastructure Acquisition Corp Ltd  (BIXI, BIXIU, BIXIW)  (CIK 0002082542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082542/000182912626008719/0001829126-26-008719-index.htm)
