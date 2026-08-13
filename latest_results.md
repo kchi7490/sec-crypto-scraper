@@ -12,8 +12,14 @@
 - **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926026839/0001437749-26-026839-index.htm)
 
+- **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041326002505/0000930413-26-002505-index.htm)
+
 - **8-K/A** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026087885/0001213900-26-087885-index.htm)
+
+- **10-Q** | VanEck Solana ETF  (VSOL)  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000093041326002503/0000930413-26-002503-index.htm)
 
 - **424B3** | Twenty One Capital, Inc.  (XXI)  (CIK 0002070457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070457/000121390026087472/0001213900-26-087472-index.htm)
@@ -38,6 +44,9 @@
 
 - **10-Q** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226037161/0001493152-26-037161-index.htm)
+
+- **10-Q** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000093041326002504/0000930413-26-002504-index.htm)
 
 - **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526342989/0001193125-26-342989-index.htm)
@@ -150,6 +159,9 @@
 - **8-K** | Powerfleet, Inc.  (AIOT)  (CIK 0001774170)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1774170/000149315226037165/0001493152-26-037165-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226037734/0001493152-26-037734-index.htm)
+
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037386/0001493152-26-037386-index.htm)
 
@@ -227,6 +239,9 @@
 
 - **10-Q** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/0001213900-26-088407-index.htm)
+
+- **10-Q** | VanEck Avalanche ETF  (VAVX)  (CIK 0002060717)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000093041326002502/0000930413-26-002502-index.htm)
 
 - **10-Q** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000119312526346245/0001193125-26-346245-index.htm)
