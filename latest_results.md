@@ -3,6 +3,9 @@
 - **10-Q** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000118518526003508/0001185185-26-003508-index.htm)
 
+- **10-K** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315226037876/0001493152-26-037876-index.htm)
+
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000063/0002055592-26-000063-index.htm)
 
@@ -138,6 +141,9 @@
 - **10-Q** | TON Strategy Co  (TONX)  (CIK 0001566610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1566610/000149315226037002/0001493152-26-037002-index.htm)
 
+- **424B1** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000162828026056830/0001628280-26-056830-index.htm)
+
 - **10-Q** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000162828026056740/0001628280-26-056740-index.htm)
 
@@ -170,6 +176,9 @@
 
 - **S-1** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037453/0001493152-26-037453-index.htm)
+
+- **10-Q** | Oncotelic Therapeutics, Inc.  (OTLC)  (CIK 0000908259)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/908259/000149315226037857/0001493152-26-037857-index.htm)
 
 - **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226037203/0001493152-26-037203-index.htm)
@@ -221,6 +230,9 @@
 
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026088768/0001213900-26-088768-index.htm)
+
+- **10-Q** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226037866/0001493152-26-037866-index.htm)
 
 - **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000048/0001740604-26-000048-index.htm)
@@ -398,6 +410,9 @@
 
 - **10-Q** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793226004933/0001477932-26-004933-index.htm)
+
+- **ABS-15G** | EFMT Depositor LLC  (CIK 0001946154)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946154/000199937126017892/0001999371-26-017892-index.htm)
 
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526346725/0001193125-26-346725-index.htm)
