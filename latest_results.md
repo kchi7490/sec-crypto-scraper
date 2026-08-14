@@ -219,23 +219,14 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000121390026089211/0001213900-26-089211-index.htm)
 
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926027408/0001437749-26-027408-index.htm)
-
-- **6-K** | dLocal Ltd  (DLO)  (CIK 0001846832)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1846832/000184683226000031/0001846832-26-000031-index.htm)
-
-- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926027475/0001437749-26-027475-index.htm)
-
-- **6-K** | Marex Group Ltd  (MRX)  (CIK 0001997464)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1997464/000199746426000067/0001997464-26-000067-index.htm)
-
 - **6-K** | Quantum Biopharma Ltd.  (QNTM)  (CIK 0001771885)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771885/000118518526003497/0001185185-26-003497-index.htm)
 
 - **6-K** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026088400/0001213900-26-088400-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926027408/0001437749-26-027408-index.htm)
 
 - **10-Q** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/0001213900-26-088407-index.htm)
