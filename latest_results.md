@@ -30,6 +30,9 @@
 - **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041326002505/0000930413-26-002505-index.htm)
 
+- **424B3** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926010142/0001214659-26-010142-index.htm)
+
 - **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226037802/0001493152-26-037802-index.htm)
 
@@ -165,6 +168,9 @@
 - **10-Q** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226037603/0001493152-26-037603-index.htm)
 
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526350325/0001193125-26-350325-index.htm)
+
 - **8-K/A** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026087992/0001213900-26-087992-index.htm)
 
@@ -269,6 +275,9 @@
 
 - **10-Q** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000119312526346250/0001193125-26-346250-index.htm)
+
+- **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226037965/0001493152-26-037965-index.htm)
 
 - **424B3** | 21Shares Solana ETF  (TSOL)  (CIK 0002028834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026088569/0001213900-26-088569-index.htm)
