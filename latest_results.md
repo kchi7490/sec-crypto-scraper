@@ -471,6 +471,9 @@
 - **10-Q** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000119312526352653/0001193125-26-352653-index.htm)
 
+- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036126033217/0001140361-26-033217-index.htm)
+
 - **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226037965/0001493152-26-037965-index.htm)
 
@@ -527,9 +530,6 @@
 
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036126033204/0001140361-26-033204-index.htm)
-
-- **10-Q** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000114036126033217/0001140361-26-033217-index.htm)
 
 - **10-Q** | TV Channels Network Inc.  (TVCN)  (CIK 0001952670)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952670/000195267026000018/0001952670-26-000018-index.htm)
