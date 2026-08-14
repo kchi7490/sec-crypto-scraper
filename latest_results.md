@@ -189,6 +189,9 @@
 - **8-K/A** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026087992/0001213900-26-087992-index.htm)
 
+- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004391/0001062993-26-004391-index.htm)
+
 - **8-K** | KULR Technology Group, Inc.  (KULR)  (CIK 0001662684)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1662684/000110465926095937/0001104659-26-095937-index.htm)
 
@@ -330,6 +333,12 @@
 - **10-Q** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926095885/0001104659-26-095885-index.htm)
 
+- **485BPOS** | Equitable Financial Life Insurance Co of America (RILA)  (CIK 0002038891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038891/000119312526351447/0001193125-26-351447-index.htm)
+
+- **485BPOS** | Equitable Financial Life Insurance Co (RILA)  (CIK 0002039145)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039145/000119312526351415/0001193125-26-351415-index.htm)
+
 - **10-Q** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026089151/0001213900-26-089151-index.htm)
 
@@ -387,6 +396,12 @@
 - **10-Q** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526349320/0001193125-26-349320-index.htm)
 
+- **N-PX** | SPDR INDEX SHARES FUNDS  (CIK 0001168164)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1168164/000119312526351517/0001193125-26-351517-index.htm)
+
+- **N-PX** | SPDR INDEX SHARES FUNDS  (CIK 0001168164)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1168164/000119312526351541/0001193125-26-351541-index.htm)
+
 - **10-Q** | First Tracks Biotherapeutics, Inc.  (TRAX)  (CIK 0002091349)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091349/000119312526346931/0001193125-26-346931-index.htm)
 
@@ -395,7 +410,4 @@
 
 - **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000138570226000004/0001385702-26-000004-index.htm)
-
-- **SCHEDULE 13G** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000133187526000078/0001331875-26-000078-index.htm)
 
