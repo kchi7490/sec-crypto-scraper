@@ -147,6 +147,9 @@
 - **DEFR14A** | SUI Group Holdings Ltd.  (SUIG)  (CIK 0001425355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1425355/000114036126032857/0001140361-26-032857-index.htm)
 
+- **10-Q** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026057061/0001628280-26-057061-index.htm)
+
 - **10-Q** | King Resources, Inc.  (KRFG)  (CIK 0000774415)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826006306/0001683168-26-006306-index.htm)
 
@@ -158,6 +161,12 @@
 
 - **10-Q** | Equillium, Inc.  (EQ)  (CIK 0001746466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1746466/000119312526349235/0001193125-26-349235-index.htm)
+
+- **10-Q** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026089940/0001213900-26-089940-index.htm)
+
+- **10-Q** | Zoomcar Holdings, Inc.  (ZCAR, ZCARW)  (CIK 0001854275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854275/000121390026089946/0001213900-26-089946-index.htm)
 
 - **20-F** | K-TECH SOLUTIONS CO LTD  (KMRK)  (CIK 0002049187)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2049187/000121390026088354/0001213900-26-088354-index.htm)
@@ -203,6 +212,9 @@
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038012/0001493152-26-038012-index.htm)
+
+- **10-Q** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926027963/0001437749-26-027963-index.htm)
 
 - **10-Q** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226037866/0001493152-26-037866-index.htm)
@@ -356,6 +368,9 @@
 
 - **10-Q** | TANICO Inc.  (CIK 0001895939)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895939/000147793226004933/0001477932-26-004933-index.htm)
+
+- **10-Q** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226038241/0001493152-26-038241-index.htm)
 
 - **ABS-15G** | EFMT Depositor LLC  (CIK 0001946154)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946154/000199937126017892/0001999371-26-017892-index.htm)
