@@ -39,11 +39,17 @@
 - **10-Q** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000093041326002505/0000930413-26-002505-index.htm)
 
+- **10-Q** | Axe Compute Inc.  (AGPU)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326005556/0001171843-26-005556-index.htm)
+
 - **424B3** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926010142/0001214659-26-010142-index.htm)
 
 - **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226037802/0001493152-26-037802-index.htm)
+
+- **10-Q** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026090250/0001213900-26-090250-index.htm)
 
 - **10-Q** | VanEck Solana ETF  (VSOL)  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000093041326002503/0000930413-26-002503-index.htm)
@@ -117,6 +123,9 @@
 - **S-1** | Fast Finance Pay Corp.  (CIK 0002109616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109616/000149315226037415/0001493152-26-037415-index.htm)
 
+- **10-Q** | LiveOne, Inc.  (LVO)  (CIK 0001491419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491419/000143774926028046/0001437749-26-028046-index.htm)
+
 - **8-K** | Securitize Corp.  (SECZ)  (CIK 0002094496)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2094496/000162828026056164/0001628280-26-056164-index.htm)
 
@@ -134,6 +143,12 @@
 
 - **10-Q** | Professional Diversity Network, Inc.  (IPDN)  (CIK 0001546296)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1546296/000143774926027832/0001437749-26-027832-index.htm)
+
+- **424B3** | 21Shares Polkadot ETF  (CIK 0002054247)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2054247/000121390026090254/0001213900-26-090254-index.htm)
+
+- **10-Q** | PodcastOne, Inc.  (PODC)  (CIK 0001940177)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940177/000143774926028050/0001437749-26-028050-index.htm)
 
 - **10-Q** | IGC Pharma, Inc.  (IGC)  (CIK 0001326205)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326205/000118518526003544/0001185185-26-003544-index.htm)
@@ -158,6 +173,9 @@
 
 - **10-Q** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226037377/0001493152-26-037377-index.htm)
+
+- **10-Q** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004434/0001062993-26-004434-index.htm)
 
 - **S-4/A** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526347519/0001193125-26-347519-index.htm)
@@ -246,6 +264,9 @@
 - **DEF 14A** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226037821/0001493152-26-037821-index.htm)
 
+- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226038494/0001493152-26-038494-index.htm)
+
 - **DEFM14A** | Inflection Point Acquisition Corp. V  (IPEX, IPEXR, IPEXU)  (CIK 0002028355)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028355/000121390026087896/0001213900-26-087896-index.htm)
 
@@ -321,6 +342,9 @@
 - **10-Q** | Aether Holdings, Inc.  (ATHR)  (CIK 0002026353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026353/000149315226037828/0001493152-26-037828-index.htm)
 
+- **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000073/0001836875-26-000073-index.htm)
+
 - **10-Q** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226038403/0001493152-26-038403-index.htm)
 
@@ -375,6 +399,9 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926027408/0001437749-26-027408-index.htm)
 
+- **6-K** | Quantum eMotion Corp  (QNC)  (CIK 0002106613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106613/000110465926097327/0001104659-26-097327-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000786/0001279569-26-000786-index.htm)
 
@@ -414,6 +441,9 @@
 - **10-Q** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/0001213900-26-088407-index.htm)
 
+- **10-Q** | Franklin Crypto Trust  (EZPZ)  (CIK 0002033807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033807/000114036126033200/0001140361-26-033200-index.htm)
+
 - **10-Q** | VanEck Avalanche ETF  (VAVX)  (CIK 0002060717)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2060717/000093041326002502/0000930413-26-002502-index.htm)
 
@@ -434,6 +464,9 @@
 
 - **10-Q** | Bitwise Avalanche ETF  (BAVA)  (CIK 0002086017)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086017/000119312526346250/0001193125-26-346250-index.htm)
+
+- **10-Q** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000119312526352653/0001193125-26-352653-index.htm)
 
 - **10-Q** | KEEMO Fashion Group Ltd  (KMFG)  (CIK 0001935033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935033/000149315226037965/0001493152-26-037965-index.htm)
@@ -468,6 +501,9 @@
 - **253G1** | UNLOCKD, Inc.  (BFCH)  (CIK 0001395005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826006409/0001683168-26-006409-index.htm)
 
+- **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036126033208/0001140361-26-033208-index.htm)
+
 - **10-Q** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926095885/0001104659-26-095885-index.htm)
 
@@ -486,6 +522,9 @@
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/0001398344-26-014222-index.htm)
 
+- **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036126033204/0001140361-26-033204-index.htm)
+
 - **10-Q** | TV Channels Network Inc.  (TVCN)  (CIK 0001952670)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952670/000195267026000018/0001952670-26-000018-index.htm)
 
@@ -500,6 +539,12 @@
 
 - **N-CEN** | PROSHARES TRUST  (CIK 0001174610)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1174610/000207169126017775/0002071691-26-017775-index.htm)
+
+- **253G2** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226038483/0001493152-26-038483-index.htm)
+
+- **1-A** | Deedflow INC  (CIK 0002143384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2143384/000168316826006495/0001683168-26-006495-index.htm)
 
 - **ABS-15G** | EFMT Depositor LLC  (CIK 0001946154)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946154/000199937126017892/0001999371-26-017892-index.htm)
@@ -524,6 +569,9 @@
 
 - **NT 10-Q** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226038285/0001493152-26-038285-index.htm)
+
+- **NT 10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926010430/0001214659-26-010430-index.htm)
 
 - **10-Q** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226037763/0001493152-26-037763-index.htm)
@@ -560,6 +608,9 @@
 
 - **N-PX** | SPDR INDEX SHARES FUNDS  (CIK 0001168164)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1168164/000119312526351541/0001193125-26-351541-index.htm)
+
+- **10-Q** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793226005093/0001477932-26-005093-index.htm)
 
 - **10-Q** | First Tracks Biotherapeutics, Inc.  (TRAX)  (CIK 0002091349)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091349/000119312526346931/0001193125-26-346931-index.htm)
