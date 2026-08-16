@@ -123,47 +123,8 @@
 - **497** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526352141/0001193125-26-352141-index.htm)
 
-- **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526352145/0001193125-26-352145-index.htm)
-
-- **10-Q** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000021/0001591956-26-000021-index.htm)
-
-- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226038468/0001493152-26-038468-index.htm)
-
-- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526350325/0001193125-26-350325-index.htm)
-
-- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004391/0001062993-26-004391-index.htm)
-
-- **10-Q** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057159/0001628280-26-057159-index.htm)
-
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038012/0001493152-26-038012-index.htm)
-
-- **10-Q** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926027963/0001437749-26-027963-index.htm)
-
-- **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026090031/0001213900-26-090031-index.htm)
-
-- **10-Q** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026089986/0001213900-26-089986-index.htm)
-
-- **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057153/0001628280-26-057153-index.htm)
-
-- **10-Q** | NOMAD POWER SOLUTIONS, INC.  (NMAD)  (CIK 0001335105)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315226038001/0001493152-26-038001-index.htm)
-
-- **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000073/0001836875-26-000073-index.htm)
-
-- **10-Q** | OFA Group  (OFAL)  (CIK 0002036307)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226038403/0001493152-26-038403-index.htm)
 
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226038389/0001493152-26-038389-index.htm)
@@ -201,6 +162,9 @@
 - **6-K** | WORK Medical Technology Group LTD  (WOK)  (CIK 0001929783)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1929783/000121390026090147/0001213900-26-090147-index.htm)
 
+- **10-Q** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000159195626000021/0001591956-26-000021-index.htm)
+
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226038319/0001493152-26-038319-index.htm)
 
@@ -231,11 +195,23 @@
 - **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036126033208/0001140361-26-033208-index.htm)
 
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226038468/0001493152-26-038468-index.htm)
+
 - **485BPOS** | Equitable Financial Life Insurance Co of America (RILA)  (CIK 0002038891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038891/000119312526351447/0001193125-26-351447-index.htm)
 
+- **10-Q** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926027963/0001437749-26-027963-index.htm)
+
 - **485BPOS** | Equitable Financial Life Insurance Co (RILA)  (CIK 0002039145)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039145/000119312526351415/0001193125-26-351415-index.htm)
+
+- **10-Q** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057159/0001628280-26-057159-index.htm)
+
+- **10-Q** | OFA Group  (OFAL)  (CIK 0002036307)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226038403/0001493152-26-038403-index.htm)
 
 - **10-Q** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000114036126033204/0001140361-26-033204-index.htm)
@@ -281,6 +257,30 @@
 
 - **10-Q** | Antiaging Quantum Living Inc.  (AAQL)  (CIK 0001672571)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1672571/000149315226038392/0001493152-26-038392-index.htm)
+
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526350325/0001193125-26-350325-index.htm)
+
+- **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526352145/0001193125-26-352145-index.htm)
+
+- **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004391/0001062993-26-004391-index.htm)
+
+- **10-Q** | Cantor Equity Partners I, Inc.  (CEPO)  (CIK 0002027708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2027708/000121390026090031/0001213900-26-090031-index.htm)
+
+- **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057153/0001628280-26-057153-index.htm)
+
+- **10-Q** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026089986/0001213900-26-089986-index.htm)
+
+- **10-Q** | NOMAD POWER SOLUTIONS, INC.  (NMAD)  (CIK 0001335105)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1335105/000149315226038001/0001493152-26-038001-index.htm)
+
+- **10-Q** | Nuvve Holding Corp.  (NVVE)  (CIK 0001836875)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1836875/000183687526000073/0001836875-26-000073-index.htm)
 
 - **N-PX** | SPDR INDEX SHARES FUNDS  (CIK 0001168164)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1168164/000119312526351517/0001193125-26-351517-index.htm)
