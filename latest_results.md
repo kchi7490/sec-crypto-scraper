@@ -117,9 +117,6 @@
 - **10-Q** | Greenland Technologies Holding Corp.  (GTEC)  (CIK 0001735041)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1735041/000121390026089494/0001213900-26-089494-index.htm)
 
-- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226038494/0001493152-26-038494-index.htm)
-
 - **497** | FLEXSHARES TRUST  (CIK 0001491978)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526352141/0001193125-26-352141-index.htm)
 
@@ -227,6 +224,9 @@
 
 - **253G1** | UNLOCKD, Inc.  (BFCH)  (CIK 0001395005)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1395005/000168316826006409/0001683168-26-006409-index.htm)
+
+- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226038494/0001493152-26-038494-index.htm)
 
 - **10-Q** | Franklin Templeton Digital Holdings Trust  (EZBC)  (CIK 0001992870)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992870/000114036126033208/0001140361-26-033208-index.htm)
