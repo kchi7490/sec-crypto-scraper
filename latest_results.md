@@ -9,3 +9,6 @@
 - **20-F** | Ming Shing Group Holdings Ltd  (PMA)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000149315226038558/0001493152-26-038558-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026090474/0001213900-26-090474-index.htm)
+
