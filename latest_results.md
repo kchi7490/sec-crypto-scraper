@@ -81,6 +81,3 @@
 - **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026090690/0001213900-26-090690-index.htm)
 
-- **N-CSR/A** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526353421/0001193125-26-353421-index.htm)
-
