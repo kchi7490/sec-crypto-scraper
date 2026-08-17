@@ -30,6 +30,9 @@
 - **DEF 14C** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119380526001100/0001193805-26-001100-index.htm)
 
+- **20-F** | Reitar Logtech Holdings Ltd  (RITR)  (CIK 0001951229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951229/000121390026090802/0001213900-26-090802-index.htm)
+
 - **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226038756/0001493152-26-038756-index.htm)
 
