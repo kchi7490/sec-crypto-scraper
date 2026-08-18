@@ -15,6 +15,9 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526353239/0001193125-26-353239-index.htm)
 
+- **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
+
 - **S-4** | NEIGHBORHOOD INTELLIGENCE, INC.  (BBBY, BBBY-WT)  (CIK 0001130713)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1130713/000114036126033448/0001140361-26-033448-index.htm)
 
@@ -23,6 +26,12 @@
 
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226038568/0001493152-26-038568-index.htm)
+
+- **DEFA14A** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028268/0001437749-26-028268-index.htm)
+
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028267/0001437749-26-028267-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026057224/0001628280-26-057224-index.htm)
@@ -38,6 +47,9 @@
 
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057243/0001628280-26-057243-index.htm)
+
+- **10-Q** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926028254/0001437749-26-028254-index.htm)
 
 - **PRRN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002219/0000921895-26-002219-index.htm)
