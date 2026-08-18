@@ -18,6 +18,9 @@
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526353239/0001193125-26-353239-index.htm)
 
+- **PRE 14A** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028340/0001437749-26-028340-index.htm)
+
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
 
@@ -131,4 +134,7 @@
 
 - **497K** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
+
+- **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542826000096/0001135428-26-000096-index.htm)
 
