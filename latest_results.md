@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038652/0001493152-26-038652-index.htm)
 
+- **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm)
+
 - **10-Q** | FDCTECH, INC.  (FDCTD)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226038590/0001493152-26-038590-index.htm)
 
