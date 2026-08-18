@@ -102,6 +102,9 @@
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001538/0001753926-26-001538-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004461/0001062993-26-004461-index.htm)
+
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/0001493152-26-038732-index.htm)
 
