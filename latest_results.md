@@ -21,8 +21,14 @@
 - **PRE 14A** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028340/0001437749-26-028340-index.htm)
 
+- **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226005146/0001477932-26-005146-index.htm)
+
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
+
+- **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226039014/0001493152-26-039014-index.htm)
 
 - **F-1** | HUALINK TECH INC  (CIK 0002147557)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2147557/000214755726000001/0002147557-26-000001-index.htm)
@@ -69,6 +75,9 @@
 - **PRRN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002219/0000921895-26-002219-index.htm)
 
+- **424B4** | Karman Line Acquisition Corp.  (XTER)  (CIK 0002134856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134856/000182912626009017/0001829126-26-009017-index.htm)
+
 - **424B5** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028345/0001437749-26-028345-index.htm)
 
@@ -83,6 +92,9 @@
 
 - **DEF 14A** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226038805/0001493152-26-038805-index.htm)
+
+- **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390026091216/0001213900-26-091216-index.htm)
 
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390026090527/0001213900-26-090527-index.htm)
