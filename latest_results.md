@@ -6,8 +6,14 @@
 - **10-Q** | FDCTECH, INC.  (FDCTD)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226038590/0001493152-26-038590-index.htm)
 
+- **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018092/0001999371-26-018092-index.htm)
+
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526353239/0001193125-26-353239-index.htm)
+
+- **S-4** | NEIGHBORHOOD INTELLIGENCE, INC.  (BBBY, BBBY-WT)  (CIK 0001130713)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1130713/000114036126033448/0001140361-26-033448-index.htm)
 
 - **S-1** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026090839/0001213900-26-090839-index.htm)
@@ -42,6 +48,9 @@
 - **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226038756/0001493152-26-038756-index.htm)
 
+- **DEF 14A** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226038805/0001493152-26-038805-index.htm)
+
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390026090527/0001213900-26-090527-index.htm)
 
@@ -63,6 +72,9 @@
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001538/0001753926-26-001538-index.htm)
 
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004461/0001062993-26-004461-index.htm)
+
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/0001493152-26-038732-index.htm)
 
@@ -83,4 +95,7 @@
 
 - **N-CSR/A** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000119312526353421/0001193125-26-353421-index.htm)
+
+- **497K** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
 
