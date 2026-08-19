@@ -21,6 +21,12 @@
 - **POS AM** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315226039114/0001493152-26-039114-index.htm)
 
+- **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315226039224/0001493152-26-039224-index.htm)
+
+- **10-Q** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226039226/0001493152-26-039226-index.htm)
+
 - **S-1/A** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826006558/0001683168-26-006558-index.htm)
 
@@ -59,6 +65,9 @@
 
 - **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000179585126000005/0001795851-26-000005-index.htm)
+
+- **N-CSRS/A** | CoinShares ETF Trust  (CIK 0001877493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322826011386/0001133228-26-011386-index.htm)
 
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226005158/0001477932-26-005158-index.htm)
@@ -102,6 +111,12 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526353240/0001193125-26-353240-index.htm)
 
+- **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000007/0002007691-26-000007-index.htm)
+
+- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226039236/0001493152-26-039236-index.htm)
+
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004447/0001062993-26-004447-index.htm)
 
@@ -111,6 +126,9 @@
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057243/0001628280-26-057243-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926010619/0001214659-26-010619-index.htm)
+
 - **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
 
@@ -119,6 +137,9 @@
 
 - **10-Q** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926028254/0001437749-26-028254-index.htm)
+
+- **10-Q** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026091696/0001213900-26-091696-index.htm)
 
 - **PRRN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002219/0000921895-26-002219-index.htm)
@@ -134,6 +155,9 @@
 
 - **20-F** | Reitar Logtech Holdings Ltd  (RITR)  (CIK 0001951229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951229/000121390026090802/0001213900-26-090802-index.htm)
+
+- **DEFM14A** | Columbus Acquisition Corp/Cayman Islands  (COLA, COLAR, COLAU)  (CIK 0002028201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028201/000121390026091739/0001213900-26-091739-index.htm)
 
 - **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226038756/0001493152-26-038756-index.htm)
@@ -155,6 +179,9 @@
 
 - **6-K** | Top KingWin Ltd  (DPU)  (CIK 0001938865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938865/000121390026091662/0001213900-26-091662-index.htm)
+
+- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026091702/0001213900-26-091702-index.htm)
 
 - **20-F** | Ming Shing Group Holdings Ltd  (PMA)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000149315226038558/0001493152-26-038558-index.htm)
