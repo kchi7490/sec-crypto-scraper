@@ -36,6 +36,9 @@
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226005146/0001477932-26-005146-index.htm)
 
+- **424B5** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390026091496/0001213900-26-091496-index.htm)
+
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226039145/0001493152-26-039145-index.htm)
 
