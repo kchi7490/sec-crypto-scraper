@@ -6,14 +6,29 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038652/0001493152-26-038652-index.htm)
 
+- **10-Q** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226039262/0001493152-26-039262-index.htm)
+
 - **10-Q** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026091621/0001213900-26-091621-index.htm)
+
+- **10-Q** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000162828026058013/0001628280-26-058013-index.htm)
 
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm)
 
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926098591/0001104659-26-098591-index.htm)
+
+- **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526357108/0001193125-26-357108-index.htm)
+
+- **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526357082/0001193125-26-357082-index.htm)
+
+- **S-1/A** | Canary Staked TRX ETF  (CIK 0002064768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126018236/0001999371-26-018236-index.htm)
 
 - **S-1** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315226039112/0001493152-26-039112-index.htm)
@@ -24,8 +39,20 @@
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315226039224/0001493152-26-039224-index.htm)
 
+- **10-Q** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926098819/0001104659-26-098819-index.htm)
+
+- **424B3** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926098832/0001104659-26-098832-index.htm)
+
 - **10-Q** | DNA X, Inc.  (SONM)  (CIK 0001178697)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1178697/000149315226039226/0001493152-26-039226-index.htm)
+
+- **10-Q** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039249/0001493152-26-039249-index.htm)
+
+- **8-K** | SERA PROGNOSTICS, INC.  (SERA)  (CIK 0001534969)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534969/000119312526357112/0001193125-26-357112-index.htm)
 
 - **S-1/A** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826006558/0001683168-26-006558-index.htm)
@@ -35,6 +62,9 @@
 
 - **10-Q** | FDCTECH, INC.  (FDCTD)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226038590/0001493152-26-038590-index.htm)
+
+- **8-K/A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091764/0001213900-26-091764-index.htm)
 
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018092/0001999371-26-018092-index.htm)
@@ -78,6 +108,9 @@
 - **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001099/0001731122-26-001099-index.htm)
 
+- **10-K** | ChronoScale Holdings Corp  (CHRN)  (CIK 0001549084)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000162828026058018/0001628280-26-058018-index.htm)
+
 - **F-1** | HUALINK TECH INC  (CIK 0002147557)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2147557/000214755726000001/0002147557-26-000001-index.htm)
 
@@ -86,6 +119,9 @@
 
 - **S-1** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026090839/0001213900-26-090839-index.htm)
+
+- **DEFM14A** | Columbus Acquisition Corp/Cayman Islands  (COLA, COLAR, COLAU)  (CIK 0002028201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028201/000121390026091739/0001213900-26-091739-index.htm)
 
 - **424B3** | WISeSat.Space Holdings Corp.  (SAIQ)  (CIK 0002101411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026091665/0001213900-26-091665-index.htm)
@@ -156,9 +192,6 @@
 - **20-F** | Reitar Logtech Holdings Ltd  (RITR)  (CIK 0001951229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951229/000121390026090802/0001213900-26-090802-index.htm)
 
-- **DEFM14A** | Columbus Acquisition Corp/Cayman Islands  (COLA, COLAR, COLAU)  (CIK 0002028201)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2028201/000121390026091739/0001213900-26-091739-index.htm)
-
 - **10-12G/A** | B-Scada, Inc.  (SCDA)  (CIK 0001341878)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1341878/000149315226038756/0001493152-26-038756-index.htm)
 
@@ -170,6 +203,9 @@
 
 - **424B2** | Blackstone Private Credit Fund  (CIK 0001803498)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1803498/000121390026090527/0001213900-26-090527-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026091760/0001213900-26-091760-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000802/0001279569-26-000802-index.htm)
@@ -209,6 +245,9 @@
 
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526355081/0001193125-26-355081-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526353727/0001193125-26-353727-index.htm)
