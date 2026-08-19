@@ -147,12 +147,6 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526353240/0001193125-26-353240-index.htm)
 
-- **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000007/0002007691-26-000007-index.htm)
-
-- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226039236/0001493152-26-039236-index.htm)
-
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004447/0001062993-26-004447-index.htm)
 
@@ -162,20 +156,11 @@
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057243/0001628280-26-057243-index.htm)
 
-- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926010619/0001214659-26-010619-index.htm)
-
-- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
-
 - **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026091419/0001213900-26-091419-index.htm)
 
 - **10-Q** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926028254/0001437749-26-028254-index.htm)
-
-- **10-Q** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026091696/0001213900-26-091696-index.htm)
 
 - **PRRN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002219/0000921895-26-002219-index.htm)
@@ -246,6 +231,9 @@
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526355081/0001193125-26-355081-index.htm)
 
+- **10-Q** | Profusa, Inc.  (PFSA, NVACW)  (CIK 0001859807)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859807/000121390026091696/0001213900-26-091696-index.htm)
+
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
 
@@ -276,6 +264,12 @@
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
 
+- **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926010619/0001214659-26-010619-index.htm)
+
 - **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542826000096/0001135428-26-000096-index.htm)
+
+- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
 
