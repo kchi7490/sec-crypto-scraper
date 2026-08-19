@@ -36,6 +36,9 @@
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226005146/0001477932-26-005146-index.htm)
 
+- **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000126/0001017386-26-000126-index.htm)
+
 - **424B5** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390026091496/0001213900-26-091496-index.htm)
 
