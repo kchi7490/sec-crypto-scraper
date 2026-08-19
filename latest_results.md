@@ -9,9 +9,6 @@
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm)
 
-- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926098591/0001104659-26-098591-index.htm)
-
 - **S-1** | XCF Global, Inc.  (SAFX)  (CIK 0002019793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019793/000149315226039112/0001493152-26-039112-index.htm)
 
@@ -35,12 +32,6 @@
 
 - **10-Q** | Cosmos Health Inc.  (COSM)  (CIK 0001474167)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1474167/000147793226005146/0001477932-26-005146-index.htm)
-
-- **424B5** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390026091496/0001213900-26-091496-index.htm)
-
-- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226039145/0001493152-26-039145-index.htm)
 
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
@@ -86,9 +77,6 @@
 
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057243/0001628280-26-057243-index.htm)
-
-- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026091419/0001213900-26-091419-index.htm)
 
 - **10-Q** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926028254/0001437749-26-028254-index.htm)
@@ -147,8 +135,17 @@
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/0001493152-26-038732-index.htm)
 
+- **424B5** | Singularity Future Technology Ltd.  (SGLY)  (CIK 0001422892)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1422892/000121390026091496/0001213900-26-091496-index.htm)
+
+- **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226039145/0001493152-26-039145-index.htm)
+
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526355081/0001193125-26-355081-index.htm)
+
+- **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226005158/0001477932-26-005158-index.htm)
 
 - **485BPOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526353727/0001193125-26-353727-index.htm)
@@ -171,6 +168,18 @@
 - **497K** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
 
+- **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926098591/0001104659-26-098591-index.htm)
+
+- **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
+
+- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026091419/0001213900-26-091419-index.htm)
+
 - **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542826000096/0001135428-26-000096-index.htm)
+
+- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
 
