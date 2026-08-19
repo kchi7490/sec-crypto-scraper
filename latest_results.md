@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926010549/0001214659-26-010549-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038652/0001493152-26-038652-index.htm)
 
