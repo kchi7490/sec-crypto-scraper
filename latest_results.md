@@ -6,6 +6,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226038652/0001493152-26-038652-index.htm)
 
+- **10-Q** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026091621/0001213900-26-091621-index.htm)
+
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm)
 
@@ -93,6 +96,12 @@
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026057243/0001628280-26-057243-index.htm)
 
+- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
+
+- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026091419/0001213900-26-091419-index.htm)
+
 - **10-Q** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926028254/0001437749-26-028254-index.htm)
 
@@ -177,12 +186,6 @@
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
 
-- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026091419/0001213900-26-091419-index.htm)
-
 - **N-PX** | Advisors' Inner Circle Fund III  (CIK 0001593547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1593547/000113542826000096/0001135428-26-000096-index.htm)
-
-- **8-K** | SRX Global Inc.  (SRXH)  (CIK 0001471727)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471727/000149315226039162/0001493152-26-039162-index.htm)
 
