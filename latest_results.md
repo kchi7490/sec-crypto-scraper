@@ -24,11 +24,17 @@
 - **S-1/A** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826006558/0001683168-26-006558-index.htm)
 
+- **10-Q** | LQR House Inc.  (YHC)  (CIK 0001843165)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1843165/000121390026091661/0001213900-26-091661-index.htm)
+
 - **10-Q** | FDCTECH, INC.  (FDCTD)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226038590/0001493152-26-038590-index.htm)
 
 - **485BPOS** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018092/0001999371-26-018092-index.htm)
+
+- **10-Q** | Healthier Choices Management Corp.  (HCMC)  (CIK 0000844856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/844856/000149315226039201/0001493152-26-039201-index.htm)
 
 - **8-K** | Bakkt, Inc.  (BKKT, BKKT-WT)  (CIK 0001820302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1820302/000119312526353239/0001193125-26-353239-index.htm)
@@ -51,11 +57,17 @@
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
 
+- **424B3** | Stewards, Inc.  (SWRD)  (CIK 0001795851)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1795851/000179585126000005/0001795851-26-000005-index.htm)
+
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226005158/0001477932-26-005158-index.htm)
 
 - **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226039014/0001493152-26-039014-index.htm)
+
+- **10-Q** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001099/0001731122-26-001099-index.htm)
 
 - **F-1** | HUALINK TECH INC  (CIK 0002147557)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2147557/000214755726000001/0002147557-26-000001-index.htm)
@@ -65,6 +77,9 @@
 
 - **S-1** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026090839/0001213900-26-090839-index.htm)
+
+- **424B3** | WISeSat.Space Holdings Corp.  (SAIQ)  (CIK 0002101411)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026091665/0001213900-26-091665-index.htm)
 
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226038568/0001493152-26-038568-index.htm)
@@ -138,6 +153,9 @@
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926097779/0001104659-26-097779-index.htm)
 
+- **6-K** | Top KingWin Ltd  (DPU)  (CIK 0001938865)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938865/000121390026091662/0001213900-26-091662-index.htm)
+
 - **20-F** | Ming Shing Group Holdings Ltd  (PMA)  (CIK 0001956166)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956166/000149315226038558/0001493152-26-038558-index.htm)
 
@@ -155,6 +173,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004461/0001062993-26-004461-index.htm)
+
+- **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226039204/0001493152-26-039204-index.htm)
 
 - **10-Q** | AI Financial Corp  (AIFC)  (CIK 0000862861)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/862861/000149315226038732/0001493152-26-038732-index.htm)
@@ -182,6 +203,9 @@
 
 - **497K** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
+
+- **10-Q** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426007754/0001654954-26-007754-index.htm)
 
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
