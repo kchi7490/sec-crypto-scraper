@@ -108,6 +108,9 @@
 - **N-CSRS/A** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000113322826011386/0001133228-26-011386-index.htm)
 
+- **S-1/A** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226039475/0001493152-26-039475-index.htm)
+
 - **10-Q** | Totaligent, Inc.  (TGNT)  (CIK 0000846377)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/846377/000147793226005158/0001477932-26-005158-index.htm)
 
@@ -174,6 +177,9 @@
 - **424B5** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028345/0001437749-26-028345-index.htm)
 
+- **10-Q/A** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001400/0001640334-26-001400-index.htm)
+
 - **DEF 14A** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226038805/0001493152-26-038805-index.htm)
 
@@ -203,6 +209,9 @@
 
 - **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626009144/0001829126-26-009144-index.htm)
+
+- **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226039480/0001493152-26-039480-index.htm)
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004461/0001062993-26-004461-index.htm)
