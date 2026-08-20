@@ -135,6 +135,9 @@
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028267/0001437749-26-028267-index.htm)
 
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526358063/0001193125-26-358063-index.htm)
+
 - **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000007/0002007691-26-000007-index.htm)
 
@@ -197,6 +200,9 @@
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
+
+- **485APOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000375/0001081400-26-000375-index.htm)
 
 - **497K** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
