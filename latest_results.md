@@ -207,9 +207,6 @@
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226039373/0001493152-26-039373-index.htm)
 
-- **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626009144/0001829126-26-009144-index.htm)
-
 - **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226039480/0001493152-26-039480-index.htm)
 
@@ -220,16 +217,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226039204/0001493152-26-039204-index.htm)
 
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526358960/0001193125-26-358960-index.htm)
-
-- **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526355081/0001193125-26-355081-index.htm)
+
+- **424B5** | K Wave Media Ltd.  (KWM, KWMWW)  (CIK 0002000756)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000756/000182912626009144/0001829126-26-009144-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
 
 - **485APOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000375/0001081400-26-000375-index.htm)
+
+- **PRE 14A** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126018309/0001999371-26-018309-index.htm)
 
 - **497K** | CoinShares ETF Trust  (CIK 0001877493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1877493/000199937126018097/0001999371-26-018097-index.htm)
