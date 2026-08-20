@@ -144,9 +144,6 @@
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028267/0001437749-26-028267-index.htm)
 
-- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526358063/0001193125-26-358063-index.htm)
-
 - **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000007/0002007691-26-000007-index.htm)
 
