@@ -21,6 +21,12 @@
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226039380/0001493152-26-039380-index.htm)
+
+- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039377/0001493152-26-039377-index.htm)
+
 - **8-K** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926098591/0001104659-26-098591-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **424B3** | ProCap Financial, Inc.  (BRR, BRRWW)  (CIK 0002076163)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226039145/0001493152-26-039145-index.htm)
+
+- **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026091922/0001213900-26-091922-index.htm)
 
 - **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526354794/0001193125-26-354794-index.htm)
@@ -164,15 +173,6 @@
 
 - **424B5** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926028345/0001437749-26-028345-index.htm)
-
-- **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026091922/0001213900-26-091922-index.htm)
-
-- **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039377/0001493152-26-039377-index.htm)
-
-- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226039380/0001493152-26-039380-index.htm)
 
 - **DEF 14A** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226038805/0001493152-26-038805-index.htm)
