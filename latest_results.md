@@ -180,6 +180,9 @@
 - **6-K** | Top KingWin Ltd  (DPU)  (CIK 0001938865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938865/000121390026091662/0001213900-26-091662-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026091887/0001213900-26-091887-index.htm)
+
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026091702/0001213900-26-091702-index.htm)
 
