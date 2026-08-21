@@ -144,6 +144,12 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026091887/0001213900-26-091887-index.htm)
 
+- **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092279/0001213900-26-092279-index.htm)
+
+- **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm)
+
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026091702/0001213900-26-091702-index.htm)
 
