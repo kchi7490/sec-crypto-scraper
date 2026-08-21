@@ -30,8 +30,14 @@
 - **S-3/A** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526357108/0001193125-26-357108-index.htm)
 
+- **424B3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526360126/0001193125-26-360126-index.htm)
+
 - **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526357082/0001193125-26-357082-index.htm)
+
+- **424B3** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526360128/0001193125-26-360128-index.htm)
 
 - **S-1/A** | Canary Staked TRX ETF  (CIK 0002064768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126018236/0001999371-26-018236-index.htm)
