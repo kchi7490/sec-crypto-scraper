@@ -54,6 +54,9 @@
 - **10-Q** | ProPhase Labs, Inc.  (PRPH)  (CIK 0000868278)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/868278/000149315226039224/0001493152-26-039224-index.htm)
 
+- **S-3** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326004554/0001062993-26-004554-index.htm)
+
 - **10-Q** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926098819/0001104659-26-098819-index.htm)
 
@@ -78,11 +81,17 @@
 - **8-K/A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091764/0001213900-26-091764-index.htm)
 
+- **10-Q** | La Rosa Holdings Corp.  (LRHC)  (CIK 0001879403)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879403/000143774926028725/0001437749-26-028725-index.htm)
+
 - **10-Q** | Healthier Choices Management Corp.  (HCMC)  (CIK 0000844856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/844856/000149315226039201/0001493152-26-039201-index.htm)
 
 - **F-3/A** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026092310/0001213900-26-092310-index.htm)
+
+- **S-3** | MAIA Biotechnology, Inc.  (MAIA)  (CIK 0001878313)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878313/000149315226039679/0001493152-26-039679-index.htm)
 
 - **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000126/0001017386-26-000126-index.htm)
@@ -98,6 +107,9 @@
 
 - **F-1** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026091922/0001213900-26-091922-index.htm)
+
+- **S-3/A** | Grayscale Zcash Trust (ZEC)  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526361067/0001193125-26-361067-index.htm)
 
 - **10-Q** | BOXABL Inc.  (BXBL)  (CIK 0001906364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1906364/000149315226039614/0001493152-26-039614-index.htm)
@@ -172,13 +184,19 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092279/0001213900-26-092279-index.htm)
 
 - **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092342/0001213900-26-092342-index.htm)
 
 - **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092342/0001213900-26-092342-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm)
+
+- **6-K** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526003674/0001185185-26-003674-index.htm)
 
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026091702/0001213900-26-091702-index.htm)
+
+- **F-3/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092596/0001213900-26-092596-index.htm)
 
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226039373/0001493152-26-039373-index.htm)
