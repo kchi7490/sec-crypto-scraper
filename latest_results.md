@@ -33,6 +33,9 @@
 - **424B3** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526360126/0001193125-26-360126-index.htm)
 
+- **424B5** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226039602/0001493152-26-039602-index.htm)
+
 - **POS AM** | Fidelity Solana Fund  (FSOL)  (CIK 0002063380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2063380/000119312526357082/0001193125-26-357082-index.htm)
 
