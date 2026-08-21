@@ -180,6 +180,9 @@
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026091887/0001213900-26-091887-index.htm)
 
+- **6-K** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026092641/0001213900-26-092641-index.htm)
+
 - **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092279/0001213900-26-092279-index.htm)
 
@@ -207,6 +210,9 @@
 - **6-K** | Intchains Group Ltd  (ICG)  (CIK 0001895597)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895597/000149315226039480/0001493152-26-039480-index.htm)
 
+- **6-K** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312526361231/0001193125-26-361231-index.htm)
+
 - **6-K** | Black Titan Corp  (BTTC)  (CIK 0002034400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034400/000149315226039204/0001493152-26-039204-index.htm)
 
@@ -218,6 +224,12 @@
 
 - **485APOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526358960/0001193125-26-358960-index.htm)
+
+- **485BPOS** | iSHARES TRUST  (CIK 0001100663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526361232/0001193125-26-361232-index.htm)
+
+- **485BPOS** | iShares, Inc.  (CIK 0000930667)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/0001193125-26-361244-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
@@ -236,4 +248,7 @@
 
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
+
+- **485APOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126018439/0001999371-26-018439-index.htm)
 
