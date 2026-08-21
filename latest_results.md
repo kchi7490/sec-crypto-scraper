@@ -243,6 +243,9 @@
 - **485BPOS** | iShares, Inc.  (CIK 0000930667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/0001193125-26-361244-index.htm)
 
+- **S-1** | Bitari Inc  (CIK 0002091680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526003678/0001185185-26-003678-index.htm)
+
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
 
@@ -255,6 +258,9 @@
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426015172/0001398344-26-015172-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/0001398344-26-015283-index.htm)
+
 - **10-Q** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426007754/0001654954-26-007754-index.htm)
 
@@ -263,9 +269,6 @@
 
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
-
-- **S-1** | Bitari Inc  (CIK 0002091680)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526003678/0001185185-26-003678-index.htm)
 
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126018439/0001999371-26-018439-index.htm)
