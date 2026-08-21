@@ -21,6 +21,9 @@
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226039380/0001493152-26-039380-index.htm)
 
+- **8-K** | ZeroStack Corp.  (ZSTK)  (CIK 0001790169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1790169/000106299326004559/0001062993-26-004559-index.htm)
+
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039377/0001493152-26-039377-index.htm)
 
@@ -132,6 +135,12 @@
 - **10-K** | ChronoScale Holdings Corp  (CHRN)  (CIK 0001549084)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000162828026058018/0001628280-26-058018-index.htm)
 
+- **S-1/A** | Dune Acquisition Corp III  (CIK 0002095476)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2095476/000121390026092718/0001213900-26-092718-index.htm)
+
+- **424B3** | SharonAI Holdings Inc.  (SHAZ, SHAZW)  (CIK 0002068385)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068385/000149315226039728/0001493152-26-039728-index.htm)
+
 - **DEFM14A** | Columbus Acquisition Corp/Cayman Islands  (COLA, COLAR, COLAU)  (CIK 0002028201)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028201/000121390026091739/0001213900-26-091739-index.htm)
 
@@ -187,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092279/0001213900-26-092279-index.htm)
 
 - **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092342/0001213900-26-092342-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm)
 
 - **SCHEDULE 13D/A** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092280/0001213900-26-092280-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026092342/0001213900-26-092342-index.htm)
 
 - **6-K** | ZK International Group Co., Ltd.  (ZKIN)  (CIK 0001687451)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1687451/000118518526003674/0001185185-26-003674-index.htm)
@@ -219,6 +228,9 @@
 - **10-Q** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626001266/0001096906-26-001266-index.htm)
 
+- **10-Q** | GridAI Technologies Corp.  (GRDX)  (CIK 0001604191)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1604191/000110465926099751/0001104659-26-099751-index.htm)
+
 - **487** | FT 13118  (CIK 0002132907)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2132907/000144554626006316/0001445546-26-006316-index.htm)
 
@@ -230,6 +242,9 @@
 
 - **485BPOS** | iShares, Inc.  (CIK 0000930667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/0001193125-26-361244-index.htm)
+
+- **S-1** | Bitari Inc  (CIK 0002091680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526003678/0001185185-26-003678-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026091781/0001213900-26-091781-index.htm)
@@ -243,8 +258,14 @@
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426015172/0001398344-26-015172-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/0001398344-26-015283-index.htm)
+
 - **10-Q** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426007754/0001654954-26-007754-index.htm)
+
+- **10-Q/A** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826006661/0001683168-26-006661-index.htm)
 
 - **10-Q** | Dogecoin Cash, Inc.  (DOGP)  (CIK 0001360442)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001256/0001096906-26-001256-index.htm)
