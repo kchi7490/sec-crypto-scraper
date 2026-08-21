@@ -108,8 +108,14 @@
 - **424B3** | WISeSat.Space Holdings Corp.  (SAIQ)  (CIK 0002101411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026091665/0001213900-26-091665-index.htm)
 
+- **8-K** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026092250/0001213900-26-092250-index.htm)
+
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526358063/0001193125-26-358063-index.htm)
+
+- **424B3** | BSTR Holdings, Inc.  (BSTR)  (CIK 0002083583)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083583/000121390026092261/0001213900-26-092261-index.htm)
 
 - **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000007/0002007691-26-000007-index.htm)
@@ -179,6 +185,9 @@
 
 - **PRE 14A** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126018309/0001999371-26-018309-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426015172/0001398344-26-015172-index.htm)
 
 - **10-Q** | Onfolio Holdings, Inc  (ONFO, ONFOP, ONFOW)  (CIK 0001825452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1825452/000165495426007754/0001654954-26-007754-index.htm)
