@@ -72,6 +72,9 @@
 - **10-Q** | Healthier Choices Management Corp.  (HCMC)  (CIK 0000844856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/844856/000149315226039201/0001493152-26-039201-index.htm)
 
+- **F-3/A** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026092310/0001213900-26-092310-index.htm)
+
 - **10-Q** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000126/0001017386-26-000126-index.htm)
 
