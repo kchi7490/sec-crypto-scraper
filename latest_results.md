@@ -6,6 +6,9 @@
 - **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026092828/0001213900-26-092828-index.htm)
 
+- **F-1/A** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026092955/0001213900-26-092955-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526361845/0001193125-26-361845-index.htm)
 
