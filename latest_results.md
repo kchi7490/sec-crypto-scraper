@@ -15,11 +15,17 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039781/0001493152-26-039781-index.htm)
 
+- **8-K/A** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226039796/0001493152-26-039796-index.htm)
+
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226039786/0001493152-26-039786-index.htm)
 
 - **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526361369/0001193125-26-361369-index.htm)
+
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026092835/0001213900-26-092835-index.htm)
 
 - **6-K** | The9 LTD  (NCTY)  (CIK 0001296774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1296774/000110465926099964/0001104659-26-099964-index.htm)
