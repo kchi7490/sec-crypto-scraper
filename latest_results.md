@@ -39,6 +39,9 @@
 - **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526361369/0001193125-26-361369-index.htm)
 
+- **S-3/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001132/0001731122-26-001132-index.htm)
+
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018558/0001999371-26-018558-index.htm)
 
@@ -53,6 +56,12 @@
 
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026092804/0001213900-26-092804-index.htm)
+
+- **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026093143/0001213900-26-093143-index.htm)
+
+- **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000110465926100370/0001104659-26-100370-index.htm)
 
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001708/0001771146-26-001708-index.htm)
