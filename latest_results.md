@@ -39,9 +39,15 @@
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826006671/0001683168-26-006671-index.htm)
 
+- **1-A POS** | Cardone Non Accredited Fund, LLC  (CIK 0001915521)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1915521/000147793226005246/0001477932-26-005246-index.htm)
+
 - **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926099932/0001104659-26-099932-index.htm)
 
 - **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926099933/0001104659-26-099933-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018549/0001999371-26-018549-index.htm)
 
