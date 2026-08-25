@@ -15,6 +15,9 @@
 - **424B3** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526363603/0001193125-26-363603-index.htm)
 
+- **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526364151/0001193125-26-364151-index.htm)
+
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526363557/0001193125-26-363557-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
 
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
