@@ -81,6 +81,9 @@
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026092804/0001213900-26-092804-index.htm)
 
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326012846/0000950103-26-012846-index.htm)
+
 - **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526364115/0001193125-26-364115-index.htm)
 
@@ -110,6 +113,12 @@
 
 - **1-A POS** | Cardone Non Accredited Fund, LLC  (CIK 0001915521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1915521/000147793226005246/0001477932-26-005246-index.htm)
+
+- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126019963/0002071691-26-019963-index.htm)
+
+- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126019972/0002071691-26-019972-index.htm)
 
 - **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926099932/0001104659-26-099932-index.htm)
