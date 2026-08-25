@@ -13,6 +13,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026092955/0001213900-26-092955-index.htm)
 
 - **424B3** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526364568/0001193125-26-364568-index.htm)
+
+- **424B3** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526363603/0001193125-26-363603-index.htm)
 
 - **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
@@ -27,11 +30,11 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
-
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm)
@@ -56,6 +59,9 @@
 
 - **N-CSR** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018558/0001999371-26-018558-index.htm)
+
+- **485BPOS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312526364550/0001193125-26-364550-index.htm)
 
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039970/0001493152-26-039970-index.htm)
