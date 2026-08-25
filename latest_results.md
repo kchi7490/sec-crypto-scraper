@@ -63,6 +63,9 @@
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026092804/0001213900-26-092804-index.htm)
 
+- **6-K** | BANK OF NOVA SCOTIA  (BNS)  (CIK 0000009631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/9631/000119312526364115/0001193125-26-364115-index.htm)
+
 - **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026093143/0001213900-26-093143-index.htm)
 
