@@ -39,6 +39,9 @@
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226039786/0001493152-26-039786-index.htm)
 
+- **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226039927/0001493152-26-039927-index.htm)
+
 - **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526361369/0001193125-26-361369-index.htm)
 
