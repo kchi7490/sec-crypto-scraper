@@ -27,6 +27,9 @@
 - **485BPOS** | BLACKROCK FINANCIAL INSTITUTIONS SERIES TRUST  (CIK 0000353281)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/353281/000119312526364632/0001193125-26-364632-index.htm)
 
+- **PREC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006720/0001683168-26-006720-index.htm)
+
 - **S-1** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526364151/0001193125-26-364151-index.htm)
 
@@ -78,17 +81,11 @@
 - **485BPOS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312526364550/0001193125-26-364550-index.htm)
 
-- **8-K** | Morgan Stanley Ethereum Trust  (MSSE)  (CIK 0002103976)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926100806/0001104659-26-100806-index.htm)
-
 - **8-K** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226039970/0001493152-26-039970-index.htm)
 
 - **DEF 14A** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026058611/0001628280-26-058611-index.htm)
-
-- **8-K** | Morgan Stanley Solana Trust  (MSOL)  (CIK 0002103547)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926100807/0001104659-26-100807-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026092835/0001213900-26-092835-index.htm)
@@ -129,17 +126,11 @@
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826006671/0001683168-26-006671-index.htm)
 
-- **NPORT-P/A** | BlackRock Funds V  (CIK 0001738078)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000207169126019899/0002071691-26-019899-index.htm)
-
 - **1-A POS** | Cardone Non Accredited Fund, LLC  (CIK 0001915521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1915521/000147793226005246/0001477932-26-005246-index.htm)
 
-- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126019963/0002071691-26-019963-index.htm)
-
-- **NPORT-P** | MFS MUNICIPAL SERIES TRUST  (CIK 0000751656)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/751656/000207169126019972/0002071691-26-019972-index.htm)
+- **NPORT-P/A** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000207169126019899/0002071691-26-019899-index.htm)
 
 - **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926099932/0001104659-26-099932-index.htm)
@@ -158,6 +149,9 @@
 
 - **N-PX** | Northern Lights Fund Trust IV  (CIK 0001644419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1644419/000158064226005641/0001580642-26-005641-index.htm)
+
+- **N-PX** | Global X Funds  (CIK 0001432353)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542826000181/0001135428-26-000181-index.htm)
 
 - **SCHEDULE 13G/A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926100294/0001104659-26-100294-index.htm)
