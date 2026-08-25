@@ -87,6 +87,9 @@
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001708/0001771146-26-001708-index.htm)
 
+- **N-PX** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526364348/0001193125-26-364348-index.htm)
+
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826006671/0001683168-26-006671-index.htm)
 
