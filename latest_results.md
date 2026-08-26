@@ -9,6 +9,9 @@
 - **8-K** | Hawkeye Digital, Inc.  (HWKE)  (CIK 0001750777)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826006694/0001683168-26-006694-index.htm)
 
+- **S-8** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026093594/0001213900-26-093594-index.htm)
+
 - **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926101035/0001104659-26-101035-index.htm)
 
@@ -45,17 +48,17 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526361845/0001193125-26-361845-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
-
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926100805/0001104659-26-100805-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
 
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm)
@@ -143,6 +146,9 @@
 
 - **POS AMI** | ALLSPRING MASTER TRUST  (CIK 0001087961)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1087961/000108796126000005/0001087961-26-000005-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000419/0001081400-26-000419-index.htm)
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426015543/0001398344-26-015543-index.htm)
