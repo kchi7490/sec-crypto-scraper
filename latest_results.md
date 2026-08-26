@@ -96,6 +96,9 @@
 - **8-K** | Morgan Stanley Solana Trust  (MSOL)  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926100807/0001104659-26-100807-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026093742/0001213900-26-093742-index.htm)
+
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026092835/0001213900-26-092835-index.htm)
 
