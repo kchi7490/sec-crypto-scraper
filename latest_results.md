@@ -45,17 +45,17 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526361845/0001193125-26-361845-index.htm)
 
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
-
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926100805/0001104659-26-100805-index.htm)
 
-- **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
+
+- **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm)
@@ -104,6 +104,9 @@
 
 - **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226040046/0001493152-26-040046-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526365784/0001193125-26-365784-index.htm)
 
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026092804/0001213900-26-092804-index.htm)
