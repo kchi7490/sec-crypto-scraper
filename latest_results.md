@@ -48,11 +48,11 @@
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926100805/0001104659-26-100805-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
-
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm)
@@ -167,6 +167,9 @@
 
 - **N-PX** | Global X Funds  (CIK 0001432353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1432353/000113542826000181/0001135428-26-000181-index.htm)
+
+- **SCHEDULE 13D/A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026093678/0001213900-26-093678-index.htm)
 
 - **SCHEDULE 13G/A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926100294/0001104659-26-100294-index.htm)
