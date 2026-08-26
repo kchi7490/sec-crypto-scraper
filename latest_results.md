@@ -45,20 +45,23 @@
 - **FWP** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526363557/0001193125-26-363557-index.htm)
 
+- **8-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026093966/0001213900-26-093966-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526361845/0001193125-26-361845-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
 
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926100805/0001104659-26-100805-index.htm)
 
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026058518/0001628280-26-058518-index.htm)
 
 - **8-K** | Hashdex Commodities Trust  (DEFI)  (CIK 0001985840)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985840/000121390026093020/0001213900-26-093020-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226039964/0001493152-26-039964-index.htm)
 
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm)
@@ -78,6 +81,15 @@
 - **485BPOS** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526361369/0001193125-26-361369-index.htm)
 
+- **8-K** | 21Shares Ethereum Staking ETF  (TETH)  (CIK 0001992508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026093968/0001213900-26-093968-index.htm)
+
+- **8-K** | 21Shares XRP ETF  (TOXR)  (CIK 0002028835)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028835/000121390026093987/0001213900-26-093987-index.htm)
+
+- **8-K** | 21Shares Solana Staking ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026093971/0001213900-26-093971-index.htm)
+
 - **S-3/A** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001132/0001731122-26-001132-index.htm)
 
@@ -87,6 +99,9 @@
 - **485BPOS** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000119312526364550/0001193125-26-364550-index.htm)
 
+- **S-1** | Velos Acquisition I Corp.  (VLOS, VLOSU, VLOSW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026094011/0001213900-26-094011-index.htm)
+
 - **8-K** | Morgan Stanley Ethereum Trust  (MSSE)  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926100806/0001104659-26-100806-index.htm)
 
@@ -95,6 +110,9 @@
 
 - **DEF 14A** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026058611/0001628280-26-058611-index.htm)
+
+- **424B3** | 21Shares Solana Staking ETF  (TSOL)  (CIK 0002028834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028834/000121390026094032/0001213900-26-094032-index.htm)
 
 - **424B3** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000119312526368276/0001193125-26-368276-index.htm)
@@ -144,11 +162,20 @@
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000110465926100370/0001104659-26-100370-index.htm)
 
+- **N-PX** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000218/0001710607-26-000218-index.htm)
+
+- **N-PX** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000220/0001710607-26-000220-index.htm)
+
 - **485BPOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626001708/0001771146-26-001708-index.htm)
 
 - **N-PX** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526364348/0001193125-26-364348-index.htm)
+
+- **N-PX** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000217/0001710607-26-000217-index.htm)
 
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826006671/0001683168-26-006671-index.htm)
@@ -188,6 +215,9 @@
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018549/0001999371-26-018549-index.htm)
+
+- **N-PX** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000219/0001710607-26-000219-index.htm)
 
 - **497** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018627/0001999371-26-018627-index.htm)
