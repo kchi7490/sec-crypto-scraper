@@ -96,6 +96,12 @@
 - **DEF 14A** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000162828026058611/0001628280-26-058611-index.htm)
 
+- **424B3** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000119312526368276/0001193125-26-368276-index.htm)
+
+- **8-K** | Franklin Solana Trust  (SOEZ)  (CIK 0002057388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2057388/000119312526368251/0001193125-26-368251-index.htm)
+
 - **8-K** | Morgan Stanley Solana Trust  (MSOL)  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926100807/0001104659-26-100807-index.htm)
 
@@ -125,6 +131,9 @@
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926100551/0001104659-26-100551-index.htm)
+
+- **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926101364/0001104659-26-101364-index.htm)
 
 - **6-K** | BANK OF MONTREAL /CAN/  (BMO, AIQD, AIQU, BERZ, BNKD, BNKU, BULZ, CARD, CARU, DULL, FLYD, FLYU, FNGD, FNGO, FNGS, FNGU, GDXD)  (CIK 0000927971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927971/000092797126000108/0000927971-26-000108-index.htm)
@@ -173,6 +182,9 @@
 
 - **DEFA14A** | NOVAGOLD RESOURCES INC  (NG)  (CIK 0001173420)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1173420/000110465926099933/0001104659-26-099933-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018760/0001999371-26-018760-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018549/0001999371-26-018549-index.htm)
