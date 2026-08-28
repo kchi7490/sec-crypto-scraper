@@ -18,6 +18,9 @@
 - **10-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/0001878848-26-000052-index.htm)
 
+- **10-Q/A** | QumulusAI, Inc.  (QMLS)  (CIK 0002084026)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2084026/000162828026059295/0001628280-26-059295-index.htm)
+
 - **8-K** | Titan Acquisition Corp.  (TACH, TACHU, TACHW)  (CIK 0002009183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2009183/000182912626009424/0001829126-26-009424-index.htm)
 
@@ -63,8 +66,14 @@
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/0001878848-26-000051-index.htm)
 
+- **8-K** | BITGO HOLDINGS, INC.  (BTGO)  (CIK 0001740604)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1740604/000174060426000056/0001740604-26-000056-index.htm)
+
 - **424B3** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226040334/0001493152-26-040334-index.htm)
+
+- **8-K** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226040492/0001493152-26-040492-index.htm)
 
 - **8-K** | 21Shares Ethereum Staking ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026093968/0001213900-26-093968-index.htm)
@@ -220,10 +229,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000094/0001020660-26-000094-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000095/0001020660-26-000095-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000098/0001020660-26-000098-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000098/0001020660-26-000098-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000095/0001020660-26-000095-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000097/0001020660-26-000097-index.htm)
@@ -233,6 +242,12 @@
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000096/0001020660-26-000096-index.htm)
+
+- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026094470/0001213900-26-094470-index.htm)
+
+- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026094469/0001213900-26-094469-index.htm)
 
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018760/0001999371-26-018760-index.htm)
@@ -257,4 +272,7 @@
 
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126018881/0001999371-26-018881-index.htm)
+
+- **N-PX** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000143893426002118/0001438934-26-002118-index.htm)
 
