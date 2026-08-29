@@ -205,13 +205,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035202/0000940400-26-035202-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035205/0000940400-26-035205-index.htm)
-
-- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035123/0000940400-26-035123-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035117/0000940400-26-035117-index.htm)
+
+- **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035205/0000940400-26-035205-index.htm)
 
 - **NPORT-P** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000094040026035138/0000940400-26-035138-index.htm)
@@ -250,10 +250,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000094/0001020660-26-000094-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000095/0001020660-26-000095-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000098/0001020660-26-000098-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000098/0001020660-26-000098-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000095/0001020660-26-000095-index.htm)
 
 - **NPORT-P** | NUVEEN MUNICIPAL TRUST/MA  (CIK 0001020660)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1020660/000102066026000097/0001020660-26-000097-index.htm)
