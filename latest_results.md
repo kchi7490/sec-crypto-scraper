@@ -9,6 +9,9 @@
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000065/0001805526-26-000065-index.htm)
 
+- **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
+
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226040758/0001493152-26-040758-index.htm)
 
@@ -51,6 +54,9 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000149315226040816/0001493152-26-040816-index.htm)
 
+- **6-K** | Yueda Digital Holding  (YDKG)  (CIK 0001413745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390026095864/0001213900-26-095864-index.htm)
+
 - **487** | FT 13170  (CIK 0002136511)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136511/000144554626006464/0001445546-26-006464-index.htm)
 
@@ -92,6 +98,9 @@
 
 - **485BPOS** | EMERGING MARKETS EQUITIES FUND INC  (CIK 0000794458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/794458/000005193126000866/0000051931-26-000866-index.htm)
+
+- **FWP** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000080/0001805526-26-000080-index.htm)
 
 - **N-PX** | CORNERSTONE ADVISORS ASSET MANAGEMENT, LLC  (CIK 0002044324)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044324/000204432426000007/0002044324-26-000007-index.htm)
