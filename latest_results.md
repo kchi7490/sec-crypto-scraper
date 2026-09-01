@@ -6,6 +6,9 @@
 - **S-1** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026095808/0001213900-26-095808-index.htm)
 
+- **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026096245/0001213900-26-096245-index.htm)
+
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000065/0001805526-26-000065-index.htm)
 
@@ -51,6 +54,9 @@
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826011907/0001133228-26-011907-index.htm)
 
+- **485APOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226005874/0001580642-26-005874-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000083/0001805526-26-000083-index.htm)
 
@@ -60,6 +66,9 @@
 - **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000149315226040816/0001493152-26-040816-index.htm)
 
+- **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526378541/0001193125-26-378541-index.htm)
+
 - **6-K** | Yueda Digital Holding  (YDKG)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390026095864/0001213900-26-095864-index.htm)
 
@@ -68,6 +77,9 @@
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
+
+- **10-Q** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000012/0002007691-26-000012-index.htm)
 
 - **487** | FT 13170  (CIK 0002136511)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136511/000144554626006464/0001445546-26-006464-index.htm)
@@ -89,6 +101,9 @@
 
 - **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226040777/0001493152-26-040777-index.htm)
+
+- **PRE 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426016339/0001398344-26-016339-index.htm)
 
 - **DEF 14A** | NEOS ETF Trust  (CIK 0001848758)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126019372/0001999371-26-019372-index.htm)
@@ -116,6 +131,12 @@
 
 - **FWP** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000080/0001805526-26-000080-index.htm)
+
+- **N-PX** | Keel Point, LLC  (CIK 0001386935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1386935/000138693526000005/0001386935-26-000005-index.htm)
+
+- **497** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126019477/0001999371-26-019477-index.htm)
 
 - **N-PX** | CORNERSTONE ADVISORS ASSET MANAGEMENT, LLC  (CIK 0002044324)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044324/000204432426000007/0002044324-26-000007-index.htm)
