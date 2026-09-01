@@ -51,6 +51,9 @@
 - **425** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005809/0001171843-26-005809-index.htm)
 
+- **S-1** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226041059/0001493152-26-041059-index.htm)
+
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826011907/0001133228-26-011907-index.htm)
 
