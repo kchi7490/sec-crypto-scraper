@@ -3,6 +3,12 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226040741/0001493152-26-040741-index.htm)
 
+- **S-1** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026095808/0001213900-26-095808-index.htm)
+
+- **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000065/0001805526-26-000065-index.htm)
+
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226040758/0001493152-26-040758-index.htm)
 
@@ -15,6 +21,9 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026059468/0001628280-26-059468-index.htm)
 
+- **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926029334/0001437749-26-029334-index.htm)
+
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000046/0001326380-26-000046-index.htm)
 
@@ -24,8 +33,14 @@
 - **F-1** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026095337/0001213900-26-095337-index.htm)
 
+- **8-K** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/0001171843-26-005808-index.htm)
+
 - **424B3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026095605/0001213900-26-095605-index.htm)
+
+- **425** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005809/0001171843-26-005809-index.htm)
 
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826011907/0001133228-26-011907-index.htm)
@@ -48,11 +63,17 @@
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426016294/0001888524-26-016294-index.htm)
 
+- **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026095786/0001213900-26-095786-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426016095/0001398344-26-016095-index.htm)
 
 - **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226040777/0001493152-26-040777-index.htm)
+
+- **DEF 14A** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000199937126019372/0001999371-26-019372-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426016091/0001398344-26-016091-index.htm)
@@ -74,4 +95,7 @@
 
 - **N-PX** | CORNERSTONE ADVISORS ASSET MANAGEMENT, LLC  (CIK 0002044324)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044324/000204432426000007/0002044324-26-000007-index.htm)
+
+- **N-PX** | Blackstone Alternative Investment Funds  (CIK 0001557794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1557794/000119312526376958/0001193125-26-376958-index.htm)
 
