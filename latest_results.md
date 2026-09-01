@@ -9,9 +9,6 @@
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000065/0001805526-26-000065-index.htm)
 
-- **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
-
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226040758/0001493152-26-040758-index.htm)
 
@@ -30,6 +27,9 @@
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000046/0001326380-26-000046-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526377583/0001193125-26-377583-index.htm)
+
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226040739/0001493152-26-040739-index.htm)
 
@@ -42,11 +42,17 @@
 - **424B3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026095605/0001213900-26-095605-index.htm)
 
+- **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
+
 - **425** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005809/0001171843-26-005809-index.htm)
 
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826011907/0001133228-26-011907-index.htm)
+
+- **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000083/0001805526-26-000083-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026095335/0001213900-26-095335-index.htm)
@@ -56,6 +62,12 @@
 
 - **6-K** | Yueda Digital Holding  (YDKG)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390026095864/0001213900-26-095864-index.htm)
+
+- **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000106299326004758/0001062993-26-004758-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
 
 - **487** | FT 13170  (CIK 0002136511)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136511/000144554626006464/0001445546-26-006464-index.htm)
