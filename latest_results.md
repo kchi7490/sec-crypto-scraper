@@ -9,6 +9,9 @@
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000065/0001805526-26-000065-index.htm)
 
+- **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
+
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226040758/0001493152-26-040758-index.htm)
 
@@ -41,9 +44,6 @@
 
 - **424B3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026095605/0001213900-26-095605-index.htm)
-
-- **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
 
 - **425** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005809/0001171843-26-005809-index.htm)
@@ -110,6 +110,9 @@
 
 - **485BPOS** | EMERGING MARKETS EQUITIES FUND INC  (CIK 0000794458)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/794458/000005193126000866/0000051931-26-000866-index.htm)
+
+- **N-CSRS** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000075691326000598/0000756913-26-000598-index.htm)
 
 - **FWP** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000080/0001805526-26-000080-index.htm)
