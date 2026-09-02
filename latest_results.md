@@ -78,6 +78,9 @@
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000106299326004758/0001062993-26-004758-index.htm)
 
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026096425/0001213900-26-096425-index.htm)
+
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
 
@@ -93,8 +96,14 @@
 - **497K** | BlackRock ETF Trust  (CIK 0001761055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1761055/000119312526376022/0001193125-26-376022-index.htm)
 
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/0001213900-26-096346-index.htm)
+
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426016294/0001888524-26-016294-index.htm)
+
+- **1-A POS** | MODE MOBILE, INC.  (CIK 0001748441)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226041122/0001493152-26-041122-index.htm)
 
 - **485APOS** | Bitwise Funds Trust  (CIK 0001928561)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928561/000121390026095786/0001213900-26-095786-index.htm)
