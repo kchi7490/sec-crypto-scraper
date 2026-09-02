@@ -63,6 +63,9 @@
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000083/0001805526-26-000083-index.htm)
 
+- **6-K** | Jianpu Technology Inc.  (AIJTY)  (CIK 0001713923)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1713923/000110465926104508/0001104659-26-104508-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026095335/0001213900-26-095335-index.htm)
 
@@ -74,6 +77,12 @@
 
 - **6-K** | Yueda Digital Holding  (YDKG)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390026095864/0001213900-26-095864-index.htm)
+
+- **6-K** | TFA Therapeutics, Inc.  (RAJAF)  (CIK 0001885680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1885680/000121390026096447/0001213900-26-096447-index.htm)
+
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026096455/0001213900-26-096455-index.htm)
 
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000106299326004758/0001062993-26-004758-index.htm)
@@ -98,6 +107,9 @@
 
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/0001213900-26-096346-index.htm)
+
+- **N-CSRS** | BlackRock Funds V  (CIK 0001738078)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738078/000173807826000011/0001738078-26-000011-index.htm)
 
 - **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426016294/0001888524-26-016294-index.htm)
