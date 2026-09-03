@@ -3,6 +3,9 @@
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826012150/0001133228-26-012150-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226041326/0001493152-26-041326-index.htm)
+
 - **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026096245/0001213900-26-096245-index.htm)
 
@@ -66,6 +69,9 @@
 - **6-K** | TFA Therapeutics, Inc.  (RAJAF)  (CIK 0001885680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885680/000121390026096447/0001213900-26-096447-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026096934/0001213900-26-096934-index.htm)
+
 - **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026096455/0001213900-26-096455-index.htm)
 
@@ -80,6 +86,9 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926029554/0001437749-26-029554-index.htm)
+
+- **6-K** | Mint Inc Ltd  (MIMI)  (CIK 0001998560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1998560/000121390026096936/0001213900-26-096936-index.htm)
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
