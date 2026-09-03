@@ -129,11 +129,11 @@
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326013570/0000950103-26-013570-index.htm)
 
-- **424B3** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000014/0002007691-26-000014-index.htm)
-
 - **10-Q** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000012/0002007691-26-000012-index.htm)
+
+- **424B3** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000014/0002007691-26-000014-index.htm)
 
 - **487** | FT 13171  (CIK 0002136513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136513/000144554626006490/0001445546-26-006490-index.htm)
