@@ -12,8 +12,14 @@
 - **8-K** | Four Leaf Acquisition Corp  (CIK 0001936255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/0001493152-26-041247-index.htm)
 
+- **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm)
+
 - **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
+
+- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026096903/0001213900-26-096903-index.htm)
 
 - **N-CSRS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826012131/0001133228-26-012131-index.htm)
@@ -51,6 +57,9 @@
 - **6-K** | REZOLVE AI PLC  (RZLV, RZLVW)  (CIK 0001920294)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920294/000119312526378541/0001193125-26-378541-index.htm)
 
+- **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926104924/0001104659-26-104924-index.htm)
+
 - **6-K** | Yueda Digital Holding  (YDKG)  (CIK 0001413745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413745/000121390026095864/0001213900-26-095864-index.htm)
 
@@ -65,6 +74,12 @@
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026096425/0001213900-26-096425-index.htm)
+
+- **6-K** | Cango Inc.  (CANG)  (CIK 0001725123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1725123/000149315226041303/0001493152-26-041303-index.htm)
+
+- **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926029554/0001437749-26-029554-index.htm)
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
