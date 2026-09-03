@@ -1,10 +1,22 @@
 ## 📁 Other Filings
 
+- **10-K** | Grayscale Bitcoin Cash Trust (BCH)  (BCHG)  (CIK 0001732409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732409/000119312526381856/0001193125-26-381856-index.htm)
+
+- **10-K** | Grayscale Litecoin Trust (LTC)  (LTCN)  (CIK 0001732406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1732406/000119312526381869/0001193125-26-381869-index.htm)
+
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826012150/0001133228-26-012150-index.htm)
 
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226041326/0001493152-26-041326-index.htm)
+
+- **10-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526381861/0001193125-26-381861-index.htm)
+
+- **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926029613/0001437749-26-029613-index.htm)
 
 - **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026096245/0001213900-26-096245-index.htm)
@@ -15,11 +27,20 @@
 - **8-K** | Four Leaf Acquisition Corp  (CIK 0001936255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/0001493152-26-041247-index.htm)
 
+- **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000121390026097287/0001213900-26-097287-index.htm)
+
+- **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526003839/0001185185-26-003839-index.htm)
+
 - **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm)
 
 - **PRER14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/0001683168-26-006845-index.htm)
+
+- **10-Q** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000223/0001412408-26-000223-index.htm)
 
 - **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026096903/0001213900-26-096903-index.htm)
@@ -101,6 +122,12 @@
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
+
+- **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326013568/0000950103-26-013568-index.htm)
+
+- **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326013570/0000950103-26-013570-index.htm)
 
 - **424B3** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000014/0002007691-26-000014-index.htm)
