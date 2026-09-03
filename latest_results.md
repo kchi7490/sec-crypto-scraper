@@ -27,6 +27,9 @@
 - **N-CSRS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826012131/0001133228-26-012131-index.htm)
 
+- **N-CSRS** | NEOS ETF Trust  (CIK 0001848758)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1848758/000113322826012198/0001133228-26-012198-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526377583/0001193125-26-377583-index.htm)
 
@@ -39,11 +42,17 @@
 - **424B5** | Sono Group N.V.  (SSM)  (CIK 0001840416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1840416/000117184326005852/0001171843-26-005852-index.htm)
 
+- **N-CSRS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826012187/0001133228-26-012187-index.htm)
+
 - **S-1** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226041059/0001493152-26-041059-index.htm)
 
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826012136/0001133228-26-012136-index.htm)
+
+- **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826012189/0001133228-26-012189-index.htm)
 
 - **485APOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226005874/0001580642-26-005874-index.htm)
@@ -93,11 +102,11 @@
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/0001213900-26-095923-index.htm)
 
-- **10-Q** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000012/0002007691-26-000012-index.htm)
-
 - **424B3** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000014/0002007691-26-000014-index.htm)
+
+- **10-Q** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000012/0002007691-26-000012-index.htm)
 
 - **487** | FT 13171  (CIK 0002136513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136513/000144554626006490/0001445546-26-006490-index.htm)
@@ -125,6 +134,12 @@
 
 - **PRE 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426016339/0001398344-26-016339-index.htm)
+
+- **N-CSRS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526381513/0001193125-26-381513-index.htm)
+
+- **N-CSRS** | BlackRock Funds IV  (CIK 0001738074)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738074/000119312526381500/0001193125-26-381500-index.htm)
 
 - **N-CSRS** | JOHN HANCOCK VARIABLE INSURANCE TRUST  (CIK 0000756913)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/756913/000075691326000598/0000756913-26-000598-index.htm)
