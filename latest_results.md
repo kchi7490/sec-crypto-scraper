@@ -66,6 +66,9 @@
 - **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826012189/0001133228-26-012189-index.htm)
 
+- **F-1/A** | Cumberland Farms Ltd  (CMBY)  (CIK 0002123232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm)
+
 - **S-4/A** | Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2000775/000182912626009732/0001829126-26-009732-index.htm)
 
@@ -95,9 +98,6 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926029554/0001437749-26-029554-index.htm)
-
-- **F-1/A** | Cumberland Farms Ltd  (CMBY)  (CIK 0002123232)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm)
 
 - **6-K** | Mint Inc Ltd  (MIMI)  (CIK 0001998560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1998560/000121390026096936/0001213900-26-096936-index.htm)
