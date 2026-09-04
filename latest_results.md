@@ -21,6 +21,9 @@
 - **8-K** | Data443 Risk Mitigation, Inc.  (ATDS)  (CIK 0001068689)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1068689/000149315226041246/0001493152-26-041246-index.htm)
 
+- **N-CSRS** | C1 Fund Inc.  (CFND)  (CIK 0002044327)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2044327/000110465926105394/0001104659-26-105394-index.htm)
+
 - **8-K** | Four Leaf Acquisition Corp  (CIK 0001936255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/0001493152-26-041247-index.htm)
 
@@ -41,6 +44,12 @@
 
 - **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026096903/0001213900-26-096903-index.htm)
+
+- **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226041476/0001493152-26-041476-index.htm)
+
+- **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002480/0000921895-26-002480-index.htm)
 
 - **N-CSRS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826012131/0001133228-26-012131-index.htm)
@@ -65,6 +74,18 @@
 
 - **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826012189/0001133228-26-012189-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000853/0001137360-26-000853-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000857/0001137360-26-000857-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000855/0001137360-26-000855-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000859/0001137360-26-000859-index.htm)
 
 - **F-1/A** | Cumberland Farms Ltd  (CMBY)  (CIK 0002123232)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm)
