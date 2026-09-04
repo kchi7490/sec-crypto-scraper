@@ -48,6 +48,9 @@
 - **S-4/A** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226041476/0001493152-26-041476-index.htm)
 
+- **424B3** | Enhanced Group Inc.  (ENHA)  (CIK 0001956439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956439/000119312526383613/0001193125-26-383613-index.htm)
+
 - **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002480/0000921895-26-002480-index.htm)
 
@@ -135,11 +138,17 @@
 - **487** | FT 13171  (CIK 0002136513)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136513/000144554626006490/0001445546-26-006490-index.htm)
 
+- **N-4/A** | PACIFIC LIFE INSURANCE CO  (CIK 0001080429)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080429/000110465926105460/0001104659-26-105460-index.htm)
+
 - **485APOS** | PACIFIC LIFE INSURANCE CO  (CIK 0001080429)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080429/000110465926104696/0001104659-26-104696-index.htm)
 
 - **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826012111/0001133228-26-012111-index.htm)
+
+- **N-CSR** | USCF ETF Trust  (CIK 0001597389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000203/0002071876-26-000203-index.htm)
 
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/0001213900-26-096346-index.htm)
