@@ -33,6 +33,9 @@
 - **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm)
 
+- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026097366/0001213900-26-097366-index.htm)
+
 - **10-Q** | Phreesia, Inc.  (PHR)  (CIK 0001412408)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412408/000141240826000223/0001412408-26-000223-index.htm)
 
@@ -63,6 +66,9 @@
 - **N-CSRS** | LOCORR INVESTMENT TRUST  (CIK 0001506768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506768/000113322826012189/0001133228-26-012189-index.htm)
 
+- **S-4/A** | Black Hawk Acquisition Corp  (BKHA, BKHAR, BKHAU)  (CIK 0002000775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000775/000182912626009732/0001829126-26-009732-index.htm)
+
 - **6-K** | Coincheck Group N.V.  (CNCK, CNCKW)  (CIK 0001913847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1913847/000162828026060085/0001628280-26-060085-index.htm)
 
@@ -89,6 +95,9 @@
 
 - **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000143774926029554/0001437749-26-029554-index.htm)
+
+- **F-1/A** | Cumberland Farms Ltd  (CMBY)  (CIK 0002123232)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm)
 
 - **6-K** | Mint Inc Ltd  (MIMI)  (CIK 0001998560)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1998560/000121390026096936/0001213900-26-096936-index.htm)
@@ -125,6 +134,9 @@
 
 - **1-A POS** | MODE MOBILE, INC.  (CIK 0001748441)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748441/000149315226041122/0001493152-26-041122-index.htm)
+
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426016576/0001398344-26-016576-index.htm)
 
 - **N-CSRS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526381513/0001193125-26-381513-index.htm)
