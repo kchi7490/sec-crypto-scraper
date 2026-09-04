@@ -15,6 +15,9 @@
 - **10-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526381861/0001193125-26-381861-index.htm)
 
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126019983/0001999371-26-019983-index.htm)
+
 - **10-K** | U S GLOBAL INVESTORS INC  (GROW)  (CIK 0000754811)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/754811/000143774926029613/0001437749-26-029613-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **S-1** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526003839/0001185185-26-003839-index.htm)
+
+- **PRE 14A** | Aldel Financial II Inc.  (ALDF, ALDFU, ALDFW)  (CIK 0002031561)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031561/000110465926105554/0001104659-26-105554-index.htm)
 
 - **DEFC14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/0001683168-26-006915-index.htm)
@@ -72,6 +78,9 @@
 - **N-CSRS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000113322826012187/0001133228-26-012187-index.htm)
 
+- **N-CSRS** | Advisor Managed Portfolios  (CIK 0001970751)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1970751/000113322826012335/0001133228-26-012335-index.htm)
+
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826012136/0001133228-26-012136-index.htm)
 
@@ -107,6 +116,9 @@
 
 - **6-K** | TFA Therapeutics, Inc.  (RAJAF)  (CIK 0001885680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1885680/000121390026096447/0001213900-26-096447-index.htm)
+
+- **S-8** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000110465926105541/0001104659-26-105541-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026096934/0001213900-26-096934-index.htm)
@@ -151,6 +163,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000203/0002071876-26-000203-index.htm)
 
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026097759/0001213900-26-097759-index.htm)
+
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/0001213900-26-096346-index.htm)
 
 - **N-CSRS** | BlackRock Funds V  (CIK 0001738078)  
@@ -167,6 +182,9 @@
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426016576/0001398344-26-016576-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526383792/0001193125-26-383792-index.htm)
 
 - **N-CSRS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526381513/0001193125-26-381513-index.htm)
