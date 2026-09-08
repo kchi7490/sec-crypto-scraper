@@ -9,21 +9,6 @@
 - **N-CSRS** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000113322826012357/0001133228-26-012357-index.htm)
 
-- **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526385317/0001193125-26-385317-index.htm)
-
-- **424B3** | Canary Staked TRX ETF  (TRXS)  (CIK 0002064768)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126020129/0001999371-26-020129-index.htm)
-
-- **F-1/A** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm)
-
-- **S-1** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226041808/0001493152-26-041808-index.htm)
-
-- **N-CSRS** | Grayscale Funds Trust  (CIK 0001976672)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322826012378/0001133228-26-012378-index.htm)
-
 - **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/0001876042-26-000267-index.htm)
 
@@ -39,11 +24,23 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226041699/0001493152-26-041699-index.htm)
 
+- **N-CSRS** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322826012378/0001133228-26-012378-index.htm)
+
 - **8-K** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000098/0001805526-26-000098-index.htm)
 
+- **F-1/A** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm)
+
+- **424B3** | Canary Staked TRX ETF  (TRXS)  (CIK 0002064768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126020129/0001999371-26-020129-index.htm)
+
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000050/0001326380-26-000050-index.htm)
+
+- **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526385317/0001193125-26-385317-index.htm)
 
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526384299/0001193125-26-384299-index.htm)
@@ -71,6 +68,9 @@
 
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
+
+- **S-1** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226041808/0001493152-26-041808-index.htm)
 
 - **1-A/A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626009890/0001829126-26-009890-index.htm)
