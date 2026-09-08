@@ -9,6 +9,21 @@
 - **N-CSRS** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000113322826012357/0001133228-26-012357-index.htm)
 
+- **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526385317/0001193125-26-385317-index.htm)
+
+- **424B3** | Canary Staked TRX ETF  (TRXS)  (CIK 0002064768)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126020129/0001999371-26-020129-index.htm)
+
+- **F-1/A** | BTC Digital Ltd.  (BTCT)  (CIK 0001796514)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm)
+
+- **S-1** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226041808/0001493152-26-041808-index.htm)
+
+- **N-CSRS** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322826012378/0001133228-26-012378-index.htm)
+
 - **8-K** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/0001876042-26-000267-index.htm)
 
@@ -42,6 +57,9 @@
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626001342/0001096906-26-001342-index.htm)
 
+- **8-K** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000119312526385301/0001193125-26-385301-index.htm)
+
 - **8-K** | Meshflow Acquisition Corp  (MESH, MESHU, MESHW)  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390026097901/0001213900-26-097901-index.htm)
 
@@ -53,6 +71,9 @@
 
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
+
+- **1-A/A** | Gratus Reserve V, LLC  (CIK 0002100527)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626009890/0001829126-26-009890-index.htm)
 
 - **497** | BNY Mellon Investment Funds VII, Inc.  (CIK 0000889169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/889169/000003014626000409/0000030146-26-000409-index.htm)
