@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226041713/0001493152-26-041713-index.htm)
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126020168/0001999371-26-020168-index.htm)
+
 - **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026097877/0001213900-26-097877-index.htm)
 
@@ -36,6 +39,9 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526384402/0001193125-26-384402-index.htm)
 
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526385908/0001193125-26-385908-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026060809/0001628280-26-060809-index.htm)
 
@@ -50,6 +56,9 @@
 
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026098132/0001213900-26-098132-index.htm)
+
+- **DEF 14C** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226041775/0001493152-26-041775-index.htm)
 
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000050/0001326380-26-000050-index.htm)
@@ -71,6 +80,9 @@
 
 - **8-K** | Meshflow Acquisition Corp  (MESH, MESHU, MESHW)  (CIK 0002081468)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081468/000121390026097901/0001213900-26-097901-index.htm)
+
+- **424B2** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526385965/0001193125-26-385965-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926029751/0001437749-26-029751-index.htm)
