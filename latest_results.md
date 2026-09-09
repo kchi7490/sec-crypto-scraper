@@ -93,6 +93,9 @@
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
 
+- **487** | FT 13175  (CIK 0002136860)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
+
 - **1-A/A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626009890/0001829126-26-009890-index.htm)
 
