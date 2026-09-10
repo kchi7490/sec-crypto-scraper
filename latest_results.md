@@ -12,11 +12,17 @@
 - **N-CSRS** | CYBER HORNET TRUST  (CIK 0001345125)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1345125/000113322826012357/0001133228-26-012357-index.htm)
 
+- **8-K** | Bitwise Dogecoin ETF  (BWOW)  (CIK 0002053791)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2053791/000119312526387903/0001193125-26-387903-index.htm)
+
 - **S-1/A** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026098438/0001213900-26-098438-index.htm)
 
 - **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526385317/0001193125-26-385317-index.htm)
+
+- **POS AM** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226042183/0001493152-26-042183-index.htm)
 
 - **424B3** | Canary Staked TRX ETF  (TRXS)  (CIK 0002064768)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064768/000199937126020129/0001999371-26-020129-index.htm)
@@ -36,6 +42,9 @@
 - **10-Q** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000055/0001326380-26-000055-index.htm)
 
+- **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026098823/0001213900-26-098823-index.htm)
+
 - **N-CSRS** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000113322826012378/0001133228-26-012378-index.htm)
 
@@ -44,6 +53,9 @@
 
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000096/0001805526-26-000096-index.htm)
+
+- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036126036136/0001140361-26-036136-index.htm)
 
 - **S-1** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000136/0001017386-26-000136-index.htm)
@@ -62,9 +74,6 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026060809/0001628280-26-060809-index.htm)
-
-- **POS AM** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226042183/0001493152-26-042183-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226041870/0001493152-26-041870-index.htm)
@@ -101,9 +110,6 @@
 
 - **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226005648/0000035402-26-005648-index.htm)
-
-- **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026098823/0001213900-26-098823-index.htm)
 
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626001342/0001096906-26-001342-index.htm)
@@ -191,9 +197,6 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326013652/0000950103-26-013652-index.htm)
-
-- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036126036136/0001140361-26-036136-index.htm)
 
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226041963/0001493152-26-041963-index.htm)
