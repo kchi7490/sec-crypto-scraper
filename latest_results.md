@@ -45,6 +45,9 @@
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000096/0001805526-26-000096-index.htm)
 
+- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036126036136/0001140361-26-036136-index.htm)
+
 - **S-1** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000136/0001017386-26-000136-index.htm)
 
@@ -123,11 +126,17 @@
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926105660/0001104659-26-105660-index.htm)
 
+- **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000162828026061240/0001628280-26-061240-index.htm)
+
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
 
 - **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001741/0001753926-26-001741-index.htm)
+
+- **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426004518/0001292814-26-004518-index.htm)
 
 - **487** | FT 13175  (CIK 0002136860)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
