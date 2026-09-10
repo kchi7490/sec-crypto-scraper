@@ -102,6 +102,9 @@
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626001342/0001096906-26-001342-index.htm)
 
+- **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626001344/0001096906-26-001344-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226005490/0001477932-26-005490-index.htm)
 
@@ -140,6 +143,12 @@
 
 - **487** | FT 13175  (CIK 0002136860)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
+
+- **485BPOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526387639/0001193125-26-387639-index.htm)
+
+- **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526387647/0001193125-26-387647-index.htm)
 
 - **1-A/A** | Gratus Reserve V, LLC  (CIK 0002100527)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626009890/0001829126-26-009890-index.htm)
