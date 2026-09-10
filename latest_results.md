@@ -45,9 +45,6 @@
 - **424B5** | DeFi Development Corp.  (DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000096/0001805526-26-000096-index.htm)
 
-- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036126036136/0001140361-26-036136-index.htm)
-
 - **S-1** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000136/0001017386-26-000136-index.htm)
 
@@ -65,6 +62,9 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026060809/0001628280-26-060809-index.htm)
+
+- **POS AM** | Osprey Bitcoin Trust  (OBTC)  (CIK 0001767057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1767057/000149315226042183/0001493152-26-042183-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226041870/0001493152-26-041870-index.htm)
@@ -90,6 +90,9 @@
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000050/0001326380-26-000050-index.htm)
 
+- **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119380526001214/0001193805-26-001214-index.htm)
+
 - **8-K** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000119312526384299/0001193125-26-384299-index.htm)
 
@@ -98,6 +101,9 @@
 
 - **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226005648/0000035402-26-005648-index.htm)
+
+- **F-1/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026098823/0001213900-26-098823-index.htm)
 
 - **1-A/A** | Global Interchange, Inc.  (CIK 0002083128)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083128/000109690626001342/0001096906-26-001342-index.htm)
@@ -132,6 +138,9 @@
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000162828026061240/0001628280-26-061240-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026098773/0001213900-26-098773-index.htm)
+
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
 
@@ -140,6 +149,9 @@
 
 - **6-K** | Nu Holdings Ltd.  (NU)  (CIK 0001691493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1691493/000129281426004518/0001292814-26-004518-index.htm)
+
+- **6-K** | Dynagas LNG Partners LP  (DLNG, DLNG-PA)  (CIK 0001578453)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1578453/000110465926106698/0001104659-26-106698-index.htm)
 
 - **487** | FT 13175  (CIK 0002136860)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
@@ -179,6 +191,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326013652/0000950103-26-013652-index.htm)
+
+- **8-K** | MERCADOLIBRE INC  (MELI)  (CIK 0001099590)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1099590/000114036126036136/0001140361-26-036136-index.htm)
 
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226041963/0001493152-26-041963-index.htm)
