@@ -48,6 +48,12 @@
 - **S-1** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000136/0001017386-26-000136-index.htm)
 
+- **10-K** | Gold.com, Inc.  (GOLD)  (CIK 0001591588)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591588/000119312526386799/0001193125-26-386799-index.htm)
+
+- **485APOS** | HSBC FUNDS  (CIK 0000798290)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/798290/000120677426000522/0001206774-26-000522-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526384402/0001193125-26-384402-index.htm)
 
@@ -74,6 +80,9 @@
 
 - **DEF 14C** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226041775/0001493152-26-041775-index.htm)
+
+- **S-1** | OLB GROUP, INC.  (OLB)  (CIK 0001314196)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1314196/000118518526003902/0001185185-26-003902-index.htm)
 
 - **8-K** | GameStop Corp.  (GME, GME-WT)  (CIK 0001326380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1326380/000132638026000050/0001326380-26-000050-index.htm)
@@ -105,6 +114,9 @@
 - **424B2** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526385965/0001193125-26-385965-index.htm)
 
+- **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926106504/0001104659-26-106504-index.htm)
+
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926029751/0001437749-26-029751-index.htm)
 
@@ -113,6 +125,9 @@
 
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026097811/0001213900-26-097811-index.htm)
+
+- **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001741/0001753926-26-001741-index.htm)
 
 - **487** | FT 13175  (CIK 0002136860)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
