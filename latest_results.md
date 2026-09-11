@@ -39,12 +39,6 @@
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526385908/0001193125-26-385908-index.htm)
 
-- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098971/0001213900-26-098971-index.htm)
-
-- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098973/0001213900-26-098973-index.htm)
-
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226041870/0001493152-26-041870-index.htm)
 
@@ -78,6 +72,9 @@
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926106504/0001104659-26-106504-index.htm)
 
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026099027/0001213900-26-099027-index.htm)
+
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000162828026061240/0001628280-26-061240-index.htm)
 
@@ -96,6 +93,9 @@
 - **487** | FT 13175  (CIK 0002136860)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136860/000144554626006689/0001445546-26-006689-index.htm)
 
+- **487** | FT 13177  (CIK 0002136867)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2136867/000144554626006721/0001445546-26-006721-index.htm)
+
 - **485BPOS** | AMERICAN GENERAL LIFE INSURANCE CO  (CIK 0000005108)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/5108/000119312526387639/0001193125-26-387639-index.htm)
 
@@ -105,11 +105,26 @@
 - **N-CEN** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000003540226005676/0000035402-26-005676-index.htm)
 
+- **N-CEN** | USCF ETF Trust  (CIK 0001597389)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000094040026036396/0000940400-26-036396-index.htm)
+
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526386395/0001193125-26-386395-index.htm)
 
+- **N-CEN** | Simplify Exchange Traded Funds  (CIK 0001810747)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000094040026036393/0000940400-26-036393-index.htm)
+
+- **N-CEN** | GraniteShares ETF Trust  (CIK 0001689873)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1689873/000104916926002596/0001049169-26-002596-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426016799/0001398344-26-016799-index.htm)
+
+- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098971/0001213900-26-098971-index.htm)
+
+- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098973/0001213900-26-098973-index.htm)
 
 - **10-Q** | Anixa Biosciences Inc  (ANIX)  (CIK 0000715446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/715446/000149315226041963/0001493152-26-041963-index.htm)
