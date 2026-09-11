@@ -39,6 +39,12 @@
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526385908/0001193125-26-385908-index.htm)
 
+- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098971/0001213900-26-098971-index.htm)
+
+- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026098973/0001213900-26-098973-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226041870/0001493152-26-041870-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **N-14 8C** | Apollo Debt Solutions BDC  (CIK 0001837532)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526386592/0001193125-26-386592-index.htm)
+
+- **424B2** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526388232/0001193125-26-388232-index.htm)
 
 - **424B2** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526385965/0001193125-26-385965-index.htm)
@@ -92,6 +101,9 @@
 
 - **485BPOS** | United States Life Insurance Co in the City of New York  (CIK 0001310558)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1310558/000119312526387647/0001193125-26-387647-index.htm)
+
+- **N-CEN** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000003540226005676/0000035402-26-005676-index.htm)
 
 - **N-CEN** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000119312526386395/0001193125-26-386395-index.htm)
