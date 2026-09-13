@@ -60,12 +60,6 @@
 - **424B2** | Oaktree Specialty Lending Corp  (OCSL)  (CIK 0001414932)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1414932/000119312526388232/0001193125-26-388232-index.htm)
 
-- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026099027/0001213900-26-099027-index.htm)
-
-- **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026099290/0001213900-26-099290-index.htm)
-
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926107048/0001104659-26-107048-index.htm)
 
@@ -74,6 +68,9 @@
 
 - **487** | FT 13177  (CIK 0002136867)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2136867/000144554626006721/0001445546-26-006721-index.htm)
+
+- **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026099027/0001213900-26-099027-index.htm)
 
 - **N-CEN** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000003540226005676/0000035402-26-005676-index.htm)
