@@ -6,6 +6,9 @@
 - **8-K** | AirJoule Technologies Corp.  (AIRJ, AIRJW)  (CIK 0001855474)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855474/000119312526389855/0001193125-26-389855-index.htm)
 
+- **424B3** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026099731/0001213900-26-099731-index.htm)
+
 - **POS AM** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026099452/0001213900-26-099452-index.htm)
 
@@ -24,6 +27,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226042479/0001493152-26-042479-index.htm)
 
+- **10-K** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326001253/0001079973-26-001253-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000107/0001805526-26-000107-index.htm)
 
@@ -35,4 +41,16 @@
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926107320/0001104659-26-107320-index.htm)
+
+- **F-10EF** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001757/0001753926-26-001757-index.htm)
+
+- **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026099658/0001213900-26-099658-index.htm)
+
+- **N-PX/A** | SA FUNDS INVESTMENT TRUST  (CIK 0001075065)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1075065/000120677426000527/0001206774-26-000527-index.htm)
+
+- **DEFA14A** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226042586/0001493152-26-042586-index.htm)
 
