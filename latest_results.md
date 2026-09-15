@@ -21,6 +21,9 @@
 - **485BPOS** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126020526/0001999371-26-020526-index.htm)
 
+- **F-3/A** | Metalpha Technology Holding Ltd  (MATH)  (CIK 0001682241)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682241/000121390026100112/0001213900-26-100112-index.htm)
+
 - **S-1** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226042707/0001493152-26-042707-index.htm)
 
