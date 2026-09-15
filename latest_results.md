@@ -15,6 +15,9 @@
 - **POS AM** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026099452/0001213900-26-099452-index.htm)
 
+- **S-1** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526391097/0001193125-26-391097-index.htm)
+
 - **DEF 14A** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390026099771/0001213900-26-099771-index.htm)
 
@@ -59,6 +62,15 @@
 
 - **F-10EF** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000175392626001757/0001753926-26-001757-index.htm)
+
+- **6-K** | Bitzero Holdings Inc.  (AIBZ)  (CIK 0002100457)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100457/000106299326004938/0001062993-26-004938-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004950/0001062993-26-004950-index.htm)
+
+- **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000003/0002135077-26-000003-index.htm)
 
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026099658/0001213900-26-099658-index.htm)
