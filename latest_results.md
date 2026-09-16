@@ -96,6 +96,9 @@
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026099913/0001213900-26-099913-index.htm)
 
+- **6-K** | Perpetuals.com Ltd  (PDC)  (CIK 0001944399)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1944399/000121390026100295/0001213900-26-100295-index.htm)
+
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026099476/0001213900-26-099476-index.htm)
 
