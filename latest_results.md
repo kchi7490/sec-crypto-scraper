@@ -60,8 +60,14 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026061682/0001628280-26-061682-index.htm)
 
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000078/0001074828-26-000078-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026099458/0001213900-26-099458-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004970/0001062993-26-004970-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226042479/0001493152-26-042479-index.htm)
@@ -101,6 +107,9 @@
 
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026099476/0001213900-26-099476-index.htm)
+
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026100361/0001213900-26-100361-index.htm)
 
 - **20-F** | Perpetuals.com Ltd  (PDC)  (CIK 0001944399)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1944399/000121390026100218/0001213900-26-100218-index.htm)
