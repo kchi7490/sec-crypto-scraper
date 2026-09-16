@@ -141,6 +141,9 @@
 - **485APOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026099658/0001213900-26-099658-index.htm)
 
+- **485BPOS** | METROPOLITAN LIFE INSURANCE CO  (CIK 0000937834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/937834/000119312526392969/0001193125-26-392969-index.htm)
+
 - **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826007129/0001683168-26-007129-index.htm)
 
