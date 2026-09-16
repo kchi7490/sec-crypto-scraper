@@ -6,6 +6,9 @@
 - **8-K** | Tianci International, Inc.  (CIIT)  (CIK 0001557798)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1557798/000168316826007173/0001683168-26-007173-index.htm)
 
+- **8-K/A** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526004070/0001185185-26-004070-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/0001683168-26-007172-index.htm)
 
@@ -17,6 +20,9 @@
 
 - **S-1/A** | Canary Staked SEI ETF  (CIK 0002066353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066353/000199937126020568/0001999371-26-020568-index.htm)
+
+- **S-1/A** | Bitwise NEAR ETF  (CIK 0002067111)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000119312526393240/0001193125-26-393240-index.htm)
 
 - **8-K/A** | House of Doge Inc.  (HODO)  (CIK 0001903595)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026099794/0001213900-26-099794-index.htm)
@@ -63,14 +69,23 @@
 - **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000078/0001074828-26-000078-index.htm)
 
+- **DFAN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm)
+
 - **8-K** | Sphere 3D Corp.  (ANY)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026099458/0001213900-26-099458-index.htm)
 
 - **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004970/0001062993-26-004970-index.htm)
 
+- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100601/0001213900-26-100601-index.htm)
+
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226042479/0001493152-26-042479-index.htm)
+
+- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100604/0001213900-26-100604-index.htm)
 
 - **8-K** | Z Squared Inc.  (ZSQR)  (CIK 0001759186)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1759186/000118518526003984/0001185185-26-003984-index.htm)
@@ -83,6 +98,12 @@
 
 - **8-K/A** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926030466/0001437749-26-030466-index.htm)
+
+- **SCHEDULE 13D** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm)
+
+- **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926030554/0001437749-26-030554-index.htm)
 
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226005580/0001477932-26-005580-index.htm)
@@ -98,6 +119,12 @@
 
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026099448/0001213900-26-099448-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026100537/0001213900-26-100537-index.htm)
+
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000121390026100514/0001213900-26-100514-index.htm)
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026099913/0001213900-26-099913-index.htm)
@@ -131,6 +158,9 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326004950/0001062993-26-004950-index.htm)
+
+- **10-Q/A** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526004069/0001185185-26-004069-index.htm)
 
 - **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000003/0002135077-26-000003-index.htm)
