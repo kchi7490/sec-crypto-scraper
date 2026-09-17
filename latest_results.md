@@ -39,6 +39,30 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000887/0001137360-26-000887-index.htm)
 
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000078/0001074828-26-000078-index.htm)
+
+- **DFAN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm)
+
+- **8-K** | HIVE Digital Technologies Ltd.  (HIVE)  (CIK 0001720424)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1720424/000106299326004970/0001062993-26-004970-index.htm)
+
+- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100601/0001213900-26-100601-index.htm)
+
+- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100604/0001213900-26-100604-index.htm)
+
+- **8-K/A** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926030466/0001437749-26-030466-index.htm)
+
+- **SCHEDULE 13D** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm)
+
+- **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926030554/0001437749-26-030554-index.htm)
+
 - **8-K** | UPEXI, INC.  (UPXI)  (CIK 0001775194)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1775194/000147793226005618/0001477932-26-005618-index.htm)
 
@@ -84,15 +108,6 @@
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004027/0001185185-26-004027-index.htm)
 
-- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100601/0001213900-26-100601-index.htm)
-
-- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026100604/0001213900-26-100604-index.htm)
-
-- **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926030554/0001437749-26-030554-index.htm)
-
 - **485BPOS** | METROPOLITAN LIFE INSURANCE CO  (CIK 0000937834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/937834/000119312526392969/0001193125-26-392969-index.htm)
 
@@ -101,12 +116,6 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326013996/0000950103-26-013996-index.htm)
-
-- **DFAN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm)
-
-- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000078/0001074828-26-000078-index.htm)
 
 - **SCHEDULE 13G** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000189422526000005/0001894225-26-000005-index.htm)
