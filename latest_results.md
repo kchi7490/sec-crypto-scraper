@@ -117,8 +117,14 @@
 - **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000003/0002135077-26-000003-index.htm)
 
+- **487** | FT 13180  (CIK 0002139680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2139680/000144554626006843/0001445546-26-006843-index.htm)
+
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004027/0001185185-26-004027-index.htm)
+
+- **485BPOS** | METROPOLITAN LIFE INSURANCE CO  (CIK 0000937834)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/937834/000119312526394100/0001193125-26-394100-index.htm)
 
 - **485BPOS** | METROPOLITAN LIFE INSURANCE CO  (CIK 0000937834)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/937834/000119312526392969/0001193125-26-392969-index.htm)
@@ -128,6 +134,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326013996/0000950103-26-013996-index.htm)
+
+- **N-2/A** | AB Tax-Aware Credit Opportunities Fund  (CIK 0002132363)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2132363/000119312526394237/0001193125-26-394237-index.htm)
 
 - **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026100755/0001213900-26-100755-index.htm)
