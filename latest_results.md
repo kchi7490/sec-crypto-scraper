@@ -42,6 +42,9 @@
 - **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000078/0001074828-26-000078-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526393758/0001193125-26-393758-index.htm)
+
 - **DFAN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/0000921895-26-002561-index.htm)
 
@@ -59,6 +62,9 @@
 
 - **SCHEDULE 13D** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm)
+
+- **485BPOS** | Exchange Listed Funds Trust  (CIK 0001547950)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1547950/000121390026100616/0001213900-26-100616-index.htm)
 
 - **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926030554/0001437749-26-030554-index.htm)
