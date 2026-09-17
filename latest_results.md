@@ -9,6 +9,9 @@
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/0001683168-26-007172-index.htm)
 
+- **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226043055/0001493152-26-043055-index.htm)
+
 - **S-1/A** | Canary Staked SEI ETF  (CIK 0002066353)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2066353/000199937126020568/0001999371-26-020568-index.htm)
 
@@ -59,6 +62,9 @@
 
 - **8-K/A** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926030466/0001437749-26-030466-index.htm)
+
+- **8-K** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026100752/0001213900-26-100752-index.htm)
 
 - **SCHEDULE 13D** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm)
@@ -122,6 +128,9 @@
 
 - **424B2** | CITIGROUP INC  (C, C-PN, C-PR)  (CIK 0000831001)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326013996/0000950103-26-013996-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026100755/0001213900-26-100755-index.htm)
 
 - **SCHEDULE 13G** | AEVEX Corp.  (AVEX)  (CIK 0002096300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096300/000189422526000005/0001894225-26-000005-index.htm)
