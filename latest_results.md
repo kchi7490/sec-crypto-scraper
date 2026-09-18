@@ -3,11 +3,17 @@
 - **8-K/A** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526004070/0001185185-26-004070-index.htm)
 
+- **POS AM** | Bitwise Chainlink ETF  (CLNK)  (CIK 0002082889)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2082889/000121390026101332/0001213900-26-101332-index.htm)
+
 - **8-K** | Eightco Holdings Inc.  (ORBS)  (CIK 0001892492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1892492/000149315226043055/0001493152-26-043055-index.htm)
 
 - **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826007219/0001683168-26-007219-index.htm)
+
+- **POS AM** | Bitwise XRP ETF  (XRP)  (CIK 0002039525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039525/000121390026101333/0001213900-26-101333-index.htm)
 
 - **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526395068/0001193125-26-395068-index.htm)
@@ -35,6 +41,9 @@
 
 - **8-K** | KIDZ AI Inc.  (KIDZ, KIDZW)  (CIK 0002022308)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2022308/000147793226005667/0001477932-26-005667-index.htm)
+
+- **S-1** | NSCALE Ltd  (CIK 0002110365)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/0001193125-26-395475-index.htm)
 
 - **S-4/A** | Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077033/000149315226043206/0001493152-26-043206-index.htm)
@@ -116,6 +125,9 @@
 
 - **FWP** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004120/0001185185-26-004120-index.htm)
+
+- **253G2** | Gratus Reserve V, LLC  (CIK 0002100527)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2100527/000182912626010229/0001829126-26-010229-index.htm)
 
 - **ABS-15G** | Santander Bank, N.A.  (CIK 0002058366)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2058366/000110465926108782/0001104659-26-108782-index.htm)
