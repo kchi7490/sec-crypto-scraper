@@ -27,18 +27,21 @@
 - **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026101614/0001213900-26-101614-index.htm)
 
+- **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000109/0001805526-26-000109-index.htm)
+
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000897/0001279569-26-000897-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026101676/0001213900-26-101676-index.htm)
 
+- **POS EX** | Calamos ETF Trust  (CIK 0001579881)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000110465926109248/0001104659-26-109248-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026101668/0001213900-26-101668-index.htm)
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007239/0001683168-26-007239-index.htm)
-
-- **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000109/0001805526-26-000109-index.htm)
 
