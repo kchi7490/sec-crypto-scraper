@@ -63,6 +63,9 @@
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026101676/0001213900-26-101676-index.htm)
 
+- **18-K** | REPUBLIC OF TURKEY  (CIK 0000869687)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/869687/000119312526397591/0001193125-26-397591-index.htm)
+
 - **6-K** | Aurora Mobile Ltd  (JG)  (CIK 0001737339)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737339/000110465926109433/0001104659-26-109433-index.htm)
 
@@ -77,6 +80,9 @@
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007239/0001683168-26-007239-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017281/0001398344-26-017281-index.htm)
 
 - **10-Q** | SPARTA COMMERCIAL SERVICES, INC.  (SRCO)  (CIK 0000318299)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/318299/000149315226043595/0001493152-26-043595-index.htm)
