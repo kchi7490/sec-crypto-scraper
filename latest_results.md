@@ -24,6 +24,9 @@
 - **S-3/A** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026101559/0001213900-26-101559-index.htm)
 
+- **10-Q** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043748/0001493152-26-043748-index.htm)
+
 - **10-K** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043608/0001493152-26-043608-index.htm)
 
@@ -77,6 +80,12 @@
 
 - **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326005042/0001062993-26-005042-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026102186/0001213900-26-102186-index.htm)
+
+- **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826012693/0001133228-26-012693-index.htm)
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007239/0001683168-26-007239-index.htm)
