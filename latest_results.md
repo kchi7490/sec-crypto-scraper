@@ -21,11 +21,17 @@
 - **424B5** | Digital Currency X Technology Inc.  (DCX)  (CIK 0001957413)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1957413/000149315226043493/0001493152-26-043493-index.htm)
 
+- **S-4/A** | Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/0001185185-26-004213-index.htm)
+
 - **S-3/A** | FARADAY FUTURE INTELLIGENT ELECTRIC INC.  (FFAI)  (CIK 0001805521)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805521/000121390026101559/0001213900-26-101559-index.htm)
 
 - **10-Q** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043748/0001493152-26-043748-index.htm)
+
+- **1-A/A** | Naoris Quantum Protocol Inc.  (CIK 0002145466)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2145466/000121390026102289/0001213900-26-102289-index.htm)
 
 - **10-K** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043608/0001493152-26-043608-index.htm)
