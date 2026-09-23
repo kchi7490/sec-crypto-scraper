@@ -45,17 +45,17 @@
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026101784/0001213900-26-101784-index.htm)
 
+- **497** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000918/0001137360-26-000918-index.htm)
+
+- **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000917/0001137360-26-000917-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526396093/0001193125-26-396093-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026062806/0001628280-26-062806-index.htm)
-
-- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526398574/0001193125-26-398574-index.htm)
-
-- **8-K** | Cuentas Inc.  (CUEN, CUENW)  (CIK 0001424657)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1424657/000121390026102445/0001213900-26-102445-index.htm)
 
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/0001185185-26-004183-index.htm)
