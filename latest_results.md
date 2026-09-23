@@ -87,6 +87,9 @@
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826012693/0001133228-26-012693-index.htm)
 
+- **1-A POS** | RYSE Inc.  (CIK 0001824930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007239/0001683168-26-007239-index.htm)
+
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017281/0001398344-26-017281-index.htm)
 
