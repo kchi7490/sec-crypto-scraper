@@ -33,6 +33,9 @@
 - **1-A/A** | Naoris Quantum Protocol Inc.  (CIK 0002145466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2145466/000121390026102289/0001213900-26-102289-index.htm)
 
+- **10-K/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000142/0001017386-26-000142-index.htm)
+
 - **10-K** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043608/0001493152-26-043608-index.htm)
 
@@ -47,6 +50,12 @@
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026062806/0001628280-26-062806-index.htm)
+
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526398574/0001193125-26-398574-index.htm)
+
+- **8-K** | Cuentas Inc.  (CUEN, CUENW)  (CIK 0001424657)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1424657/000121390026102445/0001213900-26-102445-index.htm)
 
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/0001185185-26-004183-index.htm)
@@ -65,6 +74,12 @@
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000897/0001279569-26-000897-index.htm)
+
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126037396/0001140361-26-037396-index.htm)
+
+- **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126037395/0001140361-26-037395-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026101973/0001213900-26-101973-index.htm)
@@ -95,6 +110,9 @@
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007239/0001683168-26-007239-index.htm)
+
+- **N-CEN/A** | Simplify Exchange Traded Funds  (CIK 0001810747)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000094040026037960/0000940400-26-037960-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017281/0001398344-26-017281-index.htm)
