@@ -9,11 +9,17 @@
 - **S-4/A** | Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/0001185185-26-004213-index.htm)
 
+- **10-K** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000149315226044008/0001493152-26-044008-index.htm)
+
 - **10-Q** | AIRWA INC.  (YYAI)  (CIK 0001674440)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1674440/000149315226043748/0001493152-26-043748-index.htm)
 
 - **10-K** | 21Shares Hyperliquid Staking ETF  (THYP)  (CIK 0002090011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026102705/0001213900-26-102705-index.htm)
+
+- **424B3** | 21Shares Hyperliquid Staking ETF  (THYP)  (CIK 0002090011)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026102743/0001213900-26-102743-index.htm)
 
 - **1-A/A** | Naoris Quantum Protocol Inc.  (CIK 0002145466)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2145466/000121390026102289/0001213900-26-102289-index.htm)
@@ -24,8 +30,14 @@
 - **10-12G/A** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926110028/0001104659-26-110028-index.htm)
 
+- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026102800/0001213900-26-102800-index.htm)
+
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000918/0001137360-26-000918-index.htm)
+
+- **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026102806/0001213900-26-102806-index.htm)
 
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000917/0001137360-26-000917-index.htm)
@@ -57,11 +69,17 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026101973/0001213900-26-101973-index.htm)
 
+- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026102774/0001213900-26-102774-index.htm)
+
 - **18-K** | REPUBLIC OF TURKEY  (CIK 0000869687)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/869687/000119312526397591/0001193125-26-397591-index.htm)
 
 - **6-K** | Aurora Mobile Ltd  (JG)  (CIK 0001737339)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737339/000110465926109433/0001104659-26-109433-index.htm)
+
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000110/0001383395-26-000110-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000108/0001383395-26-000108-index.htm)
