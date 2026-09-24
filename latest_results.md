@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226044159/0001493152-26-044159-index.htm)
+
 - **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007389/0001683168-26-007389-index.htm)
 
@@ -9,11 +12,17 @@
 - **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/0001999371-26-021228-index.htm)
 
+- **424B3** | Bitwise NEAR ETF  (NRR)  (CIK 0002067111)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000121390026103106/0001213900-26-103106-index.htm)
+
 - **424B5** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007369/0001683168-26-007369-index.htm)
 
 - **424B3** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526399511/0001193125-26-399511-index.htm)
+
+- **S-1/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226044195/0001493152-26-044195-index.htm)
 
 - **S-4/A** | Blockfusion Digital Infrastructure, Inc.  (BLDC)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/0001185185-26-004213-index.htm)
@@ -39,6 +48,9 @@
 - **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126021211/0001999371-26-021211-index.htm)
 
+- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026103083/0001213900-26-103083-index.htm)
+
 - **10-Q** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226044107/0001493152-26-044107-index.htm)
 
@@ -50,6 +62,9 @@
 
 - **497** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000918/0001137360-26-000918-index.htm)
+
+- **424B3** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026103103/0001213900-26-103103-index.htm)
 
 - **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026102806/0001213900-26-102806-index.htm)
@@ -120,8 +135,17 @@
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826007337/0001683168-26-007337-index.htm)
 
+- **485APOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000028/0001611331-26-000028-index.htm)
+
 - **1-A** | Nomyx Technology Labs Inc.  (CIK 0002065495)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2065495/000168316826007327/0001683168-26-007327-index.htm)
+
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021276/0001999371-26-021276-index.htm)
+
+- **485APOS** | REX ETF Trust  (CIK 0002043954)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/0001999371-26-021274-index.htm)
 
 - **N-CEN/A** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000094040026037960/0000940400-26-037960-index.htm)
@@ -131,9 +155,6 @@
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017281/0001398344-26-017281-index.htm)
-
-- **485APOS** | WisdomTree Trust  (CIK 0001350487)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926011922/0001214659-26-011922-index.htm)
 
 - **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000115/0001805526-26-000115-index.htm)
