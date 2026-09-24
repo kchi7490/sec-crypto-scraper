@@ -3,6 +3,12 @@
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926109463/0001104659-26-109463-index.htm)
 
+- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/0001999371-26-021228-index.htm)
+
+- **424B5** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007369/0001683168-26-007369-index.htm)
+
 - **424B3** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526399511/0001193125-26-399511-index.htm)
 
@@ -27,6 +33,12 @@
 - **10-K/A** | Securetech Innovations, Inc.  (SCTH)  (CIK 0001703157)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1703157/000101738626000142/0001017386-26-000142-index.htm)
 
+- **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126021211/0001999371-26-021211-index.htm)
+
+- **10-Q** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226044107/0001493152-26-044107-index.htm)
+
 - **10-12G/A** | Monroe Capital Asset-Backed Finance Company, LP  (CIK 0002125316)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2125316/000110465926110028/0001104659-26-110028-index.htm)
 
@@ -48,6 +60,9 @@
 - **8-K** | Cuentas Inc.  (CUEN, CUENW)  (CIK 0001424657)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1424657/000121390026102445/0001213900-26-102445-index.htm)
 
+- **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926031115/0001437749-26-031115-index.htm)
+
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/0001185185-26-004183-index.htm)
 
@@ -65,6 +80,9 @@
 
 - **6-K** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126037395/0001140361-26-037395-index.htm)
+
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026102904/0001213900-26-102904-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026101973/0001213900-26-101973-index.htm)
@@ -89,6 +107,9 @@
 
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026102186/0001213900-26-102186-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000331/0000945908-26-000331-index.htm)
 
 - **485BPOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826012693/0001133228-26-012693-index.htm)
