@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007389/0001683168-26-007389-index.htm)
+
 - **8-K** | CYPHERPUNK TECHNOLOGIES INC.  (CYPH)  (CIK 0001509745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1509745/000110465926109463/0001104659-26-109463-index.htm)
 
