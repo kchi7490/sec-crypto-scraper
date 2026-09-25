@@ -108,6 +108,21 @@
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000331/0000945908-26-000331-index.htm)
 
+- **486APOS** | ARK Venture Fund  (CIK 0001905088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026103407/0001213900-26-103407-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826012826/0001133228-26-012826-index.htm)
+
+- **485BPOS** | Manager Directed Portfolios  (CIK 0001359057)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1359057/000089418926025518/0000894189-26-025518-index.htm)
+
+- **NPORT-P** | T. Rowe Price Summit Municipal Funds, Inc.  (CIK 0000912029)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/912029/000109926326010116/0001099263-26-010116-index.htm)
+
+- **NPORT-P** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000207169126023303/0002071691-26-023303-index.htm)
+
 - **1-A/A** | GroEstate I, LLC  (CIK 0002082126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2082126/000168316826007337/0001683168-26-007337-index.htm)
 
@@ -123,8 +138,17 @@
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/0001999371-26-021274-index.htm)
 
+- **485BPOS** | BNY MELLON CALIFORNIA AMT-FREE MUNICIPAL BOND FUND, INC.  (CIK 0000720064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/720064/000003014626000418/0000030146-26-000418-index.htm)
+
+- **485BPOS** | BNY Mellon Sustainable U.S. Equity Fund, Inc.  (CIK 0000030167)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/30167/000003014626000416/0000030146-26-000416-index.htm)
+
 - **N-CEN/A** | Simplify Exchange Traded Funds  (CIK 0001810747)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1810747/000094040026037960/0000940400-26-037960-index.htm)
+
+- **NPORT-P** | BLACKROCK GLOBAL ALLOCATION FUND, INC.  (CIK 0000834237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/834237/000207169126023083/0002071691-26-023083-index.htm)
 
 - **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017341/0001398344-26-017341-index.htm)
