@@ -87,11 +87,17 @@
 - **8-K** | MARA Holdings, Inc.  (MARA)  (CIK 0001507605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1507605/000095014226002607/0000950142-26-002607-index.htm)
 
+- **8-K** | CLEANSPARK, INC.  (CLSK, CLSKW)  (CIK 0000827876)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/827876/000119312526402944/0001193125-26-402944-index.htm)
+
 - **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/0001185185-26-004321-index.htm)
 
 - **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/0001185185-26-004322-index.htm)
+
+- **PRE 14A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026103602/0001213900-26-103602-index.htm)
 
 - **PRE 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526401630/0001193125-26-401630-index.htm)
@@ -129,6 +135,9 @@
 - **486APOS** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026103407/0001213900-26-103407-index.htm)
 
+- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826012834/0001133228-26-012834-index.htm)
+
 - **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NEW YORK  (CIK 0000080019)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/80019/000113322826012844/0001133228-26-012844-index.htm)
 
@@ -146,6 +155,9 @@
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826012826/0001133228-26-012826-index.htm)
+
+- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826012836/0001133228-26-012836-index.htm)
 
 - **485BPOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000113322826012832/0001133228-26-012832-index.htm)
@@ -179,12 +191,6 @@
 
 - **485APOS** | REX ETF Trust  (CIK 0002043954)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/0001999371-26-021274-index.htm)
-
-- **485BPOS** | ALLIANZ LIFE OF NY VARIABLE ACCOUNT C  (CIK 0000845775)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/845775/000113322826012834/0001133228-26-012834-index.htm)
-
-- **485BPOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000113322826012836/0001133228-26-012836-index.htm)
 
 - **485BPOS** | BNY MELLON CALIFORNIA AMT-FREE MUNICIPAL BOND FUND, INC.  (CIK 0000720064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720064/000003014626000418/0000030146-26-000418-index.htm)
