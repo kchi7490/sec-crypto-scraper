@@ -75,6 +75,15 @@
 - **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926031115/0001437749-26-031115-index.htm)
 
+- **8-K** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/0001185185-26-004321-index.htm)
+
+- **425** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/0001185185-26-004322-index.htm)
+
+- **PRE 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526401630/0001193125-26-401630-index.htm)
+
 - **F-1/A** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000149315226043922/0001493152-26-043922-index.htm)
 
