@@ -1,55 +1,10 @@
 ## 📁 Other Filings
 
-- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226044159/0001493152-26-044159-index.htm)
-
-- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007389/0001683168-26-007389-index.htm)
-
-- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/0001999371-26-021228-index.htm)
-
-- **424B3** | Bitwise NEAR ETF  (NRR)  (CIK 0002067111)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2067111/000121390026103106/0001213900-26-103106-index.htm)
-
-- **424B5** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007369/0001683168-26-007369-index.htm)
-
-- **S-1/A** | FDCTECH, INC.  (FDCT)  (CIK 0001722731)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1722731/000149315226044195/0001493152-26-044195-index.htm)
-
 - **DEF 14A** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926031210/0001437749-26-031210-index.htm)
 
-- **10-K** | AtlasClear Holdings, Inc.  (ATCH, ATCHW)  (CIK 0001963088)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1963088/000149315226044008/0001493152-26-044008-index.htm)
-
-- **424B3** | 21Shares Hyperliquid Staking ETF  (THYP)  (CIK 0002090011)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2090011/000121390026102743/0001213900-26-102743-index.htm)
-
-- **485BPOS** | Tidal Trust IV  (CIK 0002043390)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043390/000199937126021211/0001999371-26-021211-index.htm)
-
-- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026103083/0001213900-26-103083-index.htm)
-
-- **10-Q** | Shuttle Pharmaceuticals Holdings, Inc.  (SHPH)  (CIK 0001757499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1757499/000149315226044107/0001493152-26-044107-index.htm)
-
 - **DEF 14A** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226044304/0001493152-26-044304-index.htm)
-
-- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026102800/0001213900-26-102800-index.htm)
-
-- **424B3** | GOWell Energy Technology  (GOW)  (CIK 0002097702)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2097702/000121390026103103/0001213900-26-103103-index.htm)
-
-- **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026102806/0001213900-26-102806-index.htm)
-
-- **8-K** | Teucrium Commodity Trust  (BTCK, CANE, CORN, SOYB, TAGS, WEAT)  (CIK 0001471824)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1471824/000143774926031115/0001437749-26-031115-index.htm)
 
 - **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926111003/0001104659-26-111003-index.htm)
@@ -75,20 +30,8 @@
 - **6-K** | BGIN BLOCKCHAIN Ltd  (BGIN)  (CIK 0001945565)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1945565/000121390026103511/0001213900-26-103511-index.htm)
 
-- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026102904/0001213900-26-102904-index.htm)
-
-- **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026102774/0001213900-26-102774-index.htm)
-
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026103516/0001213900-26-103516-index.htm)
-
-- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000110/0001383395-26-000110-index.htm)
-
-- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000331/0000945908-26-000331-index.htm)
 
 - **486APOS** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026103407/0001213900-26-103407-index.htm)
@@ -134,15 +77,6 @@
 
 - **NPORT-P** | Franklin Federal Tax Free Income Fund  (CIK 0000357310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/357310/000207169126023303/0002071691-26-023303-index.htm)
-
-- **485APOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000028/0001611331-26-000028-index.htm)
-
-- **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021276/0001999371-26-021276-index.htm)
-
-- **485APOS** | REX ETF Trust  (CIK 0002043954)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/0001999371-26-021274-index.htm)
 
 - **485BPOS** | BNY MELLON CALIFORNIA AMT-FREE MUNICIPAL BOND FUND, INC.  (CIK 0000720064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/720064/000003014626000418/0000030146-26-000418-index.htm)
