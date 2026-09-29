@@ -90,17 +90,35 @@
 - **20-F** | POWERBANK Corp  (PBK)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315226044636/0001493152-26-044636-index.htm)
 
+- **487** | FT 13186  (CIK 0002139695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2139695/000144554626007168/0001445546-26-007168-index.htm)
+
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004385/0001185185-26-004385-index.htm)
 
 - **485BPOS** | VALIC Co I  (CIK 0000719423)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/719423/000119312526405535/0001193125-26-405535-index.htm)
 
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426017936/0001888524-26-017936-index.htm)
+
 - **1-A** | Elf Labs, Inc  (CIK 0002019817)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019817/000149315226044545/0001493152-26-044545-index.htm)
 
 - **485BPOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000110465926111404/0001104659-26-111404-index.htm)
+
+- **497** | BNY Mellon Investment Funds VII, Inc.  (CIK 0000889169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/889169/000003014626000433/0000030146-26-000433-index.htm)
+
+- **497** | BNY Mellon Absolute Insight Funds, Inc.  (CIK 0001635295)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1635295/000003014626000434/0000030146-26-000434-index.htm)
+
+- **485APOS** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026104470/0001213900-26-104470-index.htm)
+
+- **485APOS** | Grayscale Funds Trust  (CIK 0001976672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026104464/0001213900-26-104464-index.htm)
 
 - **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826007445/0001683168-26-007445-index.htm)
