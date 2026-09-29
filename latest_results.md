@@ -60,11 +60,20 @@
 - **S-3** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226044640/0001493152-26-044640-index.htm)
 
+- **S-1/A** | Velos Acquisition I Corp.  (VLOS, VLOSU, VLOSW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026104746/0001213900-26-104746-index.htm)
+
+- **8-K** | VanEck BNB ETF  (VBNB)  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000206682426000020/0002066824-26-000020-index.htm)
+
 - **10-K** | Invest Acquisition Corp  (CIK 0001857410)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1857410/000182912626010437/0001829126-26-010437-index.htm)
 
 - **1-A/A** | DOC.COM INC.  (CIK 0001925674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1925674/000149315226044670/0001493152-26-044670-index.htm)
+
+- **485BPOS** | Corgi ETF Trust I  (CIK 0002078265)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000415/0002078265-26-000415-index.htm)
 
 - **10-Q** | Robinhood Ventures Fund II  (RVII)  (CIK 0002131040)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2131040/000213104026000008/0002131040-26-000008-index.htm)
@@ -75,17 +84,29 @@
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926111154/0001104659-26-111154-index.htm)
 
+- **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315226044872/0001493152-26-044872-index.htm)
+
 - **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026103674/0001213900-26-103674-index.htm)
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926111204/0001104659-26-111204-index.htm)
 
+- **6-K** | Baiya International Group Inc.  (BIYA)  (CIK 0001944712)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1944712/000121390026104687/0001213900-26-104687-index.htm)
+
+- **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026104638/0001213900-26-104638-index.htm)
+
 - **6-K** | AIFU Inc.  (AIFU)  (CIK 0001413855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413855/000121390026104346/0001213900-26-104346-index.htm)
 
 - **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226044455/0001493152-26-044455-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026104649/0001213900-26-104649-index.htm)
 
 - **20-F** | POWERBANK Corp  (PBK)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315226044636/0001493152-26-044636-index.htm)
@@ -108,6 +129,9 @@
 - **485BPOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000110465926111404/0001104659-26-111404-index.htm)
 
+- **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226044901/0001493152-26-044901-index.htm)
+
 - **497** | BNY Mellon Investment Funds VII, Inc.  (CIK 0000889169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/889169/000003014626000433/0000030146-26-000433-index.htm)
 
@@ -117,6 +141,9 @@
 - **485APOS** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026104470/0001213900-26-104470-index.htm)
 
+- **497** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426017543/0001398344-26-017543-index.htm)
+
 - **485APOS** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026104464/0001213900-26-104464-index.htm)
 
@@ -125,4 +152,7 @@
 
 - **485BPOS** | SEI INSTITUTIONAL INVESTMENTS TRUST  (CIK 0000939934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/939934/000110465926111401/0001104659-26-111401-index.htm)
+
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526407758/0001193125-26-407758-index.htm)
 
