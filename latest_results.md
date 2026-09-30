@@ -6,6 +6,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226045027/0001493152-26-045027-index.htm)
 
+- **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026105231/0001213900-26-105231-index.htm)
+
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226044459/0001493152-26-044459-index.htm)
 
@@ -29,6 +32,9 @@
 
 - **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526408382/0001193125-26-408382-index.htm)
+
+- **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000161085326000008/0001610853-26-000008-index.htm)
 
 - **10-K** | Exascale Labs Holdings Inc.  (XLAB, XLABW)  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626010462/0001829126-26-010462-index.htm)
@@ -75,6 +81,12 @@
 - **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026104882/0001213900-26-104882-index.htm)
 
+- **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226045101/0001493152-26-045101-index.htm)
+
+- **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026105249/0001213900-26-105249-index.htm)
+
 - **S-3** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226044640/0001493152-26-044640-index.htm)
 
@@ -102,8 +114,14 @@
 - **8-K** | Marygold Companies, Inc.  (MGLD)  (CIK 0001005101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1005101/000149315226044491/0001493152-26-044491-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000933/0001137360-26-000933-index.htm)
+
 - **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926111154/0001104659-26-111154-index.htm)
+
+- **424B5** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000161085326000010/0001610853-26-000010-index.htm)
 
 - **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315226044872/0001493152-26-044872-index.htm)
@@ -116,6 +134,9 @@
 
 - **6-K** | Amber International Holding Ltd  (AMBR)  (CIK 0001697818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1697818/000110465926111204/0001104659-26-111204-index.htm)
+
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/0001213900-26-105356-index.htm)
 
 - **6-K** | SAIHEAT Ltd  (SAIH, SAIHW)  (CIK 0001847075)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847075/000121390026104816/0001213900-26-104816-index.htm)
@@ -143,6 +164,9 @@
 
 - **20-F** | POWERBANK Corp  (PBK)  (CIK 0002011053)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011053/000149315226044636/0001493152-26-044636-index.htm)
+
+- **6-K** | NFT Ltd  (MI)  (CIK 0001958713)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1958713/000121390026105247/0001213900-26-105247-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000932/0001279569-26-000932-index.htm)
