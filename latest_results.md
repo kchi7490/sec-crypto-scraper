@@ -171,6 +171,9 @@
 - **485BPOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000110465926111404/0001104659-26-111404-index.htm)
 
+- **1-A** | Altivera Vision Inc.  (CIK 0002154249)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2154249/000149315226045076/0001493152-26-045076-index.htm)
+
 - **1-A/A** | POWERLINK DIGITAL PARTNERS I, INC.  (CIK 0002037971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2037971/000149315226044901/0001493152-26-044901-index.htm)
 
@@ -191,6 +194,9 @@
 
 - **N-CSR** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000110465926112173/0001104659-26-112173-index.htm)
+
+- **485BPOS** | INCOME FUND OF AMERICA  (CIK 0000050013)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/50013/000005193126000957/0000051931-26-000957-index.htm)
 
 - **DEFA14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826007445/0001683168-26-007445-index.htm)
