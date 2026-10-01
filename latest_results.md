@@ -12,6 +12,9 @@
 - **8-K** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012120/0001214659-26-012120-index.htm)
 
+- **424B3** | VanEck BNB ETF  (VBNB)  (CIK 0002066824)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2066824/000206682426000027/0002066824-26-000027-index.htm)
+
 - **8-K** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000119312526408382/0001193125-26-408382-index.htm)
 
@@ -21,11 +24,20 @@
 - **8-K** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012385/0001214659-26-012385-index.htm)
 
+- **8-K** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226045341/0001493152-26-045341-index.htm)
+
+- **8-K** | Forward Industries, Inc.  (FWDI)  (CIK 0000038264)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/38264/000168316826007543/0001683168-26-007543-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390026104294/0001213900-26-104294-index.htm)
 
 - **8-K** | AIxCrypto Holdings, Inc.  (AIXC)  (CIK 0001460702)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1460702/000149315226044666/0001493152-26-044666-index.htm)
+
+- **S-3** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926112851/0001104659-26-112851-index.htm)
 
 - **S-4** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/0001437749-26-031534-index.htm)
@@ -57,6 +69,9 @@
 - **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026105249/0001213900-26-105249-index.htm)
 
+- **485APOS** | BlackRock Strategic Global Bond Fund, Inc.  (CIK 0000835620)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/835620/000119312526410724/0001193125-26-410724-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/0001214659-26-012236-index.htm)
 
@@ -84,11 +99,20 @@
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000938/0001279569-26-000938-index.htm)
 
+- **6-K** | Brera Holdings PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026105906/0001213900-26-105906-index.htm)
+
+- **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026105684/0001213900-26-105684-index.htm)
+
 - **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315226044872/0001493152-26-044872-index.htm)
 
 - **6-K** | Lion Group Holding Ltd  (LGHL)  (CIK 0001806524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1806524/000121390026104925/0001213900-26-104925-index.htm)
+
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526410743/0001193125-26-410743-index.htm)
 
 - **6-K** | Wisekey International Holding S.A.  (WKEY, WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/0001213900-26-105356-index.htm)
@@ -111,11 +135,17 @@
 - **6-K** | AIFU Inc.  (AIFU)  (CIK 0001413855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1413855/000121390026104346/0001213900-26-104346-index.htm)
 
+- **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026105764/0001213900-26-105764-index.htm)
+
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026104649/0001213900-26-104649-index.htm)
 
 - **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226045257/0001493152-26-045257-index.htm)
+
+- **6-K** | Mega Matrix Inc  (MPU)  (CIK 0001953021)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1953021/000121390026105759/0001213900-26-105759-index.htm)
 
 - **6-K** | NFT Ltd  (MI)  (CIK 0001958713)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1958713/000121390026105247/0001213900-26-105247-index.htm)
@@ -176,6 +206,9 @@
 
 - **485BPOS** | INCOME FUND OF AMERICA  (CIK 0000050013)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50013/000005193126000957/0000051931-26-000957-index.htm)
+
+- **485BPOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126021839/0001999371-26-021839-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526407758/0001193125-26-407758-index.htm)
