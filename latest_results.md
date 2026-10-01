@@ -30,6 +30,9 @@
 - **S-4** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/0001437749-26-031534-index.htm)
 
+- **8-K** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226045296/0001493152-26-045296-index.htm)
+
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526408391/0001193125-26-408391-index.htm)
 
@@ -39,8 +42,17 @@
 - **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026104882/0001213900-26-104882-index.htm)
 
+- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226045263/0001493152-26-045263-index.htm)
+
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226045101/0001493152-26-045101-index.htm)
+
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000081/0001074828-26-000081-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526409863/0001193125-26-409863-index.htm)
 
 - **8-K** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026105249/0001213900-26-105249-index.htm)
@@ -68,6 +80,9 @@
 
 - **8-K** | INNOVATIVE INDUSTRIAL PROPERTIES INC  (IIPR, IIPR-PA)  (CIK 0001677576)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1677576/000110465926112568/0001104659-26-112568-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926000938/0001279569-26-000938-index.htm)
 
 - **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315226044872/0001493152-26-044872-index.htm)
@@ -99,20 +114,32 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026104649/0001213900-26-104649-index.htm)
 
+- **424B5** | Antelope Enterprise Holdings Ltd  (AEHL)  (CIK 0001470683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1470683/000149315226045257/0001493152-26-045257-index.htm)
+
 - **6-K** | NFT Ltd  (MI)  (CIK 0001958713)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1958713/000121390026105247/0001213900-26-105247-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000932/0001279569-26-000932-index.htm)
 
+- **6-K** | VersaBank  (VBNK)  (CIK 0001690639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690639/000106299326005127/0001062993-26-005127-index.htm)
+
 - **487** | FT 13186  (CIK 0002139695)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2139695/000144554626007168/0001445546-26-007168-index.htm)
+
+- **487** | FT 13240  (CIK 0002144019)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144019/000144554626007284/0001445546-26-007284-index.htm)
 
 - **FWP** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004415/0001185185-26-004415-index.htm)
 
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004385/0001185185-26-004385-index.htm)
+
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426018133/0001888524-26-018133-index.htm)
 
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426017936/0001888524-26-017936-index.htm)
@@ -131,6 +158,9 @@
 
 - **497** | BNY Mellon Absolute Insight Funds, Inc.  (CIK 0001635295)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1635295/000003014626000434/0000030146-26-000434-index.htm)
+
+- **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880426000019/0001688804-26-000019-index.htm)
 
 - **485APOS** | Grayscale Funds Trust  (CIK 0001976672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976672/000121390026104470/0001213900-26-104470-index.htm)
