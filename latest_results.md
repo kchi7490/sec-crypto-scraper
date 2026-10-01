@@ -18,6 +18,9 @@
 - **8-K** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000161085326000008/0001610853-26-000008-index.htm)
 
+- **8-K** | VerifyMe, Inc.  (VRME)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012385/0001214659-26-012385-index.htm)
+
 - **424B3** | Fold Holdings, Inc.  (FLD, FLDDW)  (CIK 0001889123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1889123/000121390026104294/0001213900-26-104294-index.htm)
 
@@ -62,6 +65,9 @@
 
 - **424B5** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000161085326000010/0001610853-26-000010-index.htm)
+
+- **8-K** | INNOVATIVE INDUSTRIAL PROPERTIES INC  (IIPR, IIPR-PA)  (CIK 0001677576)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1677576/000110465926112568/0001104659-26-112568-index.htm)
 
 - **6-K** | EUDA Health Holdings Ltd  (EUDA, EUDAW)  (CIK 0001847846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1847846/000149315226044872/0001493152-26-044872-index.htm)
