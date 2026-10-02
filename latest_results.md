@@ -27,11 +27,14 @@
 - **S-3** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926112851/0001104659-26-112851-index.htm)
 
-- **S-1/A** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004529/0001185185-26-004529-index.htm)
+- **S-1** | Arca Nova Acquisition Corp  (CIK 0002139831)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2139831/000121390026106185/0001213900-26-106185-index.htm)
 
 - **S-1/A** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004526/0001185185-26-004526-index.htm)
+
+- **S-1/A** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004529/0001185185-26-004529-index.htm)
 
 - **S-4** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000119312526410883/0001193125-26-410883-index.htm)
@@ -59,6 +62,9 @@
 
 - **8-K** | CIMG Inc.  (CIMG)  (CIK 0001527613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1527613/000149315226045101/0001493152-26-045101-index.htm)
+
+- **8-K/A** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026105957/0001213900-26-105957-index.htm)
 
 - **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000081/0001074828-26-000081-index.htm)
@@ -167,4 +173,7 @@
 
 - **485BPOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126021839/0001999371-26-021839-index.htm)
+
+- **485BPOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126021938/0001999371-26-021938-index.htm)
 
