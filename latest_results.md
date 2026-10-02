@@ -27,8 +27,20 @@
 - **S-3** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926112851/0001104659-26-112851-index.htm)
 
+- **S-1/A** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004529/0001185185-26-004529-index.htm)
+
+- **S-1/A** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004526/0001185185-26-004526-index.htm)
+
+- **S-4** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000119312526410883/0001193125-26-410883-index.htm)
+
 - **S-4** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/0001437749-26-031534-index.htm)
+
+- **485APOS** | EQ ADVISORS TRUST  (CIK 0001027263)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1027263/000119312526411332/0001193125-26-411332-index.htm)
 
 - **8-K** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226045296/0001493152-26-045296-index.htm)
@@ -66,6 +78,9 @@
 - **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026000933/0001137360-26-000933-index.htm)
 
+- **8-K** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926113050/0001104659-26-113050-index.htm)
+
 - **424B5** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000161085326000010/0001610853-26-000010-index.htm)
 
@@ -98,6 +113,9 @@
 
 - **424B4** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026104917/0001213900-26-104917-index.htm)
+
+- **20-F** | DRDGOLD LTD  (DRD, DRDGF)  (CIK 0001023512)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023512/000162828026064355/0001628280-26-064355-index.htm)
 
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026105764/0001213900-26-105764-index.htm)
@@ -132,11 +150,17 @@
 - **1-A** | Altivera Vision Inc.  (CIK 0002154249)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2154249/000149315226045076/0001493152-26-045076-index.htm)
 
+- **497** | BNY Mellon Investment Funds VII, Inc.  (CIK 0000889169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/889169/000003014626000447/0000030146-26-000447-index.htm)
+
 - **1-SA** | RSE Collection, LLC  (CIK 0001688804)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688804/000168880426000019/0001688804-26-000019-index.htm)
 
 - **N-CSR** | Calamos ETF Trust  (CIK 0001579881)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000110465926112173/0001104659-26-112173-index.htm)
+
+- **485BPOS** | Amplify ETF Trust  (CIK 0001633061)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633061/000121390026105931/0001213900-26-105931-index.htm)
 
 - **485BPOS** | INCOME FUND OF AMERICA  (CIK 0000050013)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/50013/000005193126000957/0000051931-26-000957-index.htm)
