@@ -90,6 +90,9 @@
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326015174/0000950103-26-015174-index.htm)
 
+- **487** | FT 13242  (CIK 0002144023)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144023/000144554626007309/0001445546-26-007309-index.htm)
+
 - **485BPOS** | Eaton Vance Special Investment Trust  (CIK 0000031266)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/31266/000113322826013109/0001133228-26-013109-index.htm)
 
