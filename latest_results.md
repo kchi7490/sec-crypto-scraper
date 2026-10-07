@@ -63,6 +63,9 @@
 - **424B3** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526414523/0001193125-26-414523-index.htm)
 
+- **10-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826007689/0001683168-26-007689-index.htm)
+
 - **F-1** | DayOne Data Centers Ltd  (CIK 0002118192)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2118192/000119312526414188/0001193125-26-414188-index.htm)
 
@@ -174,6 +177,9 @@
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326015174/0000950103-26-015174-index.htm)
 
+- **487** | FT 13243  (CIK 0002144024)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144024/000144554626007512/0001445546-26-007512-index.htm)
+
 - **487** | FT 13242  (CIK 0002144023)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144023/000144554626007309/0001445546-26-007309-index.htm)
 
@@ -182,6 +188,9 @@
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007639/0001683168-26-007639-index.htm)
+
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826102758/0001410368-26-102758-index.htm)
 
 - **485BPOS** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000073/0002040519-26-000073-index.htm)
