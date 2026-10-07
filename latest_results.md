@@ -1,6 +1,9 @@
 ## 📁 Other Filings
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226046088/0001493152-26-046088-index.htm)
+
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226045699/0001493152-26-045699-index.htm)
 
 - **8-K** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
@@ -17,6 +20,9 @@
 
 - **424B3** | Grayscale CoinDesk Crypto 5 ETF  (GDLC)  (CIK 0001729997)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1729997/000119312526414351/0001193125-26-414351-index.htm)
+
+- **8-K** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626010827/0001829126-26-010827-index.htm)
 
 - **S-1** | Winklevoss Zcash ETF  (CIK 0002158471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2158471/000110465926113940/0001104659-26-113940-index.htm)
@@ -63,14 +69,29 @@
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526413164/0001193125-26-413164-index.htm)
 
+- **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926114157/0001104659-26-114157-index.htm)
+
+- **8-K** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026107391/0001213900-26-107391-index.htm)
+
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526414991/0001193125-26-414991-index.htm)
+
+- **425** | Aperture AC  (APUR, APURR)  (CIK 0002093524)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2093524/000121390026107393/0001213900-26-107393-index.htm)
 
 - **SCHEDULE 13D** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026107258/0001213900-26-107258-index.htm)
 
 - **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000271/0001099910-26-000271-index.htm)
+
+- **8-K/A** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000272/0001099910-26-000272-index.htm)
+
+- **8-K** | AVAX ONE TECHNOLOGY LTD.  (AVX)  (CIK 0001826397)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1826397/000149315226046080/0001493152-26-046080-index.htm)
 
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026064758/0001628280-26-064758-index.htm)
@@ -99,11 +120,23 @@
 - **8-K** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000119312526414297/0001193125-26-414297-index.htm)
 
+- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226006357/0000035402-26-006357-index.htm)
+
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226006371/0000035402-26-006371-index.htm)
+
+- **N-MFP3** | FIDELITY REVERE STREET TRUST  (CIK 0001022695)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1022695/000003540226006372/0000035402-26-006372-index.htm)
+
 - **PRE 14A** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226045752/0001493152-26-045752-index.htm)
 
 - **DEF 14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526413159/0001193125-26-413159-index.htm)
+
+- **8-K** | Morgan Stanley Ethereum Trust  (MSSE)  (CIK 0002103976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926114156/0001104659-26-114156-index.htm)
 
 - **8-K** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226045722/0001493152-26-045722-index.htm)
@@ -111,8 +144,17 @@
 - **8-K** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926031972/0001437749-26-031972-index.htm)
 
+- **425** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626010829/0001829126-26-010829-index.htm)
+
 - **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926032232/0001437749-26-032232-index.htm)
+
+- **8-K** | Morgan Stanley Solana Trust  (MSOL)  (CIK 0002103547)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926114158/0001104659-26-114158-index.htm)
+
+- **8-K** | VanEck Solana ETF  (VSOL)  (CIK 0002028541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854126000009/0002028541-26-000009-index.htm)
 
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000125/0001805526-26-000125-index.htm)
