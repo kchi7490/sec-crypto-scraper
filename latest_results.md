@@ -75,6 +75,9 @@
 - **8-K** | Vulcan Infrastructure & Power Inc.  (VIP, GREEL)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000162828026064758/0001628280-26-064758-index.htm)
 
+- **8-K** | Calisa Acquisition Corp  (ALIS, ALISR, ALISU)  (CIK 0002026767)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026767/000149315226045978/0001493152-26-045978-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000162828026064757/0001628280-26-064757-index.htm)
 
