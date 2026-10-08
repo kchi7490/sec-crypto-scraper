@@ -39,6 +39,9 @@
 - **424B3** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000119312526414523/0001193125-26-414523-index.htm)
 
+- **10-Q** | Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315226046279/0001493152-26-046279-index.htm)
+
 - **10-K** | Mag Magna Corp  (MGNC)  (CIK 0001949864)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1949864/000168316826007689/0001683168-26-007689-index.htm)
 
@@ -114,11 +117,14 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926032097/0001437749-26-032097-index.htm)
 
+- **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390026107574/0001213900-26-107574-index.htm)
+
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026107204/0001213900-26-107204-index.htm)
 
-- **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390026107574/0001213900-26-107574-index.htm)
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326015292/0000950103-26-015292-index.htm)
 
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390026107581/0001213900-26-107581-index.htm)
@@ -128,6 +134,9 @@
 
 - **N-CSR** | ARK Venture Fund  (CIK 0001905088)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1905088/000121390026107607/0001213900-26-107607-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126022446/0001999371-26-022446-index.htm)
 
 - **1-A POS** | RYSE Inc.  (CIK 0001824930)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007639/0001683168-26-007639-index.htm)
