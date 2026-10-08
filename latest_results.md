@@ -6,6 +6,9 @@
 - **8-K** | 21Shares Ethereum Staking ETF  (TETH)  (CIK 0001992508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1992508/000121390026107225/0001213900-26-107225-index.htm)
 
+- **8-K** | Charlton Aria Acquisition Corp  (CHAR, CHARR, CHARU)  (CIK 0002024459)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2024459/000121390026107744/0001213900-26-107744-index.htm)
+
 - **8-K** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626010827/0001829126-26-010827-index.htm)
 
@@ -41,6 +44,9 @@
 
 - **S-1/A** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026107622/0001213900-26-107622-index.htm)
+
+- **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526417469/0001193125-26-417469-index.htm)
 
 - **8-K** | Morgan Stanley Bitcoin Trust  (MSBT)  (CIK 0002103612)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103612/000110465926114157/0001104659-26-114157-index.htm)
@@ -84,6 +90,9 @@
 - **497** | Corgi ETF Trust I  (CIK 0002078265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000428/0002078265-26-000428-index.htm)
 
+- **S-4** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026107728/0001213900-26-107728-index.htm)
+
 - **8-K** | Morgan Stanley Ethereum Trust  (MSSE)  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926114156/0001104659-26-114156-index.htm)
 
@@ -105,14 +114,11 @@
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926032097/0001437749-26-032097-index.htm)
 
-- **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390026107574/0001213900-26-107574-index.htm)
-
 - **6-K** | AsiaStrategy  (SORA)  (CIK 0002033515)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2033515/000121390026107204/0001213900-26-107204-index.htm)
 
-- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326015292/0000950103-26-015292-index.htm)
+- **6-K** | SOS Ltd  (SOS)  (CIK 0001346610)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1346610/000121390026107574/0001213900-26-107574-index.htm)
 
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390026107581/0001213900-26-107581-index.htm)
@@ -134,6 +140,9 @@
 
 - **485BPOS** | MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C  (CIK 0000906564)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/906564/000090656426000074/0000906564-26-000074-index.htm)
+
+- **1-A POS** | UNATION, Inc.  (CIK 0001549679)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026107729/0001213900-26-107729-index.htm)
 
 - **485APOS** | AMERICAN FUNDS COLLEGE TARGET DATE SERIES  (CIK 0001547011)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1547011/000005193126001004/0000051931-26-001004-index.htm)
