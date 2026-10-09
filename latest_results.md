@@ -36,12 +36,6 @@
 - **S-1/A** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026107622/0001213900-26-107622-index.htm)
 
-- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108148/0001213900-26-108148-index.htm)
-
-- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108146/0001213900-26-108146-index.htm)
-
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526417469/0001193125-26-417469-index.htm)
 
@@ -75,8 +69,14 @@
 - **10-Q** | Tilray Brands, Inc.  (TLRY)  (CIK 0001731348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1731348/000143774926032382/0001437749-26-032382-index.htm)
 
+- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108148/0001213900-26-108148-index.htm)
+
 - **20-F** | WISeSat.Space Holdings Corp.  (SAIQ)  (CIK 0002101411)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2101411/000121390026107579/0001213900-26-107579-index.htm)
+
+- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108146/0001213900-26-108146-index.htm)
 
 - **497** | Corgi ETF Trust I  (CIK 0002078265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078265/000207826526000428/0002078265-26-000428-index.htm)
@@ -114,9 +114,6 @@
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390026107581/0001213900-26-107581-index.htm)
 
-- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226046405/0001493152-26-046405-index.htm)
-
 - **487** | FT 13243  (CIK 0002144024)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144024/000144554626007512/0001445546-26-007512-index.htm)
 
@@ -134,6 +131,12 @@
 
 - **1-A POS** | UNATION, Inc.  (CIK 0001549679)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549679/000121390026107729/0001213900-26-107729-index.htm)
+
+- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226046405/0001493152-26-046405-index.htm)
+
+- **497** | FLEXSHARES TRUST  (CIK 0001491978)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526418836/0001193125-26-418836-index.htm)
 
 - **425** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000095010326015315/0000950103-26-015315-index.htm)
