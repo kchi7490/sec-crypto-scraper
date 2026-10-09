@@ -36,6 +36,12 @@
 - **S-1/A** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026107622/0001213900-26-107622-index.htm)
 
+- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108148/0001213900-26-108148-index.htm)
+
+- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108146/0001213900-26-108146-index.htm)
+
 - **8-K** | POWERCOMPUTE, INC.  (PWCM)  (CIK 0001640384)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1640384/000119312526417469/0001193125-26-417469-index.htm)
 
@@ -107,6 +113,9 @@
 
 - **20-F** | Regencell Bioscience Holdings Ltd  (RGC)  (CIK 0001829667)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829667/000121390026107581/0001213900-26-107581-index.htm)
+
+- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226046405/0001493152-26-046405-index.htm)
 
 - **487** | FT 13243  (CIK 0002144024)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144024/000144554626007512/0001445546-26-007512-index.htm)
