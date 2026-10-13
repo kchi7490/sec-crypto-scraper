@@ -1,71 +1,41 @@
 ## 📁 Other Filings
 
-- **S-3/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926115046/0001104659-26-115046-index.htm)
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226046744/0001493152-26-046744-index.htm)
 
-- **POS AM** | Silvia, Inc.  (SVIA, SVIAW)  (CIK 0002076163)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226046616/0001493152-26-046616-index.htm)
+- **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000127/0001805526-26-000127-index.htm)
 
-- **8-K** | TruGolf Holdings, Inc.  (TRUG)  (CIK 0001857086)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1857086/000149315226046435/0001493152-26-046435-index.htm)
+- **424B5** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926012770/0001214659-26-012770-index.htm)
 
-- **424B3** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526419096/0001193125-26-419096-index.htm)
+- **8-K** | IonQ, Inc.  (IONQ)  (CIK 0001824920)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/0001193125-26-419609-index.htm)
 
-- **424B5** | T Stamp Inc  (IDAI)  (CIK 0001718939)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1718939/000110465926115068/0001104659-26-115068-index.htm)
+- **S-1** | Apex Treasury Corp II  (CIK 0002159678)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2159678/000121390026108751/0001213900-26-108751-index.htm)
 
-- **8-K** | Evernorth Holdings Inc.  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526419146/0001193125-26-419146-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/0001628280-26-065595-index.htm)
 
-- **485BPOS** | SELECT SECTOR SPDR TRUST  (CIK 0001064641)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1064641/000119312526419006/0001193125-26-419006-index.htm)
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm)
 
-- **S-1/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108148/0001213900-26-108148-index.htm)
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926032500/0001437749-26-032500-index.htm)
 
-- **485BPOS** | Minnesota Life Individual Variable Universal Life Account  (CIK 0001405415)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1405415/000119312526418631/0001193125-26-418631-index.htm)
+- **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000119312526419743/0001193125-26-419743-index.htm)
 
-- **S-4/A** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026108146/0001213900-26-108146-index.htm)
+- **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026108780/0001213900-26-108780-index.htm)
 
-- **424B3** | FullPAC, Inc.  (GOTV)  (CIK 0002076148)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2076148/000149315226046583/0001493152-26-046583-index.htm)
+- **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226046759/0001493152-26-046759-index.htm)
 
-- **497** | FLEXSHARES TRUST  (CIK 0001491978)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1491978/000119312526418836/0001193125-26-418836-index.htm)
+- **SC TO-C** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226046761/0001493152-26-046761-index.htm)
 
-- **S-3** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026108460/0001213900-26-108460-index.htm)
-
-- **S-3** | iPower Inc.  (IPW)  (CIK 0001830072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826007759/0001683168-26-007759-index.htm)
-
-- **DEF 14A** | AZIO AI HOLDINGS, INC.  (AZIO)  (CIK 0001563568)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1563568/000143774926032450/0001437749-26-032450-index.htm)
-
-- **PRER14A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026108432/0001213900-26-108432-index.htm)
-
-- **8-K** | ARTELO BIOSCIENCES, INC.  (ARTL)  (CIK 0001621221)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1621221/000164033426001665/0001640334-26-001665-index.htm)
-
-- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926000968/0001279569-26-000968-index.htm)
-
-- **N-2** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026108529/0001213900-26-108529-index.htm)
-
-- **10-Q** | Huineng Technology Corp  (HNIT)  (CIK 0001994373)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1994373/000149315226046405/0001493152-26-046405-index.htm)
-
-- **N-CEN** | Tidal Trust II  (CIK 0001924868)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000200032426005565/0002000324-26-005565-index.htm)
-
-- **253G2** | RYSE Inc.  (CIK 0001824930)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1824930/000168316826007731/0001683168-26-007731-index.htm)
-
-- **N-CEN** | Calamos ETF Trust  (CIK 0001579881)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1579881/000141036826102974/0001410368-26-102974-index.htm)
+- **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526419759/0001193125-26-419759-index.htm)
 
