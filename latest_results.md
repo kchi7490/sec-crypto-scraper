@@ -18,8 +18,14 @@
 - **POS AM** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526420749/0001193125-26-420749-index.htm)
 
+- **8-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226047064/0001493152-26-047064-index.htm)
+
 - **8-K** | IonQ, Inc.  (IONQ)  (CIK 0001824920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/0001193125-26-419609-index.htm)
+
+- **424B5** | Tron Inc.  (TRON)  (CIK 0001956744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226047066/0001493152-26-047066-index.htm)
 
 - **424B7** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926115766/0001104659-26-115766-index.htm)
@@ -32,6 +38,9 @@
 
 - **485BPOS** | VanEck Funds  (CIK 0000768847)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/0000768847-26-000163-index.htm)
+
+- **485BPOS** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000166/0000768847-26-000166-index.htm)
 
 - **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015526/0000950103-26-015526-index.htm)
@@ -63,6 +72,9 @@
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226046935/0001493152-26-046935-index.htm)
 
+- **PRE 14A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226047019/0001493152-26-047019-index.htm)
+
 - **DEF 14A** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126039451/0001140361-26-039451-index.htm)
 
@@ -74,6 +86,9 @@
 
 - **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006608/0001171843-26-006608-index.htm)
+
+- **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026109412/0001213900-26-109412-index.htm)
 
 - **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026108780/0001213900-26-108780-index.htm)
@@ -102,6 +117,9 @@
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm)
 
+- **RW** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/0002091159-26-000005-index.htm)
+
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/0001081400-26-000500-index.htm)
 
@@ -119,6 +137,9 @@
 
 - **485BPOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126022635/0001999371-26-022635-index.htm)
+
+- **N-14 8C/A** | Apollo Debt Solutions BDC  (CIK 0001837532)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526420392/0001193125-26-420392-index.htm)
