@@ -6,6 +6,9 @@
 - **8-K/A** | OpenWorld, Inc.  (OPNW, VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012828/0001214659-26-012828-index.htm)
 
+- **10-K** | TREASURE GLOBAL INC  (TGL)  (CIK 0001905956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1905956/000121390026109073/0001213900-26-109073-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000127/0001805526-26-000127-index.htm)
 
@@ -39,6 +42,9 @@
 - **S-3** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226046837/0001493152-26-046837-index.htm)
 
+- **DEF 14A** | IREN Ltd  (IREN)  (CIK 0001878848)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126039451/0001140361-26-039451-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000119312526419743/0001193125-26-419743-index.htm)
 
@@ -63,11 +69,20 @@
 - **6-K** | Troops, Inc. /Cayman Islands/  (TROO)  (CIK 0001412095)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412095/000110465926115363/0001104659-26-115363-index.htm)
 
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109072/0001213900-26-109072-index.htm)
+
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000493/0001081400-26-000493-index.htm)
 
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526420668/0001193125-26-420668-index.htm)
+
 - **NPORT-P/A** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526001067/0000898745-26-001067-index.htm)
+
+- **DFAN14A** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000092189526002785/0000921895-26-002785-index.htm)
 
 - **485BPOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126022635/0001999371-26-022635-index.htm)
@@ -77,4 +92,7 @@
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526419759/0001193125-26-419759-index.htm)
+
+- **SCHEDULE 13D/A** | Sharplink, Inc.  (SBET)  (CIK 0001981535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981535/000149315226046897/0001493152-26-046897-index.htm)
 
