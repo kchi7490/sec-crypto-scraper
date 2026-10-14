@@ -21,8 +21,14 @@
 - **8-K** | IonQ, Inc.  (IONQ)  (CIK 0001824920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/0001193125-26-419609-index.htm)
 
+- **424B7** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926115766/0001104659-26-115766-index.htm)
+
 - **S-1** | Apex Treasury Corp II  (CIK 0002159678)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2159678/000121390026108751/0001213900-26-108751-index.htm)
+
+- **10-K** | EvoAir Holdings Inc.  (EVOH)  (CIK 0001700844)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1700844/000149315226046942/0001493152-26-046942-index.htm)
 
 - **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015526/0000950103-26-015526-index.htm)
@@ -30,8 +36,14 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026065595/0001628280-26-065595-index.htm)
 
+- **8-K** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000084/0001074828-26-000084-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526419726/0001193125-26-419726-index.htm)
+
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026065816/0001628280-26-065816-index.htm)
 
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926032500/0001437749-26-032500-index.htm)
@@ -45,6 +57,9 @@
 - **S-3** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226046837/0001493152-26-046837-index.htm)
 
+- **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226046935/0001493152-26-046935-index.htm)
+
 - **DEF 14A** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000114036126039451/0001140361-26-039451-index.htm)
 
@@ -53,6 +68,9 @@
 
 - **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226006180/0001477932-26-006180-index.htm)
+
+- **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006608/0001171843-26-006608-index.htm)
 
 - **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026108780/0001213900-26-108780-index.htm)
@@ -65,6 +83,9 @@
 
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026109018/0001213900-26-109018-index.htm)
+
+- **6-K** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312526421071/0001193125-26-421071-index.htm)
 
 - **6-K** | AGM GROUP HOLDINGS, INC.  (AGMH)  (CIK 0001705402)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1705402/000118518526004716/0001185185-26-004716-index.htm)
