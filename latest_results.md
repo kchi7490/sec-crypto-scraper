@@ -30,6 +30,9 @@
 - **10-K** | EvoAir Holdings Inc.  (EVOH)  (CIK 0001700844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1700844/000149315226046942/0001493152-26-046942-index.htm)
 
+- **485BPOS** | VanEck Funds  (CIK 0000768847)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/0000768847-26-000163-index.htm)
+
 - **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015526/0000950103-26-015526-index.htm)
 
@@ -95,6 +98,12 @@
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109072/0001213900-26-109072-index.htm)
+
+- **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/0001081400-26-000500-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000493/0001081400-26-000493-index.htm)
