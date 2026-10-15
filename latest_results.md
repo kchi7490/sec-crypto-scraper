@@ -99,6 +99,12 @@
 - **SC TO-C** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226046761/0001493152-26-046761-index.htm)
 
+- **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226047079/0001493152-26-047079-index.htm)
+
+- **SC TO-C** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226047080/0001493152-26-047080-index.htm)
+
 - **N-14 8C/A** | Apollo Debt Solutions BDC  (CIK 0001837532)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm)
 
@@ -113,6 +119,9 @@
 
 - **6-K** | Troops, Inc. /Cayman Islands/  (TROO)  (CIK 0001412095)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412095/000110465926115363/0001104659-26-115363-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109550/0001213900-26-109550-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109072/0001213900-26-109072-index.htm)
