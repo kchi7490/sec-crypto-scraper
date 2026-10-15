@@ -135,6 +135,9 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109072/0001213900-26-109072-index.htm)
 
+- **485APOS** | Forethought Life Insurance Co  (CIK 0001791963)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926116133/0001104659-26-116133-index.htm)
+
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm)
 
