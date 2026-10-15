@@ -99,6 +99,9 @@
 - **SC TO-C** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226046761/0001493152-26-046761-index.htm)
 
+- **N-14 8C/A** | Apollo Debt Solutions BDC  (CIK 0001837532)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm)
+
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026109018/0001213900-26-109018-index.htm)
 
@@ -137,9 +140,6 @@
 
 - **485BPOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126022635/0001999371-26-022635-index.htm)
-
-- **N-14 8C/A** | Apollo Debt Solutions BDC  (CIK 0001837532)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm)
 
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526420392/0001193125-26-420392-index.htm)
