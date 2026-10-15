@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226046744/0001493152-26-046744-index.htm)
 
+- **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226047260/0001493152-26-047260-index.htm)
+
 - **8-K/A** | OpenWorld, Inc.  (OPNW, VRME)  (CIK 0001104038)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926012828/0001214659-26-012828-index.htm)
 
@@ -18,14 +21,23 @@
 - **POS AM** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526420749/0001193125-26-420749-index.htm)
 
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826007893/0001683168-26-007893-index.htm)
+
 - **8-K** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226047064/0001493152-26-047064-index.htm)
 
 - **8-K** | IonQ, Inc.  (IONQ)  (CIK 0001824920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824920/000119312526419609/0001193125-26-419609-index.htm)
 
+- **424B3** | Silvia, Inc.  (SVIA, SVIAW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226047273/0001493152-26-047273-index.htm)
+
 - **424B5** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226047066/0001493152-26-047066-index.htm)
+
+- **8-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/0000316709-26-000035-index.htm)
 
 - **424B7** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926115766/0001104659-26-115766-index.htm)
@@ -72,6 +84,9 @@
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226046935/0001493152-26-046935-index.htm)
 
+- **10-Q** | WEWARDS, INC.  (WEWA)  (CIK 0001616156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1616156/000107997326001354/0001079973-26-001354-index.htm)
+
 - **PRE 14A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226047019/0001493152-26-047019-index.htm)
 
@@ -84,8 +99,14 @@
 - **10-K** | MedWellAI, Inc.  (MWAI)  (CIK 0001520118)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1520118/000147793226006180/0001477932-26-006180-index.htm)
 
+- **SC 14F1** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926032735/0001437749-26-032735-index.htm)
+
 - **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006608/0001171843-26-006608-index.htm)
+
+- **10-Q** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226047254/0001493152-26-047254-index.htm)
 
 - **DEF 14A** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226047170/0001493152-26-047170-index.htm)
@@ -126,6 +147,9 @@
 - **6-K** | Troops, Inc. /Cayman Islands/  (TROO)  (CIK 0001412095)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412095/000110465926115363/0001104659-26-115363-index.htm)
 
+- **6-K** | Token Cat Ltd  (TC)  (CIK 0001743340)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1743340/000121390026109909/0001213900-26-109909-index.htm)
+
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926116011/0001104659-26-116011-index.htm)
 
@@ -134,6 +158,12 @@
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109072/0001213900-26-109072-index.htm)
+
+- **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226047272/0001493152-26-047272-index.htm)
+
+- **487** | FT 13246  (CIK 0002144030)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144030/000144554626007651/0001445546-26-007651-index.htm)
 
 - **485APOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926116133/0001104659-26-116133-index.htm)
@@ -144,11 +174,17 @@
 - **RW** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/0002091159-26-000005-index.htm)
 
+- **1-K/A** | Robert Ventures Holdings LLC  (CIK 0001991519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1991519/000109690626001558/0001096906-26-001558-index.htm)
+
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/0001081400-26-000500-index.htm)
 
 - **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000493/0001081400-26-000493-index.htm)
+
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526422810/0001193125-26-422810-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526420668/0001193125-26-420668-index.htm)
