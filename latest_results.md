@@ -87,11 +87,17 @@
 - **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006608/0001171843-26-006608-index.htm)
 
+- **DEF 14A** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226047170/0001493152-26-047170-index.htm)
+
 - **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026109412/0001213900-26-109412-index.htm)
 
 - **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026108780/0001213900-26-108780-index.htm)
+
+- **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000132/0001805526-26-000132-index.htm)
 
 - **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226046759/0001493152-26-046759-index.htm)
@@ -119,6 +125,9 @@
 
 - **6-K** | Troops, Inc. /Cayman Islands/  (TROO)  (CIK 0001412095)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1412095/000110465926115363/0001104659-26-115363-index.htm)
+
+- **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926116011/0001104659-26-116011-index.htm)
 
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026109550/0001213900-26-109550-index.htm)
