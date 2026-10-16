@@ -102,6 +102,9 @@
 - **N-14 8C/A** | Apollo Debt Solutions BDC  (CIK 0001837532)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526421669/0001193125-26-421669-index.htm)
 
+- **SC TO-I** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000093041326003076/0000930413-26-003076-index.htm)
+
 - **6-K** | OBOOK HOLDINGS INC.  (OWLS)  (CIK 0002025416)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2025416/000119312526421071/0001193125-26-421071-index.htm)
 
@@ -117,17 +120,23 @@
 - **6-K** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226047272/0001493152-26-047272-index.htm)
 
+- **485BPOS** | Tidal Trust V  (CIK 0002081107)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126022910/0001999371-26-022910-index.htm)
+
 - **487** | FT 13246  (CIK 0002144030)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144030/000144554626007651/0001445546-26-007651-index.htm)
 
 - **485APOS** | Forethought Life Insurance Co  (CIK 0001791963)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1791963/000110465926116133/0001104659-26-116133-index.htm)
 
+- **485APOS** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000192/0002047976-26-000192-index.htm)
+
+- **N-4/A** | PACIFIC LIFE INSURANCE CO  (CIK 0001080429)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080429/000110465926116508/0001104659-26-116508-index.htm)
+
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm)
-
-- **485BPOS** | Tidal Trust V  (CIK 0002081107)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126022910/0001999371-26-022910-index.htm)
 
 - **RW** | VanEck Lido Staked Ethereum ETF  (CIK 0002091159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/0002091159-26-000005-index.htm)
@@ -140,6 +149,9 @@
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526422810/0001193125-26-422810-index.htm)
+
+- **485APOS** | AMERICAN FUNDS PORTFOLIO SERIES  (CIK 0001537151)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1537151/000005193126001049/0000051931-26-001049-index.htm)
 
 - **10-K** | Accenture plc  (ACN)  (CIK 0001467373)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1467373/000146737326000049/0001467373-26-000049-index.htm)
