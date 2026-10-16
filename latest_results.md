@@ -3,6 +3,9 @@
 - **8-K** | Crypto Co  (CRCW)  (CIK 0001688126)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1688126/000149315226047260/0001493152-26-047260-index.htm)
 
+- **8-K** | Hawkeye Digital, Inc.  (HWKE)  (CIK 0001750777)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1750777/000168316826007929/0001683168-26-007929-index.htm)
+
 - **POS AM** | Evernorth Holdings Inc.  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526420749/0001193125-26-420749-index.htm)
 
@@ -24,11 +27,17 @@
 - **424B5** | Tron Inc.  (TRON)  (CIK 0001956744)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1956744/000149315226047066/0001493152-26-047066-index.htm)
 
+- **PRE 14A** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226047432/0001493152-26-047432-index.htm)
+
 - **8-K** | SCHWAB CHARLES CORP  (SCHW, SCHW-PD, SCHW-PJ)  (CIK 0000316709)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/316709/000031670926000035/0000316709-26-000035-index.htm)
 
 - **424B7** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926115766/0001104659-26-115766-index.htm)
+
+- **S-4/A** | Blockfusion Digital Infrastructure, Inc.  (BDI)  (CIK 0002097508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004814/0001185185-26-004814-index.htm)
 
 - **10-K** | EvoAir Holdings Inc.  (EVOH)  (CIK 0001700844)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1700844/000149315226046942/0001493152-26-046942-index.htm)
@@ -54,8 +63,14 @@
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026065816/0001628280-26-065816-index.htm)
 
+- **8-K** | FARMHOUSE, INC. /NV  (FMHS)  (CIK 0001811999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1811999/000109690626001568/0001096906-26-001568-index.htm)
+
 - **FWP** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015687/0000950103-26-015687-index.htm)
+
+- **424B5** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015734/0000950103-26-015734-index.htm)
 
 - **8-K** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226046935/0001493152-26-046935-index.htm)
@@ -78,6 +93,9 @@
 - **S-4/A** | Sono Group S.a r.l.  (CIK 0002083142)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006608/0001171843-26-006608-index.htm)
 
+- **424B3** | Sono Group S.a r.l.  (CIK 0002083142)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2083142/000117184326006676/0001171843-26-006676-index.htm)
+
 - **10-Q** | FingerMotion, Inc.  (FNGR)  (CIK 0001602409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602409/000149315226047254/0001493152-26-047254-index.htm)
 
@@ -86,6 +104,9 @@
 
 - **F-1** | Robin Energy Ltd.  (RBNE)  (CIK 0002039060)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm)
+
+- **PRE 14A** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026110224/0001213900-26-110224-index.htm)
 
 - **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026109412/0001213900-26-109412-index.htm)
@@ -110,6 +131,9 @@
 
 - **6-K** | Token Cat Ltd  (TC)  (CIK 0001743340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743340/000121390026109909/0001213900-26-109909-index.htm)
+
+- **6-K** | VCI Global Ltd  (VCIG)  (CIK 0001930510)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1930510/000121390026110323/0001213900-26-110323-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926116011/0001104659-26-116011-index.htm)
