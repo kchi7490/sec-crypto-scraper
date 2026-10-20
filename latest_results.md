@@ -36,6 +36,12 @@
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926032881/0001437749-26-032881-index.htm)
 
+- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015849/0000950103-26-015849-index.htm)
+
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047705/0001493152-26-047705-index.htm)
+
 - **8-K** | ConnectM Technology Solutions, Inc.  (CNTM)  (CIK 0001895249)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895249/000110465926116753/0001104659-26-116753-index.htm)
 
@@ -51,8 +57,14 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026110486/0001213900-26-110486-index.htm)
 
+- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226047700/0001493152-26-047700-index.htm)
+
 - **6-K** | Nexpu Ltd.  (DPU)  (CIK 0001938865)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938865/000121390026110756/0001213900-26-110756-index.htm)
+
+- **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026110793/0001213900-26-110793-index.htm)
 
 - **6-K** | Canaan Inc.  (CAN)  (CIK 0001780652)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1780652/000110465926116757/0001104659-26-116757-index.htm)
