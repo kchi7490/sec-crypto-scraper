@@ -87,6 +87,9 @@
 - **DEF 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426018413/0001398344-26-018413-index.htm)
 
+- **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000136/0001805526-26-000136-index.htm)
+
 - **DEFA14A** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526424693/0001193125-26-424693-index.htm)
 
