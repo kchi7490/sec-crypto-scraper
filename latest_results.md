@@ -18,6 +18,12 @@
 - **S-1** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm)
 
+- **N-CSR/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013411/0001133228-26-013411-index.htm)
+
+- **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315226047764/0001493152-26-047764-index.htm)
+
 - **DEFM14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026110484/0001213900-26-110484-index.htm)
 
@@ -36,6 +42,9 @@
 - **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926032881/0001437749-26-032881-index.htm)
 
+- **424B3** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026111062/0001213900-26-111062-index.htm)
+
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015849/0000950103-26-015849-index.htm)
 
@@ -45,11 +54,23 @@
 - **8-K** | ConnectM Technology Solutions, Inc.  (CNTM)  (CIK 0001895249)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1895249/000110465926116753/0001104659-26-116753-index.htm)
 
+- **N-CSRS/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013409/0001133228-26-013409-index.htm)
+
+- **N-CSRS/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013413/0001133228-26-013413-index.htm)
+
+- **N-CSR/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013407/0001133228-26-013407-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000134/0001805526-26-000134-index.htm)
 
 - **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226047520/0001493152-26-047520-index.htm)
+
+- **424B3** | Apollo Debt Solutions BDC  (CIK 0001837532)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526426680/0001193125-26-426680-index.htm)
 
 - **6-K** | Bitdeer Technologies Group  (BTDR)  (CIK 0001899123)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1899123/000121390026110703/0001213900-26-110703-index.htm)
@@ -72,6 +93,9 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226047488/0001493152-26-047488-index.htm)
 
+- **S-1** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000149315226047799/0001493152-26-047799-index.htm)
+
 - **485APOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/0001193125-26-425335-index.htm)
 
@@ -86,6 +110,15 @@
 
 - **DEF 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426018413/0001398344-26-018413-index.htm)
+
+- **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011364/0001829126-26-011364-index.htm)
+
+- **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011363/0001829126-26-011363-index.htm)
+
+- **485BPOS** | BondBloxx ETF Trust  (CIK 0001879238)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011362/0001829126-26-011362-index.htm)
 
 - **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000136/0001805526-26-000136-index.htm)
