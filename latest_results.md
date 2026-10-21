@@ -9,6 +9,9 @@
 - **425** | CSLM Digital Asset Acquisition Corp III, Ltd  (KOYN, KOYNU, KOYNW)  (CIK 0002068454)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2068454/000182912626011316/0001829126-26-011316-index.htm)
 
+- **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm)
+
 - **424B3** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000119312526425367/0001193125-26-425367-index.htm)
 
@@ -36,8 +39,17 @@
 - **S-3/A** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312526425082/0001193125-26-425082-index.htm)
 
+- **20-F** | STAK Inc.  (STAK)  (CIK 0002002453)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2002453/000149315226047890/0001493152-26-047890-index.htm)
+
 - **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS)  (CIK 0000933267)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495426009071/0001654954-26-009071-index.htm)
+
+- **20-F** | CRESUD INC  (CRESY)  (CIK 0001034957)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1034957/000165495426009074/0001654954-26-009074-index.htm)
+
+- **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026111363/0001213900-26-111363-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026066222/0001628280-26-066222-index.htm)
@@ -50,6 +62,9 @@
 
 - **424B3** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026111062/0001213900-26-111062-index.htm)
+
+- **8-K** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526427852/0001193125-26-427852-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015849/0000950103-26-015849-index.htm)
@@ -72,8 +87,14 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm)
 
+- **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526427865/0001193125-26-427865-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000134/0001805526-26-000134-index.htm)
+
+- **8-K** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526427874/0001193125-26-427874-index.htm)
 
 - **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226047520/0001493152-26-047520-index.htm)
@@ -111,6 +132,9 @@
 - **485APOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/0001193125-26-425335-index.htm)
 
+- **DEF 14A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026111410/0001213900-26-111410-index.htm)
+
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000519/0001081400-26-000519-index.htm)
 
@@ -119,6 +143,12 @@
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000515/0001081400-26-000515-index.htm)
+
+- **ABS-15G** | J.P. Morgan Acceptance Corp II  (CIK 0001142786)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1142786/000199937126023229/0001999371-26-023229-index.htm)
+
+- **485BPOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000110465926117813/0001104659-26-117813-index.htm)
 
 - **DEF 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426018413/0001398344-26-018413-index.htm)
