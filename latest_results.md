@@ -63,6 +63,9 @@
 - **N-CSR/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013407/0001133228-26-013407-index.htm)
 
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000134/0001805526-26-000134-index.htm)
 
