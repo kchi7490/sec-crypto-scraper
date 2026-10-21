@@ -15,6 +15,9 @@
 - **20-F** | Zeta Network Group  (ZNB)  (CIK 0001747661)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1747661/000121390026110666/0001213900-26-110666-index.htm)
 
+- **POS AM** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000201153526000009/0002011535-26-000009-index.htm)
+
 - **S-1** | AIAI Holdings Corp  (AIAI)  (CIK 0002096362)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **S-3/A** | BRIGHTHOUSE LIFE INSURANCE Co  (CIK 0000733076)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/733076/000119312526425082/0001193125-26-425082-index.htm)
+
+- **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS)  (CIK 0000933267)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495426009071/0001654954-26-009071-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026066222/0001628280-26-066222-index.htm)
@@ -99,6 +105,9 @@
 - **S-1** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000149315226047799/0001493152-26-047799-index.htm)
 
+- **487** | FT 13256  (CIK 0002144046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144046/000144554626007794/0001445546-26-007794-index.htm)
+
 - **485APOS** | iSHARES TRUST  (CIK 0001100663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/0001193125-26-425335-index.htm)
 
@@ -113,6 +122,9 @@
 
 - **DEF 14A** | City National Rochdale Strategic Credit Fund  (CIK 0001737936)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737936/000139834426018413/0001398344-26-018413-index.htm)
+
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426018517/0001398344-26-018517-index.htm)
 
 - **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011364/0001829126-26-011364-index.htm)
