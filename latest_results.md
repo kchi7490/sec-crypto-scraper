@@ -15,6 +15,9 @@
 - **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315226047764/0001493152-26-047764-index.htm)
 
+- **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026111765/0001213900-26-111765-index.htm)
+
 - **S-1** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226047958/0001493152-26-047958-index.htm)
 
@@ -32,6 +35,9 @@
 
 - **POS AM** | Blue Gold Ltd  (BGL, BGLWW)  (CIK 0002019435)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2019435/000121390026111363/0001213900-26-111363-index.htm)
+
+- **8-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026111688/0001213900-26-111688-index.htm)
 
 - **424B3** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026111062/0001213900-26-111062-index.htm)
@@ -60,6 +66,9 @@
 - **424B5** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048084/0001493152-26-048084-index.htm)
 
+- **10-Q** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/0001628280-26-066880-index.htm)
+
 - **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526427865/0001193125-26-427865-index.htm)
 
@@ -72,8 +81,14 @@
 - **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226047700/0001493152-26-047700-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026111752/0001213900-26-111752-index.htm)
+
 - **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026110793/0001213900-26-110793-index.htm)
+
+- **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026111718/0001213900-26-111718-index.htm)
 
 - **S-1** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000149315226047799/0001493152-26-047799-index.htm)
@@ -105,6 +120,9 @@
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426018517/0001398344-26-018517-index.htm)
 
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526429066/0001193125-26-429066-index.htm)
+
 - **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011364/0001829126-26-011364-index.htm)
 
@@ -116,6 +134,9 @@
 
 - **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000136/0001805526-26-000136-index.htm)
+
+- **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926033275/0001437749-26-033275-index.htm)
 
 - **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/0001628280-26-066775-index.htm)
