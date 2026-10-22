@@ -78,6 +78,9 @@
 - **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000030/0001611331-26-000030-index.htm)
 
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000529/0001081400-26-000529-index.htm)
+
 - **ABS-15G** | J.P. Morgan Acceptance Corp II  (CIK 0001142786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1142786/000199937126023229/0001999371-26-023229-index.htm)
 
