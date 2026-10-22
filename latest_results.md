@@ -3,6 +3,9 @@
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm)
 
+- **424B3** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000207184426001457/0002071844-26-001457-index.htm)
+
 - **POS AM** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000201153526000009/0002011535-26-000009-index.htm)
 
@@ -11,6 +14,9 @@
 
 - **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315226047764/0001493152-26-047764-index.htm)
+
+- **S-1** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226047958/0001493152-26-047958-index.htm)
 
 - **20-F** | STAK Inc.  (STAK)  (CIK 0002002453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2002453/000149315226047890/0001493152-26-047890-index.htm)
@@ -51,6 +57,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm)
 
+- **424B5** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048084/0001493152-26-048084-index.htm)
+
 - **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526427865/0001193125-26-427865-index.htm)
 
@@ -74,6 +83,9 @@
 
 - **DEF 14A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026111410/0001213900-26-111410-index.htm)
+
+- **485BPOS** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000553/0001081400-26-000553-index.htm)
 
 - **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000030/0001611331-26-000030-index.htm)
