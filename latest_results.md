@@ -18,6 +18,9 @@
 - **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS)  (CIK 0000933267)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495426009071/0001654954-26-009071-index.htm)
 
+- **PREM14A** | WAFD INC  (WAFD, WAFDP)  (CIK 0000936528)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/936528/000114036126040429/0001140361-26-040429-index.htm)
+
 - **20-F** | CRESUD INC  (CRESY)  (CIK 0001034957)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1034957/000165495426009074/0001654954-26-009074-index.htm)
 
@@ -72,8 +75,14 @@
 - **DEF 14A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026111410/0001213900-26-111410-index.htm)
 
+- **485BPOS** | ALLSPRING EXCHANGE-TRADED FUNDS TRUST  (CIK 0001611331)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1611331/000161133126000030/0001611331-26-000030-index.htm)
+
 - **ABS-15G** | J.P. Morgan Acceptance Corp II  (CIK 0001142786)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1142786/000199937126023229/0001999371-26-023229-index.htm)
+
+- **1-A POS** | WINNERS, INC.  (WNRS)  (CIK 0001587603)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1587603/000149315226048008/0001493152-26-048008-index.htm)
 
 - **485BPOS** | SHORT-TERM INVESTMENTS TRUST  (CIK 0000205007)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/205007/000110465926117813/0001104659-26-117813-index.htm)
@@ -92,4 +101,7 @@
 
 - **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000136/0001805526-26-000136-index.htm)
+
+- **10-Q** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/0001628280-26-066775-index.htm)
 
