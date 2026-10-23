@@ -1,5 +1,14 @@
 ## 📁 Other Filings
 
+- **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026112016/0001213900-26-112016-index.htm)
+
+- **10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000085/0001788230-26-000085-index.htm)
+
+- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126023446/0001999371-26-023446-index.htm)
+
 - **8-K** | Tesla, Inc.  (TSLA)  (CIK 0001318605)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/0001628280-26-066738-index.htm)
 
@@ -11,6 +20,9 @@
 
 - **ARS** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026111959/0001213900-26-111959-index.htm)
+
+- **424B3** | Blockfusion Digital Infrastructure, Inc.  (BDI)  (CIK 0002097508)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004966/0001185185-26-004966-index.htm)
 
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026111765/0001213900-26-111765-index.htm)
@@ -26,6 +38,12 @@
 
 - **20-F** | STAK Inc.  (STAK)  (CIK 0002002453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2002453/000149315226047890/0001493152-26-047890-index.htm)
+
+- **424B3** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026112101/0001213900-26-112101-index.htm)
+
+- **DEFN14A** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026112106/0001213900-26-112106-index.htm)
 
 - **20-F** | IRSA INVESTMENTS & REPRESENTATIONS INC  (IRS)  (CIK 0000933267)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933267/000165495426009071/0001654954-26-009071-index.htm)
@@ -54,6 +72,12 @@
 - **424B5** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048084/0001493152-26-048084-index.htm)
 
+- **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/0001156375-26-000068-index.htm)
+
+- **424B3** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026112102/0001213900-26-112102-index.htm)
+
 - **10-Q** | SPACE EXPLORATION TECHNOLOGIES CORP  (SPCX)  (CIK 0001181412)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/0001628280-26-066880-index.htm)
 
@@ -65,6 +89,9 @@
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026111752/0001213900-26-111752-index.htm)
+
+- **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226048234/0001493152-26-048234-index.htm)
 
 - **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326006787/0001171843-26-006787-index.htm)
@@ -98,6 +125,9 @@
 
 - **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426018517/0001398344-26-018517-index.htm)
+
+- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426018704/0001398344-26-018704-index.htm)
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526429066/0001193125-26-429066-index.htm)
