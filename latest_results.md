@@ -9,11 +9,20 @@
 - **POS AM** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000201153526000009/0002011535-26-000009-index.htm)
 
+- **ARS** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026111959/0001213900-26-111959-index.htm)
+
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026111765/0001213900-26-111765-index.htm)
 
 - **S-1** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226047958/0001493152-26-047958-index.htm)
+
+- **424B3** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004948/0001185185-26-004948-index.htm)
+
+- **424B3** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004949/0001185185-26-004949-index.htm)
 
 - **20-F** | STAK Inc.  (STAK)  (CIK 0002002453)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2002453/000149315226047890/0001493152-26-047890-index.htm)
@@ -38,6 +47,9 @@
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm)
+
+- **DEF 14A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026111954/0001213900-26-111954-index.htm)
 
 - **424B5** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048084/0001493152-26-048084-index.htm)
