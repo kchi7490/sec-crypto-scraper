@@ -9,12 +9,6 @@
 - **POS AM** | Franklin Ethereum Trust  (EZET)  (CIK 0002011535)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2011535/000201153526000009/0002011535-26-000009-index.htm)
 
-- **N-CSR/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013411/0001133228-26-013411-index.htm)
-
-- **DEF 14A** | DSS, INC.  (DSS)  (CIK 0000771999)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/771999/000149315226047764/0001493152-26-047764-index.htm)
-
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026111765/0001213900-26-111765-index.htm)
 
@@ -39,26 +33,8 @@
 - **8-K** | Ark 21Shares Bitcoin ETF  (ARKB)  (CIK 0001869699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869699/000121390026111688/0001213900-26-111688-index.htm)
 
-- **424B3** | DarkHorse Technologies Inc.  (DRK)  (CIK 0001591956)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1591956/000121390026111062/0001213900-26-111062-index.htm)
-
 - **8-K** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526427852/0001193125-26-427852-index.htm)
-
-- **8-K** | Strive, Inc.  (ASST, SATA)  (CIK 0001920406)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326015849/0000950103-26-015849-index.htm)
-
-- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047705/0001493152-26-047705-index.htm)
-
-- **N-CSRS/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013409/0001133228-26-013409-index.htm)
-
-- **N-CSRS/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013413/0001133228-26-013413-index.htm)
-
-- **N-CSR/A** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000113322826013407/0001133228-26-013407-index.htm)
 
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226047846/0001493152-26-047846-index.htm)
@@ -75,23 +51,11 @@
 - **8-K** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526427874/0001193125-26-427874-index.htm)
 
-- **424B3** | Apollo Debt Solutions BDC  (CIK 0001837532)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1837532/000119312526426680/0001193125-26-426680-index.htm)
-
-- **6-K** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226047700/0001493152-26-047700-index.htm)
-
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026111752/0001213900-26-111752-index.htm)
 
-- **N-2/A** | RoboStrategy, Inc.  (BOT)  (CIK 0002081119)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2081119/000121390026110793/0001213900-26-110793-index.htm)
-
 - **6-K** | Aurelion Inc.  (AURE)  (CIK 0001765850)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1765850/000121390026111718/0001213900-26-111718-index.htm)
-
-- **S-1** | POWERDYNE INTERNATIONAL, INC.  (PWDY)  (CIK 0001435617)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1435617/000149315226047799/0001493152-26-047799-index.htm)
 
 - **487** | FT 13256  (CIK 0002144046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144046/000144554626007794/0001445546-26-007794-index.htm)
@@ -122,18 +86,6 @@
 
 - **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526429066/0001193125-26-429066-index.htm)
-
-- **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011364/0001829126-26-011364-index.htm)
-
-- **485APOS** | BondBloxx ETF Trust  (CIK 0001879238)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011363/0001829126-26-011363-index.htm)
-
-- **485BPOS** | BondBloxx ETF Trust  (CIK 0001879238)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1879238/000182912626011362/0001829126-26-011362-index.htm)
-
-- **FWP** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000136/0001805526-26-000136-index.htm)
 
 - **425** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926033275/0001437749-26-033275-index.htm)
