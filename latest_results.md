@@ -6,6 +6,18 @@
 - **10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000085/0001788230-26-000085-index.htm)
 
+- **S-3/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926118509/0001104659-26-118509-index.htm)
+
+- **S-1** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000162828026067081/0001628280-26-067081-index.htm)
+
+- **8-K** | House of Doge Inc.  (HODO)  (CIK 0001903595)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026112135/0001213900-26-112135-index.htm)
+
+- **S-1/A** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312526430543/0001193125-26-430543-index.htm)
+
 - **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126023446/0001999371-26-023446-index.htm)
 
@@ -23,6 +35,9 @@
 
 - **424B3** | Blockfusion Digital Infrastructure, Inc.  (BDI)  (CIK 0002097508)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004966/0001185185-26-004966-index.htm)
+
+- **DEFM14A** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004976/0001185185-26-004976-index.htm)
 
 - **424B5** | Solowin Holdings, Ltd.  (AXG)  (CIK 0001959224)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1959224/000121390026111765/0001213900-26-111765-index.htm)
@@ -75,6 +90,9 @@
 - **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/0001156375-26-000068-index.htm)
 
+- **PRE 14A** | SOAR AI, Inc.  (SOAR, SOARW)  (CIK 0001853070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1853070/000149315226048257/0001493152-26-048257-index.htm)
+
 - **424B3** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026112102/0001213900-26-112102-index.htm)
 
@@ -90,6 +108,9 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026111752/0001213900-26-111752-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026112138/0001213900-26-112138-index.htm)
+
 - **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226048234/0001493152-26-048234-index.htm)
 
@@ -101,6 +122,9 @@
 
 - **487** | FT 13256  (CIK 0002144046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144046/000144554626007794/0001445546-26-007794-index.htm)
+
+- **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826013509/0001133228-26-013509-index.htm)
 
 - **DEF 14A** | WhiteFiber, Inc.  (WYFI)  (CIK 0002042022)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2042022/000121390026111410/0001213900-26-111410-index.htm)
