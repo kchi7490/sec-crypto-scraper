@@ -1,71 +1,44 @@
 ## 📁 Other Filings
 
-- **S-1/A** | Cryptex Digital Market Cap ETF  (BAGZ)  (CIK 0002115027)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2115027/000121390026112016/0001213900-26-112016-index.htm)
+- **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226048429/0001493152-26-048429-index.htm)
 
-- **10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000085/0001788230-26-000085-index.htm)
+- **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026112303/0001213900-26-112303-index.htm)
 
-- **S-3/A** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926118509/0001104659-26-118509-index.htm)
+- **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000142/0001805526-26-000142-index.htm)
 
-- **S-1** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000162828026067081/0001628280-26-067081-index.htm)
+- **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/0001193125-26-431200-index.htm)
 
-- **8-K** | House of Doge Inc.  (HODO)  (CIK 0001903595)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1903595/000121390026112135/0001213900-26-112135-index.htm)
+- **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826008071/0001683168-26-008071-index.htm)
 
-- **S-1/A** | Grayscale Bittensor Trust (TAO)  (GTAO)  (CIK 0002029297)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2029297/000119312526430543/0001193125-26-430543-index.htm)
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm)
 
-- **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126023446/0001999371-26-023446-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA, SATS)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026067141/0001628280-26-067141-index.htm)
 
-- **ARS** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026111959/0001213900-26-111959-index.htm)
+- **8-K** | Super League Enterprise, Inc.  (SLE)  (CIK 0001621672)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1621672/000143774926033462/0001437749-26-033462-index.htm)
 
-- **424B3** | Blockfusion Digital Infrastructure, Inc.  (BDI)  (CIK 0002097508)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2097508/000118518526004966/0001185185-26-004966-index.htm)
+- **8-K** | Strive, Inc.  (ASST, SATA, SATS)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326016138/0000950103-26-016138-index.htm)
 
-- **DEFM14A** | Blue Acquisition Corp/Cayman  (BACC, BACCR, BACCU)  (CIK 0002059654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2059654/000118518526004976/0001185185-26-004976-index.htm)
+- **424B5** | Strive, Inc.  (ASST, SATA, SATS)  (CIK 0001920406)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000095010326016137/0000950103-26-016137-index.htm)
 
-- **424B3** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004948/0001185185-26-004948-index.htm)
+- **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226048420/0001493152-26-048420-index.htm)
 
-- **424B3** | T3 Defense Inc.  (DFNS, DFNSW)  (CIK 0001787518)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1787518/000118518526004949/0001185185-26-004949-index.htm)
+- **SC TO-I** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226048424/0001493152-26-048424-index.htm)
 
-- **424B3** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026112101/0001213900-26-112101-index.htm)
+- **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
 
-- **DEFN14A** | PERMIAN BASIN ROYALTY TRUST  (PBT)  (CIK 0000319654)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/319654/000121390026112106/0001213900-26-112106-index.htm)
-
-- **DEF 14A** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026111954/0001213900-26-111954-index.htm)
-
-- **10-Q** | CME GROUP INC.  (CME)  (CIK 0001156375)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/0001156375-26-000068-index.htm)
-
-- **PRE 14A** | SOAR AI, Inc.  (SOAR, SOARW)  (CIK 0001853070)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1853070/000149315226048257/0001493152-26-048257-index.htm)
-
-- **424B3** | PBT Land & Minerals, Inc.  (CIK 0002142855)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2142855/000121390026112102/0001213900-26-112102-index.htm)
-
-- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026112138/0001213900-26-112138-index.htm)
-
-- **6-K** | mF International Ltd  (MFI)  (CIK 0001940941)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1940941/000149315226048234/0001493152-26-048234-index.htm)
-
-- **6-K** | Antalpha Platform Holding Co  (ANTA)  (CIK 0002044255)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2044255/000117184326006787/0001171843-26-006787-index.htm)
-
-- **485APOS** | AMERICAN BEACON SELECT FUNDS  (CIK 0001096012)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1096012/000113322826013509/0001133228-26-013509-index.htm)
-
-- **485BPOS** | FORUM FUNDS  (CIK 0000315774)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000139834426018704/0001398344-26-018704-index.htm)
+- **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
 
