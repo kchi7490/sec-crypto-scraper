@@ -48,18 +48,30 @@
 - **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998026000558/0001929980-26-000558-index.htm)
 
+- **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026112581/0001213900-26-112581-index.htm)
+
 - **S-3/A** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926033525/0001437749-26-033525-index.htm)
 
 - **SC TO-I** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226048424/0001493152-26-048424-index.htm)
 
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/0001193125-26-432650-index.htm)
+
+- **6-K/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112647/0001213900-26-112647-index.htm)
+
 - **485APOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626002126/0001771146-26-002126-index.htm)
+
+- **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
 
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
 
-- **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
+- **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
 
