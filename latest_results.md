@@ -6,8 +6,17 @@
 - **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026112303/0001213900-26-112303-index.htm)
 
+- **8-K** | Galaxy Digital Inc.  (GLXY)  (CIK 0001859392)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/0001859392-26-000108-index.htm)
+
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000142/0001805526-26-000142-index.htm)
+
+- **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/0001818874-26-000065-index.htm)
 
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/0001193125-26-431200-index.htm)
@@ -45,6 +54,9 @@
 - **8-K** | Soren Acquisition Corp.  (SORN, SORNU, SORNW)  (CIK 0002086263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086263/000121390026112511/0001213900-26-112511-index.htm)
 
+- **485APOS** | Strategy Shares  (CIK 0001506213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226007137/0001580642-26-007137-index.htm)
+
 - **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998026000558/0001929980-26-000558-index.htm)
 
@@ -57,8 +69,14 @@
 - **SC TO-I** | BTCS Inc.  (BTCS)  (CIK 0001436229)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1436229/000149315226048424/0001493152-26-048424-index.htm)
 
+- **S-4** | Twin Vee Holdco Inc.  (CIK 0002160682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2160682/000110465926118896/0001104659-26-118896-index.htm)
+
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/0001193125-26-432650-index.htm)
+
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026112690/0001213900-26-112690-index.htm)
 
 - **6-K/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112647/0001213900-26-112647-index.htm)
@@ -66,12 +84,24 @@
 - **485APOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626002126/0001771146-26-002126-index.htm)
 
-- **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
+- **F-3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112724/0001213900-26-112724-index.htm)
+
+- **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000411/0000945908-26-000411-index.htm)
+
+- **487** | FT 13259  (CIK 0002144049)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2144049/000144554626008041/0001445546-26-008041-index.htm)
 
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
 
+- **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
+
+- **485BPOS** | Eaton Vance Series Trust II  (CIK 0000074663)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/74663/000113322826013641/0001133228-26-013641-index.htm)
 
