@@ -12,6 +12,9 @@
 - **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000086/0001633917-26-000086-index.htm)
 
+- **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000164/0001783879-26-000164-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000142/0001805526-26-000142-index.htm)
 
@@ -26,6 +29,9 @@
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826008071/0001683168-26-008071-index.htm)
+
+- **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826008112/0001683168-26-008112-index.htm)
 
 - **PRE 14A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226048574/0001493152-26-048574-index.htm)
@@ -72,6 +78,9 @@
 - **S-4** | Twin Vee Holdco Inc.  (CIK 0002160682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2160682/000110465926118896/0001104659-26-118896-index.htm)
 
+- **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm)
+
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/0001193125-26-432650-index.htm)
 
@@ -96,11 +105,20 @@
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
 
+- **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426019265/0001888524-26-019265-index.htm)
+
+- **N-CSRS** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826013679/0001133228-26-013679-index.htm)
+
 - **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
+
+- **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826013677/0001133228-26-013677-index.htm)
 
 - **485BPOS** | Eaton Vance Series Trust II  (CIK 0000074663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/74663/000113322826013641/0001133228-26-013641-index.htm)
