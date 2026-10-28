@@ -42,6 +42,9 @@
 - **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826008112/0001683168-26-008112-index.htm)
 
+- **10-K/A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316826008142/0001683168-26-008142-index.htm)
+
 - **PRE 14A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226048574/0001493152-26-048574-index.htm)
 
@@ -108,8 +111,17 @@
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm)
 
+- **8-K** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526436125/0001193125-26-436125-index.htm)
+
+- **8-K** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000056/0001815776-26-000056-index.htm)
+
 - **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226048827/0001493152-26-048827-index.htm)
+
+- **10-Q** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000119312526436412/0001193125-26-436412-index.htm)
 
 - **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026113192/0001213900-26-113192-index.htm)
@@ -135,6 +147,9 @@
 - **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index.htm)
 
+- **6-K/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026113369/0001213900-26-113369-index.htm)
+
 - **F-3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112724/0001213900-26-112724-index.htm)
 
@@ -155,6 +170,9 @@
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435753/0001193125-26-435753-index.htm)
+
+- **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826013779/0001133228-26-013779-index.htm)
 
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
@@ -197,4 +215,7 @@
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013295/0001214659-26-013295-index.htm)
+
+- **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013346/0001214659-26-013346-index.htm)
 
