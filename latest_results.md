@@ -120,6 +120,15 @@
 - **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826013677/0001133228-26-013677-index.htm)
 
+- **DEF 14A** | PGIM ETF TRUST  (CIK 0001727074)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1727074/000110465926119217/0001104659-26-119217-index.htm)
+
 - **485BPOS** | Eaton Vance Series Trust II  (CIK 0000074663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/74663/000113322826013641/0001133228-26-013641-index.htm)
+
+- **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000088/0001633917-26-000088-index.htm)
+
+- **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013295/0001214659-26-013295-index.htm)
 
