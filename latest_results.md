@@ -51,6 +51,12 @@
 - **S-4** | Graf Global Corp.  (TONT, TONT-UN, TONT-WT)  (CIK 0001897463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1897463/000110465926119273/0001104659-26-119273-index.htm)
 
+- **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026113199/0001213900-26-113199-index.htm)
+
+- **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312526435616/0001193125-26-435616-index.htm)
+
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm)
 
@@ -72,6 +78,9 @@
 - **8-K** | Soluna Holdings, Inc  (SLNH, SLNHP)  (CIK 0000064463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/64463/000149315226048420/0001493152-26-048420-index.htm)
 
+- **S-3/A** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048838/0001493152-26-048838-index.htm)
+
 - **8-K** | Soren Acquisition Corp.  (SORN, SORNU, SORNW)  (CIK 0002086263)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2086263/000121390026112511/0001213900-26-112511-index.htm)
 
@@ -80,6 +89,9 @@
 
 - **S-1/A** | Aimei Health Technology II Co., Ltd.  (CIK 0002045931)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2045931/000192998026000558/0001929980-26-000558-index.htm)
+
+- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226007188/0001580642-26-007188-index.htm)
 
 - **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026112581/0001213900-26-112581-index.htm)
@@ -95,6 +107,12 @@
 
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm)
+
+- **8-K** | SkyAI, Inc.  (SKYA, SKYAW)  (CIK 0001737995)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226048827/0001493152-26-048827-index.htm)
+
+- **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026113192/0001213900-26-113192-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926033697/0001437749-26-033697-index.htm)
@@ -126,6 +144,18 @@
 - **487** | FT 13259  (CIK 0002144049)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144049/000144554626008041/0001445546-26-008041-index.htm)
 
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435739/0001193125-26-435739-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435725/0001193125-26-435725-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435721/0001193125-26-435721-index.htm)
+
+- **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435753/0001193125-26-435753-index.htm)
+
 - **S-1/A** | Bitari Inc  (BIAI)  (CIK 0002091680)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm)
 
@@ -138,11 +168,20 @@
 - **13F-HR** | Transce3nd, LLC  (CIK 0002023570)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2023570/000202357026000005/0002023570-26-000005-index.htm)
 
+- **1-A** | ZQ Platforms Inc.  (CIK 0002146072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000009/0002146072-26-000009-index.htm)
+
+- **485BPOS** | EA Series Trust  (CIK 0001592900)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026004808/0001592900-26-004808-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
 
 - **485APOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000121390026113108/0001213900-26-113108-index.htm)
+
+- **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526001108/0000898745-26-001108-index.htm)
 
 - **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826013677/0001133228-26-013677-index.htm)
