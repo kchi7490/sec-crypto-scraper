@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226048429/0001493152-26-048429-index.htm)
 
+- **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026113111/0001213900-26-113111-index.htm)
+
 - **8-K** | FORUM MARKETS Inc  (FRMM)  (CIK 0001690080)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1690080/000121390026112303/0001213900-26-112303-index.htm)
 
@@ -15,11 +18,17 @@
 - **8-K** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000164/0001783879-26-000164-index.htm)
 
+- **8-K/A** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000170/0001783879-26-000170-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000142/0001805526-26-000142-index.htm)
 
 - **8-K** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000065/0001818874-26-000065-index.htm)
+
+- **10-Q** | Robinhood Markets, Inc.  (HOOD)  (CIK 0001783879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1783879/000178387926000167/0001783879-26-000167-index.htm)
 
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526431200/0001193125-26-431200-index.htm)
@@ -35,6 +44,12 @@
 
 - **PRE 14A** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226048574/0001493152-26-048574-index.htm)
+
+- **N-2** | SpaceCorp  (CIK 0002159645)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2159645/000121390026112987/0001213900-26-112987-index.htm)
+
+- **S-4** | Graf Global Corp.  (TONT, TONT-UN, TONT-WT)  (CIK 0001897463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1897463/000110465926119273/0001104659-26-119273-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526431146/0001193125-26-431146-index.htm)
@@ -81,17 +96,26 @@
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926033697/0001437749-26-033697-index.htm)
+
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526432650/0001193125-26-432650-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026112690/0001213900-26-112690-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026113103/0001213900-26-113103-index.htm)
+
 - **6-K/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112647/0001213900-26-112647-index.htm)
 
 - **485APOS** | ETF Opportunities Trust  (CIK 0001771146)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1771146/000177114626002126/0001771146-26-002126-index.htm)
+
+- **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index.htm)
 
 - **F-3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112724/0001213900-26-112724-index.htm)
@@ -116,6 +140,9 @@
 
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
+
+- **485APOS** | FORUM FUNDS  (CIK 0000315774)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000121390026113108/0001213900-26-113108-index.htm)
 
 - **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826013677/0001133228-26-013677-index.htm)
