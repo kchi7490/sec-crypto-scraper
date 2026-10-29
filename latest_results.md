@@ -1,5 +1,11 @@
 ## 📁 Other Filings
 
+- **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000121/0001679788-26-000121-index.htm)
+
+- **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000122/0001679788-26-000122-index.htm)
+
 - **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026113111/0001213900-26-113111-index.htm)
 
@@ -24,8 +30,23 @@
 - **10-Q** | Cavitation Technologies, Inc.  (CVAT)  (CIK 0001376793)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1376793/000168316826008112/0001683168-26-008112-index.htm)
 
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000047/0001050446-26-000047-index.htm)
+
+- **S-1/A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000089/0001074828-26-000089-index.htm)
+
+- **10-Q** | EBAY INC  (EBAY)  (CIK 0001065088)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1065088/000106508826000212/0001065088-26-000212-index.htm)
+
+- **DEF 14A** | BONK, INC.  (BNKK)  (CIK 0001760903)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1760903/000149315226049249/0001493152-26-049249-index.htm)
+
 - **10-K/A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316826008142/0001683168-26-008142-index.htm)
+
+- **10-Q** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926033940/0001437749-26-033940-index.htm)
 
 - **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000015/0001571949-26-000015-index.htm)
@@ -44,27 +65,6 @@
 
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312526435616/0001193125-26-435616-index.htm)
-
-- **8-K** | Opendoor Technologies Inc.  (OPEN, OPENL, OPENW, OPENZ)  (CIK 0001801169)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1801169/000114036126041096/0001140361-26-041096-index.htm)
-
-- **S-3/A** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048838/0001493152-26-048838-index.htm)
-
-- **485APOS** | Strategy Shares  (CIK 0001506213)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226007137/0001580642-26-007137-index.htm)
-
-- **S-4/A** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026113470/0001213900-26-113470-index.htm)
-
-- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226007188/0001580642-26-007188-index.htm)
-
-- **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026112581/0001213900-26-112581-index.htm)
-
-- **S-4** | Twin Vee Holdco Inc.  (CIK 0002160682)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2160682/000110465926118896/0001104659-26-118896-index.htm)
 
 - **8-K** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000049/0001500217-26-000049-index.htm)
@@ -99,6 +99,9 @@
 - **6-K/A** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112647/0001213900-26-112647-index.htm)
 
+- **6-K** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000162828026068117/0001628280-26-068117-index.htm)
+
 - **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index.htm)
 
@@ -108,11 +111,23 @@
 - **F-1** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226049133/0001493152-26-049133-index.htm)
 
+- **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326016386/0000950103-26-016386-index.htm)
+
+- **485APOS** | Strategy Shares  (CIK 0001506213)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226007137/0001580642-26-007137-index.htm)
+
+- **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226007188/0001580642-26-007188-index.htm)
+
 - **F-3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112724/0001213900-26-112724-index.htm)
 
 - **485BPOS** | FIDELITY COVINGTON TRUST  (CIK 0000945908)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/945908/000094590826000411/0000945908-26-000411-index.htm)
+
+- **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000004/0002135077-26-000004-index.htm)
 
 - **487** | FT 13259  (CIK 0002144049)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2144049/000144554626008041/0001445546-26-008041-index.htm)
@@ -132,8 +147,20 @@
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826013779/0001133228-26-013779-index.htm)
 
+- **N-CSR** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000330/0001710607-26-000330-index.htm)
+
+- **S-4/A** | US Elemental Inc.  (ULIT)  (CIK 0002134552)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2134552/000121390026112581/0001213900-26-112581-index.htm)
+
+- **S-4/A** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026113470/0001213900-26-113470-index.htm)
+
 - **10-D** | Wells Fargo Commercial Mortgage Trust 2020-C58  (CIK 0001827054)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1827054/000188852426019265/0001888524-26-019265-index.htm)
+
+- **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000157/0000783401-26-000157-index.htm)
 
 - **N-CSRS** | FRANKLIN TAX FREE TRUST  (CIK 0000757010)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/757010/000113322826013679/0001133228-26-013679-index.htm)
@@ -144,6 +171,9 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026004808/0001592900-26-004808-index.htm)
 
+- **S-3/A** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048838/0001493152-26-048838-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426018831/0001398344-26-018831-index.htm)
 
@@ -152,6 +182,9 @@
 
 - **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526001108/0000898745-26-001108-index.htm)
+
+- **S-4** | Twin Vee Holdco Inc.  (CIK 0002160682)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2160682/000110465926118896/0001104659-26-118896-index.htm)
 
 - **N-CSRS** | FRANKLIN MUNICIPAL SECURITIES TRUST  (CIK 0000881309)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/881309/000113322826013677/0001133228-26-013677-index.htm)
@@ -165,9 +198,18 @@
 - **10-Q** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000163391726000088/0001633917-26-000088-index.htm)
 
+- **DEF 14A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226049268/0001493152-26-049268-index.htm)
+
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013295/0001214659-26-013295-index.htm)
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013346/0001214659-26-013346-index.htm)
+
+- **8-K** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926033952/0001437749-26-033952-index.htm)
+
+- **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526437776/0001193125-26-437776-index.htm)
 
