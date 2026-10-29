@@ -27,6 +27,9 @@
 - **10-K/A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316826008142/0001683168-26-008142-index.htm)
 
+- **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000015/0001571949-26-000015-index.htm)
+
 - **N-2** | SpaceCorp  (CIK 0002159645)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2159645/000121390026112987/0001213900-26-112987-index.htm)
 
@@ -36,14 +39,23 @@
 - **F-1/A** | Hacker Interstellar Inc.  (SOUD)  (CIK 0002070237)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070237/000121390026113199/0001213900-26-113199-index.htm)
 
+- **S-4/A** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926033844/0001437749-26-033844-index.htm)
+
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312526435616/0001193125-26-435616-index.htm)
+
+- **8-K** | Opendoor Technologies Inc.  (OPEN, OPENL, OPENW, OPENZ)  (CIK 0001801169)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1801169/000114036126041096/0001140361-26-041096-index.htm)
 
 - **S-3/A** | ALPHA MODUS HOLDINGS, INC.  (AMOD, AMODW)  (CIK 0001862463)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862463/000149315226048838/0001493152-26-048838-index.htm)
 
 - **485APOS** | Strategy Shares  (CIK 0001506213)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1506213/000158064226007137/0001580642-26-007137-index.htm)
+
+- **S-4/A** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026113470/0001213900-26-113470-index.htm)
 
 - **485BPOS** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226007188/0001580642-26-007188-index.htm)
@@ -92,6 +104,9 @@
 
 - **6-K/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026113369/0001213900-26-113369-index.htm)
+
+- **F-1** | Abits Group Inc  (ABTS)  (CIK 0001864055)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1864055/000149315226049133/0001493152-26-049133-index.htm)
 
 - **F-3** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026112724/0001213900-26-112724-index.htm)
