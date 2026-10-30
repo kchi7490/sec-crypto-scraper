@@ -30,11 +30,17 @@
 - **10-K/A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316826008142/0001683168-26-008142-index.htm)
 
+- **8-K** | WisdomTree, Inc.  (WT)  (CIK 0000880631)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/880631/000121465926013478/0001214659-26-013478-index.htm)
+
 - **10-Q** | Stablecoin Development Corp  (SDEV)  (CIK 0001389545)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1389545/000143774926033940/0001437749-26-033940-index.htm)
 
 - **10-Q** | Intercontinental Exchange, Inc.  (ICE)  (CIK 0001571949)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571949/000157194926000015/0001571949-26-000015-index.htm)
+
+- **S-1/A** | VS Trust  (SVIX, UVIX)  (CIK 0001793497)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1793497/000121390026113954/0001213900-26-113954-index.htm)
 
 - **N-2** | SpaceCorp  (CIK 0002159645)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2159645/000121390026112987/0001213900-26-112987-index.htm)
@@ -62,6 +68,12 @@
 
 - **DEF 14A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226049268/0001493152-26-049268-index.htm)
+
+- **PRE 14A** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926120287/0001104659-26-120287-index.htm)
+
+- **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026068447/0001628280-26-068447-index.htm)
 
 - **S-4/A** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026113470/0001213900-26-113470-index.htm)
@@ -111,6 +123,9 @@
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326016386/0000950103-26-016386-index.htm)
 
+- **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226049360/0001493152-26-049360-index.htm)
+
 - **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000004/0002135077-26-000004-index.htm)
 
@@ -155,4 +170,7 @@
 
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013346/0001214659-26-013346-index.htm)
+
+- **10-Q** | OFS Capital Corp  (OFS, OFSSH, OFSSO)  (CIK 0001487918)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791826000091/0001487918-26-000091-index.htm)
 
