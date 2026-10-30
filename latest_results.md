@@ -63,6 +63,9 @@
 - **485BPOS** | Bridge Builder Trust  (CIK 0001567101)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1567101/000119312526435616/0001193125-26-435616-index.htm)
 
+- **S-1/A** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826008203/0001683168-26-008203-index.htm)
+
 - **8-K** | Opendoor Technologies Inc.  (OPEN, OPENL, OPENW, OPENZ)  (CIK 0001801169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1801169/000114036126041096/0001140361-26-041096-index.htm)
 
@@ -75,11 +78,26 @@
 - **DEF 14A** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226049268/0001493152-26-049268-index.htm)
 
+- **S-1** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000162828026068609/0001628280-26-068609-index.htm)
+
+- **424B3** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000162828026068590/0001628280-26-068590-index.htm)
+
 - **PRE 14A** | Datavault AI Inc.  (DVLT)  (CIK 0001682149)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1682149/000110465926120287/0001104659-26-120287-index.htm)
 
 - **10-Q** | Cboe Global Markets, Inc.  (CBOE)  (CIK 0001374310)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1374310/000162828026068447/0001628280-26-068447-index.htm)
+
+- **S-1/A** | Velos Acquisition I Corp.  (VLOS, VLOSU, VLOSW)  (CIK 0002016072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2016072/000121390026114335/0001213900-26-114335-index.htm)
+
+- **DEF 14A** | CapForce Inc.  (CFOR)  (CIK 0001293818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1293818/000182912626011840/0001829126-26-011840-index.htm)
+
+- **S-1** | Exascale Labs Holdings Inc.  (XLAB, XLABW)  (CIK 0002109869)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626011834/0001829126-26-011834-index.htm)
 
 - **S-4/A** | Inflection Point Acquisition Corp. VII  (IPXG, IPXGU, IPXGW)  (CIK 0002088805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2088805/000121390026113470/0001213900-26-113470-index.htm)
@@ -123,6 +141,9 @@
 - **6-K** | Banco Santander, S.A.  (SAN, BCDRF)  (CIK 0000891478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/891478/000089147826000093/0000891478-26-000093-index.htm)
 
+- **20-F** | Bioceres Crop Solutions Corp.  (BIOX)  (CIK 0001769484)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1769484/000110465926120726/0001104659-26-120726-index.htm)
+
 - **6-K/A** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026113369/0001213900-26-113369-index.htm)
 
@@ -141,8 +162,17 @@
 - **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026114176/0001213900-26-114176-index.htm)
 
+- **8-K** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026114385/0001213900-26-114385-index.htm)
+
+- **425** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026114403/0001213900-26-114403-index.htm)
+
 - **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000004/0002135077-26-000004-index.htm)
+
+- **POS AM** | BNB Standard Corp  (BNC, BNCWW, BNCWZ)  (CIK 0001482541)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1482541/000149315226049436/0001493152-26-049436-index.htm)
 
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435739/0001193125-26-435739-index.htm)
@@ -186,6 +216,9 @@
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026004808/0001592900-26-004808-index.htm)
 
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426019193/0001398344-26-019193-index.htm)
+
 - **485BPOS** | Roundhill ETF Trust  (CIK 0001976517)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426019093/0001398344-26-019093-index.htm)
 
@@ -210,8 +243,20 @@
 - **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526001108/0000898745-26-001108-index.htm)
 
+- **10-Q** | FEDERATED HERMES, INC.  (FHI)  (CIK 0001056288)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1056288/000105628826000030/0001056288-26-000030-index.htm)
+
+- **485BPOS** | 1290 Funds  (CIK 0001605941)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1605941/000119312526441723/0001193125-26-441723-index.htm)
+
+- **PRE 14A** | NeoVolta Inc.  (NEOV, NEOVW)  (CIK 0001748137)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1748137/000168316826008208/0001683168-26-008208-index.htm)
+
 - **485BPOS** | WisdomTree Trust  (CIK 0001350487)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1350487/000121465926013346/0001214659-26-013346-index.htm)
+
+- **10-Q** | American Assets Trust, Inc.  (AAT)  (CIK 0001500217)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1500217/000150021726000052/0001500217-26-000052-index.htm)
 
 - **10-Q** | OFS Capital Corp  (OFS, OFSSH, OFSSO)  (CIK 0001487918)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1487918/000148791826000091/0001487918-26-000091-index.htm)
