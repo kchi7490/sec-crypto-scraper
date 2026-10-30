@@ -1,10 +1,16 @@
 ## 📁 Other Filings
 
+- **8-K** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026114174/0001213900-26-114174-index.htm)
+
 - **8-K** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000121/0001679788-26-000121-index.htm)
 
 - **10-Q** | Coinbase Global, Inc.  (COIN)  (CIK 0001679788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000122/0001679788-26-000122-index.htm)
+
+- **424B5** | OpenWorld, Inc.  (OPNW)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926013484/0001214659-26-013484-index.htm)
 
 - **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026113111/0001213900-26-113111-index.htm)
@@ -100,6 +106,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737995/000149315226049311/0001493152-26-049311-index.htm)
 
 - **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026114206/0001213900-26-114206-index.htm)
+
+- **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026113192/0001213900-26-113192-index.htm)
 
 - **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
@@ -123,8 +132,14 @@
 - **424B2** | BARCLAYS BANK PLC  (DJP, GRN, VXX, VXZ, ATMP, GBUG, TAPR, BWVTF, JJETF)  (CIK 0000312070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/312070/000095010326016386/0000950103-26-016386-index.htm)
 
+- **20-F** | Basel Medical Group Ltd  (BMGL)  (CIK 0002004489)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2004489/000149315226049381/0001493152-26-049381-index.htm)
+
 - **6-K** | Currenc Group Inc.  (CURR)  (CIK 0001862935)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1862935/000149315226049360/0001493152-26-049360-index.htm)
+
+- **424B3** | Hashdex Nasdaq CME Crypto Index ETF  (NCIQ)  (CIK 0002031069)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2031069/000121390026114176/0001213900-26-114176-index.htm)
 
 - **1-A/A** | Tokenova Worldwide, Inc.  (CIK 0002135077)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2135077/000213507726000004/0002135077-26-000004-index.htm)
@@ -141,6 +156,12 @@
 - **485BPOS** | MASSMUTUAL ASCEND LIFE INSURANCE CO  (CIK 0000723258)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/723258/000119312526435753/0001193125-26-435753-index.htm)
 
+- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000203/0002047976-26-000203-index.htm)
+
+- **N-4** | Jackson National Life Insurance Co (RILA)  (CIK 0002047976)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2047976/000204797626000204/0002047976-26-000204-index.htm)
+
 - **485BPOS** | AMERICAN BEACON FUNDS  (CIK 0000809593)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/809593/000113322826013779/0001133228-26-013779-index.htm)
 
@@ -150,11 +171,17 @@
 - **N-CSR** | AMERICAN CENTURY ETF TRUST  (CIK 0001710607)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710607/000171060726000330/0001710607-26-000330-index.htm)
 
+- **10-D** | BANK 2020-BNK29  (CIK 0001830315)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830315/000188852426020135/0001888524-26-020135-index.htm)
+
 - **NPORT-P** | VANGUARD CALIFORNIA TAX-FREE FUNDS  (CIK 0000783401)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/783401/000078340126000157/0000783401-26-000157-index.htm)
 
 - **1-A** | ZQ Platforms Inc.  (CIK 0002146072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000009/0002146072-26-000009-index.htm)
+
+- **1-A/A** | Elf Labs, Inc  (CIK 0002019817)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2019817/000149315226049399/0001493152-26-049399-index.htm)
 
 - **485BPOS** | EA Series Trust  (CIK 0001592900)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1592900/000159290026004808/0001592900-26-004808-index.htm)
@@ -164,6 +191,21 @@
 
 - **485APOS** | FORUM FUNDS  (CIK 0000315774)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/315774/000121390026113108/0001213900-26-113108-index.htm)
+
+- **485BPOS** | American Funds U.S. Small & Mid Cap Equity Fund  (CIK 0002026099)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2026099/000005193126001093/0000051931-26-001093-index.htm)
+
+- **485BPOS** | GROWTH FUND OF AMERICA  (CIK 0000044201)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/44201/000005193126001095/0000051931-26-001095-index.htm)
+
+- **485BPOS** | Short-Term Bond Fund of America  (CIK 0001368040)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1368040/000005193126001099/0000051931-26-001099-index.htm)
+
+- **485BPOS** | American Funds Core Plus Bond Fund  (CIK 0002064871)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2064871/000005193126001081/0000051931-26-001081-index.htm)
+
+- **485BPOS** | INTERMEDIATE BOND FUND OF AMERICA  (CIK 0000826813)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/826813/000005193126001087/0000051931-26-001087-index.htm)
 
 - **N-CSR** | PRINCIPAL FUNDS, INC.  (CIK 0000898745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/898745/000089874526001108/0000898745-26-001108-index.htm)
