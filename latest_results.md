@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226049572/0001493152-26-049572-index.htm)
 
+- **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526445531/0001193125-26-445531-index.htm)
+
 - **8-K** | FG Imperii Acquisition Corp.  (FGII, FGIIU, FGIIW)  (CIK 0002090452)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2090452/000110465926120989/0001104659-26-120989-index.htm)
 
@@ -15,17 +18,35 @@
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826008228/0001683168-26-008228-index.htm)
 
+- **10-K** | NORTHERN MINERALS & EXPLORATION LTD.  (NMEX)  (CIK 0001415744)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1415744/000143774926034681/0001437749-26-034681-index.htm)
+
 - **S-1/A** | Canary Staked INJ ETF  (CIK 0002073616)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2073616/000199937126024117/0001999371-26-024117-index.htm)
 
+- **8-K** | Titan Acquisition Corp.  (TACH, TACHU, TACHW)  (CIK 0002009183)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2009183/000182912626011938/0001829126-26-011938-index.htm)
+
+- **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926121990/0001104659-26-121990-index.htm)
+
 - **ARS** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026114923/0001213900-26-114923-index.htm)
+
+- **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000166/0000008818-26-000166-index.htm)
+
+- **8-K** | Marqeta, Inc.  (MQ)  (CIK 0001522540)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1522540/000152254026000076/0001522540-26-000076-index.htm)
 
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000060/0001050446-26-000060-index.htm)
 
 - **20-F** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226049631/0001493152-26-049631-index.htm)
+
+- **F-3** | WISeQey Corp.  (WSKEF)  (CIK 0001738699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026115630/0001213900-26-115630-index.htm)
 
 - **DEF 14A** | Phunware, Inc.  (PHUN)  (CIK 0001665300)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1665300/000119312526442726/0001193125-26-442726-index.htm)
@@ -60,6 +81,9 @@
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000047/0001819989-26-000047-index.htm)
 
+- **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/0001628280-26-069513-index.htm)
+
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226049633/0001493152-26-049633-index.htm)
 
@@ -68,6 +92,9 @@
 
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000147/0001805526-26-000147-index.htm)
+
+- **10-Q** | LENZ Therapeutics, Inc.  (LENZ)  (CIK 0001815776)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1815776/000181577626000059/0001815776-26-000059-index.htm)
 
 - **10-Q** | Nuveen Churchill Direct Lending Corp.  (NCDL)  (CIK 0001737924)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737924/000173792426000089/0001737924-26-000089-index.htm)
@@ -96,8 +123,14 @@
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326016764/0000950103-26-016764-index.htm)
 
+- **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326016767/0000950103-26-016767-index.htm)
+
 - **487** | FT 13321  (CIK 0002150639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2150639/000144554626008342/0001445546-26-008342-index.htm)
+
+- **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926122143/0001104659-26-122143-index.htm)
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000568/0001081400-26-000568-index.htm)
@@ -114,6 +147,9 @@
 - **N-4** | MIDLAND NATIONAL LIFE INSURANCE CO RILA  (CIK 0002040519)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2040519/000204051926000084/0002040519-26-000084-index.htm)
 
+- **485APOS** | Defiance ETFs Trust I  (CIK 0001844255)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1844255/000207184426001726/0002071844-26-001726-index.htm)
+
 - **13F-HR** | Westside Investment Management, Inc.  (CIK 0001538383)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1538383/000153838326000005/0001538383-26-000005-index.htm)
 
@@ -122,4 +158,10 @@
 
 - **10-Q** | MIAMI INTERNATIONAL HOLDINGS, INC.  (MIAX)  (CIK 0001438472)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1438472/000162828026068667/0001628280-26-068667-index.htm)
+
+- **10-Q** | BROADRIDGE FINANCIAL SOLUTIONS, INC.  (BR)  (CIK 0001383312)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383312/000162828026069260/0001628280-26-069260-index.htm)
+
+- **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/0001628280-26-069524-index.htm)
 
