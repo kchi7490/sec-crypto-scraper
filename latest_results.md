@@ -36,6 +36,9 @@
 - **10-Q** | Sports Entertainment Gaming Global Corp  (SEGG, LTRYW)  (CIK 0001673481)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1673481/000149315226049582/0001493152-26-049582-index.htm)
 
+- **S-4/A** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026115045/0001213900-26-115045-index.htm)
+
 - **S-4/A** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926034438/0001437749-26-034438-index.htm)
 
@@ -51,6 +54,9 @@
 - **8-K/A** | Opendoor Technologies Inc.  (OPEN, OPENL, OPENW, OPENZ)  (CIK 0001801169)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1801169/000114036126041579/0001140361-26-041579-index.htm)
 
+- **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826013865/0001133228-26-013865-index.htm)
+
 - **8-K** | Cipher Digital Inc.  (CIFR)  (CIK 0001819989)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819989/000181998926000047/0001819989-26-000047-index.htm)
 
@@ -62,6 +68,9 @@
 
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000147/0001805526-26-000147-index.htm)
+
+- **10-Q** | Nuveen Churchill Direct Lending Corp.  (NCDL)  (CIK 0001737924)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1737924/000173792426000089/0001737924-26-000089-index.htm)
 
 - **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026115037/0001213900-26-115037-index.htm)
@@ -75,11 +84,17 @@
 - **20-F** | VivoPower PLC  (VIVO)  (CIK 0001681348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315226049646/0001493152-26-049646-index.htm)
 
+- **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000117/0001383395-26-000117-index.htm)
+
 - **6-K** | EMBRAER S.A.  (EMBJ)  (CIK 0001355444)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1355444/000129281426005086/0001292814-26-005086-index.htm)
 
 - **485APOS** | KINETICS MUTUAL FUNDS INC  (CIK 0001083387)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083387/000089418926030160/0000894189-26-030160-index.htm)
+
+- **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326016764/0000950103-26-016764-index.htm)
 
 - **487** | FT 13321  (CIK 0002150639)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2150639/000144554626008342/0001445546-26-008342-index.htm)
@@ -89,6 +104,9 @@
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000562/0001081400-26-000562-index.htm)
+
+- **13F-HR** | Parallel Advisors, LLC  (CIK 0001690010)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1690010/000169001026000007/0001690010-26-000007-index.htm)
 
 - **497** | DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS  (CIK 0000740766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/740766/000003014626000468/0000030146-26-000468-index.htm)
