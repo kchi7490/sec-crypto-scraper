@@ -165,3 +165,6 @@
 - **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/0001628280-26-069524-index.htm)
 
+- **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189526002922/0000921895-26-002922-index.htm)
+
