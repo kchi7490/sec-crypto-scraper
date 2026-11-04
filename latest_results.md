@@ -3,6 +3,9 @@
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226049572/0001493152-26-049572-index.htm)
 
+- **424B3** | T. Rowe Price Active Crypto ETF  (TKNZ)  (CIK 0002089855)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2089855/000199937126024444/0001999371-26-024444-index.htm)
+
 - **8-K** | ProShares Trust II  (AGQ, EUO, GLL, SCO, UCO, UGL, ULE, YCL, YCS, ZSL, BOIL, KOLD, SVXY, UVXY, VIXM, VIXY)  (CIK 0001415311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1415311/000119312526445531/0001193125-26-445531-index.htm)
 
@@ -39,11 +42,23 @@
 - **8-K** | Marqeta, Inc.  (MQ)  (CIK 0001522540)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1522540/000152254026000076/0001522540-26-000076-index.htm)
 
+- **10-Q** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026069800/0001628280-26-069800-index.htm)
+
+- **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026069799/0001628280-26-069799-index.htm)
+
 - **10-Q** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000105044626000060/0001050446-26-000060-index.htm)
 
 - **20-F** | GMEX Robotics Corp  (GMEX)  (CIK 0001928581)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1928581/000149315226049631/0001493152-26-049631-index.htm)
+
+- **10-Q** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000119312526446146/0001193125-26-446146-index.htm)
+
+- **10-Q** | Circle Internet Group, Inc.  (CRCL)  (CIK 0001876042)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000311/0001876042-26-000311-index.htm)
 
 - **F-3** | WISeQey Corp.  (WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026115630/0001213900-26-115630-index.htm)
@@ -60,8 +75,14 @@
 - **S-4/A** | Silicon Valley Acquisition Corp.  (SVAQ, SVAQU, SVAQW)  (CIK 0002085659)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2085659/000121390026115045/0001213900-26-115045-index.htm)
 
+- **424B3** | AMC Robotics Corp  (AMCI)  (CIK 0001937891)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1937891/000149315226049834/0001493152-26-049834-index.htm)
+
 - **S-4/A** | Trump Media & Technology Group Corp.  (DJT, DJTWW)  (CIK 0001849635)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849635/000143774926034438/0001437749-26-034438-index.htm)
+
+- **DEFM14A** | WAFD INC  (WAFD, WAFDP)  (CIK 0000936528)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/936528/000114036126041902/0001140361-26-041902-index.htm)
 
 - **8-K** | Strategy Inc  (MSTR, STRC, STRD, STRF, STRK)  (CIK 0001050446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526442707/0001193125-26-442707-index.htm)
@@ -90,6 +111,9 @@
 - **DEF 14A** | Digi Power X Inc.  (DGXX)  (CIK 0001854368)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1854368/000121390026114925/0001213900-26-114925-index.htm)
 
+- **497** | MUTUAL FUND SERIES TRUST  (CIK 0001355064)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1355064/000158064226007424/0001580642-26-007424-index.htm)
+
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000147/0001805526-26-000147-index.htm)
 
@@ -111,6 +135,9 @@
 - **20-F** | VivoPower PLC  (VIVO)  (CIK 0001681348)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681348/000149315226049646/0001493152-26-049646-index.htm)
 
+- **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926122402/0001104659-26-122402-index.htm)
+
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000117/0001383395-26-000117-index.htm)
 
@@ -131,6 +158,12 @@
 
 - **10-Q** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926122143/0001104659-26-122143-index.htm)
+
+- **8-K** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926122368/0001104659-26-122368-index.htm)
+
+- **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926122417/0001104659-26-122417-index.htm)
 
 - **497** | ALLSPRING FUNDS TRUST  (CIK 0001081400)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1081400/000108140026000568/0001081400-26-000568-index.htm)
@@ -164,6 +197,9 @@
 
 - **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/0001628280-26-069524-index.htm)
+
+- **10-Q** | QuidelOrtho Corp  (QDEL)  (CIK 0001906324)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1906324/000190632426000042/0001906324-26-000042-index.htm)
 
 - **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189526002922/0000921895-26-002922-index.htm)
