@@ -30,11 +30,17 @@
 - **8-K** | National Bank Holdings Corp  (NBHC)  (CIK 0001475841)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1475841/000110465926121990/0001104659-26-121990-index.htm)
 
+- **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826008329/0001683168-26-008329-index.htm)
+
 - **10-Q** | Avery Dennison Corp  (AVY)  (CIK 0000008818)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/8818/000000881826000166/0000008818-26-000166-index.htm)
 
 - **8-K** | Marqeta, Inc.  (MQ)  (CIK 0001522540)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1522540/000152254026000076/0001522540-26-000076-index.htm)
+
+- **8-K** | ONCOR ELECTRIC DELIVERY CO LLC  (CIK 0001193311)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1193311/000119312526448721/0001193125-26-448721-index.htm)
 
 - **10-Q** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026069800/0001628280-26-069800-index.htm)
@@ -99,11 +105,14 @@
 - **10-Q** | Riot Platforms, Inc.  (RIOT)  (CIK 0001167419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926122417/0001104659-26-122417-index.htm)
 
-- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926122347/0001104659-26-122347-index.htm)
+- **8-K** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000181247726000041/0001812477-26-000041-index.htm)
 
 - **N-CSRS** | Listed Funds Trust  (CIK 0001683471)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1683471/000113322826013865/0001133228-26-013865-index.htm)
+
+- **8-K** | Hut 8 Corp.  (HUT)  (CIK 0001964789)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1964789/000110465926122347/0001104659-26-122347-index.htm)
 
 - **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000020/0002007691-26-000020-index.htm)
@@ -111,8 +120,17 @@
 - **8-K** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069513/0001628280-26-069513-index.htm)
 
+- **10-Q** | Keel Infrastructure Corp.  (KEEL)  (CIK 0001812477)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1812477/000181247726000040/0001812477-26-000040-index.htm)
+
+- **10-Q** | Core Scientific, Inc./tx  (CORZ, CORZR, CORZW, CORZZ)  (CIK 0001839341)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1839341/000183934126000030/0001839341-26-000030-index.htm)
+
 - **8-K** | TERAWULF INC.  (WULF)  (CIK 0001083301)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/0001628280-26-069810-index.htm)
+
+- **8-K** | ACACIA RESEARCH CORP  (ACTG)  (CIK 0000934549)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/934549/000093454926000042/0000934549-26-000042-index.htm)
 
 - **DEF 14A** | USBC, Inc.  (USBC)  (CIK 0001074828)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1074828/000107482826000097/0001074828-26-000097-index.htm)
@@ -144,11 +162,26 @@
 - **6-K** | SVRN, Inc.  (SVRN)  (CIK 0001869467)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1869467/000091957426007420/0000919574-26-007420-index.htm)
 
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926035071/0001437749-26-035071-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326005764/0001062993-26-005764-index.htm)
+
+- **6-K** | SOL Strategies Inc.  (STKE)  (CIK 0001846839)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1846839/000106299326005768/0001062993-26-005768-index.htm)
+
+- **20-F** | Wetour Robotics Ltd  (WETO)  (CIK 0001941158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026116149/0001213900-26-116149-index.htm)
+
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926122402/0001104659-26-122402-index.htm)
 
 - **6-K** | SEQUANS COMMUNICATIONS  (SQNS)  (CIK 0001383395)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1383395/000138339526000117/0001383395-26-000117-index.htm)
+
+- **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526448593/0001193125-26-448593-index.htm)
 
 - **424B3** | GOLDMAN SACHS GROUP INC  (GS, GSCE, GS-PA, GS-PC, GS-PD)  (CIK 0000886982)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326016764/0000950103-26-016764-index.htm)
@@ -173,6 +206,9 @@
 
 - **10-Q** | Block, Inc.  (XYZ, BSQKZ)  (CIK 0001512673)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1512673/000162828026069524/0001628280-26-069524-index.htm)
+
+- **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526448595/0001193125-26-448595-index.htm)
 
 - **SCHEDULE 13G/A** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000092189526002922/0000921895-26-002922-index.htm)
