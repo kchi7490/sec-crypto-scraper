@@ -15,6 +15,9 @@
 - **8-K** | Hyperliquid Strategies Inc  (PURR)  (CIK 0002078856)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2078856/000119312526450063/0001193125-26-450063-index.htm)
 
+- **10-Q** | iShares Ethereum Trust ETF  (ETHA)  (CIK 0002000638)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000638/000143774926035533/0001437749-26-035533-index.htm)
+
 - **8-K** | Eva Live Inc  (GOAI)  (CIK 0001983736)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1983736/000149315226050298/0001493152-26-050298-index.htm)
 
@@ -45,6 +48,9 @@
 - **8-K** | IonQ, Inc.  (IONQ)  (CIK 0001824920)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1824920/000119312526449779/0001193125-26-449779-index.htm)
 
+- **10-Q** | Fidelity Ethereum Fund  (FETH)  (CIK 0002000046)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2000046/000119312526451442/0001193125-26-451442-index.htm)
+
 - **424B3** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826008329/0001683168-26-008329-index.htm)
 
@@ -59,6 +65,12 @@
 
 - **8-K** | NCR Atleos Corp  (NATL)  (CIK 0001974138)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1974138/000162828026069799/0001628280-26-069799-index.htm)
+
+- **N-CSRS** | Tidal Trust III  (CIK 0001722388)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1722388/000199937126024788/0001999371-26-024788-index.htm)
+
+- **F-1** | BEHNEH Ltd  (CIK 0002136246)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2136246/000121390026116798/0001213900-26-116798-index.htm)
 
 - **424B3** | Exascale Labs Holdings Inc.  (XLAB, XLABW)  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626012039/0001829126-26-012039-index.htm)
@@ -168,6 +180,9 @@
 - **8-K** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000020/0002007691-26-000020-index.htm)
 
+- **8-K** | CANADIAN DERIVATIVES CLEARING CORP  (CIK 0000319643)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/319643/000109991026000298/0001099910-26-000298-index.htm)
+
 - **8-K** | IREN Ltd  (IREN)  (CIK 0001878848)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/0001878848-26-000065-index.htm)
 
@@ -207,6 +222,9 @@
 - **DEF 14A** | New ERA Energy & Digital, Inc.  (NUAI, NUAIW)  (CIK 0002028336)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028336/000110465926123315/0001104659-26-123315-index.htm)
 
+- **N-MFP3** | FIDELITY HEREFORD STREET TRUST  (CIK 0000917286)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/917286/000003540226006951/0000035402-26-006951-index.htm)
+
 - **DEF 14A** | SOAR AI, Inc.  (SOAR, SOARW)  (CIK 0001853070)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853070/000149315226049957/0001493152-26-049957-index.htm)
 
@@ -218,6 +236,9 @@
 
 - **8-K** | Morgan Stanley Ethereum Trust  (MSSE)  (CIK 0002103976)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103976/000110465926122694/0001104659-26-122694-index.htm)
+
+- **N-MFP3** | Fidelity Colchester Street Trust  (CIK 0000356173)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/356173/000003540226006942/0000035402-26-006942-index.htm)
 
 - **8-K** | Morgan Stanley Solana Trust  (MSOL)  (CIK 0002103547)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2103547/000110465926122696/0001104659-26-122696-index.htm)
@@ -250,6 +271,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1941158/000121390026116149/0001213900-26-116149-index.htm)
 
 - **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926123742/0001104659-26-123742-index.htm)
+
+- **424B5** | BANCO BILBAO VIZCAYA ARGENTARIA, S.A.  (BBVA, BBVXF)  (CIK 0000842180)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/842180/000110465926122402/0001104659-26-122402-index.htm)
 
 - **FWP** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
@@ -260,6 +284,12 @@
 
 - **6-K** | Orion Digital Corp.  (ORIO)  (CIK 0001602842)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1602842/000119312526448593/0001193125-26-448593-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926001056/0001279569-26-001056-index.htm)
+
+- **10-Q** | iShares Staked Ethereum Trust ETF  (ETHB)  (CIK 0002099103)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2099103/000143774926035531/0001437749-26-035531-index.htm)
 
 - **N-CSR** | Invesco Exchange-Traded Fund Trust II  (CIK 0001378872)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1378872/000119312526450665/0001193125-26-450665-index.htm)
@@ -273,8 +303,38 @@
 - **N-CSR** | HIGH INCOME SECURITIES FUND  (PCF)  (CIK 0000810943)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/810943/000199937126024605/0001999371-26-024605-index.htm)
 
+- **N-MFP3** | CHARLES SCHWAB FAMILY OF FUNDS  (CIK 0000857156)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/857156/000141036826111031/0001410368-26-111031-index.htm)
+
+- **13F-HR** | Coston, McIsaac & Partners  (CIK 0001945037)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1945037/000194503726000004/0001945037-26-000004-index.htm)
+
+- **485APOS** | Roundhill ETF Trust  (CIK 0001976517)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1976517/000139834426019686/0001398344-26-019686-index.htm)
+
+- **485APOS** | Russell Investments Exchange Traded Funds  (CIK 0002042513)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2042513/000119312526451172/0001193125-26-451172-index.htm)
+
+- **10-Q** | GUOCHUN INTERNATIONAL INC.  (GCGJ)  (CIK 0001765048)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1765048/000176504826000026/0001765048-26-000026-index.htm)
+
 - **10-Q** | SoFi Technologies, Inc.  (SOFI)  (CIK 0001818874)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/0001818874-26-000070-index.htm)
+
+- **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526450281/0001193125-26-450281-index.htm)
+
+- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526450234/0001193125-26-450234-index.htm)
+
+- **10-Q** | STRATEGIC ACQUISITIONS INC /NV/  (STQN)  (CIK 0000847942)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/847942/000149315226050372/0001493152-26-050372-index.htm)
+
+- **10-Q** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526450280/0001193125-26-450280-index.htm)
+
+- **10-Q** | Fidelity Wise Origin Bitcoin Fund  (FBTC)  (CIK 0001852317)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1852317/000119312526451451/0001193125-26-451451-index.htm)
 
 - **10-Q** | Grayscale Bitcoin Trust ETF  (GBTC)  (CIK 0001588489)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1588489/000158848926000007/0001588489-26-000007-index.htm)
@@ -282,20 +342,11 @@
 - **10-Q** | GRAHAM CORP  (GHM)  (CIK 0000716314)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/716314/000119312526448595/0001193125-26-448595-index.htm)
 
-- **10-Q** | Invesco Galaxy Bitcoin ETF  (BTCO)  (CIK 0001855781)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1855781/000119312526450234/0001193125-26-450234-index.htm)
-
 - **497K** | Tidal Trust II  (CIK 0001924868)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126024652/0001999371-26-024652-index.htm)
 
-- **10-Q** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526450281/0001193125-26-450281-index.htm)
-
 - **485APOS** | Tidal Trust V  (CIK 0002081107)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2081107/000199937126024649/0001999371-26-024649-index.htm)
-
-- **10-Q** | Invesco Galaxy Solana ETF  (QSOL)  (CIK 0002074409)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2074409/000119312526450280/0001193125-26-450280-index.htm)
 
 - **10-Q** | Zcash ETF  (ZCSH)  (CIK 0001720265)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1720265/000172026526000013/0001720265-26-000013-index.htm)
@@ -305,4 +356,7 @@
 
 - **10-Q** | Grayscale Dogecoin Trust ETF  (GDOG)  (CIK 0002055510)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055510/000205551026000009/0002055510-26-000009-index.htm)
+
+- **10-Q** | Hancock Park Corporate Income, Inc.  (CIK 0001661306)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1661306/000166130626000098/0001661306-26-000098-index.htm)
 
