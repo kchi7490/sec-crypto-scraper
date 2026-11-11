@@ -81,11 +81,11 @@
 - **10-Q** | Datacentrex, Inc.  (DTCX)  (CIK 0001853825)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1853825/000149315226050990/0001493152-26-050990-index.htm)
 
-- **10-Q** | Grayscale Avalanche Staking ETF  (GAVA)  (CIK 0002035053)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000203505326000027/0002035053-26-000027-index.htm)
-
 - **10-Q** | Grayscale Sui Staking ETF  (GSUI)  (CIK 0002034012)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2034012/000203401226000028/0002034012-26-000028-index.htm)
+
+- **10-Q** | Grayscale Avalanche Staking ETF  (GAVA)  (CIK 0002035053)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2035053/000203505326000027/0002035053-26-000027-index.htm)
 
 - **10-Q** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000210773026000010/0002107730-26-000010-index.htm)
