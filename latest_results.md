@@ -1,5 +1,8 @@
 ## 📁 Other Filings
 
+- **10-Q** | OpenWorld, Inc.  (OPNW)  (CIK 0001104038)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1104038/000121465926014046/0001214659-26-014046-index.htm)
+
 - **8-K** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000072/0002055592-26-000072-index.htm)
 
@@ -14,6 +17,9 @@
 
 - **8-K** | Newsmax Inc.  (NMAX)  (CIK 0002026478)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2026478/000202647826000070/0002026478-26-000070-index.htm)
+
+- **10-Q** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000205559226000074/0002055592-26-000074-index.htm)
 
 - **10-Q** | Greenpro Capital Corp.  (GRNQ)  (CIK 0001597846)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597846/000149315226051123/0001493152-26-051123-index.htm)
@@ -35,6 +41,9 @@
 
 - **8-K** | DeFi Development Corp.  (CHAD, DFDV, DFDVW, DFUKF)  (CIK 0001805526)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1805526/000180552626000166/0001805526-26-000166-index.htm)
+
+- **10-Q** | HYPERION DEFI, INC.  (HYPD)  (CIK 0001682639)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1682639/000110465926126428/0001104659-26-126428-index.htm)
 
 - **8-K** | Streamex Corp.  (STEX)  (CIK 0001530766)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1530766/000149315226051389/0001493152-26-051389-index.htm)
@@ -78,6 +87,9 @@
 - **424B3** | Grayscale Hyperliquid Staking ETF  (HYPG)  (CIK 0002107730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2107730/000210773026000012/0002107730-26-000012-index.htm)
 
+- **10-Q** | King Resources Global, Inc.  (KRFG)  (CIK 0000774415)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/774415/000168316826008641/0001683168-26-008641-index.htm)
+
 - **1-A** | MANGOCEUTICALS, INC.  (MGRX)  (CIK 0001938046)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1938046/000149315226051161/0001493152-26-051161-index.htm)
 
@@ -111,6 +123,9 @@
 - **10-Q** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000162828026073455/0001628280-26-073455-index.htm)
 
+- **8-K** | Nakamoto Inc.  (NAKA, NAKAW)  (CIK 0001946573)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1946573/000149315226051510/0001493152-26-051510-index.htm)
+
 - **8-K** | Bit Digital, Inc  (BTBT)  (CIK 0001710350)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1710350/000121390026118267/0001213900-26-118267-index.htm)
 
@@ -119,6 +134,9 @@
 
 - **8-K** | Horizon Kinetics Holding Corp  (HKHC)  (CIK 0000088000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/88000/000119312526458440/0001193125-26-458440-index.htm)
+
+- **20-F** | Zhibao Technology Inc.  (ZBAO)  (CIK 0001966750)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966750/000121390026119102/0001213900-26-119102-index.htm)
 
 - **8-K** | Invesco Galaxy Ethereum ETF  (QETH)  (CIK 0001995569)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1995569/000119312526458386/0001193125-26-458386-index.htm)
@@ -164,6 +182,9 @@
 
 - **10-Q** | Nuveen Churchill Private Capital Income Fund  (CIK 0001911066)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1911066/000191106626000118/0001911066-26-000118-index.htm)
+
+- **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000127956926001069/0001279569-26-001069-index.htm)
 
 - **6-K** | Defi Technologies, Inc.  (DEFT)  (CIK 0001888274)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1888274/000149315226051470/0001493152-26-051470-index.htm)
