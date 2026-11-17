@@ -9,6 +9,9 @@
 - **10-Q** | OneMedNet Corp  (ONMD, ONMDW)  (CIK 0001849380)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1849380/000149315226052480/0001493152-26-052480-index.htm)
 
+- **8-K** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026120946/0001213900-26-120946-index.htm)
+
 - **10-Q** | TAO Synergies Inc.  (TAOX)  (CIK 0001571934)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1571934/000110465926128507/0001104659-26-128507-index.htm)
 
@@ -24,11 +27,17 @@
 - **424B3** | Exascale Labs Holdings Inc.  (XLAB, XLABW)  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626012527/0001829126-26-012527-index.htm)
 
+- **8-K/A** | Evernorth Holdings Inc.  (XRPN, XRPNW)  (CIK 0002092592)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2092592/000162828026074319/0001628280-26-074319-index.htm)
+
 - **10-Q** | Exascale Labs Holdings Inc.  (XLAB, XLABW)  (CIK 0002109869)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2109869/000182912626012515/0001829126-26-012515-index.htm)
 
 - **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226052381/0001493152-26-052381-index.htm)
+
+- **10-Q** | AXE COMPUTE INC.  (AGPU)  (CIK 0001446159)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326007507/0001171843-26-007507-index.htm)
 
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826008765/0001683168-26-008765-index.htm)
@@ -105,6 +114,9 @@
 - **8-K** | iPower Inc.  (IPW)  (CIK 0001830072)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1830072/000168316826008776/0001683168-26-008776-index.htm)
 
+- **424B3** | CDT Equity Inc.  (CDT, CDTTW)  (CIK 0001896212)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1896212/000149315226052727/0001493152-26-052727-index.htm)
+
 - **10-Q** | ENDRA Life Sciences Inc.  (NDRA)  (CIK 0001681682)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1681682/000121390026120776/0001213900-26-120776-index.htm)
 
@@ -146,6 +158,9 @@
 
 - **10-Q** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480526000063/0000924805-26-000063-index.htm)
+
+- **S-4/A** | Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2077033/000149315226052676/0001493152-26-052676-index.htm)
 
 - **8-K** | Strive, Inc.  (ASST, SATA, SATS)  (CIK 0001920406)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1920406/000162828026074004/0001628280-26-074004-index.htm)
@@ -216,6 +231,9 @@
 - **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026120233/0001213900-26-120233-index.htm)
 
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000127956926001082/0001279569-26-001082-index.htm)
+
 - **6-K** | Quantum eMotion Corp  (QNC)  (CIK 0002106613)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2106613/000110465926127294/0001104659-26-127294-index.htm)
 
@@ -224,6 +242,9 @@
 
 - **20-F** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390026120193/0001213900-26-120193-index.htm)
+
+- **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299326006141/0001062993-26-006141-index.htm)
 
 - **6-K** | Eason Technology Ltd  (DXF)  (CIK 0001499494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499494/000147793226007059/0001477932-26-007059-index.htm)
@@ -269,4 +290,10 @@
 
 - **NT 10-Q** | GD Culture Group Ltd  (GDC)  (CIK 0001641398)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1641398/000121390026120699/0001213900-26-120699-index.htm)
+
+- **DEFA14A** | HeartSciences Inc.  (HSCS, HSCSW)  (CIK 0001468492)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1468492/000121390026121053/0001213900-26-121053-index.htm)
+
+- **SCHEDULE 13G/A** | Solana Co  (HSDT)  (CIK 0001610853)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000110465926128836/0001104659-26-128836-index.htm)
 
