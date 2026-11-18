@@ -39,6 +39,9 @@
 - **10-Q** | AXE COMPUTE INC.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326007507/0001171843-26-007507-index.htm)
 
+- **S-1** | Bitwise Zcash ETF  (CIK 0002152975)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2152975/000119312526465692/0001193125-26-465692-index.htm)
+
 - **8-K** | Empery Digital Inc.  (EMPD)  (CIK 0001829794)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829794/000168316826008765/0001683168-26-008765-index.htm)
 
@@ -65,6 +68,9 @@
 
 - **10-Q** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026120578/0001213900-26-120578-index.htm)
+
+- **S-3** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526005511/0001185185-26-005511-index.htm)
 
 - **10-Q** | Reliance Global Group, Inc.  (EZRA, XGPU)  (CIK 0001812727)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1812727/000149315226052577/0001493152-26-052577-index.htm)
@@ -246,6 +252,9 @@
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299326006141/0001062993-26-006141-index.htm)
 
+- **20-F** | MIXED MARTIAL ARTS GROUP LTD  (MMA)  (CIK 0001981519)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981519/000149315226052888/0001493152-26-052888-index.htm)
+
 - **6-K** | Eason Technology Ltd  (DXF)  (CIK 0001499494)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1499494/000147793226007059/0001477932-26-007059-index.htm)
 
@@ -273,6 +282,9 @@
 - **10-Q** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026120619/0001213900-26-120619-index.htm)
 
+- **424B2** | HSBC USA INC /MD/  (CIK 0000083246)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/83246/000110465926128982/0001104659-26-128982-index.htm)
+
 - **10-Q** | Cycurion, Inc.  (CYCU, CYCUW)  (CIK 0001868419)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1868419/000186841926000072/0001868419-26-000072-index.htm)
 
@@ -284,6 +296,9 @@
 
 - **NT 10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926014427/0001214659-26-014427-index.htm)
+
+- **NT 10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000095/0001788230-26-000095-index.htm)
 
 - **10-Q** | TransparentBusiness, Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626012471/0001829126-26-012471-index.htm)
