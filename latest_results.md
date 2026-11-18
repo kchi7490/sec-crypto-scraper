@@ -36,6 +36,9 @@
 - **10-Q** | Massimo Group  (MAMO)  (CIK 0001952853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1952853/000149315226052381/0001493152-26-052381-index.htm)
 
+- **10-Q** | Zone Frontier Inc.  (ZONE)  (CIK 0001956741)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1956741/000121390026121558/0001213900-26-121558-index.htm)
+
 - **10-Q** | AXE COMPUTE INC.  (AGPU)  (CIK 0001446159)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1446159/000117184326007507/0001171843-26-007507-index.htm)
 
@@ -165,6 +168,9 @@
 - **10-Q** | Freedom Holding Corp.  (FRHC)  (CIK 0000924805)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/924805/000092480526000063/0000924805-26-000063-index.htm)
 
+- **S-1** | Yesway, Inc.  (YSWY)  (CIK 0001859836)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1859836/000110465926129338/0001104659-26-129338-index.htm)
+
 - **S-4/A** | Miluna Acquisition Corp  (MMTX, MMTXU, MMTXW)  (CIK 0002077033)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2077033/000149315226052676/0001493152-26-052676-index.htm)
 
@@ -219,6 +225,9 @@
 - **10-Q** | Figure Technology Solutions, Inc.  (FGRS, FIGR)  (CIK 0002064124)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2064124/000162828026074112/0001628280-26-074112-index.htm)
 
+- **8-K** | GameSquare Holdings, Inc.  (GAME)  (CIK 0001714562)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/0001493152-26-052996-index.htm)
+
 - **8-K** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226052478/0001493152-26-052478-index.htm)
 
@@ -234,6 +243,9 @@
 - **6-K** | Nano Labs Ltd  (NA)  (CIK 0001872302)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1872302/000121390026120130/0001213900-26-120130-index.htm)
 
+- **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526466107/0001193125-26-466107-index.htm)
+
 - **6-K** | Solmate Infrastructure PLC  (SLMT)  (CIK 0001939965)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1939965/000121390026120233/0001213900-26-120233-index.htm)
 
@@ -246,8 +258,17 @@
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026120146/0001213900-26-120146-index.htm)
 
+- **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026121615/0001213900-26-121615-index.htm)
+
 - **20-F** | Pop Culture Group Co., Ltd  (CPOP)  (CIK 0001807389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1807389/000121390026120193/0001213900-26-120193-index.htm)
+
+- **424B3** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526466117/0001193125-26-466117-index.htm)
+
+- **6-K** | Bullish  (BLSH)  (CIK 0001872195)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1872195/000143774926037471/0001437749-26-037471-index.htm)
 
 - **6-K** | BTQ Technologies Corp.  (BTQ)  (CIK 0001821866)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1821866/000106299326006141/0001062993-26-006141-index.htm)
@@ -273,11 +294,17 @@
 - **424B3** | Ionic Digital Inc.  (IOND)  (CIK 0002007691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2007691/000200769126000026/0002007691-26-000026-index.htm)
 
+- **1-A** | COSIMO Digital Holdings Inc.  (CIK 0002154342)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2154342/000215434226000001/0002154342-26-000001-index.htm)
+
 - **10-Q** | VIDA Global Inc.  (VIDA)  (CIK 0001973062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1973062/000149315226052362/0001493152-26-052362-index.htm)
 
 - **487** | FT 13329  (CIK 0002150663)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2150663/000144554626008678/0001445546-26-008678-index.htm)
+
+- **497** | PACIFIC LIFE INSURANCE CO  (CIK 0001080429)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1080429/000110465926129548/0001104659-26-129548-index.htm)
 
 - **10-Q** | AIB Data Centers Inc.  (AIB)  (CIK 0002070542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2070542/000121390026120619/0001213900-26-120619-index.htm)
@@ -299,6 +326,9 @@
 
 - **NT 10-Q** | IP STRATEGY HOLDINGS, INC.  (IPST)  (CIK 0001788230)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1788230/000178823026000095/0001788230-26-000095-index.htm)
+
+- **10-Q/A** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826008922/0001683168-26-008922-index.htm)
 
 - **10-Q** | TransparentBusiness, Inc.  (CIK 0001740742)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1740742/000182912626012471/0001829126-26-012471-index.htm)
