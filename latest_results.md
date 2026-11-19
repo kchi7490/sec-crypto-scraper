@@ -36,6 +36,12 @@
 - **10-Q** | QUANTUM X LABS INC.  (QXL)  (CIK 0000797542)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/797542/000149315226053069/0001493152-26-053069-index.htm)
 
+- **424B3** | Silvia, Inc.  (SVIA, SVIAW)  (CIK 0002076163)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2076163/000149315226053129/0001493152-26-053129-index.htm)
+
+- **8-K** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226053181/0001493152-26-053181-index.htm)
+
 - **8-K/A** | ChronoScale Holdings Corp  (CHRN)  (CIK 0001549084)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1549084/000149315226053103/0001493152-26-053103-index.htm)
 
@@ -84,6 +90,9 @@
 - **S-3** | ClearPoint Neuro, Inc.  (CLPT)  (CIK 0001285550)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826008937/0001683168-26-008937-index.htm)
 
+- **424B5** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026122016/0001213900-26-122016-index.htm)
+
 - **6-K** | CoinShares PLC  (CSHR, CSHRW)  (CIK 0002087587)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2087587/000119312526466107/0001193125-26-466107-index.htm)
 
@@ -108,8 +117,23 @@
 - **20-F** | Medirom Healthcare Technologies Inc.  (MRM)  (CIK 0001819704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819704/000119312526467176/0001193125-26-467176-index.htm)
 
+- **6-K** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026122017/0001213900-26-122017-index.htm)
+
 - **1-A** | COSIMO Digital Holdings Inc.  (CIK 0002154342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2154342/000215434226000001/0002154342-26-000001-index.htm)
+
+- **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000233/0000836346-26-000233-index.htm)
+
+- **N-4** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000230/0000836346-26-000230-index.htm)
+
+- **N-4** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000193/0000072499-26-000193-index.htm)
+
+- **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000232/0000836346-26-000232-index.htm)
 
 - **497** | PACIFIC LIFE INSURANCE CO  (CIK 0001080429)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1080429/000110465926129548/0001104659-26-129548-index.htm)
@@ -119,6 +143,9 @@
 
 - **DEF 14A** | USCF ETF Trust  (CIK 0001597389)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1597389/000207187626000266/0002071876-26-000266-index.htm)
+
+- **DEFA14A** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226053182/0001493152-26-053182-index.htm)
 
 - **ABS-15G** | APF II RESI O4B-24A, LLC  (CIK 0002041716)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041716/000199937126025724/0001999371-26-025724-index.htm)
