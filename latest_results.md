@@ -3,6 +3,9 @@
 - **10-Q** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926014565/0001214659-26-014565-index.htm)
 
+- **10-Q** | OLENOX INDUSTRIES INC.  (OLOX)  (CIK 0001023994)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1023994/000121390026122688/0001213900-26-122688-index.htm)
+
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/0001214659-26-014587-index.htm)
 
@@ -23,6 +26,9 @@
 
 - **424B3** | StableCoinX Inc.  (USDE, USDEW)  (CIK 0002080215)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2080215/000121390026121814/0001213900-26-121814-index.htm)
+
+- **10-Q** | TV Channels Network Inc.  (TVCN)  (CIK 0001952670)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1952670/000195267026000024/0001952670-26-000024-index.htm)
 
 - **S-3/A** | RTB Digital, Inc.  (RTB)  (CIK 0001419275)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1419275/000118518526005525/0001185185-26-005525-index.htm)
@@ -66,6 +72,9 @@
 - **485BPOS** | VanEck ETF Trust  (CIK 0001137360)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026001054/0001137360-26-001054-index.htm)
 
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026001084/0001137360-26-001084-index.htm)
+
 - **8-K** | VanEck Bitcoin ETF  (HODL)  (CIK 0001838028)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1838028/000183802826000007/0001838028-26-000007-index.htm)
 
@@ -78,11 +87,17 @@
 - **424B3** | Big Digital Energy, Inc.  (BGDE)  (CIK 0001218683)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1218683/000121390026122227/0001213900-26-122227-index.htm)
 
+- **8-K** | CaliberCos Inc.  (CWD)  (CIK 0001627282)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1627282/000162728226000090/0001627282-26-000090-index.htm)
+
 - **8-K** | Avalanche Treasury Corp  (AVAT)  (CIK 0002092446)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2092446/000110465926130127/0001104659-26-130127-index.htm)
 
 - **10-K** | CONX Corp.  (CIK 0001823000)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1823000/000110465926129732/0001104659-26-129732-index.htm)
+
+- **485APOS** | VanEck ETF Trust  (CIK 0001137360)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1137360/000113736026001083/0001137360-26-001083-index.htm)
 
 - **8-K** | VanEck Ethereum ETF  (ETHV)  (CIK 0001860788)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1860788/000186078826000005/0001860788-26-000005-index.htm)
@@ -106,6 +121,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1285550/000168316826008937/0001683168-26-008937-index.htm)
 
 - **424B5** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026122441/0001213900-26-122441-index.htm)
+
+- **424B5** | NewGenIvf Group Ltd  (NIVF, NIVFW)  (CIK 0001981662)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1981662/000121390026122016/0001213900-26-122016-index.htm)
 
 - **N-14 8C** | Blue Owl Credit Income Corp.  (CIK 0001812554)  
@@ -113,6 +131,9 @@
 
 - **6-K** | SEALSQ Corp  (LAES)  (CIK 0001951222)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1951222/000121390026122291/0001213900-26-122291-index.htm)
+
+- **SCHEDULE 13D** | NIP Group Inc.  (NIPG)  (CIK 0001966233)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1966233/000149315226053398/0001493152-26-053398-index.htm)
 
 - **6-K** | WISeQey Corp.  (WSKEF)  (CIK 0001738699)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1738699/000121390026122290/0001213900-26-122290-index.htm)
@@ -122,6 +143,9 @@
 
 - **6-K** | Webull Corp  (BULL, BULLW)  (CIK 0001866364)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1866364/000121390026122261/0001213900-26-122261-index.htm)
+
+- **6-K** | ZOOZ Strategy Ltd.  (ZOOZ, ZOOZW)  (CIK 0001992818)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1992818/000149315226053481/0001493152-26-053481-index.htm)
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026121615/0001213900-26-121615-index.htm)
@@ -138,11 +162,23 @@
 - **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026122400/0001213900-26-122400-index.htm)
 
+- **6-K** | DDC Enterprise Ltd  (DDC)  (CIK 0001808110)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1808110/000121390026122713/0001213900-26-122713-index.htm)
+
+- **6-K** | Genius Group Ltd  (GNS)  (CIK 0001847806)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1847806/000149315226053384/0001493152-26-053384-index.htm)
+
 - **6-K** | Foremost Clean Energy Ltd.  (FMST, FMSTW)  (CIK 0001935418)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935418/000117184326007609/0001171843-26-007609-index.htm)
 
 - **6-K** | PSYENCE BIOMEDICAL LTD.  (PBM, PBMWW)  (CIK 0001985062)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1985062/000121390026122017/0001213900-26-122017-index.htm)
+
+- **RW** | ARK CoinDesk 20 ex-Bitcoin Crypto ETF  (CIK 0002105930)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2105930/000121390026122580/0001213900-26-122580-index.htm)
+
+- **RW** | ARK CoinDesk 20 Crypto ETF  (CIK 0002106116)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2106116/000121390026122577/0001213900-26-122577-index.htm)
 
 - **1-A** | COSIMO Digital Holdings Inc.  (CIK 0002154342)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2154342/000215434226000001/0002154342-26-000001-index.htm)
@@ -168,11 +204,11 @@
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000234/0000836346-26-000234-index.htm)
 
-- **N-4** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000193/0000072499-26-000193-index.htm)
-
 - **485APOS** | ALLIANZ LIFE VARIABLE ACCOUNT B  (CIK 0000836346)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/836346/000083634626000232/0000836346-26-000232-index.htm)
+
+- **N-4** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000193/0000072499-26-000193-index.htm)
 
 - **485APOS** | ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA  (CIK 0000072499)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/72499/000007249926000196/0000072499-26-000196-index.htm)
@@ -201,11 +237,29 @@
 - **DEFA14A** | Beeline Holdings, Inc.  (BLNE)  (CIK 0001534708)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1534708/000149315226053182/0001493152-26-053182-index.htm)
 
+- **1-A/A** | ZQ Platforms Inc.  (CIK 0002146072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000012/0002146072-26-000012-index.htm)
+
+- **1-A/A** | ZQ Platforms Inc.  (CIK 0002146072)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000010/0002146072-26-000010-index.htm)
+
+- **485APOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000539/0000927730-26-000539-index.htm)
+
 - **ABS-15G** | APF II RESI O4B-24A, LLC  (CIK 0002041716)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2041716/000199937126025724/0001999371-26-025724-index.htm)
 
+- **485APOS** | Harbor ETF Trust  (CIK 0001860434)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1860434/000119312526469887/0001193125-26-469887-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126025889/0001999371-26-025889-index.htm)
+
 - **10-Q/A** | Invech Holdings, Inc.  (IVHI)  (CIK 0001009919)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1009919/000168316826008922/0001683168-26-008922-index.htm)
+
+- **485BPOS** | Tidal Trust II  (CIK 0001924868)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1924868/000199937126025918/0001999371-26-025918-index.htm)
 
 - **SCHEDULE 13D/A** | Solana Co  (HSDT)  (CIK 0001610853)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1610853/000121390026122339/0001213900-26-122339-index.htm)
