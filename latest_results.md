@@ -6,6 +6,9 @@
 - **8-K** | Hyperscale Data, Inc.  (GPUS, GPUS-PD)  (CIK 0000896493)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/896493/000121465926014587/0001214659-26-014587-index.htm)
 
+- **8-K** | PayPal Holdings, Inc.  (PYPL)  (CIK 0001633917)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm)
+
 - **S-3** | Silo Pharma, Inc.  (SILO)  (CIK 0001514183)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1514183/000121390026121836/0001213900-26-121836-index.htm)
 
@@ -90,6 +93,9 @@
 - **10-Q** | BioNexus Gene Lab Corp  (BGLC)  (CIK 0001737523)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1737523/000147793226007192/0001477932-26-007192-index.htm)
 
+- **F-1** | Axonex AI Group Ltd  (AXNX)  (CIK 0001998560)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1998560/000121390026122381/0001213900-26-122381-index.htm)
+
 - **8-K** | VanEck Solana ETF  (VSOL)  (CIK 0002028541)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2028541/000202854126000014/0002028541-26-000014-index.htm)
 
@@ -128,6 +134,9 @@
 
 - **20-F** | Medirom Healthcare Technologies Inc.  (MRM)  (CIK 0001819704)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1819704/000119312526467176/0001193125-26-467176-index.htm)
+
+- **6-K** | Bitfufu Inc.  (FUFU, FUFUW)  (CIK 0001921158)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1921158/000121390026122400/0001213900-26-122400-index.htm)
 
 - **6-K** | Foremost Clean Energy Ltd.  (FMST, FMSTW)  (CIK 0001935418)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1935418/000117184326007609/0001171843-26-007609-index.htm)
