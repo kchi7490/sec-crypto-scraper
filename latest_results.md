@@ -55,10 +55,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/1360442/000109690626001861/0001096906-26-001861-index.htm)
 
 - **1-A/A** | ZQ Platforms Inc.  (CIK 0002146072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000010/0002146072-26-000010-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000012/0002146072-26-000012-index.htm)
 
 - **1-A/A** | ZQ Platforms Inc.  (CIK 0002146072)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000012/0002146072-26-000012-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2146072/000214607226000010/0002146072-26-000010-index.htm)
 
 - **485APOS** | JACKSON NATIONAL SEPARATE ACCOUNT - I  (CIK 0000927730)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/927730/000092773026000539/0000927730-26-000539-index.htm)
