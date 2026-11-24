@@ -78,6 +78,9 @@
 - **10-Q** | OFA Group  (OFAL)  (CIK 0002036307)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2036307/000149315226053817/0001493152-26-053817-index.htm)
 
+- **8-K** | Apimeds Pharmaceuticals US, Inc.  (APUS)  (CIK 0001894525)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1894525/000121390026123285/0001213900-26-123285-index.htm)
+
 - **PRE 14A** | Greenland Mines Ltd  (GRML, GRMLW)  (CIK 0001907223)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1907223/000121390026123230/0001213900-26-123230-index.htm)
 
@@ -89,6 +92,9 @@
 
 - **6-K** | Enlivex Ltd.  (ENLV)  (CIK 0001596812)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1596812/000121390026122905/0001213900-26-122905-index.htm)
+
+- **6-K** | UP Fintech Holding Ltd  (TIGR)  (CIK 0001756699)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1756699/000119312526473075/0001193125-26-473075-index.htm)
 
 - **424B3** | SMX (Security Matters) Public Ltd Co  (SMX, SMXWW)  (CIK 0001940674)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1940674/000149315226053812/0001493152-26-053812-index.htm)
