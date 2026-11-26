@@ -148,6 +148,9 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474800/0001193125-26-474800-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474903/0001193125-26-474903-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474801/0001193125-26-474801-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
@@ -158,9 +161,6 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474904/0001193125-26-474904-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474903/0001193125-26-474903-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474778/0001193125-26-474778-index.htm)
@@ -196,10 +196,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474782/0001193125-26-474782-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474913/0001193125-26-474913-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474818/0001193125-26-474818-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474818/0001193125-26-474818-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474913/0001193125-26-474913-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474843/0001193125-26-474843-index.htm)
@@ -211,13 +211,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474884/0001193125-26-474884-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474842/0001193125-26-474842-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474880/0001193125-26-474880-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474779/0001193125-26-474779-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474842/0001193125-26-474842-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474846/0001193125-26-474846-index.htm)
@@ -247,19 +247,13 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474832/0001193125-26-474832-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474916/0001193125-26-474916-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474795/0001193125-26-474795-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474877/0001193125-26-474877-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474837/0001193125-26-474837-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474882/0001193125-26-474882-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474916/0001193125-26-474916-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474898/0001193125-26-474898-index.htm)
@@ -269,6 +263,12 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474810/0001193125-26-474810-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474837/0001193125-26-474837-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474882/0001193125-26-474882-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474885/0001193125-26-474885-index.htm)
@@ -310,9 +310,6 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474784/0001193125-26-474784-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474789/0001193125-26-474789-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474881/0001193125-26-474881-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
@@ -323,6 +320,9 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474824/0001193125-26-474824-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474789/0001193125-26-474789-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474797/0001193125-26-474797-index.htm)
@@ -352,13 +352,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474894/0001193125-26-474894-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474868/0001193125-26-474868-index.htm)
-
-- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474776/0001193125-26-474776-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474939/0001193125-26-474939-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474868/0001193125-26-474868-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474808/0001193125-26-474808-index.htm)
@@ -368,6 +365,9 @@
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474899/0001193125-26-474899-index.htm)
+
+- **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474939/0001193125-26-474939-index.htm)
 
 - **NPORT-P** | JNL SERIES TRUST  (CIK 0000933691)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/933691/000119312526474792/0001193125-26-474792-index.htm)
@@ -496,10 +496,10 @@
   [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027590/0002071691-26-027590-index.htm)
 
 - **NPORT-P** | NYLIM VP FUNDS TRUST  (CIK 0000887340)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027581/0002071691-26-027581-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027598/0002071691-26-027598-index.htm)
 
 - **NPORT-P** | NYLIM VP FUNDS TRUST  (CIK 0000887340)  
-  [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027598/0002071691-26-027598-index.htm)
+  [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027581/0002071691-26-027581-index.htm)
 
 - **NPORT-P** | NYLIM VP FUNDS TRUST  (CIK 0000887340)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/887340/000207169126027601/0002071691-26-027601-index.htm)
