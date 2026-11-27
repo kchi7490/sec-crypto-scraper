@@ -6,6 +6,9 @@
 - **20-F** | ATIF Holdings Ltd  (AUC)  (CIK 0001755058)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1755058/000121390026124013/0001213900-26-124013-index.htm)
 
+- **10-K** | StoneX Group Inc.  (SNEX)  (CIK 0000913760)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/913760/000091376026000049/0000913760-26-000049-index.htm)
+
 - **S-3** | Gemini Space Station, Inc.  (GEMI)  (CIK 0002055592)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055592/000110465926132152/0001104659-26-132152-index.htm)
 
@@ -17,6 +20,15 @@
 
 - **8-K** | BITMINE IMMERSION TECHNOLOGIES, INC.  (BMNP, BMNR)  (CIK 0001829311)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1829311/000149315226054131/0001493152-26-054131-index.htm)
+
+- **8-K** | Chaince Digital Holdings Inc.  (CD)  (CIK 0001527762)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1527762/000149315226054333/0001493152-26-054333-index.htm)
+
+- **8-K** | Applied Digital Corp.  (APLD)  (CIK 0001144879)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1144879/000114487926000069/0001144879-26-000069-index.htm)
+
+- **424B5** | VisionWave Holdings, Inc.  (VWAV, VWAVW)  (CIK 0002038439)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/2038439/000173112226001491/0001731122-26-001491-index.htm)
 
 - **DEF 14A** | Greenlane Holdings, Inc.  (GNLN)  (CIK 0001743745)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1743745/000149315226054137/0001493152-26-054137-index.htm)
@@ -47,6 +59,9 @@
 
 - **485BPOS** | Wedbush Series Trust  (CIK 0002055464)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/2055464/000121390026124156/0001213900-26-124156-index.htm)
+
+- **486BPOS** | Stone Ridge Trust VIII  (AARTX)  (CIK 0001939052)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1939052/000119312526478801/0001193125-26-478801-index.htm)
 
 - **N-CSRS** | Franklin Templeton ETF Trust  (CIK 0001655589)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1655589/000113322826014467/0001133228-26-014467-index.htm)
@@ -80,4 +95,7 @@
 
 - **SCHEDULE 13D/A** | Vulcan Infrastructure & Power Inc.  (VIP)  (CIK 0001844971)  
   [View Filing](https://www.sec.gov/Archives/edgar/data/1844971/000119312526478422/0001193125-26-478422-index.htm)
+
+- **485APOS** | GraniteShares ETF Trust  (CIK 0001689873)  
+  [View Filing](https://www.sec.gov/Archives/edgar/data/1689873/000149315226054342/0001493152-26-054342-index.htm)
 
